@@ -1,6 +1,13 @@
 {
-    "content_version": "(25.7)",
+    "content_version": "(25.8)",
     "fc25tu-updates": [
+      {
+        "name": "FC25 - Title Update 8",
+        "size": "5.98GB",
+        "released_date": "Jan 16, 2025",
+        "download_url": "https://www.mediafire.com/file/2slgh9aoza2xxqe/FC25+-+Title+Update+8.rar/file",
+        "crc": "7a6aa43c"
+      },
       {
         "name": "FC25 - Title Update 7",
         "size": "5.55GB",
