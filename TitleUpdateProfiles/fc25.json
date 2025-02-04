@@ -1,8 +1,16 @@
 {
-  "content_version": "(25.8)",
+  "content_version": "(25.9)",
   "SteamAppID": "2669320",
   "SteamDepotID": "2669321",
   "fc25tu-updates": [
+    {
+      "name": "FC25 - Title Update 9",
+      "size": "6.05GB",
+      "released_date": "Feb 4, 2025",
+      "download_url": "https://www.mediafire.com/file/vdt0cumjtz447hv/FC25+-+Title+Update+9.rar/file",
+      "crc": "27854fe1",
+      "SteamManifestID": "3779462925394158600"
+    },    
     {
       "name": "FC25 - Title Update 8",
       "size": "5.98GB",
