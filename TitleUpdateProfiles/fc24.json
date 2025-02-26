@@ -1,7 +1,7 @@
 {
   "content_version": "(24.18.2)",
-  "SteamAppID": "2195250",
-  "SteamDepotID": "2195251",
+  "AppID": "2195250",
+  "DepotID": "2195251",
   "fc24tu-updates": [
     {
       "name": "FC24 - #TU18.2",
@@ -9,7 +9,7 @@
       "released_date": "Jul 29, 2024",
       "download_url": "https://www.mediafire.com/file/i43pt93pehqrgsf/FC24+-+#TU18.2.rar/file",
       "crc": "f3ddb19e",
-      "SteamManifestID": "7179615260312921543"
+      "MainManifestID": "7179615260312921543"
     },
     {
       "name": "FC24 - TU18 Fixed",
@@ -17,7 +17,7 @@
       "released_date": "Jul 23, 2024",
       "download_url": "https://www.mediafire.com/file/lioxb04s7vwk7ob/FC24+-+TU18+Fixed.rar/file",
       "crc": "7a261fb2",
-      "SteamManifestID": "500917563687469778"
+      "MainManifestID": "500917563687469778"
     },
     {
       "name": "FC24 - TU17",
@@ -25,7 +25,7 @@
       "released_date": "Jul 3, 2024",
       "download_url": "https://www.mediafire.com/file/yek9vzwsehbb1sl/FC24+-+TU17.rar/file",
       "crc": "e6214a3c",
-      "SteamManifestID": "2868647733444346946"
+      "MainManifestID": "2868647733444346946"
     },
     {
       "name": "FC24 - #TU16",
@@ -33,7 +33,7 @@
       "released_date": "Jun 19, 2024",
       "download_url": "https://www.mediafire.com/file/thxxgkfiizorcbp/FC24+-+#TU16.rar/file",
       "crc": "46fb5c75",
-      "SteamManifestID": "3593277136298056823"
+      "MainManifestID": "3593277136298056823"
     },
     {
       "name": "FC24 - #TU15.1",
@@ -41,7 +41,7 @@
       "released_date": "Jun 10, 2024",
       "download_url": "https://www.mediafire.com/file/abce1u73pfvhsrt/FC24_-_%2523TU15.1.rar/file",
       "crc": "f7b9d92b",
-      "SteamManifestID": "5348451281013954290"
+      "MainManifestID": "5348451281013954290"
     },
     {
       "name": "FC24 - #TU15 (Euro 2024 Update)",
@@ -49,7 +49,7 @@
       "released_date": "Jun 6, 2024",
       "download_url": "https://www.mediafire.com/file/rbzftrmogmw9rr5/FC24+-+#TU15+(Euro+2024+Update).rar/file",
       "crc": "6e41c35c",
-      "SteamManifestID": "9104727870232512777"
+      "MainManifestID": "9104727870232512777"
     },
     {
       "name": "FC24 - #TU14",
@@ -57,7 +57,7 @@
       "released_date": "May 7, 2024",
       "download_url": "https://www.mediafire.com/file/odmwube726pv6fe/FC24+-+#TU14.rar/file",
       "crc": "bf0c2341",
-      "SteamManifestID": "6095518601779259869"
+      "MainManifestID": "6095518601779259869"
     },
     {
       "name": "FC24 - #TU13",
@@ -65,7 +65,7 @@
       "released_date": "Apr 23, 2024",
       "download_url": "https://www.mediafire.com/file/5ftkk83s8sasb95/FC24+-+#TU13.rar/file",
       "crc": "5ed34f56",
-      "SteamManifestID": "7629223927663874304"
+      "MainManifestID": "7629223927663874304"
     },
     {
       "name": "FC24 - #TU12",
@@ -73,7 +73,7 @@
       "released_date": "Apr 9, 2024",
       "download_url": "https://www.mediafire.com/file/0mwhwc7q9ax9ctr/FC24+-+#TU12.rar/file",
       "crc": "110d7d4d",
-      "SteamManifestID": "5440356553804755180"
+      "MainManifestID": "5440356553804755180"
     },
     {
       "name": "FC24 - #TU11.1",
@@ -81,7 +81,7 @@
       "released_date": "Mar 28, 2024",
       "download_url": "https://www.mediafire.com/file/b951n8tzfbtcchr/FC24+-+#TU11.1.rar/file",
       "crc": "bba8f3b4",
-      "SteamManifestID": "2263342600945509775"
+      "MainManifestID": "2263342600945509775"
     },
     {
       "name": "FC24 - #TU11",
@@ -89,7 +89,7 @@
       "released_date": "Mar 13, 2024",
       "download_url": "https://www.mediafire.com/file/s4tewf3x1dxphkn/FC24+-+#TU11.rar/file",
       "crc": "09bafc77",
-      "SteamManifestID": "656944846414129301"
+      "MainManifestID": "656944846414129301"
     },
     {
       "name": "FC24 - #TU10",
@@ -97,7 +97,7 @@
       "released_date": "Mar 5, 2024",
       "download_url": "https://www.mediafire.com/file/r6nx8e94hmsbjol/FC24+-+#TU10.rar/file",
       "crc": "4475b03f",
-      "SteamManifestID": "5559112505409196726"
+      "MainManifestID": "5559112505409196726"
     },
     {
       "name": "FC24 - #TU9",
@@ -105,7 +105,7 @@
       "released_date": "Feb 13, 2024",
       "download_url": "https://www.mediafire.com/file/mtekuvao1omxtva/FC24+-+#TU9.rar/file",
       "crc": "ba111c28",
-      "SteamManifestID": "291040100665846987"
+      "MainManifestID": "291040100665846987"
     },
     {
       "name": "FC24 - #TU8",
@@ -113,7 +113,7 @@
       "released_date": "Jan 30, 2024",
       "download_url": "https://www.mediafire.com/file/52fibb5mcykxme0/FC24+-+#TU8.rar/file",
       "crc": "65197885",
-      "SteamManifestID": "4858108661156487264"
+      "MainManifestID": "4858108661156487264"
     },
     {
       "name": "FC24 - #TU7",
@@ -121,7 +121,7 @@
       "released_date": "Jan 17, 2024",
       "download_url": "https://www.mediafire.com/file/yox7lwazc254fe7/FC24+-+#TU7.rar/file",
       "crc": "390cd8bb",
-      "SteamManifestID": "5157628911572200293"
+      "MainManifestID": "5157628911572200293"
     },
     {
       "name": "FC24 - #TU6",
@@ -129,7 +129,7 @@
       "released_date": "Dec 6, 2023",
       "download_url": "https://www.mediafire.com/file/7jwwwxsk6op6len/FC24+-+#TU6.rar/file",
       "crc": "b1ea01b3",
-      "SteamManifestID": "7370829040952015582"
+      "MainManifestID": "7370829040952015582"
     },
     {
       "name": "FC24 - #TU5",
@@ -137,7 +137,7 @@
       "released_date": "Nov 9, 2023",
       "download_url": "https://www.mediafire.com/file/yqjp5k1phg80s2j/FC24+-+#TU5.rar/file",
       "crc": "193a5c55",
-      "SteamManifestID": "4396436430594944831"
+      "MainManifestID": "4396436430594944831"
     },
     {
       "name": "FC 24 - #TU4",
@@ -145,7 +145,7 @@
       "released_date": "Oct 26, 2023",
       "download_url": "https://www.mediafire.com/file/ntco0pnq24s6czf/FC_24_-_%2523TU4.rar/file",
       "crc": "6f4812b5",
-      "SteamManifestID": "5380961293255939216"
+      "MainManifestID": "5380961293255939216"
     },
     {
       "name": "FC24 - #TU3",
@@ -153,7 +153,7 @@
       "released_date": "Oct 12, 2023",
       "download_url": "https://www.mediafire.com/file/4o810g90llksb1o/FC24_-_%23TU3.rar/file",
       "crc": "678f2e97",
-      "SteamManifestID": "8407007393507410031"
+      "MainManifestID": "8407007393507410031"
     },
     {
       "name": "FC 24 - #TU2",
@@ -161,7 +161,7 @@
       "released_date": "Oct 2, 2023",
       "download_url": "https://www.mediafire.com/file/51xu47kk66e96gp/FC+24+-+#TU2.rar/file",
       "crc": "a2a87964",
-      "SteamManifestID": "2686475769366658710"
+      "MainManifestID": "2686475769366658710"
     },
     {
       "name": "FC 24 - #TU1",
@@ -169,7 +169,7 @@
       "released_date": "Sep 25, 2023",
       "download_url": "https://www.mediafire.com/file/elg7f92rz0btspe/FC+24+-+#TU1.rar/file",
       "crc": "e3e62962",
-      "SteamManifestID": "8149824371950157447"
+      "MainManifestID": "8149824371950157447"
     },
     {
       "name": "FC 24 - BASE",
@@ -177,7 +177,7 @@
       "released_date": "Sep 14, 2023",
       "download_url": "https://www.mediafire.com/file/i14kz9to3s5l181/FC+24+-+BASE.rar/file",
       "crc": "5600ecbf",
-      "SteamManifestID": "430004340097024177"
+      "MainManifestID": "430004340097024177"
     }
   ]
 }
