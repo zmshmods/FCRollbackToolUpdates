@@ -3,94 +3,94 @@
   "AppID": "2669320",
   "DepotID": "2669321",
   "fc25tu-updates": [
-      {
-          "name": "FC 25 - Title Update 9.1",
-          "size": "6.05GB",
-          "released_date": "Feb 11, 2025",
-          "download_url": "https://www.mediafire.com/file/38vgt4mkrp7ebka/FC+25+-+Title+Update+9.1.rar/file",
-          "crc": "6e1bc291",
-          "MainManifestID": "8309038101505513609",
-          "eng_usManifestID": "1596946292704356182"
-      },
-      {
-          "name": "FC25 - Title Update 9",
-          "size": "6.05GB",
-          "released_date": "Feb 4, 2025",
-          "download_url": "https://www.mediafire.com/file/vdt0cumjtz447hv/FC25+-+Title+Update+9.rar/file",
-          "crc": "27854fe1",
-          "MainManifestID": "3779462925394158600"
-      },
-      {
-          "name": "FC25 - Title Update 8",
-          "size": "5.98GB",
-          "released_date": "Jan 16, 2025",
-          "download_url": "https://www.mediafire.com/file/2slgh9aoza2xxqe/FC25+-+Title+Update+8.rar/file",
-          "crc": "7a6aa43c",
-          "MainManifestID": "4676266760364372559"
-      },
-      {
-          "name": "FC25 - Title Update 7",
-          "size": "5.55GB",
-          "released_date": "Jan 8, 2025",
-          "download_url": "https://www.mediafire.com/file/liohp71jpq3qz3a/FC25+-+Title+Update+7.rar/file",
-          "crc": "487c810e",
-          "MainManifestID": "3858313898950151490"
-      },
-      {
-          "name": "FC25 - Title Update 6.1",
-          "size": "5.49GB",
-          "released_date": "Dec 5, 2024",
-          "download_url": "https://www.mediafire.com/file/5oaltvf0pqnoer4/FC25+-+Title+Update+6.1.rar/file",
-          "crc": "6b1aae6a",
-          "MainManifestID": "6173980764739088926"
-      },
-      {
-          "name": "FC25 - Title Update 6",
-          "size": "5.54GB",
-          "released_date": "Dec 4, 2024",
-          "download_url": "https://www.mediafire.com/file/cgbazu4gmgcf9on/FC25+-+Title+Update+6.rar/file",
-          "crc": "c67ee5d7",
-          "MainManifestID": "2179412656556492771"
-      },
-      {
-          "name": "FC25 - Title Update 5",
-          "size": "4.36GB",
-          "released_date": "Nov 19, 2024",
-          "download_url": "https://www.mediafire.com/file/yfpxyszo4uj2ewm/FC25+-+Title+Update+5.rar/file",
-          "crc": "169f3e7f",
-          "MainManifestID": "297599281150591563"
-      },
-      {
-          "name": "FC25 - Title Update 4",
-          "size": "3.76GB",
-          "released_date": "Nov 5, 2024",
-          "download_url": "https://www.mediafire.com/file/suf20mlnj266o9w/FC25+-+Title+Update+4.rar/file",
-          "crc": "341744e5",
-          "MainManifestID": "3309320999921613732"
-      },
-      {
-          "name": "FC25 - Title Update 3",
-          "size": "3.45GB",
-          "released_date": "Oct 17, 2024",
-          "download_url": "https://www.mediafire.com/file/4dwjp9v8ycbaohz/FC25_-_Title_Update_3.rar/file",
-          "crc": "68ec2b59",
-          "MainManifestID": "2467853629134508460"
-      },
-      {
-          "name": "FC25 - Title Update 2",
-          "size": "2.81GB",
-          "released_date": "Oct 1, 2024",
-          "download_url": "https://www.mediafire.com/file/beh2sjxosugs7bp/FC25_-_Title_Update_2.rar/file",
-          "crc": "a90e3f2b",
-          "MainManifestID": "6193511805058868888"
-      },
-      {
-          "name": "FC25 - Title Update 1",
-          "size": "2.80GB",
-          "released_date": "Sep 25, 2024",
-          "download_url": "https://www.mediafire.com/file/fjwle1thyqvfhsd/FC25_-_Title_Update_1.rar/file",
-          "crc": "b90e1a30",
-          "MainManifestID": "5224896166469101626"
-      }
+    {
+      "name": "FC25 - Title Update 9.1",
+      "size": "6.16GB",
+      "released_date": "Feb 11, 2025",
+      "download_url": "https://www.mediafire.com/file/rco33qyklacly8x/FC25+-+Title+Update+9.1.rar/file",
+      "crc": "6e1bc291",
+      "MainManifestID": "8309038101505513609",
+      "eng_usManifestID": "1596946292704356182"
+    }, 
+    {
+      "name": "FC25 - Title Update 9",
+      "size": "6.05GB",
+      "released_date": "Feb 4, 2025",
+      "download_url": "https://www.mediafire.com/file/vdt0cumjtz447hv/FC25+-+Title+Update+9.rar/file",
+      "crc": "27854fe1",
+      "MainManifestID": "3779462925394158600"
+    },    
+    {
+      "name": "FC25 - Title Update 8",
+      "size": "5.98GB",
+      "released_date": "Jan 16, 2025",
+      "download_url": "https://www.mediafire.com/file/2slgh9aoza2xxqe/FC25+-+Title+Update+8.rar/file",
+      "crc": "7a6aa43c",
+      "MainManifestID": "4676266760364372559"
+    },
+    {
+      "name": "FC25 - Title Update 7",
+      "size": "5.55GB",
+      "released_date": "Jan 8, 2025",
+      "download_url": "https://www.mediafire.com/file/liohp71jpq3qz3a/FC25+-+Title+Update+7.rar/file",
+      "crc": "487c810e",
+      "MainManifestID": "3858313898950151490"
+    },
+    {
+      "name": "FC25 - Title Update 6.1",
+      "size": "5.49GB",
+      "released_date": "Dec 5, 2024",
+      "download_url": "https://www.mediafire.com/file/5oaltvf0pqnoer4/FC25+-+Title+Update+6.1.rar/file",
+      "crc": "6b1aae6a",
+      "MainManifestID": "6173980764739088926"
+    },
+    {
+      "name": "FC25 - Title Update 6",
+      "size": "5.54GB",
+      "released_date": "Dec 4, 2024",
+      "download_url": "https://www.mediafire.com/file/cgbazu4gmgcf9on/FC25+-+Title+Update+6.rar/file",
+      "crc": "c67ee5d7",
+      "MainManifestID": "2179412656556492771"
+    },
+    {
+      "name": "FC25 - Title Update 5",
+      "size": "4.36GB",
+      "released_date": "Nov 19, 2024",
+      "download_url": "https://www.mediafire.com/file/yfpxyszo4uj2ewm/FC25+-+Title+Update+5.rar/file",
+      "crc": "169f3e7f",
+      "MainManifestID": "297599281150591563"
+    },
+    {
+      "name": "FC25 - Title Update 4",
+      "size": "3.76GB",
+      "released_date": "Nov 5, 2024",
+      "download_url": "https://www.mediafire.com/file/suf20mlnj266o9w/FC25+-+Title+Update+4.rar/file",
+      "crc": "341744e5",
+      "MainManifestID": "3309320999921613732"
+    },
+    {
+      "name": "FC25 - Title Update 3",
+      "size": "3.45GB",
+      "released_date": "Oct 17, 2024",
+      "download_url": "https://www.mediafire.com/file/4dwjp9v8ycbaohz/FC25_-_Title_Update_3.rar/file",
+      "crc": "68ec2b59",
+      "MainManifestID": "2467853629134508460"
+    },
+    {
+      "name": "FC25 - Title Update 2",
+      "size": "2.81GB",
+      "released_date": "Oct 1, 2024",
+      "download_url": "https://www.mediafire.com/file/beh2sjxosugs7bp/FC25_-_Title_Update_2.rar/file",
+      "crc": "a90e3f2b",
+      "MainManifestID": "6193511805058868888"
+    },
+    {
+      "name": "FC25 - Title Update 1",
+      "size": "2.80GB",
+      "released_date": "Sep 25, 2024",
+      "download_url": "https://www.mediafire.com/file/fjwle1thyqvfhsd/FC25_-_Title_Update_1.rar/file",
+      "crc": "b90e1a30",
+      "MainManifestID": "5224896166469101626"
+    }
   ]
 }
