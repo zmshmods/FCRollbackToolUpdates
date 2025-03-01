@@ -1,9 +1,199 @@
 {
-    "content_version_squads": "(25.644)",
-    "version_date_squads": "Feb 24, 2025",
+    "content_version_squads": "(25.639)",
+    "version_date_squads": "Mar 01, 2025",
     "content_version_futsquads": "(25.48)",
     "version_date_futsquads": "Feb 13, 2025",
     "fc25squads-updates": [
+        {
+            "name": "Squads20240808000000",
+            "size": "9.79MB",
+            "released_date": "Mar 01, 2025",
+            "build_date": "Aug 08, 2024",
+            "released_on_tu": "TU9.1",
+            "download_url": "https://github.com/FCRollbackTool/FC25Squads/raw/main/result/pc64/Squads/620/Squads20240808000000",
+            "dbMajor": "620",
+            "crc": "38c65bf7"
+        },
+        {
+            "name": "Squads20240820000000",
+            "size": "9.79MB",
+            "released_date": "Mar 01, 2025",
+            "build_date": "Aug 20, 2024",
+            "released_on_tu": "TU9.1",
+            "download_url": "https://github.com/FCRollbackTool/FC25Squads/raw/main/result/pc64/Squads/621/Squads20240820000000",
+            "dbMajor": "621",
+            "crc": "4a9db1b3"
+        },
+        {
+            "name": "Squads20240920000000",
+            "size": "9.80MB",
+            "released_date": "Mar 01, 2025",
+            "build_date": "Sep 20, 2024",
+            "released_on_tu": "TU9.1",
+            "download_url": "https://github.com/FCRollbackTool/FC25Squads/raw/main/result/pc64/Squads/623/Squads20240920000000",
+            "dbMajor": "623",
+            "crc": "1d25d44e"
+        },
+        {
+            "name": "Squads20241002000000",
+            "size": "9.80MB",
+            "released_date": "Mar 01, 2025",
+            "build_date": "Oct 02, 2024",
+            "released_on_tu": "TU9.1",
+            "download_url": "https://github.com/FCRollbackTool/FC25Squads/raw/main/result/pc64/Squads/624/Squads20241002000000",
+            "dbMajor": "624",
+            "crc": "9ec48d02"
+        },
+        {
+            "name": "Squads20241008000000",
+            "size": "9.80MB",
+            "released_date": "Mar 01, 2025",
+            "build_date": "Oct 08, 2024",
+            "released_on_tu": "TU9.1",
+            "download_url": "https://github.com/FCRollbackTool/FC25Squads/raw/main/result/pc64/Squads/625/Squads20241008000000",
+            "dbMajor": "625",
+            "crc": "68f05234"
+        },
+        {
+            "name": "Squads20241015000000",
+            "size": "9.80MB",
+            "released_date": "Mar 01, 2025",
+            "build_date": "Oct 15, 2024",
+            "released_on_tu": "TU9.1",
+            "download_url": "https://github.com/FCRollbackTool/FC25Squads/raw/main/result/pc64/Squads/626/Squads20241015000000",
+            "dbMajor": "626",
+            "crc": "db4ee423"
+        },
+        {
+            "name": "Squads20241022000000",
+            "size": "9.80MB",
+            "released_date": "Mar 01, 2025",
+            "build_date": "Oct 22, 2024",
+            "released_on_tu": "TU9.1",
+            "download_url": "https://github.com/FCRollbackTool/FC25Squads/raw/main/result/pc64/Squads/627/Squads20241022000000",
+            "dbMajor": "627",
+            "crc": "a5cbc546"
+        },
+        {
+            "name": "Squads20241030000000",
+            "size": "9.80MB",
+            "released_date": "Mar 01, 2025",
+            "build_date": "Oct 30, 2024",
+            "released_on_tu": "TU9.1",
+            "download_url": "https://github.com/FCRollbackTool/FC25Squads/raw/main/result/pc64/Squads/628/Squads20241030000000",
+            "dbMajor": "628",
+            "crc": "07ab98b4"
+        },
+        {
+            "name": "Squads20241105000000",
+            "size": "9.80MB",
+            "released_date": "Mar 01, 2025",
+            "build_date": "Nov 05, 2024",
+            "released_on_tu": "TU9.1",
+            "download_url": "https://github.com/FCRollbackTool/FC25Squads/raw/main/result/pc64/Squads/629/Squads20241105000000",
+            "dbMajor": "629",
+            "crc": "9c3ababe"
+        },
+        {
+            "name": "Squads20241108000000",
+            "size": "9.80MB",
+            "released_date": "Mar 01, 2025",
+            "build_date": "Nov 08, 2024",
+            "released_on_tu": "TU9.1",
+            "download_url": "https://github.com/FCRollbackTool/FC25Squads/raw/main/result/pc64/Squads/630/Squads20241108000000",
+            "dbMajor": "630",
+            "crc": "bb9af15b"
+        },
+        {
+            "name": "Squads20241120000000",
+            "size": "9.80MB",
+            "released_date": "Mar 01, 2025",
+            "build_date": "Nov 20, 2024",
+            "released_on_tu": "TU9.1",
+            "download_url": "https://github.com/FCRollbackTool/FC25Squads/raw/main/result/pc64/Squads/631/Squads20241120000000",
+            "dbMajor": "631",
+            "crc": "900870f9"
+        },
+        {
+            "name": "Squads20241126000000",
+            "size": "9.80MB",
+            "released_date": "Mar 01, 2025",
+            "build_date": "Nov 26, 2024",
+            "released_on_tu": "TU9.1",
+            "download_url": "https://github.com/FCRollbackTool/FC25Squads/raw/main/result/pc64/Squads/632/Squads20241126000000",
+            "dbMajor": "632",
+            "crc": "c41aa688"
+        },
+        {
+            "name": "Squads20241202000000",
+            "size": "9.80MB",
+            "released_date": "Mar 01, 2025",
+            "build_date": "Dec 02, 2024",
+            "released_on_tu": "TU9.1",
+            "download_url": "https://github.com/FCRollbackTool/FC25Squads/raw/main/result/pc64/Squads/633/Squads20241202000000",
+            "dbMajor": "633",
+            "crc": "fd465c0e"
+        },
+        {
+            "name": "Squads20241210000000",
+            "size": "9.80MB",
+            "released_date": "Mar 01, 2025",
+            "build_date": "Dec 10, 2024",
+            "released_on_tu": "TU9.1",
+            "download_url": "https://github.com/FCRollbackTool/FC25Squads/raw/main/result/pc64/Squads/634/Squads20241210000000",
+            "dbMajor": "634",
+            "crc": "d94ac960"
+        },
+        {
+            "name": "Squads20241217000000",
+            "size": "9.80MB",
+            "released_date": "Mar 01, 2025",
+            "build_date": "Dec 17, 2024",
+            "released_on_tu": "TU9.1",
+            "download_url": "https://github.com/FCRollbackTool/FC25Squads/raw/main/result/pc64/Squads/635/Squads20241217000000",
+            "dbMajor": "635",
+            "crc": "c27b7ea3"
+        },
+        {
+            "name": "Squads20250107000000",
+            "size": "9.80MB",
+            "released_date": "Mar 01, 2025",
+            "build_date": "Jan 07, 2025",
+            "released_on_tu": "TU9.1",
+            "download_url": "https://github.com/FCRollbackTool/FC25Squads/raw/main/result/pc64/Squads/636/Squads20250107000000",
+            "dbMajor": "636",
+            "crc": "b34680ef"
+        },
+        {
+            "name": "Squads20250115000000",
+            "size": "9.80MB",
+            "released_date": "Mar 01, 2025",
+            "build_date": "Jan 15, 2025",
+            "released_on_tu": "TU9.1",
+            "download_url": "https://github.com/FCRollbackTool/FC25Squads/raw/main/result/pc64/Squads/637/Squads20250115000000",
+            "dbMajor": "637",
+            "crc": "3f70d548"
+        },
+        {
+            "name": "Squads20250121000000",
+            "size": "9.80MB",
+            "released_date": "Mar 01, 2025",
+            "build_date": "Jan 21, 2025",
+            "released_on_tu": "TU9.1",
+            "download_url": "https://github.com/FCRollbackTool/FC25Squads/raw/main/result/pc64/Squads/638/Squads20250121000000",
+            "dbMajor": "638",
+            "crc": "7325fff2"
+        },
+        {
+            "name": "Squads20250131000000",
+            "size": "9.80MB",
+            "released_date": "Mar 01, 2025",
+            "build_date": "Jan 31, 2025",
+            "released_on_tu": "TU9.1",
+            "download_url": "https://github.com/FCRollbackTool/FC25Squads/raw/main/result/pc64/Squads/639/Squads20250131000000",
+            "dbMajor": "639",
+            "crc": "942e5fde"
+        },
         {
             "name": "Squads20250221000000",
             "size": "9.80MB",
