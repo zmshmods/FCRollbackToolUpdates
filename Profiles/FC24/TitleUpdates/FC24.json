@@ -1,0 +1,184 @@
+{
+  "ContentVersion": "(24.18.2)",
+  "AppID": "2195250",
+  "MainDepotID": "2195251",
+  "eng_usDepotID": "",
+  "FC24TitleUpdates": [
+    {
+      "Name": "FC24 - Title Update 18.2",
+      "Size": "",
+      "ReleasedDate": "Jul 29, 2024",
+      "DownloadURL": "https://www.mediafire.com/file/i43pt93pehqrgsf/FC24+-+#TU18.2.rar/file",
+      "SHA1": "7329d658bcc21dd38549c03a8859379f8343d545",
+      "MainManifestID": "7179615260312921543"
+    },
+    {
+      "Name": "FC24 - Title Update 18",
+      "Size": "",
+      "ReleasedDate": "Jul 23, 2024",
+      "DownloadURL": "https://www.mediafire.com/file/lioxb04s7vwk7ob/FC24+-+TU18+Fixed.rar/file",
+      "SHA1": "31e998b3bf0cc3b9d01dbdf318d06fa73ab03dfc",
+      "MainManifestID": "500917563687469778"
+    },
+    {
+      "Name": "FC24 - Title Update 17",
+      "Size": "",
+      "ReleasedDate": "Jul 3, 2024",
+      "DownloadURL": "https://www.mediafire.com/file/yek9vzwsehbb1sl/FC24+-+TU17.rar/file",
+      "SHA1": "fa84076f6b9187f4cda4b18f84784256fbaae80d",
+      "MainManifestID": "2868647733444346946"
+    },
+    {
+      "Name": "FC24 - Title Update 16",
+      "Size": "",
+      "ReleasedDate": "Jun 19, 2024",
+      "DownloadURL": "https://www.mediafire.com/file/thxxgkfiizorcbp/FC24+-+#TU16.rar/file",
+      "SHA1": "9723cfa6bbf00234d922242b4055229b8eeaa925",
+      "MainManifestID": "3593277136298056823"
+    },
+    {
+      "Name": "FC24 - Title Update 15.1",
+      "Size": "",
+      "ReleasedDate": "Jun 10, 2024",
+      "DownloadURL": "https://www.mediafire.com/file/abce1u73pfvhsrt/FC24_-_%2523TU15.1.rar/file",
+      "SHA1": "f61bf0a6277bf4de442184012011272fa8839945",
+      "MainManifestID": "5348451281013954290"
+    },
+    {
+      "Name": "FC24 - Title Update 15",
+      "Size": "",
+      "ReleasedDate": "Jun 6, 2024",
+      "DownloadURL": "https://www.mediafire.com/file/rbzftrmogmw9rr5/FC24+-+#TU15+(Euro+2024+Update).rar/file",
+      "SHA1": "2ee69aef8eac63736ca8e6ebb0b57038af1a1d22",
+      "MainManifestID": "9104727870232512777"
+    },
+    {
+      "Name": "FC24 - Title Update 14",
+      "Size": "",
+      "ReleasedDate": "May 7, 2024",
+      "DownloadURL": "https://www.mediafire.com/file/odmwube726pv6fe/FC24+-+#TU14.rar/file",
+      "SHA1": "bf56e3df4f6f0ef937e2aaa44e44d59e7f24f85c",
+      "MainManifestID": "6095518601779259869"
+    },
+    {
+      "Name": "FC24 - Title Update 13",
+      "Size": "",
+      "ReleasedDate": "Apr 23, 2024",
+      "DownloadURL": "https://www.mediafire.com/file/5ftkk83s8sasb95/FC24+-+#TU13.rar/file",
+      "SHA1": "462cd24a47daa01330d01be65743d7eb063b1cf1",
+      "MainManifestID": "7629223927663874304"
+    },
+    {
+      "Name": "FC24 - Title Update 12",
+      "Size": "",
+      "ReleasedDate": "Apr 9, 2024",
+      "DownloadURL": "https://www.mediafire.com/file/0mwhwc7q9ax9ctr/FC24+-+#TU12.rar/file",
+      "SHA1": "b197f2fbf691c221887ad99afb89f77c04b0051d",
+      "MainManifestID": "5440356553804755180"
+    },
+    {
+      "Name": "FC24 - Title Update 11.1",
+      "Size": "",
+      "ReleasedDate": "Mar 28, 2024",
+      "DownloadURL": "https://www.mediafire.com/file/b951n8tzfbtcchr/FC24+-+#TU11.1.rar/file",
+      "SHA1": "4d756443bfd58e96594c4adda37ab4810fc9c496",
+      "MainManifestID": "2263342600945509775"
+    },
+    {
+      "Name": "FC24 - Title Update 11",
+      "Size": "",
+      "ReleasedDate": "Mar 13, 2024",
+      "DownloadURL": "https://www.mediafire.com/file/s4tewf3x1dxphkn/FC24+-+#TU11.rar/file",
+      "SHA1": "34f7c981129f6bccb201986e603822ba88f2bac3",
+      "MainManifestID": "656944846414129301"
+    },
+    {
+      "Name": "FC24 - Title Update 10",
+      "Size": "",
+      "ReleasedDate": "Mar 5, 2024",
+      "DownloadURL": "https://www.mediafire.com/file/r6nx8e94hmsbjol/FC24+-+#TU10.rar/file",
+      "SHA1": "edf50cdd0e246d80e4b3ce86a6344b94291fc8dc",
+      "MainManifestID": "5559112505409196726"
+    },
+    {
+      "Name": "FC24 - Title Update 9",
+      "Size": "",
+      "ReleasedDate": "Feb 13, 2024",
+      "DownloadURL": "https://www.mediafire.com/file/mtekuvao1omxtva/FC24+-+#TU9.rar/file",
+      "SHA1": "8f858166882265bd46f3521171220398a3c689cf",
+      "MainManifestID": "291040100665846987"
+    },
+    {
+      "Name": "FC24 - Title Update 8",
+      "Size": "",
+      "ReleasedDate": "Jan 30, 2024",
+      "DownloadURL": "https://www.mediafire.com/file/52fibb5mcykxme0/FC24+-+#TU8.rar/file",
+      "SHA1": "1befe7ad1d4d0bab28cb703481a64b42d9d3fc87",
+      "MainManifestID": "4858108661156487264"
+    },
+    {
+      "Name": "FC24 - Title Update 7",
+      "Size": "",
+      "ReleasedDate": "Jan 17, 2024",
+      "DownloadURL": "https://www.mediafire.com/file/yox7lwazc254fe7/FC24+-+#TU7.rar/file",
+      "SHA1": "7a588316028b4b0d822d0bd37b1c83226186bb99",
+      "MainManifestID": "5157628911572200293"
+    },
+    {
+      "Name": "FC24 - Title Update 6",
+      "Size": "",
+      "ReleasedDate": "Dec 6, 2023",
+      "DownloadURL": "https://www.mediafire.com/file/7jwwwxsk6op6len/FC24+-+#TU6.rar/file",
+      "SHA1": "b8184dae4daf2660a951e35678bae374a4d6df3a",
+      "MainManifestID": "7370829040952015582"
+    },
+    {
+      "Name": "FC24 - Title Update 5",
+      "Size": "",
+      "ReleasedDate": "Nov 9, 2023",
+      "DownloadURL": "https://www.mediafire.com/file/yqjp5k1phg80s2j/FC24+-+#TU5.rar/file",
+      "SHA1": "5fb5f393723793fbd9a6e33cd0bd3d3f5eb5f517",
+      "MainManifestID": "4396436430594944831"
+    },
+    {
+      "Name": "FC24 - Title Update 4",
+      "Size": "",
+      "ReleasedDate": "Oct 26, 2023",
+      "DownloadURL": "https://www.mediafire.com/file/h16k3drisxtpxn5/FC24+-+Title+Update+4.rar/file",
+      "SHA1": "038cb3670d4c4477dde659a78026ad35fb213500",
+      "MainManifestID": "5380961293255939216"
+    },
+    {
+      "Name": "FC24 - Title Update 3",
+      "Size": "",
+      "ReleasedDate": "Oct 12, 2023",
+      "DownloadURL": "https://www.mediafire.com/file/byvh30o4974eemt/FC24+-+Title+Update+3.rar/file",
+      "SHA1": "08f4637691e683920fc343cc4893e887890e6938",
+      "MainManifestID": "8407007393507410031"
+    },
+    {
+      "Name": "FC24 - Title Update 2",
+      "Size": "",
+      "ReleasedDate": "Oct 2, 2023",
+      "DownloadURL": "https://www.mediafire.com/file/s3xlnbtf0dglt8x/FC24+-+Title+Update+2.rar/file",
+      "SHA1": "dd6cae11d94d49117c4d004777ce715d2520533d",
+      "MainManifestID": "2686475769366658710"
+    },
+    {
+      "Name": "FC24 - Title Update 1",
+      "Size": "",
+      "ReleasedDate": "Sep 25, 2023",
+      "DownloadURL": "https://www.mediafire.com/file/f4obnje542hv8y6/FC24+-+Title+Update+1.rar/file",
+      "SHA1": "9171ac0b7b84e68d39e9ca4fa2660cd1a6cc5bba",
+      "MainManifestID": "8149824371950157447"
+    },
+    {
+      "Name": "FC24 - Vanilla",
+      "Size": "",
+      "ReleasedDate": "Sep 14, 2023",
+      "DownloadURL": "https://www.mediafire.com/file/i14kz9to3s5l181/FC+24+-+BASE.rar/file",
+      "SHA1": "15beff0f5edc4274e1e1ae9ecb9a891bb9cef6f6",
+      "MainManifestID": "430004340097024177"
+    }
+  ]
+}
