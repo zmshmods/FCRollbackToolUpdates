@@ -1,9 +1,10 @@
 {
   "ContentVersion": "(24.18.2)",
+  "ContentVersionDate": "",
   "AppID": "2195250",
   "MainDepotID": "2195251",
   "eng_usDepotID": "",
-  "FC24TitleUpdates": [
+  "TitleUpdates": [
     {
       "Name": "FC24 - Title Update 18.2",
       "Size": "",
