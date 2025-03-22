@@ -1,9 +1,19 @@
 {
-    "SquadsContentVersion": "25.644",
-    "SquadsContentVersionDate": "Feb 24, 2025",
-    "FutSquadsContentVersion": "25.48",
-    "FutSquadsContentVersionDate": "Feb 13, 2025",
+    "SquadsContentVersion": "25.652",
+    "SquadsContentVersionDate": "Mar 20, 2025",
+    "FutSquadsContentVersion": "25.52",
+    "FutSquadsContentVersionDate": "Mar 18, 2025",
     "Squads": [
+        {
+            "Name": "Squads20250320000000",
+            "Size": "9.80MB",
+            "ReleasedDate": "Mar 20, 2025",
+            "BuildDate": "Mar 20, 2025",
+            "ReleasedOnTU": "TU11",
+            "DownloadURL": "https://github.com/FCRollbackTool/FC25Squads/raw/main/result/pc64/Squads/652/Squads20250320000000",
+            "dbMajor": "652",
+            "Schema": ""
+        },
         {
             "Name": "Squads20250313000000",
             "Size": "9.80MB",
@@ -52,7 +62,7 @@
             "ReleasedOnTU": "TU9.1",
             "DownloadURL": "https://github.com/FCRollbackTool/FC25Squads/raw/main/result/pc64/Squads/644/Squads20250221000000",
             "dbMajor": "644",
-            "Schema": "d0467b0b"
+            "Schema": ""
         },
         {
             "Name": "Squads20250218000000",
@@ -62,7 +72,7 @@
             "ReleasedOnTU": "TU9.1",
             "DownloadURL": "https://github.com/FCRollbackTool/FC25Squads/raw/main/result/pc64/Squads/641/Squads20250218000000",
             "dbMajor": "641",
-            "Schema": "f3c7ef31"
+            "Schema": ""
         },
         {
             "Name": "Squads20250212000000",
@@ -72,7 +82,7 @@
             "ReleasedOnTU": "TU9.1",
             "DownloadURL": "https://github.com/FCRollbackTool/FC25Squads/raw/main/result/pc64/Squads/640/Squads20250212000000",
             "dbMajor": "640",
-            "Schema": "da8dba06"
+            "Schema": ""
         },
         {
             "Name": "Squads20250205000000",
@@ -82,7 +92,7 @@
             "ReleasedOnTU": "TU9",
             "DownloadURL": "https://github.com/FCRollbackTool/FC25Squads/raw/main/result/pc64/Squads/639/Squads20250205000000",
             "dbMajor": "639",
-            "Schema": "85da57b6"
+            "Schema": ""
         },
         {
             "Name": "Squads20250131000000",
@@ -92,7 +102,7 @@
             "ReleasedOnTU": "TU9",
             "DownloadURL": "https://github.com/FCRollbackTool/FC25Squads/raw/main/result/pc64/Squads/638/Squads20250131000000",
             "dbMajor": "638",
-            "Schema": "942e5fde"
+            "Schema": ""
         },
         {
             "Name": "Squads20250121000000",
@@ -102,7 +112,7 @@
             "ReleasedOnTU": "TU8",
             "DownloadURL": "https://github.com/FCRollbackTool/FC25Squads/raw/main/result/pc64/Squads/637/Squads20250121000000",
             "dbMajor": "637",
-            "Schema": "7325fff2"
+            "Schema": ""
         },
         {
             "Name": "Squads20250115000000",
@@ -112,7 +122,7 @@
             "ReleasedOnTU": "TU8",
             "DownloadURL": "https://github.com/FCRollbackTool/FC25Squads/raw/main/result/pc64/Squads/636/Squads20250115000000",
             "dbMajor": "636",
-            "Schema": "3f70d548"
+            "Schema": ""
         },
         {
             "Name": "Squads20250107000000",
@@ -122,7 +132,7 @@
             "ReleasedOnTU": "TU7",
             "DownloadURL": "https://github.com/FCRollbackTool/FC25Squads/raw/main/result/pc64/Squads/635/Squads20250107000000",
             "dbMajor": "635",
-            "Schema": "b34680ef"
+            "Schema": ""
         },
         {
             "Name": "Squads20241217000000",
@@ -132,7 +142,7 @@
             "ReleasedOnTU": "TU6.1",
             "DownloadURL": "https://github.com/FCRollbackTool/FC25Squads/raw/main/result/pc64/Squads/634/Squads20241217000000",
             "dbMajor": "634",
-            "Schema": "c27b7ea3"
+            "Schema": ""
         },
         {
             "Name": "Squads20241210000000",
@@ -142,7 +152,7 @@
             "ReleasedOnTU": "TU6.1",
             "DownloadURL": "https://github.com/FCRollbackTool/FC25Squads/raw/main/result/pc64/Squads/633/Squads20241210000000",
             "dbMajor": "633",
-            "Schema": "d94ac960"
+            "Schema": ""
         },
         {
             "Name": "Squads20241202000000",
@@ -152,7 +162,7 @@
             "ReleasedOnTU": "TU6.1",
             "DownloadURL": "https://github.com/FCRollbackTool/FC25Squads/raw/main/result/pc64/Squads/632/Squads20241202000000",
             "dbMajor": "632",
-            "Schema": "fd465c0e"
+            "Schema": ""
         },
         {
             "Name": "Squads20241126000000",
@@ -162,7 +172,7 @@
             "ReleasedOnTU": "TU5",
             "DownloadURL": "https://github.com/FCRollbackTool/FC25Squads/raw/main/result/pc64/Squads/631/Squads20241126000000",
             "dbMajor": "631",
-            "Schema": "c41aa688"
+            "Schema": ""
         },
         {
             "Name": "Squads20241120000000",
@@ -172,7 +182,7 @@
             "ReleasedOnTU": "TU5",
             "DownloadURL": "https://github.com/FCRollbackTool/FC25Squads/raw/main/result/pc64/Squads/630/Squads20241120000000",
             "dbMajor": "630",
-            "Schema": "900870f9"
+            "Schema": ""
         },
         {
             "Name": "Squads20241108000000",
@@ -182,7 +192,7 @@
             "ReleasedOnTU": "TU5",
             "DownloadURL": "https://github.com/FCRollbackTool/FC25Squads/raw/main/result/pc64/Squads/629/Squads20241108000000",
             "dbMajor": "629",
-            "Schema": "bb9af15b"
+            "Schema": ""
         },
         {
             "Name": "Squads20241105000000",
@@ -192,7 +202,7 @@
             "ReleasedOnTU": "TU4",
             "DownloadURL": "https://github.com/FCRollbackTool/FC25Squads/raw/main/result/pc64/Squads/628/Squads20241105000000",
             "dbMajor": "628",
-            "Schema": "9c3ababe"
+            "Schema": ""
         },
         {
             "Name": "Squads20241030000000",
@@ -202,7 +212,7 @@
             "ReleasedOnTU": "TU4",
             "DownloadURL": "https://github.com/FCRollbackTool/FC25Squads/raw/main/result/pc64/Squads/627/Squads20241030000000",
             "dbMajor": "627",
-            "Schema": "07ab98b4"
+            "Schema": ""
         },
         {
             "Name": "Squads20241022000000",
@@ -212,7 +222,7 @@
             "ReleasedOnTU": "TU3",
             "DownloadURL": "https://github.com/FCRollbackTool/FC25Squads/raw/main/result/pc64/Squads/626/Squads20241022000000",
             "dbMajor": "626",
-            "Schema": "a5cbc546"
+            "Schema": ""
         },
         {
             "Name": "Squads20241015000000",
@@ -222,7 +232,7 @@
             "ReleasedOnTU": "TU3",
             "DownloadURL": "https://github.com/FCRollbackTool/FC25Squads/raw/main/result/pc64/Squads/625/Squads20241015000000",
             "dbMajor": "625",
-            "Schema": "db4ee423"
+            "Schema": ""
         },
         {
             "Name": "Squads20241008000000",
@@ -232,7 +242,7 @@
             "ReleasedOnTU": "TU2",
             "DownloadURL": "https://github.com/FCRollbackTool/FC25Squads/raw/main/result/pc64/Squads/624/Squads20241008000000",
             "dbMajor": "624",
-            "Schema": "68f05234"
+            "Schema": ""
         },
         {
             "Name": "Squads20241002000000",
@@ -242,7 +252,7 @@
             "ReleasedOnTU": "TU2",
             "DownloadURL": "https://github.com/FCRollbackTool/FC25Squads/raw/main/result/pc64/Squads/623/Squads20241002000000",
             "dbMajor": "623",
-            "Schema": "9ec48d02"
+            "Schema": ""
         },
         {
             "Name": "Squads20240920000000",
@@ -252,7 +262,7 @@
             "ReleasedOnTU": "TU1",
             "DownloadURL": "https://github.com/FCRollbackTool/FC25Squads/raw/main/result/pc64/Squads/622/Squads20240920000000",
             "dbMajor": "622",
-            "Schema": "1d25d44e"
+            "Schema": ""
         },
         {
             "Name": "Squads20240920000000",
@@ -262,7 +272,7 @@
             "ReleasedOnTU": "Beta",
             "DownloadURL": "https://github.com/FCRollbackTool/FC25Squads/raw/main/result/pc64/Squads/621/Squads20240920000000",
             "dbMajor": "621",
-            "Schema": "98f04eb9"
+            "Schema": ""
         },
         {
             "Name": "Squads20240820000000",
@@ -272,7 +282,7 @@
             "ReleasedOnTU": "Beta",
             "DownloadURL": "https://github.com/FCRollbackTool/FC25Squads/raw/main/result/pc64/Squads/620/Squads20240820000000",
             "dbMajor": "620",
-            "Schema": "4a9db1b3"
+            "Schema": ""
         },
         {
             "Name": "Squads20240808000000",
@@ -282,10 +292,30 @@
             "ReleasedOnTU": "Beta",
             "DownloadURL": "https://github.com/FCRollbackTool/FC25Squads/raw/main/result/pc64/Squads/619/Squads20240808000000",
             "dbMajor": "619",
-            "Schema": "38c65bf7"
+            "Schema": ""
         }
     ],
     "FutSquads": [
+        {
+            "Name": "FutSquads20250313000000",
+            "Size": "9.49MB",
+            "ReleasedDate": "Mar 18, 2025",
+            "BuildDate": "Mar 13, 2025",
+            "ReleasedOnTU": "TU11",
+            "DownloadURL": "https://github.com/FCRollbackTool/FC25Squads/raw/main/result/pc64/FutSquads/52/FutSquads20250313000000",
+            "dbFUTVer": "52",
+            "Schema": ""
+        },
+        {
+            "Name": "FutSquads20250305000000",
+            "Size": "9.49MB",
+            "ReleasedDate": "Mar 12, 2025",
+            "BuildDate": "Mar 5, 2025",
+            "ReleasedOnTU": "TU10",
+            "DownloadURL": "https://github.com/FCRollbackTool/FC25Squads/raw/main/result/pc64/FutSquads/51/FutSquads20250305000000",
+            "dbFUTVer": "51",
+            "Schema": ""
+        },
         {
             "Name": "FutSquads20250210000000",
             "Size": "9.49MB",
@@ -294,7 +324,7 @@
             "ReleasedOnTU": "TU9.1",
             "DownloadURL": "https://github.com/FCRollbackTool/FC25Squads/raw/main/result/pc64/FutSquads/48/FutSquads20250210000000",
             "dbFUTVer": "48",
-            "Schema": "44e3bb36"
+            "Schema": ""
         },
         {
             "Name": "FutSquads20250131000000",
@@ -304,7 +334,7 @@
             "ReleasedOnTU": "TU9",
             "DownloadURL": "https://github.com/FCRollbackTool/FC25Squads/raw/main/result/pc64/FutSquads/47/FutSquads20250131000000",
             "dbFUTVer": "47",
-            "Schema": "29d074f8"
+            "Schema": ""
         },
         {
             "Name": "FutSquads20250115000000",
@@ -314,7 +344,7 @@
             "ReleasedOnTU": "TU8",
             "DownloadURL": "https://github.com/FCRollbackTool/FC25Squads/raw/main/result/pc64/FutSquads/46/FutSquads20250115000000",
             "dbFUTVer": "46",
-            "Schema": "51a3d779"
+            "Schema": ""
         },
         {
             "Name": "FutSquads20250107000000",
@@ -324,7 +354,7 @@
             "ReleasedOnTU": "TU7",
             "DownloadURL": "https://github.com/FCRollbackTool/FC25Squads/raw/main/result/pc64/FutSquads/45/FutSquads20250107000000",
             "dbFUTVer": "45",
-            "Schema": "fee40abe"
+            "Schema": ""
         },
         {
             "Name": "FutSquads20241209000000",
@@ -334,7 +364,7 @@
             "ReleasedOnTU": "TU6.1",
             "DownloadURL": "https://github.com/FCRollbackTool/FC25Squads/raw/main/result/pc64/FutSquads/44/FutSquads20241209000000",
             "dbFUTVer": "44",
-            "Schema": "320c5f23"
+            "Schema": ""
         },
         {
             "Name": "FutSquads20241129000000",
@@ -344,7 +374,7 @@
             "ReleasedOnTU": "TU6.1",
             "DownloadURL": "https://github.com/FCRollbackTool/FC25Squads/raw/main/result/pc64/FutSquads/43/FutSquads20241129000000",
             "dbFUTVer": "43",
-            "Schema": "cebc22c2"
+            "Schema": ""
         },
         {
             "Name": "FutSquads20241108000000",
@@ -354,7 +384,7 @@
             "ReleasedOnTU": "TU5",
             "DownloadURL": "https://github.com/FCRollbackTool/FC25Squads/raw/main/result/pc64/FutSquads/42/FutSquads20241108000000",
             "dbFUTVer": "42",
-            "Schema": "abeb3953"
+            "Schema": ""
         },
         {
             "Name": "FutSquads20241030000000",
@@ -364,7 +394,7 @@
             "ReleasedOnTU": "TU4",
             "DownloadURL": "https://github.com/FCRollbackTool/FC25Squads/raw/main/result/pc64/FutSquads/41/FutSquads20241030000000",
             "dbFUTVer": "41",
-            "Schema": "c9426ddc"
+            "Schema": ""
         },
         {
             "Name": "FutSquads20241015000000",
@@ -374,7 +404,7 @@
             "ReleasedOnTU": "TU3",
             "DownloadURL": "https://github.com/FCRollbackTool/FC25Squads/raw/main/result/pc64/FutSquads/40/FutSquads20241015000000",
             "dbFUTVer": "40",
-            "Schema": "384e1949"
+            "Schema": ""
         },
         {
             "Name": "FutSquads20240924000000",
@@ -384,7 +414,7 @@
             "ReleasedOnTU": "TU1",
             "DownloadURL": "https://github.com/FCRollbackTool/FC25Squads/raw/main/result/pc64/FutSquads/39/FutSquads20240924000000",
             "dbFUTVer": "39",
-            "Schema": "49e318b0"
+            "Schema": ""
         }
     ]
 }
