@@ -1,9 +1,19 @@
 {
-    "content_version_squads": "(25.652)",
-    "version_date_squads": "Mar 20, 2025",
+    "content_version_squads": "(25.653)",
+    "version_date_squads": "Mar 25, 2025",
     "content_version_futsquads": "(25.52)",
     "version_date_futsquads": "Mar 18, 2025",
     "fc25squads-updates": [
+        {
+            "name": "Squads20250325000000",
+            "size": "9.80MB",
+            "released_date": "Mar 25, 2025",
+            "build_date": "Mar 25, 2025",
+            "released_on_tu": "TU11",
+            "download_url": "https://github.com/FCRollbackTool/FC25Squads/raw/main/result/pc64/Squads/653/Squads20250325000000",
+            "dbMajor": "653",
+            "crc": "5e10b42e"
+        },
         {
             "name": "Squads20250320000000",
             "size": "9.80MB",
