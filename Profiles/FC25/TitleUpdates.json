@@ -1,10 +1,20 @@
 {
-  "ContentVersion": "25.11",
-  "ContentVersionDate": "Mar 17, 2025",
+  "ContentVersion": "25.12",
+  "ContentVersionDate": "Apr 1, 2025",
   "AppID": "2669320",
   "MainDepotID": "2669321",
   "eng_usDepotID": "2669322",
   "TitleUpdates": [
+    {
+      "Name": "FC25 - Title Update 12",
+      "Size": "6.57GB",
+      "ReleasedDate": "Apr 1, 2025",
+      "DownloadURL": "https://www.mediafire.com/file/cxg3d0inz6yl8vv/FC25+-+Title+Update+12.rar/file",
+      "SHA1": "12f1d2f69fe9105aeb9d24fbf7e4b337ffe4cdfb",
+      "PatchNotes": "https://trello.com/c/AaxSyr7P/522-ps5-ps4-pc-xbsxs-xb1-switch-title-update-12",
+      "MainManifestID": "9202271071347019804",
+      "eng_usManifestID": "8442747806353216785"
+    },
     {
       "Name": "FC25 - Title Update 11",
       "Size": "6.43GB",
