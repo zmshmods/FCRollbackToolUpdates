@@ -1,9 +1,29 @@
 {
-    "SquadsContentVersion": "25.652",
-    "SquadsContentVersionDate": "Mar 25, 2025",
-    "FutSquadsContentVersion": "25.52",
-    "FutSquadsContentVersionDate": "Mar 18, 2025",
+    "SquadsContentVersion": "25.655",
+    "SquadsContentVersionDate": "Apr 8, 2025",
+    "FutSquadsContentVersion": "25.54",
+    "FutSquadsContentVersionDate": "Apr 9, 2025",
     "Squads": [
+        {
+            "Name": "Squads20250408000000",
+            "Size": "9.80MB",
+            "ReleasedDate": "Apr 8, 2025",
+            "BuildDate": "Apr 8, 2025",
+            "ReleasedOnTU": "TU12",
+            "DownloadURL": "https://github.com/FCRollbackTool/FC25Squads/raw/main/result/pc64/Squads/655/Squads20250408000000",
+            "dbMajor": "655",
+            "Schema": ""
+        },
+        {
+            "Name": "Squads20250325000000",
+            "Size": "9.80MB",
+            "ReleasedDate": "Apr 1, 2025",
+            "BuildDate": "Mar 25, 2025",
+            "ReleasedOnTU": "TU12",
+            "DownloadURL": "https://github.com/FCRollbackTool/FC25Squads/raw/main/result/pc64/Squads/654/Squads20250325000000",
+            "dbMajor": "654",
+            "Schema": ""
+        },
         {
             "Name": "Squads20250325000000",
             "Size": "9.80MB",
@@ -306,6 +326,26 @@
         }
     ],
     "FutSquads": [
+        {
+            "Name": "FutSquads20250408000000",
+            "Size": "9.49MB",
+            "ReleasedDate": "Apr 9, 2025",
+            "BuildDate": "Apr 8, 2025",
+            "ReleasedOnTU": "TU12",
+            "DownloadURL": "https://github.com/FCRollbackTool/FC25Squads/raw/main/result/pc64/FutSquads/54/FutSquads20250408000000",
+            "dbFUTVer": "54",
+            "Schema": ""
+        },
+        {
+            "Name": "FutSquads20250325000000",
+            "Size": "9.49MB",
+            "ReleasedDate": "Apr 1, 2025",
+            "BuildDate": "Mar 25, 2025",
+            "ReleasedOnTU": "TU12",
+            "DownloadURL": "https://github.com/FCRollbackTool/FC25Squads/raw/main/result/pc64/FutSquads/53/FutSquads20250325000000",
+            "dbFUTVer": "53",
+            "Schema": ""
+        },
         {
             "Name": "FutSquads20250313000000",
             "Size": "9.49MB",
