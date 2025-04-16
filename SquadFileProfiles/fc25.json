@@ -1,9 +1,19 @@
 {
-    "content_version_squads": "(25.655)",
-    "version_date_squads": "Apr 8, 2025",
-    "content_version_futsquads": "(25.54)",
-    "version_date_futsquads": "Apr 9, 2025",
+    "content_version_squads": "(25.658)",
+    "version_date_squads": "Apr 16, 2025",
+    "content_version_futsquads": "(25.61)",
+    "version_date_futsquads": "Apr 16, 2025",
     "fc25squads-updates": [
+        {
+            "name": "Squads20250410000000",
+            "size": "9.80MB",
+            "released_date": "Apr 16, 2025",
+            "build_date": "Apr 10, 2025",
+            "released_on_tu": "TU13",
+            "download_url": "https://github.com/FCRollbackTool/FC25Squads/raw/main/result/pc64/Squads/658/Squads20250410000000",
+            "dbMajor": "658",
+            "crc": "3f66ad60"
+        },
         {
             "name": "Squads20250408000000",
             "size": "9.80MB",
@@ -326,6 +336,16 @@
         }
     ],
     "fc25futsquads-updates": [
+        {
+            "name": "FutSquads20250410000000",
+            "size": "9.49MB",
+            "released_date": "Apr 16, 2025",
+            "build_date": "Apr 10, 2025",
+            "released_on_tu": "TU13",
+            "download_url": "https://github.com/FCRollbackTool/FC25Squads/raw/main/result/pc64/FutSquads/61/FutSquads20250410000000",
+            "dbFUTVer": "61",
+            "crc": "610d3fd2"
+        },
         {
             "name": "FutSquads20250408000000",
             "size": "9.49MB",
