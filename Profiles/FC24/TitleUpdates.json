@@ -1,9 +1,9 @@
 {
   "ContentVersion": "24.18.2",
-  "ContentVersionDate": "",
+  "ContentVersionDate": "Jul 29, 2024",
   "AppID": "2195250",
   "MainDepotID": "2195251",
-  "eng_usDepotID": "",
+  "eng_usDepotID": "2195252",
   "TitleUpdates": [
     {
       "Name": "FC24 - Title Update 18.2",
@@ -11,7 +11,7 @@
       "ReleasedDate": "Jul 29, 2024",
       "DownloadURL": "https://www.mediafire.com/file/i43pt93pehqrgsf/FC24+-+#TU18.2.rar/file",
       "SHA1": "7329d658bcc21dd38549c03a8859379f8343d545",
-      "PatchNotes": "https://trello.com/c/AK3sLiH0/448-switch-title-update-181",
+      "PatchNotes": "https://trello.com/c/zzVieoRa/449-pc-ps4-ps5-xb1-xbsxs-switch-title-update-182",
       "MainManifestID": "7179615260312921543"
     },
     {

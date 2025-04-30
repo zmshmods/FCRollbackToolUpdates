@@ -1,10 +1,20 @@
 {
-  "ContentVersion": "25.13",
-  "ContentVersionDate": "Apr 16, 2025",
+  "ContentVersion": "25.14",
+  "ContentVersionDate": "Apr 30, 2025",
   "AppID": "2669320",
   "MainDepotID": "2669321",
   "eng_usDepotID": "2669322",
   "TitleUpdates": [
+    {
+      "Name": "FC25 - Title Update 14",
+      "Size": "6.84GB",
+      "ReleasedDate": "Apr 30, 2025",
+      "DownloadURL": "https://www.mediafire.com/file/54rg3yclc249wgj/FC25+-+Title+Update+14.rar/file",
+      "SHA1": "a7a92f04f792f7cb3b2cc655a3c2e0bd224381c3",
+      "PatchNotes": "https://trello.com/c/Xb2ZOJHt/527-pc-ps4-ps5-xb1-xbsxs-switch-title-update-14",
+      "MainManifestID": "3006376903760407776",
+      "eng_usManifestID": "7456103688240308073"
+    },
     {
       "Name": "FC25 - Title Update 13",
       "Size": "6.75GB",

@@ -1,8 +1,17 @@
 {
-    "content_version": "(25.13)",
+    "content_version": "(25.14)",
     "AppID": "2669320",
     "DepotID": "2669321",
     "fc25tu-updates": [
+        {
+            "name": "FC25 - Title Update 14",
+            "size": "6.84GB",
+            "released_date": "Apr 30, 2025",
+            "download_url": "https://www.mediafire.com/file/54rg3yclc249wgj/FC25+-+Title+Update+14.rar/file",
+            "crc": "e57b06de",
+            "MainManifestID": "3006376903760407776",
+            "eng_usManifestID": "7456103688240308073"
+        },
         {
             "name": "FC25 - Title Update 13",
             "size": "6.75GB",
