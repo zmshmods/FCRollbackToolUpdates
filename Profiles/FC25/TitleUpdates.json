@@ -5,6 +5,16 @@
   "MainDepotID": "2669321",
   "eng_usDepotID": "2669322",
   "TitleUpdates": [
+      {
+      "Name": "FC25 - Title Update 15",
+      "Size": "6.82GB",
+      "ReleasedDate": "Jun 3, 2025",
+      "DownloadURL": "",
+      "SHA1": "",
+      "PatchNotes": "https://trello.com/c/zKlxaTnI/530-ps5-ps4-pc-xbsxs-xb1-switch-title-update-15",
+      "MainManifestID": "",
+      "eng_usManifestID": ""
+    },
     {
       "Name": "FC25 - Title Update 14.1",
       "Size": "6.82GB",

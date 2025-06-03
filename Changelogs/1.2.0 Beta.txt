@@ -1,0 +1,12 @@
+- Fixed update list retrieval issue causing the "N/A Content Version".
+- Added Squads/FutSquads updates profiles for FC25 and FC24, based on xAranaktu's script.
+- Added a fetcher for Squads/FutSquads file tables.
+- Added a fetcher for Squads/FutSquads file changelog (Tables, Players, Managers, Kits, Teams).
+- Added Patch Notes for title updates.
+- Added main settings for the tool.
+- Added new installation options.
+- Added an option to automatically download using an installed internet download manager.
+- Added Title Updates compatibility info with Live Editor versions.
+- Update FC24 Title Updates profile.
+- General fixes and improvements.
+(Title Updates archives are now password-protected, and can only be installed/extracted from the tool.)
