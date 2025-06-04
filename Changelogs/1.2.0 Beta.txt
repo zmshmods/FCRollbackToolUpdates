@@ -9,4 +9,4 @@
 - Added Title Updates compatibility info with Live Editor versions.
 - Update FC24 Title Updates profile.
 - General fixes and improvements.
-(Title Updates archives are now password-protected, and can only be installed/extracted from the tool.)
+- *(Title Updates archives are now password-protected, and can only be installed/extracted from the tool.)
