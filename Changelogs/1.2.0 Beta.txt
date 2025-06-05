@@ -11,4 +11,4 @@
 - Removed administrator privileges request.
 - Updated FC24 and FC25 Title Updates profile.
 - General fixes and improvements.
--*(Title Updates archives are now password-protected, and can only be installed/extracted from the tool.)
+*(Title Updates archives are now password-protected, and can only be installed/extracted from the tool.)
