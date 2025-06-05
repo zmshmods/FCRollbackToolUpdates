@@ -4,9 +4,11 @@
 - Added a fetcher for Squads/FutSquads file changelog (Tables, Players, Managers, Kits, Teams).
 - Added Patch Notes for title updates.
 - Added main settings for the tool.
-- Added new installation options.
+- Added new installation/download options.
 - Added an option to automatically download using an installed internet download manager.
-- Added Title Updates compatibility info with Live Editor versions.
-- Update FC24 Title Updates profile.
+- Added Title Updates compatibility info with Live Editor tool versions.
+- Added FAQs
+- Removed administrator privileges request.
+- Updated FC24 and FC25 Title Updates profile.
 - General fixes and improvements.
-- *(Title Updates archives are now password-protected, and can only be installed/extracted from the tool.)
+-*(Title Updates archives are now password-protected, and can only be installed/extracted from the tool.)
