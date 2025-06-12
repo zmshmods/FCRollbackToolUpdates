@@ -1,0 +1,2 @@
+- Should automatically resolve version incompatibility issues after rollback.
+- Added administrator privileges request to address access denied issues.
