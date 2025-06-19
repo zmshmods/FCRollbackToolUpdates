@@ -1,20 +1,20 @@
 {
-    "ContentVersion": "25.15",
-    "ContentVersionDate": "Jun 3, 2025",
+    "ContentVersion": "25.16",
+    "ContentVersionDate": "Jun 19, 2025",
     "AppID": "2669320",
     "MainDepotID": "2669321",
     "eng_usDepotID": "2669322",
     "TitleUpdates": [
         {
             "Name": "FC25 - Title Update 16",
-            "SemVer": "",
-            "Size": "",
+            "SemVer": "1.0.124.14362",
+            "Size": "6.91",
             "ReleasedDate": "Jun 19, 2025",
-            "DownloadURL": "",
-            "SHA1": "",
+            "DownloadURL": "https://www.mediafire.com/file/qe6mrng8x882u8b/FC25+-+Title+Update+16.rar/file",
+            "SHA1": "9734fb6890c3d160ecebae8d2c6b79362f880d00",
             "PatchNotes": "https://trello.com/c/Bx7S5E7S/532-ps5-ps4-pc-xbsxs-xb1-switch-title-update-16",
-            "MainManifestID": "",
-            "eng_usManifestID": ""
+            "MainManifestID": "5695476236698295539",
+            "eng_usManifestID": "2149623526913816106"
         },
         {
             "Name": "FC25 - Title Update 15",
