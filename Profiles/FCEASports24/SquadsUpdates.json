@@ -1,0 +1,568 @@
+{
+    "SquadsContentVersion": "24.336",
+    "SquadsContentVersionDate": "Sep 4, 2024",
+    "FutSquadsContentVersion": "24.55",
+    "FutSquadsContentVersionDate": "Jul 24, 2024",
+    "Squads": [
+        {
+            "Name": "Squads20240903000000",
+            "Size": "10.03MB",
+            "ReleasedDate": "Sep 4, 2024",
+            "BuildDate": "Sep 3, 2024",
+            "ReleasedOnTU": "18.2",
+            "DownloadURL": "https://github.com/FCRollbackTool/FC24Squads/raw/main/result/pc64/Squads/336/Index.json",
+            "dbMajor": "336"
+        },
+        {
+            "Name": "Squads20240820000000",
+            "Size": "10.03MB",
+            "ReleasedDate": "Aug 20, 2024",
+            "BuildDate": "Aug 20, 2024",
+            "ReleasedOnTU": "18.2",
+            "DownloadURL": "https://github.com/FCRollbackTool/FC24Squads/raw/main/result/pc64/Squads/335/Index.json",
+            "dbMajor": "335"
+        },
+        {
+            "Name": "Squads20240722000000",
+            "Size": "10.03MB",
+            "ReleasedDate": "Jul 24, 2024",
+            "BuildDate": "Jul 22, 2024",
+            "ReleasedOnTU": "18",
+            "DownloadURL": "https://github.com/FCRollbackTool/FC24Squads/raw/main/result/pc64/Squads/334/Index.json",
+            "dbMajor": "334"
+        },
+        {
+            "Name": "Squads20240704000000",
+            "Size": "10.03MB",
+            "ReleasedDate": "Jul 8, 2024",
+            "BuildDate": "Jul 4, 2024",
+            "ReleasedOnTU": "17",
+            "DownloadURL": "https://github.com/FCRollbackTool/FC24Squads/raw/main/result/pc64/Squads/333/Index.json",
+            "dbMajor": "333"
+        },
+        {
+            "Name": "Squads20240627000000",
+            "Size": "10.03MB",
+            "ReleasedDate": "Jul 4, 2024",
+            "BuildDate": "Jun 27, 2024",
+            "ReleasedOnTU": "17",
+            "DownloadURL": "https://github.com/FCRollbackTool/FC24Squads/raw/main/result/pc64/Squads/332/Index.json",
+            "dbMajor": "332"
+        },
+        {
+            "Name": "Squads20240626000000",
+            "Size": "10.03MB",
+            "ReleasedDate": "Jun 26, 2024",
+            "BuildDate": "Jun 26, 2024",
+            "ReleasedOnTU": "16",
+            "DownloadURL": "https://github.com/FCRollbackTool/FC24Squads/raw/main/result/pc64/Squads/331/Index.json",
+            "dbMajor": "331"
+        },
+        {
+            "Name": "Squads20240614000000",
+            "Size": "10.03MB",
+            "ReleasedDate": "Jun 26, 2024",
+            "BuildDate": "Jun 14, 2024",
+            "ReleasedOnTU": "16",
+            "DownloadURL": "https://github.com/FCRollbackTool/FC24Squads/raw/main/result/pc64/Squads/330/Index.json",
+            "dbMajor": "330"
+        },
+        {
+            "Name": "Squads20240611000000",
+            "Size": "10.03MB",
+            "ReleasedDate": "Jun 12, 2024",
+            "BuildDate": "Jun 11, 2024",
+            "ReleasedOnTU": "15.1",
+            "DownloadURL": "https://github.com/FCRollbackTool/FC24Squads/raw/main/result/pc64/Squads/329/Index.json",
+            "dbMajor": "329"
+        },
+        {
+            "Name": "Squads20240604000000",
+            "Size": "10.03MB",
+            "ReleasedDate": "Jun 11, 2024",
+            "BuildDate": "Jun 4, 2024",
+            "ReleasedOnTU": "15.1",
+            "DownloadURL": "https://github.com/FCRollbackTool/FC24Squads/raw/main/result/pc64/Squads/328/Index.json",
+            "dbMajor": "328"
+        },
+        {
+            "Name": "Squads20240522000000",
+            "Size": "10.03MB",
+            "ReleasedDate": "May 22, 2024",
+            "BuildDate": "May 22, 2024",
+            "ReleasedOnTU": "14",
+            "DownloadURL": "https://github.com/FCRollbackTool/FC24Squads/raw/main/result/pc64/Squads/327/Index.json",
+            "dbMajor": "327"
+        },
+        {
+            "Name": "Squads20240507000000",
+            "Size": "10.03MB",
+            "ReleasedDate": "May 8, 2024",
+            "BuildDate": "May 7, 2024",
+            "ReleasedOnTU": "14",
+            "DownloadURL": "https://github.com/FCRollbackTool/FC24Squads/raw/main/result/pc64/Squads/326/Index.json",
+            "dbMajor": "326"
+        },
+        {
+            "Name": "Squads20240429000000",
+            "Size": "10.03MB",
+            "ReleasedDate": "May 7, 2024",
+            "BuildDate": "Apr 29, 2024",
+            "ReleasedOnTU": "14",
+            "DownloadURL": "https://github.com/FCRollbackTool/FC24Squads/raw/main/result/pc64/Squads/325/Index.json",
+            "dbMajor": "325"
+        },
+        {
+            "Name": "Squads20240423000000",
+            "Size": "10.03MB",
+            "ReleasedDate": "Apr 23, 2024",
+            "BuildDate": "Apr 23, 2024",
+            "ReleasedOnTU": "13",
+            "DownloadURL": "https://github.com/FCRollbackTool/FC24Squads/raw/main/result/pc64/Squads/324/Index.json",
+            "dbMajor": "324"
+        },
+        {
+            "Name": "Squads20240416000000",
+            "Size": "10.03MB",
+            "ReleasedDate": "Apr 23, 2024",
+            "BuildDate": "Apr 16, 2024",
+            "ReleasedOnTU": "13",
+            "DownloadURL": "https://github.com/FCRollbackTool/FC24Squads/raw/main/result/pc64/Squads/323/Index.json",
+            "dbMajor": "323"
+        },
+        {
+            "Name": "Squads20240409000000",
+            "Size": "10.03MB",
+            "ReleasedDate": "Apr 9, 2024",
+            "BuildDate": "Apr 9, 2024",
+            "ReleasedOnTU": "12",
+            "DownloadURL": "https://github.com/FCRollbackTool/FC24Squads/raw/main/result/pc64/Squads/322/Index.json",
+            "dbMajor": "322"
+        },
+        {
+            "Name": "Squads20240404000000",
+            "Size": "10.03MB",
+            "ReleasedDate": "Apr 9, 2024",
+            "BuildDate": "Apr 4, 2024",
+            "ReleasedOnTU": "12",
+            "DownloadURL": "https://github.com/FCRollbackTool/FC24Squads/raw/main/result/pc64/Squads/321/Index.json",
+            "dbMajor": "321"
+        },
+        {
+            "Name": "Squads20240326000000",
+            "Size": "10.03MB",
+            "ReleasedDate": "Mar 27, 2024",
+            "BuildDate": "Mar 26, 2024",
+            "ReleasedOnTU": "11",
+            "DownloadURL": "https://github.com/FCRollbackTool/FC24Squads/raw/main/result/pc64/Squads/320/Index.json",
+            "dbMajor": "320"
+        },
+        {
+            "Name": "Squads20240319000000",
+            "Size": "10.03MB",
+            "ReleasedDate": "Mar 20, 2024",
+            "BuildDate": "Mar 19, 2024",
+            "ReleasedOnTU": "11",
+            "DownloadURL": "https://github.com/FCRollbackTool/FC24Squads/raw/main/result/pc64/Squads/319/Index.json",
+            "dbMajor": "319"
+        },
+        {
+            "Name": "Squads20240308000000",
+            "Size": "10.03MB",
+            "ReleasedDate": "Mar 14, 2024",
+            "BuildDate": "Mar 8, 2024",
+            "ReleasedOnTU": "11",
+            "DownloadURL": "https://github.com/FCRollbackTool/FC24Squads/raw/main/result/pc64/Squads/318/Index.json",
+            "dbMajor": "318"
+        },
+        {
+            "Name": "Squads20240307000000",
+            "Size": "10.03MB",
+            "ReleasedDate": "Mar 7, 2024",
+            "BuildDate": "Mar 7, 2024",
+            "ReleasedOnTU": "10",
+            "DownloadURL": "https://github.com/FCRollbackTool/FC24Squads/raw/main/result/pc64/Squads/317/Index.json",
+            "dbMajor": "317"
+        },
+        {
+            "Name": "Squads20240305000000",
+            "Size": "10.03MB",
+            "ReleasedDate": "Mar 6, 2024",
+            "BuildDate": "Mar 5, 2024",
+            "ReleasedOnTU": "10",
+            "DownloadURL": "https://github.com/FCRollbackTool/FC24Squads/raw/main/result/pc64/Squads/316/Index.json",
+            "dbMajor": "316"
+        },
+        {
+            "Name": "Squads20240301000000",
+            "Size": "10.03MB",
+            "ReleasedDate": "Mar 5, 2024",
+            "BuildDate": "Mar 1, 2024",
+            "ReleasedOnTU": "10",
+            "DownloadURL": "https://github.com/FCRollbackTool/FC24Squads/raw/main/result/pc64/Squads/315/Index.json",
+            "dbMajor": "315"
+        },
+        {
+            "Name": "Squads20240222000000",
+            "Size": "10.03MB",
+            "ReleasedDate": "Feb 22, 2024",
+            "BuildDate": "Feb 22, 2024",
+            "ReleasedOnTU": "9",
+            "DownloadURL": "https://github.com/FCRollbackTool/FC24Squads/raw/main/result/pc64/Squads/314/Index.json",
+            "dbMajor": "314"
+        },
+        {
+            "Name": "Squads20240215000000",
+            "Size": "10.03MB",
+            "ReleasedDate": "Feb 15, 2024",
+            "BuildDate": "Feb 15, 2024",
+            "ReleasedOnTU": "9",
+            "DownloadURL": "https://github.com/FCRollbackTool/FC24Squads/raw/main/result/pc64/Squads/313/Index.json",
+            "dbMajor": "313"
+        },
+        {
+            "Name": "Squads20240208000000",
+            "Size": "10.03MB",
+            "ReleasedDate": "Feb 15, 2024",
+            "BuildDate": "Feb 8, 2024",
+            "ReleasedOnTU": "9",
+            "DownloadURL": "https://github.com/FCRollbackTool/FC24Squads/raw/main/result/pc64/Squads/312/Index.json",
+            "dbMajor": "312"
+        },
+        {
+            "Name": "Squads20240207000000",
+            "Size": "10.03MB",
+            "ReleasedDate": "Feb 8, 2024",
+            "BuildDate": "Feb 7, 2024",
+            "ReleasedOnTU": "8",
+            "DownloadURL": "https://github.com/FCRollbackTool/FC24Squads/raw/main/result/pc64/Squads/311/Index.json",
+            "dbMajor": "311"
+        },
+        {
+            "Name": "Squads20240130000000",
+            "Size": "10.03MB",
+            "ReleasedDate": "Jan 31, 2024",
+            "BuildDate": "Jan 30, 2024",
+            "ReleasedOnTU": "8",
+            "DownloadURL": "https://github.com/FCRollbackTool/FC24Squads/raw/main/result/pc64/Squads/310/Index.json",
+            "dbMajor": "310"
+        },
+        {
+            "Name": "Squads20240126000000",
+            "Size": "10.03MB",
+            "ReleasedDate": "Jan 30, 2024",
+            "BuildDate": "Jan 26, 2024",
+            "ReleasedOnTU": "8",
+            "DownloadURL": "https://github.com/FCRollbackTool/FC24Squads/raw/main/result/pc64/Squads/309/Index.json",
+            "dbMajor": "309"
+        },
+        {
+            "Name": "Squads20240126000000",
+            "Size": "10.03MB",
+            "ReleasedDate": "Feb 1, 2024",
+            "BuildDate": "Jan 26, 2024",
+            "ReleasedOnTU": "8",
+            "DownloadURL": "https://github.com/FCRollbackTool/FC24Squads/raw/main/result/pc64/Squads/308/Index.json",
+            "dbMajor": "308"
+        },
+        {
+            "Name": "Squads20240117000000",
+            "Size": "10.03MB",
+            "ReleasedDate": "Jan 17, 2024",
+            "BuildDate": "Jan 17, 2024",
+            "ReleasedOnTU": "7",
+            "DownloadURL": "https://github.com/FCRollbackTool/FC24Squads/raw/main/result/pc64/Squads/307/Index.json",
+            "dbMajor": "307"
+        },
+        {
+            "Name": "Squads20240103000000",
+            "Size": "10.03MB",
+            "ReleasedDate": "Jan 17, 2024",
+            "BuildDate": "Jan 3, 2024",
+            "ReleasedOnTU": "7",
+            "DownloadURL": "https://github.com/FCRollbackTool/FC24Squads/raw/main/result/pc64/Squads/306/Index.json",
+            "dbMajor": "306"
+        },
+        {
+            "Name": "Squads20231214000000",
+            "Size": "10.03MB",
+            "ReleasedDate": "Dec 18, 2023",
+            "BuildDate": "Dec 14, 2023",
+            "ReleasedOnTU": "6",
+            "DownloadURL": "https://github.com/FCRollbackTool/FC24Squads/raw/main/result/pc64/Squads/305/Index.json",
+            "dbMajor": "305"
+        },
+        {
+            "Name": "Squads20231211000000",
+            "Size": "10.03MB",
+            "ReleasedDate": "Dec 11, 2023",
+            "BuildDate": "Dec 11, 2023",
+            "ReleasedOnTU": "6",
+            "DownloadURL": "https://github.com/FCRollbackTool/FC24Squads/raw/main/result/pc64/Squads/304/Index.json",
+            "dbMajor": "304"
+        },
+        {
+            "Name": "Squads20231205000000",
+            "Size": "10.03MB",
+            "ReleasedDate": "Dec 6, 2023",
+            "BuildDate": "Dec 5, 2023",
+            "ReleasedOnTU": "6",
+            "DownloadURL": "https://github.com/FCRollbackTool/FC24Squads/raw/main/result/pc64/Squads/303/Index.json",
+            "dbMajor": "303"
+        },
+        {
+            "Name": "Squads20231123000000",
+            "Size": "10.03MB",
+            "ReleasedDate": "Nov 24, 2023",
+            "BuildDate": "Nov 23, 2023",
+            "ReleasedOnTU": "5",
+            "DownloadURL": "https://github.com/FCRollbackTool/FC24Squads/raw/main/result/pc64/Squads/302/Index.json",
+            "dbMajor": "302"
+        },
+        {
+            "Name": "Squads20231120000000",
+            "Size": "10.03MB",
+            "ReleasedDate": "Nov 20, 2023",
+            "BuildDate": "Nov 20, 2023",
+            "ReleasedOnTU": "5",
+            "DownloadURL": "https://github.com/FCRollbackTool/FC24Squads/raw/main/result/pc64/Squads/301/Index.json",
+            "dbMajor": "301"
+        },
+        {
+            "Name": "Squads20231114000000",
+            "Size": "10.03MB",
+            "ReleasedDate": "Nov 15, 2023",
+            "BuildDate": "Nov 14, 2023",
+            "ReleasedOnTU": "5",
+            "DownloadURL": "https://github.com/FCRollbackTool/FC24Squads/raw/main/result/pc64/Squads/300/Index.json",
+            "dbMajor": "300"
+        },
+        {
+            "Name": "Squads20231108000000",
+            "Size": "10.03MB",
+            "ReleasedDate": "Nov 9, 2023",
+            "BuildDate": "Nov 8, 2023",
+            "ReleasedOnTU": "5",
+            "DownloadURL": "https://github.com/FCRollbackTool/FC24Squads/raw/main/result/pc64/Squads/299/Index.json",
+            "dbMajor": "299"
+        },
+        {
+            "Name": "Squads20231101000000",
+            "Size": "10.03MB",
+            "ReleasedDate": "Nov 1, 2023",
+            "BuildDate": "Nov 1, 2023",
+            "ReleasedOnTU": "4",
+            "DownloadURL": "https://github.com/FCRollbackTool/FC24Squads/raw/main/result/pc64/Squads/298/Index.json",
+            "dbMajor": "298"
+        },
+        {
+            "Name": "Squads20231030000000",
+            "Size": "10.03MB",
+            "ReleasedDate": "Oct 30, 2023",
+            "BuildDate": "Oct 30, 2023",
+            "ReleasedOnTU": "4",
+            "DownloadURL": "https://github.com/FCRollbackTool/FC24Squads/raw/main/result/pc64/Squads/297/Index.json",
+            "dbMajor": "297"
+        },
+        {
+            "Name": "Squads20231025000000",
+            "Size": "10.03MB",
+            "ReleasedDate": "Oct 26, 2023",
+            "BuildDate": "Oct 25, 2023",
+            "ReleasedOnTU": "4",
+            "DownloadURL": "https://github.com/FCRollbackTool/FC24Squads/raw/main/result/pc64/Squads/296/Index.json",
+            "dbMajor": "296"
+        },
+        {
+            "Name": "Squads20231023000000",
+            "Size": "10.03MB",
+            "ReleasedDate": "Oct 23, 2023",
+            "BuildDate": "Oct 23, 2023",
+            "ReleasedOnTU": "3",
+            "DownloadURL": "https://github.com/FCRollbackTool/FC24Squads/raw/main/result/pc64/Squads/295/Index.json",
+            "dbMajor": "295"
+        },
+        {
+            "Name": "Squads20231016000000",
+            "Size": "10.03MB",
+            "ReleasedDate": "Oct 16, 2023",
+            "BuildDate": "Oct 16, 2023",
+            "ReleasedOnTU": "3",
+            "DownloadURL": "https://github.com/FCRollbackTool/FC24Squads/raw/main/result/pc64/Squads/294/Index.json",
+            "dbMajor": "294"
+        },
+        {
+            "Name": "Squads20231012000000",
+            "Size": "10.03MB",
+            "ReleasedDate": "Oct 12, 2023",
+            "BuildDate": "Oct 12, 2023",
+            "ReleasedOnTU": "3",
+            "DownloadURL": "https://github.com/FCRollbackTool/FC24Squads/raw/main/result/pc64/Squads/293/Index.json",
+            "dbMajor": "293"
+        },
+        {
+            "Name": "Squads20231010000000",
+            "Size": "10.03MB",
+            "ReleasedDate": "Oct 10, 2023",
+            "BuildDate": "Oct 10, 2023",
+            "ReleasedOnTU": "2",
+            "DownloadURL": "https://github.com/FCRollbackTool/FC24Squads/raw/main/result/pc64/Squads/292/Index.json",
+            "dbMajor": "292"
+        },
+        {
+            "Name": "Squads20231005000000",
+            "Size": "10.03MB",
+            "ReleasedDate": "Oct 5, 2023",
+            "BuildDate": "Oct 5, 2023",
+            "ReleasedOnTU": "2",
+            "DownloadURL": "https://github.com/FCRollbackTool/FC24Squads/raw/main/result/pc64/Squads/291/Index.json",
+            "dbMajor": "291"
+        }
+    ],
+    "FutSquads": [
+        {
+            "Name": "FutSquads20240722000000",
+            "Size": "9.91MB",
+            "ReleasedDate": "Jul 24, 2024",
+            "BuildDate": "Jul 22, 2024",
+            "ReleasedOnTU": "18",
+            "DownloadURL": "https://github.com/FCRollbackTool/FC24Squads/raw/main/result/pc64/FutSquads/55/Index.json",
+            "dbFUTVer": "55"
+        },
+        {
+            "Name": "FutSquads20240627000000",
+            "Size": "9.91MB",
+            "ReleasedDate": "Jul 4, 2024",
+            "BuildDate": "Jun 27, 2024",
+            "ReleasedOnTU": "17",
+            "DownloadURL": "https://github.com/FCRollbackTool/FC24Squads/raw/main/result/pc64/FutSquads/54/Index.json",
+            "dbFUTVer": "54"
+        },
+        {
+            "Name": "FutSquads20240614000000",
+            "Size": "9.91MB",
+            "ReleasedDate": "Jun 26, 2024",
+            "BuildDate": "Jun 14, 2024",
+            "ReleasedOnTU": "16",
+            "DownloadURL": "https://github.com/FCRollbackTool/FC24Squads/raw/main/result/pc64/FutSquads/53/Index.json",
+            "dbFUTVer": "53"
+        },
+        {
+            "Name": "FutSquads20240604000000",
+            "Size": "9.91MB",
+            "ReleasedDate": "Jun 11, 2024",
+            "BuildDate": "Jun 4, 2024",
+            "ReleasedOnTU": "15.1",
+            "DownloadURL": "https://github.com/FCRollbackTool/FC24Squads/raw/main/result/pc64/FutSquads/52/Index.json",
+            "dbFUTVer": "52"
+        },
+        {
+            "Name": "FutSquads20240429000000",
+            "Size": "9.91MB",
+            "ReleasedDate": "May 7, 2024",
+            "BuildDate": "Apr 29, 2024",
+            "ReleasedOnTU": "14",
+            "DownloadURL": "https://github.com/FCRollbackTool/FC24Squads/raw/main/result/pc64/FutSquads/51/Index.json",
+            "dbFUTVer": "51"
+        },
+        {
+            "Name": "FutSquads20240416000000",
+            "Size": "9.91MB",
+            "ReleasedDate": "Apr 23, 2024",
+            "BuildDate": "Apr 16, 2024",
+            "ReleasedOnTU": "13",
+            "DownloadURL": "https://github.com/FCRollbackTool/FC24Squads/raw/main/result/pc64/FutSquads/50/Index.json",
+            "dbFUTVer": "50"
+        },
+        {
+            "Name": "FutSquads20240404000000",
+            "Size": "9.91MB",
+            "ReleasedDate": "Apr 9, 2024",
+            "BuildDate": "Apr 4, 2024",
+            "ReleasedOnTU": "12",
+            "DownloadURL": "https://github.com/FCRollbackTool/FC24Squads/raw/main/result/pc64/FutSquads/49/Index.json",
+            "dbFUTVer": "49"
+        },
+        {
+            "Name": "FutSquads20240308000000",
+            "Size": "9.91MB",
+            "ReleasedDate": "Mar 14, 2024",
+            "BuildDate": "Mar 8, 2024",
+            "ReleasedOnTU": "11",
+            "DownloadURL": "https://github.com/FCRollbackTool/FC24Squads/raw/main/result/pc64/FutSquads/48/Index.json",
+            "dbFUTVer": "48"
+        },
+        {
+            "Name": "FutSquads20240301000000",
+            "Size": "9.91MB",
+            "ReleasedDate": "Mar 5, 2024",
+            "BuildDate": "Mar 1, 2024",
+            "ReleasedOnTU": "10",
+            "DownloadURL": "https://github.com/FCRollbackTool/FC24Squads/raw/main/result/pc64/FutSquads/47/Index.json",
+            "dbFUTVer": "47"
+        },
+        {
+            "Name": "FutSquads20240208000000",
+            "Size": "9.91MB",
+            "ReleasedDate": "Feb 15, 2024",
+            "BuildDate": "Feb 8, 2024",
+            "ReleasedOnTU": "9",
+            "DownloadURL": "https://github.com/FCRollbackTool/FC24Squads/raw/main/result/pc64/FutSquads/46/Index.json",
+            "dbFUTVer": "46"
+        },
+        {
+            "Name": "FutSquads20240126000000",
+            "Size": "9.91MB",
+            "ReleasedDate": "Jan 30, 2024",
+            "BuildDate": "Jan 26, 2024",
+            "ReleasedOnTU": "8",
+            "DownloadURL": "https://github.com/FCRollbackTool/FC24Squads/raw/main/result/pc64/FutSquads/45/Index.json",
+            "dbFUTVer": "45"
+        },
+        {
+            "Name": "FutSquads20240103000000",
+            "Size": "9.91MB",
+            "ReleasedDate": "Jan 17, 2024",
+            "BuildDate": "Jan 3, 2024",
+            "ReleasedOnTU": "7",
+            "DownloadURL": "https://github.com/FCRollbackTool/FC24Squads/raw/main/result/pc64/FutSquads/44/Index.json",
+            "dbFUTVer": "44"
+        },
+        {
+            "Name": "FutSquads20231128000000",
+            "Size": "9.91MB",
+            "ReleasedDate": "Dec 6, 2023",
+            "BuildDate": "Nov 28, 2023",
+            "ReleasedOnTU": "6",
+            "DownloadURL": "https://github.com/FCRollbackTool/FC24Squads/raw/main/result/pc64/FutSquads/43/Index.json",
+            "dbFUTVer": "43"
+        },
+        {
+            "Name": "FutSquads20231114000000",
+            "Size": "9.91MB",
+            "ReleasedDate": "Nov 15, 2023",
+            "BuildDate": "Nov 14, 2023",
+            "ReleasedOnTU": "5",
+            "DownloadURL": "https://github.com/FCRollbackTool/FC24Squads/raw/main/result/pc64/FutSquads/42/Index.json",
+            "dbFUTVer": "42"
+        },
+        {
+            "Name": "FutSquads20231101000000",
+            "Size": "9.91MB",
+            "ReleasedDate": "Nov 1, 2023",
+            "BuildDate": "Nov 1, 2023",
+            "ReleasedOnTU": "4",
+            "DownloadURL": "https://github.com/FCRollbackTool/FC24Squads/raw/main/result/pc64/FutSquads/41/Index.json",
+            "dbFUTVer": "41"
+        },
+        {
+            "Name": "FutSquads20231017000000",
+            "Size": "9.91MB",
+            "ReleasedDate": "Oct 17, 2023",
+            "BuildDate": "Oct 17, 2023",
+            "ReleasedOnTU": "3",
+            "DownloadURL": "https://github.com/FCRollbackTool/FC24Squads/raw/main/result/pc64/FutSquads/40/Index.json",
+            "dbFUTVer": "40"
+        }
+    ]
+}

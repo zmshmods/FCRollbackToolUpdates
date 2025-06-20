@@ -1,0 +1,216 @@
+{
+    "ContentVersion": "24.19",
+    "ContentVersionDate": "Mar 18, 2025",
+    "AppID": "2195250",
+    "MainDepotID": "2195251",
+    "eng_usDepotID": "2195252",
+    "TitleUpdates": [
+        {
+            "Name": "FC24 - Title Update 19",
+            "Size": "7.69GB",
+            "ReleasedDate": "Mar 18, 2025",
+            "DownloadURL": "https://www.mediafire.com/file/xv8qeb755rv2hjy/FC24+-+Title+Update+19.rar/file",
+            "SHA1": "ba94113da80847d308839ecd84bb2ba5d395d649",
+            "PatchNotes": "",
+            "MainManifestID": "7672999823056687052"
+        },
+        {
+            "Name": "FC24 - Title Update 18.2",
+            "Size": "7.31GB",
+            "ReleasedDate": "Jul 29, 2024",
+            "DownloadURL": "https://www.mediafire.com/file/6awxlgjtd6dnuka/FC24+-+Title+Update+18.2.rar/file",
+            "SHA1": "7329d658bcc21dd38549c03a8859379f8343d545",
+            "PatchNotes": "https://trello.com/c/zzVieoRa/449-pc-ps4-ps5-xb1-xbsxs-switch-title-update-182",
+            "MainManifestID": "7179615260312921543"
+        },
+        {
+            "Name": "FC24 - Title Update 18",
+            "Size": "7.29GB",
+            "ReleasedDate": "Jul 23, 2024",
+            "DownloadURL": "https://www.mediafire.com/file/p06iijysqsp5jo0/FC24+-+Title+Update+18.rar/file",
+            "SHA1": "31e998b3bf0cc3b9d01dbdf318d06fa73ab03dfc",
+            "PatchNotes": "https://trello.com/c/ee6x5tTH/447-pc-ps4-ps5-xb1-xbsxs-switch-title-update-18",
+            "MainManifestID": "500917563687469778"
+        },
+        {
+            "Name": "FC24 - Title Update 17",
+            "Size": "7.28GB",
+            "ReleasedDate": "Jul 3, 2024",
+            "DownloadURL": "https://www.mediafire.com/file/0wbd7dojip90ie4/FC24+-+Title+Update+17.rar/file",
+            "SHA1": "fa84076f6b9187f4cda4b18f84784256fbaae80d",
+            "PatchNotes": "https://trello.com/c/H7ShUudj/446-pc-ps4-ps5-xb1-xbsxs-switch-title-update-17",
+            "MainManifestID": "2868647733444346946"
+        },
+        {
+            "Name": "FC24 - Title Update 16",
+            "Size": "7.26GB",
+            "ReleasedDate": "Jun 19, 2024",
+            "DownloadURL": "https://www.mediafire.com/file/fr487v57sveh6v5/FC24+-+Title+Update+16.rar/file",
+            "SHA1": "9723cfa6bbf00234d922242b4055229b8eeaa925",
+            "PatchNotes": "https://trello.com/c/TyDLRfIl/445-pc-ps4-ps5-xb1-xbsxs-switch-title-update-16",
+            "MainManifestID": "3593277136298056823"
+        },
+        {
+            "Name": "FC24 - Title Update 15.1",
+            "Size": "7.20GB",
+            "ReleasedDate": "Jun 10, 2024",
+            "DownloadURL": "https://www.mediafire.com/file/3e72kbttcoa8ovn/FC24+-+Title+Update+15.1.rar/file",
+            "SHA1": "f61bf0a6277bf4de442184012011272fa8839945",
+            "PatchNotes": "https://trello.com/c/XZnoQTLx/442-pc-ps4-ps5-xb1-xbsxs-title-update-151",
+            "MainManifestID": "5348451281013954290"
+        },
+        {
+            "Name": "FC24 - Title Update 15",
+            "Size": "7.21GB",
+            "ReleasedDate": "Jun 6, 2024",
+            "DownloadURL": "https://www.mediafire.com/file/p0il0tbrl5yb0zg/FC24+-+Title+Update+15.rar/file",
+            "SHA1": "2ee69aef8eac63736ca8e6ebb0b57038af1a1d22",
+            "PatchNotes": "https://trello.com/c/k08tcq7b/440-pc-ps4-ps5-xb1-xbsxs-switch-title-update-15",
+            "MainManifestID": "9104727870232512777"
+        },
+        {
+            "Name": "FC24 - Title Update 14",
+            "Size": "6.19GB",
+            "ReleasedDate": "May 7, 2024",
+            "DownloadURL": "https://www.mediafire.com/file/20vmoedb4rknbqy/FC24+-+Title+Update+14.rar/file",
+            "SHA1": "bf56e3df4f6f0ef937e2aaa44e44d59e7f24f85c",
+            "PatchNotes": "https://trello.com/c/t88ADuUI/437-pc-ps4-ps5-xb1-xbsxs-switch-title-update-14",
+            "MainManifestID": "6095518601779259869"
+        },
+        {
+            "Name": "FC24 - Title Update 13",
+            "Size": "6.12GB",
+            "ReleasedDate": "Apr 23, 2024",
+            "DownloadURL": "https://www.mediafire.com/file/gvd0mtdsicokq5b/FC24+-+Title+Update+13.rar/file",
+            "SHA1": "462cd24a47daa01330d01be65743d7eb063b1cf1",
+            "PatchNotes": "https://trello.com/c/tZMqhkkq/435-pc-ps4-ps5-xb1-xbsxs-switch-title-update-13",
+            "MainManifestID": "7629223927663874304"
+        },
+        {
+            "Name": "FC24 - Title Update 12",
+            "Size": "6.05GB",
+            "ReleasedDate": "Apr 9, 2024",
+            "DownloadURL": "https://www.mediafire.com/file/j6a8yba18y38ksh/FC24+-+Title+Update+12.rar/file",
+            "SHA1": "b197f2fbf691c221887ad99afb89f77c04b0051d",
+            "PatchNotes": "https://trello.com/c/Qy1Ndlyz/434-pc-ps4-ps5-xb1-xbsxs-switch-title-update-12",
+            "MainManifestID": "5440356553804755180"
+        },
+        {
+            "Name": "FC24 - Title Update 11.1",
+            "Size": "5.90GB",
+            "ReleasedDate": "Mar 28, 2024",
+            "DownloadURL": "https://www.mediafire.com/file/9pgfx82nr4is9za/FC24+-+Title+Update+11.1.rar/file",
+            "SHA1": "4d756443bfd58e96594c4adda37ab4810fc9c496",
+            "PatchNotes": "https://trello.com/c/7VUsm3e2/433-pc-ps4-ps5-xb1-xbsxs-switch-title-update-111",
+            "MainManifestID": "2263342600945509775"
+        },
+        {
+            "Name": "FC24 - Title Update 11",
+            "Size": "5.89GB",
+            "ReleasedDate": "Mar 13, 2024",
+            "DownloadURL": "https://www.mediafire.com/file/i1ixavf8hvttr01/FC24+-+Title+Update+11.rar/file",
+            "SHA1": "34f7c981129f6bccb201986e603822ba88f2bac3",
+            "PatchNotes": "https://trello.com/c/wFsTuvFY/432-pc-ps4-ps5-xb1-xbsxs-switch-title-update-11",
+            "MainManifestID": "656944846414129301"
+        },
+        {
+            "Name": "FC24 - Title Update 10",
+            "Size": "5.60GB",
+            "ReleasedDate": "Mar 5, 2024",
+            "DownloadURL": "https://www.mediafire.com/file/wi0685bapbrjbcs/FC24+-+Title+Update+10.rar/file",
+            "SHA1": "edf50cdd0e246d80e4b3ce86a6344b94291fc8dc",
+            "PatchNotes": "https://trello.com/c/3TEa2OZF/425-pc-ps4-ps5-xb1-xbsxs-switch-title-update-10",
+            "MainManifestID": "5559112505409196726"
+        },
+        {
+            "Name": "FC24 - Title Update 9",
+            "Size": "5.50GB",
+            "ReleasedDate": "Feb 13, 2024",
+            "DownloadURL": "https://www.mediafire.com/file/95d2esaxhf1adci/FC24+-+Title+Update+9.rar/file",
+            "SHA1": "8f858166882265bd46f3521171220398a3c689cf",
+            "PatchNotes": "https://trello.com/c/qS9R75Ij/421-pc-ps4-ps5-xb1-xbsxs-switch-title-update-9",
+            "MainManifestID": "291040100665846987"
+        },
+        {
+            "Name": "FC24 - Title Update 8",
+            "Size": "4.48GB",
+            "ReleasedDate": "Jan 30, 2024",
+            "DownloadURL": "https://www.mediafire.com/file/z29yktxmckh9dcs/FC24+-+Title+Update+8.rar/file",
+            "SHA1": "1befe7ad1d4d0bab28cb703481a64b42d9d3fc87",
+            "PatchNotes": "https://trello.com/c/9U2nhIw6/419-pc-ps4-ps5-xb1-xbsxs-switch-title-update-8",
+            "MainManifestID": "4858108661156487264"
+        },
+        {
+            "Name": "FC24 - Title Update 7",
+            "Size": "4.48GB",
+            "ReleasedDate": "Jan 17, 2024",
+            "DownloadURL": "https://www.mediafire.com/file/z019vs5tn1pj518/FC24+-+Title+Update+7.rar/file",
+            "SHA1": "7a588316028b4b0d822d0bd37b1c83226186bb99",
+            "PatchNotes": "https://trello.com/c/Hs9F3n0p/418-pc-ps4-ps5-xb1-xbsxs-switch-title-update-7",
+            "MainManifestID": "5157628911572200293"
+        },
+        {
+            "Name": "FC24 - Title Update 6",
+            "Size": "4.05GB",
+            "ReleasedDate": "Dec 6, 2023",
+            "DownloadURL": "https://www.mediafire.com/file/pt17msuclspq127/FC24+-+Title+Update+6.rar/file",
+            "SHA1": "b8184dae4daf2660a951e35678bae374a4d6df3a",
+            "PatchNotes": "https://trello.com/c/Q0OZmWzZ/417-pc-ps4-ps5-xb1-xbsxs-switch-title-update-6",
+            "MainManifestID": "7370829040952015582"
+        },
+        {
+            "Name": "FC24 - Title Update 5",
+            "Size": "3.55GB",
+            "ReleasedDate": "Nov 9, 2023",
+            "DownloadURL": "https://www.mediafire.com/file/h4q3hv38lg6gfus/FC24+-+Title+Update+5.rar/file",
+            "SHA1": "5fb5f393723793fbd9a6e33cd0bd3d3f5eb5f517",
+            "PatchNotes": "https://trello.com/c/uclm5kl6/415-pc-ps4-ps5-xb1-xbsxs-switch-title-update-5",
+            "MainManifestID": "4396436430594944831"
+        },
+        {
+            "Name": "FC24 - Title Update 4",
+            "Size": "3.12GB",
+            "ReleasedDate": "Oct 26, 2023",
+            "DownloadURL": "https://www.mediafire.com/file/2u0f1yl9ylono8j/FC24+-+Title+Update+4.rar/file",
+            "SHA1": "038cb3670d4c4477dde659a78026ad35fb213500",
+            "PatchNotes": "https://trello.com/c/fCiCjffL/395-pc-ps4-ps5-xb1-xbsxs-switch-title-update-4",
+            "MainManifestID": "5380961293255939216"
+        },
+        {
+            "Name": "FC24 - Title Update 3",
+            "Size": "3.07GB",
+            "ReleasedDate": "Oct 12, 2023",
+            "DownloadURL": "https://www.mediafire.com/file/kw6vqqudro71ujk/FC24+-+Title+Update+3.rar/file",
+            "SHA1": "08f4637691e683920fc343cc4893e887890e6938",
+            "PatchNotes": "https://trello.com/c/hraWE6Bh/386-ps5-ps4-xb1-xbsxs-pc-switch-title-update-3",
+            "MainManifestID": "8407007393507410031"
+        },
+        {
+            "Name": "FC24 - Title Update 2",
+            "Size": "2.31GB",
+            "ReleasedDate": "Oct 2, 2023",
+            "DownloadURL": "https://www.mediafire.com/file/lbg2x5b769gcql2/FC24+-+Title+Update+2.rar/file",
+            "SHA1": "dd6cae11d94d49117c4d004777ce715d2520533d",
+            "PatchNotes": "https://trello.com/c/9VJCwqiu/382-pc-ps4-ps5-xb1-xbsxs-switch-title-update-2",
+            "MainManifestID": "2686475769366658710"
+        },
+        {
+            "Name": "FC24 - Title Update 1",
+            "Size": "2.35GB",
+            "ReleasedDate": "Sep 25, 2023",
+            "DownloadURL": "https://www.mediafire.com/file/3vk3tj6kxzy6yts/FC24+-+Title+Update+1.rar/file",
+            "SHA1": "9171ac0b7b84e68d39e9ca4fa2660cd1a6cc5bba",
+            "PatchNotes": "https://trello.com/c/85wYPYGd/374-pc-ps4-ps5-xb1-xbsxs-title-update-1",
+            "MainManifestID": "8149824371950157447"
+        },
+        {
+            "Name": "FC24 - Vanilla",
+            "Size": "2.32GB",
+            "ReleasedDate": "Sep 14, 2023",
+            "DownloadURL": "https://www.mediafire.com/file/ww71eh09g3ed0vc/FC24+-+Vanilla.rar/file",
+            "SHA1": "15beff0f5edc4274e1e1ae9ecb9a891bb9cef6f6",
+            "PatchNotes": "",
+            "MainManifestID": "430004340097024177"
+        }
+    ]
+}
