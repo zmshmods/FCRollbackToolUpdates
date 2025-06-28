@@ -1,13 +1,13 @@
 {
     "SquadsContentVersion": "25.669",
-    "SquadsContentVersionDate": "Jun 24, 2025",
+    "SquadsContentVersionDate": "Jun 28, 2025",
     "FutSquadsContentVersion": "25.66",
-    "FutSquadsContentVersionDate": "Jun 19, 2025",
+    "FutSquadsContentVersionDate": "Jun 28, 2025",
     "Squads": [
         {
             "Name": "Squads20250624000000",
             "Size": "9.80MB",
-            "ReleasedDate": "Jun 24, 2025",
+            "ReleasedDate": "Jun 28, 2025",
             "BuildDate": "Jun 24, 2025",
             "ReleasedOnTU": "16",
             "DownloadURL": "https://github.com/FCRollbackTool/FC25Squads/raw/main/result/pc64/Squads/669/Index.json",
