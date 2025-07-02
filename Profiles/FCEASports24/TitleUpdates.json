@@ -8,7 +8,7 @@
         {
             "Name": "FC24 - Title Update 19",
             "SemVer": "1.0.120.18322",
-            "PatchVer": "2285117",
+            "PatchID": "2285117",
             "Size": "7.69GB",
             "ReleasedDate": "Mar 18, 2025",
             "DownloadURL": "https://www.mediafire.com/file/xv8qeb755rv2hjy/FC24+-+Title+Update+19.rar/file",
@@ -19,7 +19,7 @@
         {
             "Name": "FC24 - Title Update 18.2",
             "SemVer": "1.0.90.31158",
-            "PatchVer": "2285220",
+            "PatchID": "2285220",
             "Size": "7.31GB",
             "ReleasedDate": "Jul 29, 2024",
             "DownloadURL": "https://www.mediafire.com/file/6awxlgjtd6dnuka/FC24+-+Title+Update+18.2.rar/file",
@@ -30,7 +30,7 @@
         {
             "Name": "FC24 - Title Update 18",
             "SemVer": "1.0.90.3389",
-            "PatchVer": "2285131",
+            "PatchID": "2285131",
             "Size": "7.29GB",
             "ReleasedDate": "Jul 23, 2024",
             "DownloadURL": "https://www.mediafire.com/file/p06iijysqsp5jo0/FC24+-+Title+Update+18.rar/file",
@@ -41,7 +41,7 @@
         {
             "Name": "FC24 - Title Update 17",
             "SemVer": "1.0.89.28334",
-            "PatchVer": "2285045",
+            "PatchID": "2285045",
             "Size": "7.28GB",
             "ReleasedDate": "Jul 3, 2024",
             "DownloadURL": "https://www.mediafire.com/file/0wbd7dojip90ie4/FC24+-+Title+Update+17.rar/file",
@@ -52,7 +52,7 @@
         {
             "Name": "FC24 - Title Update 16",
             "SemVer": "1.0.89.16451",
-            "PatchVer": "2284899",
+            "PatchID": "2284899",
             "Size": "7.26GB",
             "ReleasedDate": "Jun 19, 2024",
             "DownloadURL": "https://www.mediafire.com/file/fr487v57sveh6v5/FC24+-+Title+Update+16.rar/file",
@@ -63,7 +63,7 @@
         {
             "Name": "FC24 - Title Update 15.1",
             "SemVer": "1.0.89.6557",
-            "PatchVer": "2282701",
+            "PatchID": "2282701",
             "Size": "7.20GB",
             "ReleasedDate": "Jun 10, 2024",
             "DownloadURL": "https://www.mediafire.com/file/3e72kbttcoa8ovn/FC24+-+Title+Update+15.1.rar/file",
@@ -74,7 +74,7 @@
         {
             "Name": "FC24 - Title Update 15",
             "SemVer": "1.0.88.42253",
-            "PatchVer": "2282761",
+            "PatchID": "2282761",
             "Size": "7.21GB",
             "ReleasedDate": "Jun 6, 2024",
             "DownloadURL": "https://www.mediafire.com/file/p0il0tbrl5yb0zg/FC24+-+Title+Update+15.rar/file",
@@ -85,7 +85,7 @@
         {
             "Name": "FC24 - Title Update 14",
             "SemVer": "1.0.87.55322",
-            "PatchVer": "2265259",
+            "PatchID": "2265259",
             "Size": "6.19GB",
             "ReleasedDate": "May 7, 2024",
             "DownloadURL": "https://www.mediafire.com/file/20vmoedb4rknbqy/FC24+-+Title+Update+14.rar/file",
@@ -96,7 +96,7 @@
         {
             "Name": "FC24 - Title Update 13",
             "SemVer": "1.0.87.30122",
-            "PatchVer": "2263202",
+            "PatchID": "2263202",
             "Size": "6.12GB",
             "ReleasedDate": "Apr 23, 2024",
             "DownloadURL": "https://www.mediafire.com/file/gvd0mtdsicokq5b/FC24+-+Title+Update+13.rar/file",
@@ -107,7 +107,7 @@
         {
             "Name": "FC24 - Title Update 12",
             "SemVer": "1.0.87.7970",
-            "PatchVer": "2260116",
+            "PatchID": "2260116",
             "Size": "6.05GB",
             "ReleasedDate": "Apr 9, 2024",
             "DownloadURL": "https://www.mediafire.com/file/j6a8yba18y38ksh/FC24+-+Title+Update+12.rar/file",
@@ -118,7 +118,7 @@
         {
             "Name": "FC24 - Title Update 11.1",
             "SemVer": "1.0.86.54938",
-            "PatchVer": "2249211",
+            "PatchID": "2249211",
             "Size": "5.90GB",
             "ReleasedDate": "Mar 28, 2024",
             "DownloadURL": "https://www.mediafire.com/file/9pgfx82nr4is9za/FC24+-+Title+Update+11.1.rar/file",
@@ -129,7 +129,7 @@
         {
             "Name": "FC24 - Title Update 11",
             "SemVer": "1.0.86.43378",
-            "PatchVer": "2249164",
+            "PatchID": "2249164",
             "Size": "5.89GB",
             "ReleasedDate": "Mar 13, 2024",
             "DownloadURL": "https://www.mediafire.com/file/i1ixavf8hvttr01/FC24+-+Title+Update+11.rar/file",
@@ -140,7 +140,7 @@
         {
             "Name": "FC24 - Title Update 10",
             "SemVer": "1.0.86.18082",
-            "PatchVer": "2242449",
+            "PatchID": "2242449",
             "Size": "5.60GB",
             "ReleasedDate": "Mar 5, 2024",
             "DownloadURL": "https://www.mediafire.com/file/wi0685bapbrjbcs/FC24+-+Title+Update+10.rar/file",
@@ -151,7 +151,7 @@
         {
             "Name": "FC24 - Title Update 9",
             "SemVer": "1.0.85.48150",
-            "PatchVer": "2239088",
+            "PatchID": "2239088",
             "Size": "5.50GB",
             "ReleasedDate": "Feb 13, 2024",
             "DownloadURL": "https://www.mediafire.com/file/95d2esaxhf1adci/FC24+-+Title+Update+9.rar/file",
@@ -162,7 +162,7 @@
         {
             "Name": "FC24 - Title Update 8",
             "SemVer": "1.0.85.33923",
-            "PatchVer": "2232856",
+            "PatchID": "2232856",
             "Size": "4.48GB",
             "ReleasedDate": "Jan 30, 2024",
             "DownloadURL": "https://www.mediafire.com/file/z29yktxmckh9dcs/FC24+-+Title+Update+8.rar/file",
@@ -173,7 +173,7 @@
         {
             "Name": "FC24 - Title Update 7",
             "SemVer": "1.0.85.25441",
-            "PatchVer": "2232636",
+            "PatchID": "2232636",
             "Size": "4.48GB",
             "ReleasedDate": "Jan 17, 2024",
             "DownloadURL": "https://www.mediafire.com/file/z019vs5tn1pj518/FC24+-+Title+Update+7.rar/file",
@@ -184,7 +184,7 @@
         {
             "Name": "FC24 - Title Update 6",
             "SemVer": "1.0.84.58490",
-            "PatchVer": "2218369",
+            "PatchID": "2218369",
             "Size": "4.05GB",
             "ReleasedDate": "Dec 6, 2023",
             "DownloadURL": "https://www.mediafire.com/file/pt17msuclspq127/FC24+-+Title+Update+6.rar/file",
@@ -195,7 +195,7 @@
         {
             "Name": "FC24 - Title Update 5",
             "SemVer": "1.0.84.34605",
-            "PatchVer": "2210311",
+            "PatchID": "2210311",
             "Size": "3.55GB",
             "ReleasedDate": "Nov 9, 2023",
             "DownloadURL": "https://www.mediafire.com/file/h4q3hv38lg6gfus/FC24+-+Title+Update+5.rar/file",
@@ -206,7 +206,7 @@
         {
             "Name": "FC24 - Title Update 4",
             "SemVer": "1.0.84.28561",
-            "PatchVer": "2195970",
+            "PatchID": "2195970",
             "Size": "3.12GB",
             "ReleasedDate": "Oct 26, 2023",
             "DownloadURL": "https://www.mediafire.com/file/2u0f1yl9ylono8j/FC24+-+Title+Update+4.rar/file",
@@ -217,7 +217,7 @@
         {
             "Name": "FC24 - Title Update 3",
             "SemVer": "1.0.84.10708",
-            "PatchVer": "2193333",
+            "PatchID": "2193333",
             "Size": "3.07GB",
             "ReleasedDate": "Oct 12, 2023",
             "DownloadURL": "https://www.mediafire.com/file/kw6vqqudro71ujk/FC24+-+Title+Update+3.rar/file",
@@ -228,7 +228,7 @@
         {
             "Name": "FC24 - Title Update 2",
             "SemVer": "1.0.84.7390",
-            "PatchVer": "2183206",
+            "PatchID": "2183206",
             "Size": "2.31GB",
             "ReleasedDate": "Oct 2, 2023",
             "DownloadURL": "https://www.mediafire.com/file/lbg2x5b769gcql2/FC24+-+Title+Update+2.rar/file",
@@ -239,7 +239,7 @@
         {
             "Name": "FC24 - Title Update 1",
             "SemVer": "1.0.84.4417",
-            "PatchVer": "2183119",
+            "PatchID": "2183119",
             "Size": "2.35GB",
             "ReleasedDate": "Sep 25, 2023",
             "DownloadURL": "https://www.mediafire.com/file/3vk3tj6kxzy6yts/FC24+-+Title+Update+1.rar/file",
@@ -250,7 +250,7 @@
         {
             "Name": "FC24 - Vanilla",
             "SemVer": "1.0.83.56686",
-            "PatchVer": "2183097",
+            "PatchID": "2183097",
             "Size": "2.32GB",
             "ReleasedDate": "Sep 14, 2023",
             "DownloadURL": "https://www.mediafire.com/file/ww71eh09g3ed0vc/FC24+-+Vanilla.rar/file",

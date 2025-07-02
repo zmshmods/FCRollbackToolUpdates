@@ -7,20 +7,20 @@
     "TitleUpdates": [
         {
             "Name": "FC25 - Title Update 17",
-            "SemVer": "",
-            "PatchVer": "",
-            "Size": "",
+            "SemVer": "1.0.124.55145",
+            "PatchID": "2502566",
+            "Size": "6.90GB",
             "ReleasedDate": "Jul 2, 2025",
-            "DownloadURL": "",
-            "SHA1": "",
+            "DownloadURL": "https://www.mediafire.com/file/8rejuyt5wu9zyrb/FC25+-+Title+Update+17.rar/file",
+            "SHA1": "265626eb53418ab5cb19a545d25516702b4db79f",
             "PatchNotes": "https://trello.com/c/gA9fpAe5/533-ps5-ps4-pc-xbsxs-xb1-switch-title-update-17",
-            "MainManifestID": "",
-            "eng_usManifestID": ""
+            "MainManifestID": "7209126871482502705",
+            "eng_usManifestID": "7507771834188246941"
         },
         {
             "Name": "FC25 - Title Update 16",
             "SemVer": "1.0.124.14362",
-            "PatchVer": "2502489",
+            "PatchID": "2502489",
             "Size": "6.91GB",
             "ReleasedDate": "Jun 19, 2025",
             "DownloadURL": "https://www.mediafire.com/file/qe6mrng8x882u8b/FC25+-+Title+Update+16.rar/file",
@@ -32,7 +32,7 @@
         {
             "Name": "FC25 - Title Update 15",
             "SemVer": "1.0.123.15528",
-            "PatchVer": "2499576",
+            "PatchID": "2499576",
             "Size": "6.85GB",
             "ReleasedDate": "Jun 3, 2025",
             "DownloadURL": "https://www.mediafire.com/file/9zxo903vthtskl5/FC25+-+Title+Update+15.rar/file",
@@ -44,7 +44,7 @@
         {
             "Name": "FC25 - Title Update 14.1",
             "SemVer": "1.0.122.42314",
-            "PatchVer": "2499081",
+            "PatchID": "2499081",
             "Size": "6.81GB",
             "ReleasedDate": "May 8, 2025",
             "DownloadURL": "https://www.mediafire.com/file/c0kjcyz7dla5cip/FC25+-+Title+Update+14.1.rar/file",
@@ -56,7 +56,7 @@
         {
             "Name": "FC25 - Title Update 14",
             "SemVer": "1.0.122.27667",
-            "PatchVer": "2498900",
+            "PatchID": "2498900",
             "Size": "6.84GB",
             "ReleasedDate": "Apr 30, 2025",
             "DownloadURL": "https://www.mediafire.com/file/ly5w9hsrnqpcx1q/FC25+-+Title+Update+14.rar/file",
@@ -68,7 +68,7 @@
         {
             "Name": "FC25 - Title Update 13",
             "SemVer": "1.0.121.45135",
-            "PatchVer": "2496984",
+            "PatchID": "2496984",
             "Size": "6.75GB",
             "ReleasedDate": "Apr 16, 2025",
             "DownloadURL": "https://www.mediafire.com/file/cdtghqgtgznbo67/FC25+-+Title+Update+13.rar/file",
@@ -80,7 +80,7 @@
         {
             "Name": "FC25 - Title Update 12",
             "SemVer": "1.0.120.62184",
-            "PatchVer": "2483850",
+            "PatchID": "2483850",
             "Size": "6.57GB",
             "ReleasedDate": "Apr 1, 2025",
             "DownloadURL": "https://www.mediafire.com/file/6rkkbec25saxe9i/FC25+-+Title+Update+12.rar/file",
@@ -92,7 +92,7 @@
         {
             "Name": "FC25 - Title Update 11",
             "SemVer": "1.0.120.39585",
-            "PatchVer": "2475865",
+            "PatchID": "2475865",
             "Size": "6.43GB",
             "ReleasedDate": "Mar 17, 2025",
             "DownloadURL": "https://www.mediafire.com/file/yntxvdzse3owfjm/FC25+-+Title+Update+11.rar/file",
@@ -104,7 +104,7 @@
         {
             "Name": "FC25 - Title Update 10",
             "SemVer": "1.0.120.7387",
-            "PatchVer": "2473928",
+            "PatchID": "2473928",
             "Size": "6.34GB",
             "ReleasedDate": "Mar 11, 2025",
             "DownloadURL": "https://www.mediafire.com/file/riaji3lrh7xt8lu/FC25+-+Title+Update+10.rar/file",
@@ -116,7 +116,7 @@
         {
             "Name": "FC25 - Title Update 9.1",
             "SemVer": "1.0.119.18738",
-            "PatchVer": "2468527",
+            "PatchID": "2468527",
             "Size": "6.05GB",
             "ReleasedDate": "Feb 11, 2025",
             "DownloadURL": "https://www.mediafire.com/file/fakr3nctu5z8zv5/FC25+-+Title+Update+9.1.rar/file",
@@ -128,7 +128,7 @@
         {
             "Name": "FC25 - Title Update 9",
             "SemVer": "1.0.118.64604",
-            "PatchVer": "2468510",
+            "PatchID": "2468510",
             "Size": "6.05GB",
             "ReleasedDate": "Feb 4, 2025",
             "DownloadURL": "https://www.mediafire.com/file/v7zc5r3rxn87wag/FC25+-+Title+Update+9.rar/file",
@@ -140,7 +140,7 @@
         {
             "Name": "FC25 - Title Update 8",
             "SemVer": "1.0.118.36628",
-            "PatchVer": "2465965",
+            "PatchID": "2465965",
             "Size": "5.98GB",
             "ReleasedDate": "Jan 16, 2025",
             "DownloadURL": "https://www.mediafire.com/file/ybv39od4of65j35/FC25+-+Title+Update+8.rar/file",
@@ -152,7 +152,7 @@
         {
             "Name": "FC25 - Title Update 7",
             "SemVer": "1.0.117.63822",
-            "PatchVer": "2455706",
+            "PatchID": "2455706",
             "Size": "5.55GB",
             "ReleasedDate": "Jan 8, 2025",
             "DownloadURL": "https://www.mediafire.com/file/l59kwwg9reoneog/FC25+-+Title+Update+7.rar/file",
@@ -164,7 +164,7 @@
         {
             "Name": "FC25 - Title Update 6.1",
             "SemVer": "1.0.117.47204",
-            "PatchVer": "2449139",
+            "PatchID": "2449139",
             "Size": "5.38GB",
             "ReleasedDate": "Dec 5, 2024",
             "DownloadURL": "https://www.mediafire.com/file/8nymktbxwam2121/FC25+-+Title+Update+6.1.rar/file",
@@ -176,7 +176,7 @@
         {
             "Name": "FC25 - Title Update 6",
             "SemVer": "1.0.117.36387",
-            "PatchVer": "2449302",
+            "PatchID": "2449302",
             "Size": "5.43GB",
             "ReleasedDate": "Dec 4, 2024",
             "DownloadURL": "https://www.mediafire.com/file/hgvkdzfptfypt5u/FC25+-+Title+Update+6.rar/file",
@@ -188,7 +188,7 @@
         {
             "Name": "FC25 - Title Update 5",
             "SemVer": "1.0.117.17964",
-            "PatchVer": "2435528",
+            "PatchID": "2435528",
             "Size": "4.30GB",
             "ReleasedDate": "Nov 19, 2024",
             "DownloadURL": "https://www.mediafire.com/file/yq5zc3qk8twbqwr/FC25+-+Title+Update+5.rar/file",
@@ -200,7 +200,7 @@
         {
             "Name": "FC25 - Title Update 4",
             "SemVer": "1.0.116.40849",
-            "PatchVer": "2425177",
+            "PatchID": "2425177",
             "Size": "3.70GB",
             "ReleasedDate": "Nov 5, 2024",
             "DownloadURL": "https://www.mediafire.com/file/n9f0ml1dv6p8i0u/FC25+-+Title+Update+4.rar/file",
@@ -212,7 +212,7 @@
         {
             "Name": "FC25 - Title Update 3",
             "SemVer": "1.0.116.27276",
-            "PatchVer": "2419188",
+            "PatchID": "2419188",
             "Size": "3.40GB",
             "ReleasedDate": "Oct 17, 2024",
             "DownloadURL": "https://www.mediafire.com/file/icyqfdhg2yafol2/FC25+-+Title+Update+3.rar/file",
@@ -224,7 +224,7 @@
         {
             "Name": "FC25 - Title Update 2",
             "SemVer": "1.0.116.10209",
-            "PatchVer": "2414078",
+            "PatchID": "2414078",
             "Size": "2.81GB",
             "ReleasedDate": "Oct 1, 2024",
             "DownloadURL": "https://www.mediafire.com/file/3sms23eqg0zjsrl/FC25+-+Title+Update+2.rar/file",
@@ -236,7 +236,7 @@
         {
             "Name": "FC25 - Title Update 1",
             "SemVer": "1.0.116.295",
-            "PatchVer": "2414117",
+            "PatchID": "2414117",
             "Size": "2.80GB",
             "ReleasedDate": "Sep 25, 2024",
             "DownloadURL": "https://www.mediafire.com/file/zrl2qm5dz2pwpdq/FC25+-+Title+Update+1.rar/file",
