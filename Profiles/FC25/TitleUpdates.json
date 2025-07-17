@@ -7,11 +7,11 @@
     "TitleUpdates": [
         {
             "Name": "FC25 - Title Update 18",
-            "SemVer": "",
-            "PatchID": "",
-            "Size": "",
+            "SemVer": "1.0.125.50743",
+            "PatchID": "2502668",
+            "Size": "6.92",
             "ReleasedDate": "Jul 17, 2025",
-            "DownloadURL": "",
+            "DownloadURL": "https://www.mediafire.com/file/i7mqkw5hsx9rrae/FC25+-+Title+Update+18.rar/file",
             "SHA1": "bf0ec6911b026577f0fc245456ed42363b175f23",
             "PatchNotes": "https://trello.com/c/A8PAB5lA/534-ps5-ps4-pc-xbsxs-xb1-switch-title-update-18",
             "MainManifestID": "6062126115671176041",
