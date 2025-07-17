@@ -1,0 +1,910 @@
+{
+    "id": "670d398b217e4fa01c9091d7",
+    "address": null,
+    "badges": {
+        "attachments": 1,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "description": true,
+        "due": null,
+        "dueComplete": false,
+        "lastUpdatedByAi": false,
+        "start": null,
+        "attachmentsByType": {
+            "trello": {
+                "board": 0,
+                "card": 0
+            }
+        },
+        "externalSource": null,
+        "location": false,
+        "votes": 0,
+        "maliciousAttachments": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false
+    },
+    "checkItemStates": [],
+    "closed": false,
+    "coordinates": null,
+    "creationMethod": null,
+    "creationMethodError": null,
+    "creationMethodLoadingStartedAt": null,
+    "dueComplete": false,
+    "dateClosed": null,
+    "dateLastActivity": "2024-11-19T10:19:43.390Z",
+    "dateCompleted": null,
+    "dateViewedByCreator": null,
+    "desc": "EA SPORTS FC 25 Title Update 3 is now available for all versions of EA SPORTS FC 25. It includes the changes below.\n\n### Gameplay\n\nMade the following changes:\n\n- Reduced accuracy of First Time Lobbed Through Passes including when performed at extreme angles.\n  - This change is most noticeable for players with high passing Attributes.\n- Greatly reduced potential accuracy of Trivelas.\n- Greatly increased width of the defensive line for 5 defender formations.\n- Reduced potential accuracy of Driven Passes.\n- Increased the frequency of attacking runs for AI players in the following roles: Shadow Striker, Inside Forward Attack, Inside Forward Roaming, Wide Playmaker Attack, and Wingbacks in scenarios with open space ahead of them.\n- Improved AI player decision making when considering diagonal runs into open space, and when considering runs into nearby open space.\n- Improved accuracy of shots taken in situations where the player is not being pressured and generally has a clear line of sight on goal, including 1 on 1 situations and open goals.\n- Improved AI Center Back decision making when attempting to provide a safe option for a pass.\n- Improved AI player recognition of offside situations.\n- The CPU AI will look to further prioritize passing during build up play instead of dribbling.\n- Reduced the speed of some slide tackling animations.\n- Slightly increased clearance accuracy.\n- Reduced Ground Pass and Through Pass ball velocity in wet weather.\n\n‌\n\nAddressed the following issues:\n\n- During some long distance shots and corners, goalkeepers faced away from the ball unintentionally.\n- In some cases, defenders could have turned and faced away from the ball instead of trying to intercept a pass.\n- Right Wing Inside Forward AI players did not always position themselves as intended.\n- Improved referee decision making when calling for fouls and penalty kicks.\n- During a match, Half Wingers could not have changed sides when swapped with their counterparts in Team Management.\n- Players could have sometimes lost the ball too easily when making physical contact during a Skill Move.\n- In some scenarios goalkeepers were attempting to punch or deflect the ball instead of catching it.\n- Some passes could have resulted in the ball traveling faster than intended.\n- The CPU AI incorrectly ignored certain Skill Moves and did not perform them.\n- When remaining in control of the ball after a tackle attempt by the defender, a requested Lob Pass could have taken longer to execute than intended.\n- Some passes could have been more accurate than intended.\n- Improved animations that can occur when performing short passes.\n- In rare scenarios, the user could have lost control of a player receiving a pass.\n- During Set Pieces, an incorrect off the ball player animation could have occurred.\n- Goalkeepers could have sometimes unintentionally dived the wrong way when attempting to make a save.\n- In some dribbling situations, the CPU AI did not attempt to challenge for the ball against a user controller player.\n- In rare cases, goalkeepers could have gotten stuck around their goal posts when attempting to make a save.\n- Sometimes, automatic clearance animations were occurring outside of intended heading and goal line clearance situations.\n- The CPU Slider for Skill Moves previously only applied to Legendary difficulty.\n- Improved goalkeeper animations when dribbling with the ball.\n- The ball could have passed through a goalkeeper in some rare scenarios.\n- In some rare situations, players’ feet could have gotten stuck around goal posts instead of attempting to hit the ball.\n- During Rush penalties, the goalkeeper could have sometimes moved off the line and gotten stuck.\n- During Rush corners, players could have incorrectly positioned and continuously readjusted themselves until the corner was taken.\n- In certain scenarios, the opposing goalkeeper could have been controlled during set pieces by all players in a match.\n- During penalty kicks, players outside of the box did not always perform the correct idle animations.\n- When a Free Kick timed out, sometimes the automatic action could have resulted in a pass instead of an inaccurate shot.\n- Players could have run up directly to the set piece taker in some scenarios, ignoring the minimum distance they must keep.\n- Sometimes, sliding or falling shot animations could have occurred unintentionally.\n- In some cases, defenders going to ground could have applied more pressure to the ball carrier than intended.\n- Addressed instances of player switching not functioning as intended.\n\n### Ultimate Team\n\nAddressed the following issues:\n\n- Attribute upgrades were not showing in the Player Bio when using an upgraded Evolution Item in another Evolution.\n- A stability issue could have occurred when claiming Season Pass, Objective, and Milestone Rewards.\n- After creating a Squad in Single Player Ultimate Draft, new tactics could not be created on the team management screen.\n- Loan Player Items in Seasonal Objectives were showing as having 0 contracts, this was a visual issue only.\n- Sometimes, the Objective notification would still be present even if all Objectives were claimed.\n- A stability issue could have occurred after swapping players and then making tactical changes in Ultimate Draft.\n- If a player forfeited a Rush match, they were not able to party up with their original group again with a new invite.\n- In rare situations, a Player Bio can be displayed after returning after Pack Preview.\n- After completing the onboarding in Ultimate Team, Learn and Upgrade was sending players to the FC Hub.\n- Stadium Items set to active on the New Items screen were not applied.\n- A Season Pass screen could have displayed when an Objective reward was claimed.\n- Sometimes, the match result was displayed when waiting in the match lobby.\n- In Evolutions, Role rewards did not display + or ++ symbols.\n- Some Stadium Items were showing a placeholder image on the Item.\n- In some circumstances, it was not possible to navigate to the SBC Storage.\n- Addressed instances of players not being able to preview rewards in the Season Pass.\n- Player profiles could overlap with Club Badges in the Rush lobby.\n- Sometimes, a Custom Tactics share code could have disappeared.\n- A player could have been assigned more than one Corner Kick Instruction.\n- Sometimes, a Goalkeeper could have come up for a corner kick unintentionally.\n- Addressed instances of stability issues when navigating SBCs.\n\n‌\n\n### Clubs\n\nAddressed the following issues:\n\n- In a rare scenario, an incorrect match result was shown when the opposing team left the match.\n- Drop-in matches didn’t proceed to penalties if Golden Goal Extra Time ended in a draw.\n- CAM Avatars could have been placed in incorrect positions when selecting the Any option in some cases.\n- The Captain was not always able to interact with Quick Tactics.\n- Highlights in Rush displayed an incorrect time format.\n- After getting a Match Rating of 10 in Rush, it was not possible for it to decrease during the match.\n- Addressed a stability issue when using the Reset Tactic option.\n- In Rush, the pop-up message to join the team voice channel did not always display.\n- In certain situations, a Waiting for Clubmates message would display at the end of a match.\n\n### Career Mode\n\nMade the following changes:\n\n- The Simulation gameplay preset is now the default for new Career Mode saves.\n- Added multiple settings when creating a new Career Mode save, including the ability to disable Club Growth Board Objectives.\n\n‌\n\nAddressed the following issues:\n\n- Improved Growth Plan logic for secondary positions in Manager Career.\n- Addressed instances of social media posts not displaying as intended.\n- Youth Academy goalkeepers had lower Diving Attributes than intended.\n- Addressed an instance of conversations interrupting Calendar time advancement.\n- Youth Academy surnames could have repeated too often.\n- Sometimes in Manager Career, the Player of the Month award was not present.\n- In Player Career, created Players were not always displaying correctly.\n- Addressed instances of incorrect camera angles.\n- Addressed instances of Manager customization not displaying as intended.\n- In some cases, the Transfer tab could have been inactive.\n- Improved some UI transitions.\n- A stability issue could have occurred when firing a Scout.\n- Improved social media comment context.\n- The audio for goal sounds could play at inconsistent volumes.\n- Updated Youth Academy player body types.\n- Addressed visual issues when customizing players.\n- Addressed an instance of an incorrect task present in Women’s Player Career.\n- Addressed instances of Team Sheets not functioning as intended.\n\n### General, Audio, and Visual\n\nMade the following changes:\n\n- Added setting for toggling the teammate press indicator on and off.\n\n- Updated some art and UI elements, balls, badges, placeholder text, QR codes, kits, accessibility settings, stadia, audio and commentary, crowds, star heads, camera angles, and visual effects.\n\n‌\n\nAddressed the following issues:\n\n- Sideline players and staff did not always react to shots as intended.\n- During Tournament matches, an NPC could have appeared standing in the middle of the pitch.\n- Adjusted the timing window for Suggested Tactic pop ups in game.\n- Addressed instances of incorrect lighting.\n- Sometimes after using the Rewind functionality, the EA connect widget can appear during gameplay\n- When connecting online in Kick Off, Main Menu settings could have overwritten Kick Off settings.\n- Some Tactical Suggestions did not display the Substitutions option.\n- In Kick Off some player roles were not highlighted when playing them in their preferred position.\n- Addressed instances of UI not displaying or functioning as intended.\n- In Learn To Play Rush, the game could have started on a full-size pitch.\n- [Xbox Only] The Online Seasons Leaderboard did not update correctly.\n- In Kick Off, the CDM role was not shown as an option in some formations.\n- When switching the player role from Goalkeeper to an outfield position in the create Avatar screen, the option to change gloves was not available.\n- The Lob Pass Skill Game did not always calculate scoring correctly.\n\n‌\n\nThanks to those who’ve provided and continue to provide feedback. Throughout the course of the EA SPORTS FC 25 season, we'll provide you with more information and updates if and when they become available. Be sure to follow \\@‌EASFCDIRECT on X and to check out the EA SPORTS FC Tracker for the latest news and updates.\n\n‌\n\n- The EA SPORTS FC Team",
+    "descData": {
+        "emoji": {}
+    },
+    "due": null,
+    "dueReminder": null,
+    "email": null,
+    "externalSource": null,
+    "idBoard": "5f73f7c1b4c1280a7068df5f",
+    "idChecklists": [],
+    "idLabels": [
+        "5f73f7c1b4c1280a7068dfeb",
+        "66b64c66fe2b82a1a0bd8245"
+    ],
+    "idList": "66e9a32579095e09d37ffc55",
+    "idMemberCreator": "5c48831d226ccb5009c3b830",
+    "idMembers": [],
+    "idMembersVoted": [],
+    "idOrganization": "6137a564cb8f6432c89f8977",
+    "idShort": 490,
+    "idAttachmentCover": "670d39d015df7f8082268451",
+    "labels": [
+        {
+            "id": "5f73f7c1b4c1280a7068dfeb",
+            "idBoard": "5f73f7c1b4c1280a7068df5f",
+            "idOrganization": "6137a564cb8f6432c89f8977",
+            "name": "Title Update",
+            "nodeId": "ari:cloud:trello::label/workspace/6137a564cb8f6432c89f8977/5f73f7c1b4c1280a7068dfeb",
+            "color": "green",
+            "uses": 181
+        },
+        {
+            "id": "66b64c66fe2b82a1a0bd8245",
+            "idBoard": "5f73f7c1b4c1280a7068df5f",
+            "idOrganization": "6137a564cb8f6432c89f8977",
+            "name": "EA SPORTS FC 25",
+            "nodeId": "ari:cloud:trello::label/workspace/6137a564cb8f6432c89f8977/66b64c66fe2b82a1a0bd8245",
+            "color": "black_dark",
+            "uses": 76
+        }
+    ],
+    "limits": {
+        "attachments": {
+            "perCard": {
+                "status": "ok",
+                "disableAt": 1000,
+                "warnAt": 800
+            }
+        },
+        "checklists": {
+            "perCard": {
+                "status": "ok",
+                "disableAt": 500,
+                "warnAt": 400
+            }
+        },
+        "stickers": {
+            "perCard": {
+                "status": "ok",
+                "disableAt": 70,
+                "warnAt": 56
+            }
+        }
+    },
+    "locationName": null,
+    "manualCoverAttachment": true,
+    "name": "[PS5/PS4/PC/XBSX|S/XB1/SWITCH] Title Update #3",
+    "nodeId": "ari:cloud:trello::card/workspace/6137a564cb8f6432c89f8977/670d398b217e4fa01c9091d7",
+    "pinned": false,
+    "pos": 262144,
+    "shortLink": "hK1PJgJ9",
+    "shortUrl": "https://trello.com/c/hK1PJgJ9",
+    "singleInstrumentationId": null,
+    "sourceEmail": null,
+    "staticMapUrl": null,
+    "start": null,
+    "subscribed": null,
+    "url": "https://trello.com/c/hK1PJgJ9/490-ps5-ps4-pc-xbsxs-xb1-switch-title-update-3",
+    "cover": {
+        "idAttachment": "670d39d015df7f8082268451",
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "dark",
+        "scaled": [
+            {
+                "id": "670d39d115df7f8082268458",
+                "_id": "670d39d115df7f8082268458",
+                "scaled": false,
+                "url": "https://trello.com/1/cards/670d398b217e4fa01c9091d7/attachments/670d39d015df7f8082268451/previews/670d39d115df7f8082268458/download/FC_25_TU_3.png",
+                "bytes": 2675,
+                "height": 50,
+                "width": 70
+            },
+            {
+                "id": "670d39d115df7f808226845a",
+                "_id": "670d39d115df7f808226845a",
+                "scaled": true,
+                "url": "https://trello.com/1/cards/670d398b217e4fa01c9091d7/attachments/670d39d015df7f8082268451/previews/670d39d115df7f808226845a/download/FC_25_TU_3.png",
+                "bytes": 8505,
+                "height": 46,
+                "width": 150
+            },
+            {
+                "id": "670d39d115df7f8082268459",
+                "_id": "670d39d115df7f8082268459",
+                "scaled": false,
+                "url": "https://trello.com/1/cards/670d398b217e4fa01c9091d7/attachments/670d39d015df7f8082268451/previews/670d39d115df7f8082268459/download/FC_25_TU_3.png",
+                "bytes": 19660,
+                "height": 150,
+                "width": 250
+            },
+            {
+                "id": "670d39d115df7f808226845b",
+                "_id": "670d39d115df7f808226845b",
+                "scaled": true,
+                "url": "https://trello.com/1/cards/670d398b217e4fa01c9091d7/attachments/670d39d015df7f8082268451/previews/670d39d115df7f808226845b/download/FC_25_TU_3.png",
+                "bytes": 26419,
+                "height": 91,
+                "width": 299
+            },
+            {
+                "id": "670d39d115df7f808226845c",
+                "_id": "670d39d115df7f808226845c",
+                "scaled": true,
+                "url": "https://trello.com/1/cards/670d398b217e4fa01c9091d7/attachments/670d39d015df7f8082268451/previews/670d39d115df7f808226845c/download/FC_25_TU_3.png",
+                "bytes": 99901,
+                "height": 183,
+                "width": 600
+            },
+            {
+                "id": "670d39d115df7f808226845d",
+                "_id": "670d39d115df7f808226845d",
+                "scaled": true,
+                "url": "https://trello.com/1/cards/670d398b217e4fa01c9091d7/attachments/670d39d015df7f8082268451/previews/670d39d115df7f808226845d/download/FC_25_TU_3.png",
+                "bytes": 334197,
+                "height": 329,
+                "width": 1080
+            },
+            {
+                "id": "670d39d115df7f808226845e",
+                "_id": "670d39d115df7f808226845e",
+                "scaled": true,
+                "url": "https://trello.com/1/cards/670d398b217e4fa01c9091d7/attachments/670d39d015df7f8082268451/previews/670d39d115df7f808226845e/download/FC_25_TU_3.png",
+                "bytes": 334197,
+                "height": 329,
+                "width": 1080
+            }
+        ],
+        "idPlugin": null
+    },
+    "isTemplate": false,
+    "cardRole": null,
+    "mirrorSourceId": null,
+    "mirrorSourceNodeId": null,
+    "checklists": [],
+    "customFieldItems": [],
+    "members": [],
+    "pluginData": [],
+    "actions": [
+        {
+            "id": "673c663fc0fe75435def35f2",
+            "idMemberCreator": "5c48831d226ccb5009c3b830",
+            "data": {
+                "card": {
+                    "pos": 17407.984375,
+                    "id": "670d398b217e4fa01c9091d7",
+                    "name": "[PS5/PS4/PC/XBSX|S/XB1/SWITCH] Title Update #3",
+                    "idShort": 490,
+                    "shortLink": "hK1PJgJ9"
+                },
+                "old": {
+                    "pos": 8191.9375
+                },
+                "board": {
+                    "id": "5f73f7c1b4c1280a7068df5f",
+                    "name": "EA SPORTS FC Tracker",
+                    "shortLink": "keigLn6R"
+                },
+                "list": {
+                    "id": "66e9a32579095e09d37ffc55",
+                    "name": "Game Updates"
+                }
+            },
+            "appCreator": null,
+            "type": "updateCard",
+            "date": "2024-11-19T10:19:43.416Z",
+            "limits": null,
+            "memberCreator": {
+                "id": "5c48831d226ccb5009c3b830",
+                "activityBlocked": false,
+                "avatarHash": "65b8551dba3917ec1acddcfa24cd1bea",
+                "avatarUrl": "https://trello-members.s3.amazonaws.com/5c48831d226ccb5009c3b830/65b8551dba3917ec1acddcfa24cd1bea",
+                "fullName": "Paul Murphy",
+                "idMemberReferrer": null,
+                "initials": "PM",
+                "nonPublic": {},
+                "nonPublicAvailable": true,
+                "username": "pmurphy_liveops"
+            }
+        },
+        {
+            "id": "673c663ec0fe75435def2ff0",
+            "idMemberCreator": "5c48831d226ccb5009c3b830",
+            "data": {
+                "card": {
+                    "idList": "66e9a32579095e09d37ffc55",
+                    "id": "670d398b217e4fa01c9091d7",
+                    "name": "[PS5/PS4/PC/XBSX|S/XB1/SWITCH] Title Update #3",
+                    "idShort": 490,
+                    "shortLink": "hK1PJgJ9"
+                },
+                "old": {
+                    "idList": "5f73f7c1b4c1280a7068df61"
+                },
+                "board": {
+                    "id": "5f73f7c1b4c1280a7068df5f",
+                    "name": "EA SPORTS FC Tracker",
+                    "shortLink": "keigLn6R"
+                },
+                "listBefore": {
+                    "id": "5f73f7c1b4c1280a7068df61",
+                    "name": "Latest News"
+                },
+                "listAfter": {
+                    "id": "66e9a32579095e09d37ffc55",
+                    "name": "Game Updates"
+                }
+            },
+            "appCreator": null,
+            "type": "updateCard",
+            "date": "2024-11-19T10:19:42.040Z",
+            "limits": null,
+            "memberCreator": {
+                "id": "5c48831d226ccb5009c3b830",
+                "activityBlocked": false,
+                "avatarHash": "65b8551dba3917ec1acddcfa24cd1bea",
+                "avatarUrl": "https://trello-members.s3.amazonaws.com/5c48831d226ccb5009c3b830/65b8551dba3917ec1acddcfa24cd1bea",
+                "fullName": "Paul Murphy",
+                "idMemberReferrer": null,
+                "initials": "PM",
+                "nonPublic": {},
+                "nonPublicAvailable": true,
+                "username": "pmurphy_liveops"
+            }
+        },
+        {
+            "id": "6711520f0ac9d0929331b449",
+            "idMemberCreator": "5d5b1beea30eaf1b648e6ee7",
+            "data": {
+                "card": {
+                    "desc": "EA SPORTS FC 25 Title Update 3 is now available for all versions of EA SPORTS FC 25. It includes the changes below.\n\n### Gameplay\n\nMade the following changes:\n\n- Reduced accuracy of First Time Lobbed Through Passes including when performed at extreme angles.\n  - This change is most noticeable for players with high passing Attributes.\n- Greatly reduced potential accuracy of Trivelas.\n- Greatly increased width of the defensive line for 5 defender formations.\n- Reduced potential accuracy of Driven Passes.\n- Increased the frequency of attacking runs for AI players in the following roles: Shadow Striker, Inside Forward Attack, Inside Forward Roaming, Wide Playmaker Attack, and Wingbacks in scenarios with open space ahead of them.\n- Improved AI player decision making when considering diagonal runs into open space, and when considering runs into nearby open space.\n- Improved accuracy of shots taken in situations where the player is not being pressured and generally has a clear line of sight on goal, including 1 on 1 situations and open goals.\n- Improved AI Center Back decision making when attempting to provide a safe option for a pass.\n- Improved AI player recognition of offside situations.\n- The CPU AI will look to further prioritize passing during build up play instead of dribbling.\n- Reduced the speed of some slide tackling animations.\n- Slightly increased clearance accuracy.\n- Reduced Ground Pass and Through Pass ball velocity in wet weather.\n\n‌\n\nAddressed the following issues:\n\n- During some long distance shots and corners, goalkeepers faced away from the ball unintentionally.\n- In some cases, defenders could have turned and faced away from the ball instead of trying to intercept a pass.\n- Right Wing Inside Forward AI players did not always position themselves as intended.\n- Improved referee decision making when calling for fouls and penalty kicks.\n- During a match, Half Wingers could not have changed sides when swapped with their counterparts in Team Management.\n- Players could have sometimes lost the ball too easily when making physical contact during a Skill Move.\n- In some scenarios goalkeepers were attempting to punch or deflect the ball instead of catching it.\n- Some passes could have resulted in the ball traveling faster than intended.\n- The CPU AI incorrectly ignored certain Skill Moves and did not perform them.\n- When remaining in control of the ball after a tackle attempt by the defender, a requested Lob Pass could have taken longer to execute than intended.\n- Some passes could have been more accurate than intended.\n- Improved animations that can occur when performing short passes.\n- In rare scenarios, the user could have lost control of a player receiving a pass.\n- During Set Pieces, an incorrect off the ball player animation could have occurred.\n- Goalkeepers could have sometimes unintentionally dived the wrong way when attempting to make a save.\n- In some dribbling situations, the CPU AI did not attempt to challenge for the ball against a user controller player.\n- In rare cases, goalkeepers could have gotten stuck around their goal posts when attempting to make a save.\n- Sometimes, automatic clearance animations were occurring outside of intended heading and goal line clearance situations.\n- The CPU Slider for Skill Moves previously only applied to Legendary difficulty.\n- Improved goalkeeper animations when dribbling with the ball.\n- The ball could have passed through a goalkeeper in some rare scenarios.\n- In some rare situations, players’ feet could have gotten stuck around goal posts instead of attempting to hit the ball.\n- During Rush penalties, the goalkeeper could have sometimes moved off the line and gotten stuck.\n- During Rush corners, players could have incorrectly positioned and continuously readjusted themselves until the corner was taken.\n- In certain scenarios, the opposing goalkeeper could have been controlled during set pieces by all players in a match.\n- During penalty kicks, players outside of the box did not always perform the correct idle animations.\n- When a Free Kick timed out, sometimes the automatic action could have resulted in a pass instead of an inaccurate shot.\n- Players could have run up directly to the set piece taker in some scenarios, ignoring the minimum distance they must keep.\n- Sometimes, sliding or falling shot animations could have occurred unintentionally.\n- In some cases, defenders going to ground could have applied more pressure to the ball carrier than intended.\n- Addressed instances of player switching not functioning as intended.\n\n### Ultimate Team\n\nAddressed the following issues:\n\n- Attribute upgrades were not showing in the Player Bio when using an upgraded Evolution Item in another Evolution.\n- A stability issue could have occurred when claiming Season Pass, Objective, and Milestone Rewards.\n- After creating a Squad in Single Player Ultimate Draft, new tactics could not be created on the team management screen.\n- Loan Player Items in Seasonal Objectives were showing as having 0 contracts, this was a visual issue only.\n- Sometimes, the Objective notification would still be present even if all Objectives were claimed.\n- A stability issue could have occurred after swapping players and then making tactical changes in Ultimate Draft.\n- If a player forfeited a Rush match, they were not able to party up with their original group again with a new invite.\n- In rare situations, a Player Bio can be displayed after returning after Pack Preview.\n- After completing the onboarding in Ultimate Team, Learn and Upgrade was sending players to the FC Hub.\n- Stadium Items set to active on the New Items screen were not applied.\n- A Season Pass screen could have displayed when an Objective reward was claimed.\n- Sometimes, the match result was displayed when waiting in the match lobby.\n- In Evolutions, Role rewards did not display + or ++ symbols.\n- Some Stadium Items were showing a placeholder image on the Item.\n- In some circumstances, it was not possible to navigate to the SBC Storage.\n- Addressed instances of players not being able to preview rewards in the Season Pass.\n- Player profiles could overlap with Club Badges in the Rush lobby.\n- Sometimes, a Custom Tactics share code could have disappeared.\n- A player could have been assigned more than one Corner Kick Instruction.\n- Sometimes, a Goalkeeper could have come up for a corner kick unintentionally.\n- Addressed instances of stability issues when navigating SBCs.\n\n‌\n\n### Clubs\n\nAddressed the following issues:\n\n- In a rare scenario, an incorrect match result was shown when the opposing team left the match.\n- Drop-in matches didn’t proceed to penalties if Golden Goal Extra Time ended in a draw.\n- CAM Avatars could have been placed in incorrect positions when selecting the Any option in some cases.\n- The Captain was not always able to interact with Quick Tactics.\n- Highlights in Rush displayed an incorrect time format.\n- After getting a Match Rating of 10 in Rush, it was not possible for it to decrease during the match.\n- Addressed a stability issue when using the Reset Tactic option.\n- In Rush, the pop-up message to join the team voice channel did not always display.\n- In certain situations, a Waiting for Clubmates message would display at the end of a match.\n\n### Career Mode\n\nMade the following changes:\n\n- The Simulation gameplay preset is now the default for new Career Mode saves.\n- Added multiple settings when creating a new Career Mode save, including the ability to disable Club Growth Board Objectives.\n\n‌\n\nAddressed the following issues:\n\n- Improved Growth Plan logic for secondary positions in Manager Career.\n- Addressed instances of social media posts not displaying as intended.\n- Youth Academy goalkeepers had lower Diving Attributes than intended.\n- Addressed an instance of conversations interrupting Calendar time advancement.\n- Youth Academy surnames could have repeated too often.\n- Sometimes in Manager Career, the Player of the Month award was not present.\n- In Player Career, created Players were not always displaying correctly.\n- Addressed instances of incorrect camera angles.\n- Addressed instances of Manager customization not displaying as intended.\n- In some cases, the Transfer tab could have been inactive.\n- Improved some UI transitions.\n- A stability issue could have occurred when firing a Scout.\n- Improved social media comment context.\n- The audio for goal sounds could play at inconsistent volumes.\n- Updated Youth Academy player body types.\n- Addressed visual issues when customizing players.\n- Addressed an instance of an incorrect task present in Women’s Player Career.\n- Addressed instances of Team Sheets not functioning as intended.\n\n### General, Audio, and Visual\n\nMade the following changes:\n\n- Added setting for toggling the teammate press indicator on and off.\n\n- Updated some art and UI elements, balls, badges, placeholder text, QR codes, kits, accessibility settings, stadia, audio and commentary, crowds, star heads, camera angles, and visual effects.\n\n‌\n\nAddressed the following issues:\n\n- Sideline players and staff did not always react to shots as intended.\n- During Tournament matches, an NPC could have appeared standing in the middle of the pitch.\n- Adjusted the timing window for Suggested Tactic pop ups in game.\n- Addressed instances of incorrect lighting.\n- Sometimes after using the Rewind functionality, the EA connect widget can appear during gameplay\n- When connecting online in Kick Off, Main Menu settings could have overwritten Kick Off settings.\n- Some Tactical Suggestions did not display the Substitutions option.\n- In Kick Off some player roles were not highlighted when playing them in their preferred position.\n- Addressed instances of UI not displaying or functioning as intended.\n- In Learn To Play Rush, the game could have started on a full-size pitch.\n- [Xbox Only] The Online Seasons Leaderboard did not update correctly.\n- In Kick Off, the CDM role was not shown as an option in some formations.\n- When switching the player role from Goalkeeper to an outfield position in the create Avatar screen, the option to change gloves was not available.\n- The Lob Pass Skill Game did not always calculate scoring correctly.\n\n‌\n\nThanks to those who’ve provided and continue to provide feedback. Throughout the course of the EA SPORTS FC 25 season, we'll provide you with more information and updates if and when they become available. Be sure to follow \\@‌EASFCDIRECT on X and to check out the EA SPORTS FC Tracker for the latest news and updates.\n\n‌\n\n- The EA SPORTS FC Team",
+                    "id": "670d398b217e4fa01c9091d7",
+                    "name": "[PS5/PS4/PC/XBSX|S/XB1/SWITCH] Title Update #3",
+                    "idShort": 490,
+                    "shortLink": "hK1PJgJ9"
+                },
+                "old": {
+                    "desc": "EA SPORTS FC 25 Title Update 3 is now available for all versions of EA SPORTS FC 25. It includes the changes below.\n\n### Gameplay\n\nMade the following changes:\n\n- Reduced accuracy of First Time Lobbed Through Passes including when performed at extreme angles.\n  - This change is most noticeable for players with high passing Attributes.\n- Greatly reduced potential accuracy of Trivelas.\n- Greatly increased width of the defensive line for 5 defender formations.\n- Reduced potential accuracy of Driven Passes.\n- Increased the frequency of attacking runs for AI players in the following roles: Shadow Striker, Inside Forward Attack, Inside Forward Roaming, Wide Playmaker Attack, and Wingbacks in scenarios with open space ahead of them.\n- Improved AI player decision making when considering diagonal runs into open space, and when considering runs into nearby open space.\n- Improved accuracy of shots taken in situations where the player is not being pressured and generally has a clear line of sight on goal, including 1 on 1 situations and open goals.\n- Improved AI Center Back decision making when attempting to provide a safe option for a pass.\n- Improved AI player recognition of offside situations.\n- The CPU AI will look to further prioritize passing during build up play instead of dribbling.\n- Reduced the speed of some slide tackling animations.\n- Slightly increased clearance accuracy.\n- Reduced Ground Pass and Through Pass ball velocity in wet weather.\n\n‌\n\nAddressed the following issues:\n\n- During some long distance shots and corners, goalkeepers faced away from the ball unintentionally.\n- In some cases, defenders could have turned and faced away from the ball instead of trying to intercept a pass.\n- Right Wing Inside Forward AI players did not always position themselves as intended.\n- Improved referee decision making when calling for fouls and penalty kicks.\n- During a match, Half Wingers could not have changed sides when swapped with their counterparts in Team Management.\n- Players could have sometimes lost the ball too easily when making physical contact during a Skill Move.\n- In some scenarios goalkeepers were attempting to punch or deflect the ball instead of catching it.\n- Some passes could have resulted in the ball traveling faster than intended.\n- The CPU AI incorrectly ignored certain Skill Moves and did not perform them.\n- When remaining in control of the ball after a tackle attempt by the defender, a requested Lob Pass could have taken longer to execute than intended.\n- Some passes could have been more accurate than intended.\n- Improved animations that can occur when performing short passes.\n- In rare scenarios, the user could have lost control of a player receiving a pass.\n- During Set Pieces, an incorrect off the ball player animation could have occurred.\n- Goalkeepers could have sometimes unintentionally dived the wrong way when attempting to make a save.\n- In some dribbling situations, the CPU AI did not attempt to challenge for the ball against a user controller player.\n- In rare cases, goalkeepers could have gotten stuck around their goal posts when attempting to make a save.\n- Sometimes, automatic clearance animations were occurring outside of intended heading and goal line clearance situations.\n- The CPU Slider for Skill Moves previously only applied to Legendary difficulty.\n- Improved goalkeeper animations when dribbling with the ball.\n- The ball could have passed through a goalkeeper in some rare scenarios.\n- In some rare situations, players’ feet could have gotten stuck around goal posts instead of attempting to hit the ball.\n- During Rush penalties, the goalkeeper could have sometimes moved off the line and gotten stuck.\n- During Rush corners, players could have incorrectly positioned and continuously readjusted themselves until the corner was taken.\n- In certain scenarios, the opposing goalkeeper could have been controlled during set pieces by all players in a match.\n- During penalty kicks, players outside of the box did not always perform the correct idle animations.\n- When a Free Kick timed out, sometimes the automatic action could have resulted in a pass instead of an inaccurate shot.\n- Players could have run up directly to the set piece taker in some scenarios, ignoring the minimum distance they must keep.\n- Sometimes, sliding or falling shot animations could have occurred unintentionally.\n- In some cases, defenders going to ground could have applied more pressure to the ball carrier than intended.\n- Addressed instances of player switching not functioning as intended.\n\n### Ultimate Team\n\nAddressed the following issues:\n\n- Attribute upgrades were not showing in the Player Bio when using an upgraded Evolution Item in another Evolution.\n- A stability issue could have occurred when claiming Season Pass, Objective, and Milestone Rewards.\n- After creating a Squad in Single Player Ultimate Draft, new tactics could not be created on the team management screen.\n- Loan Player Items in Seasonal Objectives were showing as having 0 contracts, this was a visual issue only.\n- Sometimes, the Objective notification would still be present even if all Objectives were claimed.\n- A stability issue could have occurred after swapping players and then making tactical changes in Ultimate Draft.\n- If a player forfeited a Rush match, they were not able to party up with their original group again with a new invite.\n- In rare situations, a Player Bio can be displayed after returning after Pack Preview.\n- After completing the onboarding in Ultimate Team, Learn and Upgrade was sending players to the FC Hub.\n- Stadium Items set to active on the New Items screen were not applied.\n- A Season Pass screen could have displayed when an Objective reward was claimed.\n- Sometimes, the match result was displayed when waiting in the match lobby.\n- In Evolutions, Role rewards did not display + or ++ symbols.\n- Some Stadium Items were showing a placeholder image on the Item.\n- In some circumstances, it was not possible to navigate to the SBC Storage.\n- Addressed instances of players not being able to preview rewards in the Season Pass.\n- Player profiles could overlap with Club Badges in the Rush lobby.\n- Sometimes, a Custom Tactics share code could have disappeared.\n- A player could have been assigned more than one Corner Kick Instruction.\n- Sometimes, a Goalkeeper could have come up for a corner kick unintentionally.\n- Addressed instances of stability issues when navigating SBCs.\n\n‌\n\n### Clubs\n\nAddressed the following issues:\n\n- In a rare scenario, an incorrect match result was shown when the opposing team left the match.\n- Drop-in matches didn’t proceed to penalties if Golden Goal Extra Time ended in a draw.\n- CAM Avatars could have been placed in incorrect positions when selecting the Any option in some cases.\n- The Captain was not always able to interact with Quick Tactics.\n- Highlights in Rush displayed an incorrect time format.\n- After getting a Match Rating of 10 in Rush, it was not possible for it to decrease during the match.\n- Addressed a stability issue when using the Reset Tactic option.\n- In Rush, the pop-up message to join the team voice channel did not always display.\n- In certain situations, a Waiting for Clubmates message would display at the end of a match.\n\n### Career Mode\n\nMade the following changes:\n\n- The Simulation gameplay preset is now the default for new Career Mode saves.\n- Added multiple settings when creating a new Career Mode save, including the ability to disable Club Growth Board Objectives.\n\n‌\n\nAddressed the following issues:\n\n- Improved Growth Plan logic for secondary positions in Manager Career.\n- Addressed instances of social media posts not displaying as intended.\n- Youth Academy goalkeepers had lower Diving Attributes than intended.\n- Addressed an instance of conversations interrupting Calendar time advancement.\n- Youth Academy surnames could have repeated too often.\n- Sometimes in Manager Career, the Player of the Month award was not present.\n- In Player Career, created Players were not always displaying correctly.\n- Addressed instances of incorrect camera angles.\n- Addressed instances of Manager customization not displaying as intended.\n- In some cases, the Transfer tab could have been inactive.\n- Improved some UI transitions.\n- A stability issue could have occurred when firing a Scout.\n- Improved social media comment context.\n- The audio for goal sounds could play at inconsistent volumes.\n- Updated Youth Academy player body types.\n- Addressed visual issues when customizing players.\n- Addressed an instance of an incorrect task present in Women’s Player Career.\n- Addressed instances of Team Sheets not functioning as intended.\n\n### General, Audio, and Visual\n\nMade the following changes:\n\n- Updated some art and UI elements, balls, badges, placeholder text, QR codes, kits, accessibility settings, stadia, audio and commentary, crowds, star heads, camera angles, and visual effects.\n\n‌\n\nAddressed the following issues:\n\n- Sideline players and staff did not always react to shots as intended.\n- During Tournament matches, an NPC could have appeared standing in the middle of the pitch.\n- Adjusted the timing window for Suggested Tactic pop ups in game.\n- Addressed instances of incorrect lighting.\n- Sometimes after using the Rewind functionality, the EA connect widget can appear during gameplay\n- When connecting online in Kick Off, Main Menu settings could have overwritten Kick Off settings.\n- Some Tactical Suggestions did not display the Substitutions option.\n- In Kick Off some player roles were not highlighted when playing them in their preferred position.\n- Addressed instances of UI not displaying or functioning as intended.\n- In Learn To Play Rush, the game could have started on a full-size pitch.\n- [Xbox Only] The Online Seasons Leaderboard did not update correctly.\n- In Kick Off, the CDM role was not shown as an option in some formations.\n- When switching the player role from Goalkeeper to an outfield position in the create Avatar screen, the option to change gloves was not available.\n- The Lob Pass Skill Game did not always calculate scoring correctly.\n\n‌\n\nThanks to those who’ve provided and continue to provide feedback. Throughout the course of the EA SPORTS FC 25 season, we'll provide you with more information and updates if and when they become available. Be sure to follow \\@‌EASFCDIRECT on X and to check out the EA SPORTS FC Tracker for the latest news and updates.\n\n‌\n\n- The EA SPORTS FC Team"
+                },
+                "board": {
+                    "id": "5f73f7c1b4c1280a7068df5f",
+                    "name": "EA SPORTS FC Tracker",
+                    "shortLink": "keigLn6R"
+                },
+                "list": {
+                    "id": "5f73f7c1b4c1280a7068df61",
+                    "name": "Latest News"
+                }
+            },
+            "appCreator": null,
+            "type": "updateCard",
+            "date": "2024-10-17T18:06:07.825Z",
+            "limits": null,
+            "memberCreator": {
+                "id": "5d5b1beea30eaf1b648e6ee7",
+                "activityBlocked": false,
+                "avatarHash": "9b8c2ae64bd8604e7257419fe56df466",
+                "avatarUrl": "https://trello-members.s3.amazonaws.com/5d5b1beea30eaf1b648e6ee7/9b8c2ae64bd8604e7257419fe56df466",
+                "fullName": "Goran",
+                "idMemberReferrer": null,
+                "initials": "G",
+                "nonPublic": {},
+                "nonPublicAvailable": true,
+                "username": "goran_drpoplove"
+            }
+        },
+        {
+            "id": "67113bd393dd25b906df6574",
+            "idMemberCreator": "5d5b1beea30eaf1b648e6ee7",
+            "data": {
+                "card": {
+                    "pos": 8191.9375,
+                    "id": "670d398b217e4fa01c9091d7",
+                    "name": "[PS5/PS4/PC/XBSX|S/XB1/SWITCH] Title Update #3",
+                    "idShort": 490,
+                    "shortLink": "hK1PJgJ9"
+                },
+                "old": {
+                    "pos": 20480
+                },
+                "board": {
+                    "id": "5f73f7c1b4c1280a7068df5f",
+                    "name": "EA SPORTS FC Tracker",
+                    "shortLink": "keigLn6R"
+                },
+                "list": {
+                    "id": "5f73f7c1b4c1280a7068df61",
+                    "name": "Latest News"
+                }
+            },
+            "appCreator": null,
+            "type": "updateCard",
+            "date": "2024-10-17T16:31:15.839Z",
+            "limits": null,
+            "memberCreator": {
+                "id": "5d5b1beea30eaf1b648e6ee7",
+                "activityBlocked": false,
+                "avatarHash": "9b8c2ae64bd8604e7257419fe56df466",
+                "avatarUrl": "https://trello-members.s3.amazonaws.com/5d5b1beea30eaf1b648e6ee7/9b8c2ae64bd8604e7257419fe56df466",
+                "fullName": "Goran",
+                "idMemberReferrer": null,
+                "initials": "G",
+                "nonPublic": {},
+                "nonPublicAvailable": true,
+                "username": "goran_drpoplove"
+            }
+        },
+        {
+            "id": "67113bd293dd25b906df5d30",
+            "idMemberCreator": "5d5b1beea30eaf1b648e6ee7",
+            "data": {
+                "card": {
+                    "idList": "5f73f7c1b4c1280a7068df61",
+                    "id": "670d398b217e4fa01c9091d7",
+                    "name": "[PS5/PS4/PC/XBSX|S/XB1/SWITCH] Title Update #3",
+                    "idShort": 490,
+                    "shortLink": "hK1PJgJ9"
+                },
+                "old": {
+                    "idList": "66e9a32579095e09d37ffc55"
+                },
+                "board": {
+                    "id": "5f73f7c1b4c1280a7068df5f",
+                    "name": "EA SPORTS FC Tracker",
+                    "shortLink": "keigLn6R"
+                },
+                "listBefore": {
+                    "id": "66e9a32579095e09d37ffc55",
+                    "name": "Game Updates"
+                },
+                "listAfter": {
+                    "id": "5f73f7c1b4c1280a7068df61",
+                    "name": "Latest News"
+                }
+            },
+            "appCreator": null,
+            "type": "updateCard",
+            "date": "2024-10-17T16:31:14.554Z",
+            "limits": null,
+            "memberCreator": {
+                "id": "5d5b1beea30eaf1b648e6ee7",
+                "activityBlocked": false,
+                "avatarHash": "9b8c2ae64bd8604e7257419fe56df466",
+                "avatarUrl": "https://trello-members.s3.amazonaws.com/5d5b1beea30eaf1b648e6ee7/9b8c2ae64bd8604e7257419fe56df466",
+                "fullName": "Goran",
+                "idMemberReferrer": null,
+                "initials": "G",
+                "nonPublic": {},
+                "nonPublicAvailable": true,
+                "username": "goran_drpoplove"
+            }
+        },
+        {
+            "id": "6710df229a38852282677813",
+            "idMemberCreator": "5c48831d226ccb5009c3b830",
+            "data": {
+                "card": {
+                    "desc": "EA SPORTS FC 25 Title Update 3 is now available for all versions of EA SPORTS FC 25. It includes the changes below.\n\n### Gameplay\n\nMade the following changes:\n\n- Reduced accuracy of First Time Lobbed Through Passes including when performed at extreme angles.\n  - This change is most noticeable for players with high passing Attributes.\n- Greatly reduced potential accuracy of Trivelas.\n- Greatly increased width of the defensive line for 5 defender formations.\n- Reduced potential accuracy of Driven Passes.\n- Increased the frequency of attacking runs for AI players in the following roles: Shadow Striker, Inside Forward Attack, Inside Forward Roaming, Wide Playmaker Attack, and Wingbacks in scenarios with open space ahead of them.\n- Improved AI player decision making when considering diagonal runs into open space, and when considering runs into nearby open space.\n- Improved accuracy of shots taken in situations where the player is not being pressured and generally has a clear line of sight on goal, including 1 on 1 situations and open goals.\n- Improved AI Center Back decision making when attempting to provide a safe option for a pass.\n- Improved AI player recognition of offside situations.\n- The CPU AI will look to further prioritize passing during build up play instead of dribbling.\n- Reduced the speed of some slide tackling animations.\n- Slightly increased clearance accuracy.\n- Reduced Ground Pass and Through Pass ball velocity in wet weather.\n\n‌\n\nAddressed the following issues:\n\n- During some long distance shots and corners, goalkeepers faced away from the ball unintentionally.\n- In some cases, defenders could have turned and faced away from the ball instead of trying to intercept a pass.\n- Right Wing Inside Forward AI players did not always position themselves as intended.\n- Improved referee decision making when calling for fouls and penalty kicks.\n- During a match, Half Wingers could not have changed sides when swapped with their counterparts in Team Management.\n- Players could have sometimes lost the ball too easily when making physical contact during a Skill Move.\n- In some scenarios goalkeepers were attempting to punch or deflect the ball instead of catching it.\n- Some passes could have resulted in the ball traveling faster than intended.\n- The CPU AI incorrectly ignored certain Skill Moves and did not perform them.\n- When remaining in control of the ball after a tackle attempt by the defender, a requested Lob Pass could have taken longer to execute than intended.\n- Some passes could have been more accurate than intended.\n- Improved animations that can occur when performing short passes.\n- In rare scenarios, the user could have lost control of a player receiving a pass.\n- During Set Pieces, an incorrect off the ball player animation could have occurred.\n- Goalkeepers could have sometimes unintentionally dived the wrong way when attempting to make a save.\n- In some dribbling situations, the CPU AI did not attempt to challenge for the ball against a user controller player.\n- In rare cases, goalkeepers could have gotten stuck around their goal posts when attempting to make a save.\n- Sometimes, automatic clearance animations were occurring outside of intended heading and goal line clearance situations.\n- The CPU Slider for Skill Moves previously only applied to Legendary difficulty.\n- Improved goalkeeper animations when dribbling with the ball.\n- The ball could have passed through a goalkeeper in some rare scenarios.\n- In some rare situations, players’ feet could have gotten stuck around goal posts instead of attempting to hit the ball.\n- During Rush penalties, the goalkeeper could have sometimes moved off the line and gotten stuck.\n- During Rush corners, players could have incorrectly positioned and continuously readjusted themselves until the corner was taken.\n- In certain scenarios, the opposing goalkeeper could have been controlled during set pieces by all players in a match.\n- During penalty kicks, players outside of the box did not always perform the correct idle animations.\n- When a Free Kick timed out, sometimes the automatic action could have resulted in a pass instead of an inaccurate shot.\n- Players could have run up directly to the set piece taker in some scenarios, ignoring the minimum distance they must keep.\n- Sometimes, sliding or falling shot animations could have occurred unintentionally.\n- In some cases, defenders going to ground could have applied more pressure to the ball carrier than intended.\n- Addressed instances of player switching not functioning as intended.\n\n### Ultimate Team\n\nAddressed the following issues:\n\n- Attribute upgrades were not showing in the Player Bio when using an upgraded Evolution Item in another Evolution.\n- A stability issue could have occurred when claiming Season Pass, Objective, and Milestone Rewards.\n- After creating a Squad in Single Player Ultimate Draft, new tactics could not be created on the team management screen.\n- Loan Player Items in Seasonal Objectives were showing as having 0 contracts, this was a visual issue only.\n- Sometimes, the Objective notification would still be present even if all Objectives were claimed.\n- A stability issue could have occurred after swapping players and then making tactical changes in Ultimate Draft.\n- If a player forfeited a Rush match, they were not able to party up with their original group again with a new invite.\n- In rare situations, a Player Bio can be displayed after returning after Pack Preview.\n- After completing the onboarding in Ultimate Team, Learn and Upgrade was sending players to the FC Hub.\n- Stadium Items set to active on the New Items screen were not applied.\n- A Season Pass screen could have displayed when an Objective reward was claimed.\n- Sometimes, the match result was displayed when waiting in the match lobby.\n- In Evolutions, Role rewards did not display + or ++ symbols.\n- Some Stadium Items were showing a placeholder image on the Item.\n- In some circumstances, it was not possible to navigate to the SBC Storage.\n- Addressed instances of players not being able to preview rewards in the Season Pass.\n- Player profiles could overlap with Club Badges in the Rush lobby.\n- Sometimes, a Custom Tactics share code could have disappeared.\n- A player could have been assigned more than one Corner Kick Instruction.\n- Sometimes, a Goalkeeper could have come up for a corner kick unintentionally.\n- Addressed instances of stability issues when navigating SBCs.\n\n‌\n\n### Clubs\n\nAddressed the following issues:\n\n- In a rare scenario, an incorrect match result was shown when the opposing team left the match.\n- Drop-in matches didn’t proceed to penalties if Golden Goal Extra Time ended in a draw.\n- CAM Avatars could have been placed in incorrect positions when selecting the Any option in some cases.\n- The Captain was not always able to interact with Quick Tactics.\n- Highlights in Rush displayed an incorrect time format.\n- After getting a Match Rating of 10 in Rush, it was not possible for it to decrease during the match.\n- Addressed a stability issue when using the Reset Tactic option.\n- In Rush, the pop-up message to join the team voice channel did not always display.\n- In certain situations, a Waiting for Clubmates message would display at the end of a match.\n\n### Career Mode\n\nMade the following changes:\n\n- The Simulation gameplay preset is now the default for new Career Mode saves.\n- Added multiple settings when creating a new Career Mode save, including the ability to disable Club Growth Board Objectives.\n\n‌\n\nAddressed the following issues:\n\n- Improved Growth Plan logic for secondary positions in Manager Career.\n- Addressed instances of social media posts not displaying as intended.\n- Youth Academy goalkeepers had lower Diving Attributes than intended.\n- Addressed an instance of conversations interrupting Calendar time advancement.\n- Youth Academy surnames could have repeated too often.\n- Sometimes in Manager Career, the Player of the Month award was not present.\n- In Player Career, created Players were not always displaying correctly.\n- Addressed instances of incorrect camera angles.\n- Addressed instances of Manager customization not displaying as intended.\n- In some cases, the Transfer tab could have been inactive.\n- Improved some UI transitions.\n- A stability issue could have occurred when firing a Scout.\n- Improved social media comment context.\n- The audio for goal sounds could play at inconsistent volumes.\n- Updated Youth Academy player body types.\n- Addressed visual issues when customizing players.\n- Addressed an instance of an incorrect task present in Women’s Player Career.\n- Addressed instances of Team Sheets not functioning as intended.\n\n### General, Audio, and Visual\n\nMade the following changes:\n\n- Updated some art and UI elements, balls, badges, placeholder text, QR codes, kits, accessibility settings, stadia, audio and commentary, crowds, star heads, camera angles, and visual effects.\n\n‌\n\nAddressed the following issues:\n\n- Sideline players and staff did not always react to shots as intended.\n- During Tournament matches, an NPC could have appeared standing in the middle of the pitch.\n- Adjusted the timing window for Suggested Tactic pop ups in game.\n- Addressed instances of incorrect lighting.\n- Sometimes after using the Rewind functionality, the EA connect widget can appear during gameplay\n- When connecting online in Kick Off, Main Menu settings could have overwritten Kick Off settings.\n- Some Tactical Suggestions did not display the Substitutions option.\n- In Kick Off some player roles were not highlighted when playing them in their preferred position.\n- Addressed instances of UI not displaying or functioning as intended.\n- In Learn To Play Rush, the game could have started on a full-size pitch.\n- [Xbox Only] The Online Seasons Leaderboard did not update correctly.\n- In Kick Off, the CDM role was not shown as an option in some formations.\n- When switching the player role from Goalkeeper to an outfield position in the create Avatar screen, the option to change gloves was not available.\n- The Lob Pass Skill Game did not always calculate scoring correctly.\n\n‌\n\nThanks to those who’ve provided and continue to provide feedback. Throughout the course of the EA SPORTS FC 25 season, we'll provide you with more information and updates if and when they become available. Be sure to follow \\@‌EASFCDIRECT on X and to check out the EA SPORTS FC Tracker for the latest news and updates.\n\n‌\n\n- The EA SPORTS FC Team",
+                    "id": "670d398b217e4fa01c9091d7",
+                    "name": "[PS5/PS4/PC/XBSX|S/XB1/SWITCH] Title Update #3",
+                    "idShort": 490,
+                    "shortLink": "hK1PJgJ9"
+                },
+                "old": {
+                    "desc": "EA SPORTS FC 25 Title Update 3 is now available for the PlayStation 4 and Xbox One versions of EA SPORTS FC 25 and will soon be available for the PlayStation 5, Xbox Series X|S, PC and Switch versions of EA SPORTS FC 25. It includes the changes below.\n\n### Gameplay\n\nMade the following changes:\n\n- Reduced accuracy of First Time Lobbed Through Passes including when performed at extreme angles.\n  - This change is most noticeable for players with high passing Attributes.\n- Greatly reduced potential accuracy of Trivelas.\n- Greatly increased width of the defensive line for 5 defender formations.\n- Reduced potential accuracy of Driven Passes.\n- Increased the frequency of attacking runs for AI players in the following roles: Shadow Striker, Inside Forward Attack, Inside Forward Roaming, Wide Playmaker Attack, and Wingbacks in scenarios with open space ahead of them.\n- Improved AI player decision making when considering diagonal runs into open space, and when considering runs into nearby open space.\n- Improved accuracy of shots taken in situations where the player is not being pressured and generally has a clear line of sight on goal, including 1 on 1 situations and open goals.\n- Improved AI Center Back decision making when attempting to provide a safe option for a pass.\n- Improved AI player recognition of offside situations.\n- The CPU AI will look to further prioritize passing during build up play instead of dribbling.\n- Reduced the speed of some slide tackling animations.\n- Slightly increased clearance accuracy.\n- Reduced Ground Pass and Through Pass ball velocity in wet weather.\n\n‌\n\nAddressed the following issues:\n\n- During some long distance shots and corners, goalkeepers faced away from the ball unintentionally.\n- In some cases, defenders could have turned and faced away from the ball instead of trying to intercept a pass.\n- Right Wing Inside Forward AI players did not always position themselves as intended.\n- Improved referee decision making when calling for fouls and penalty kicks.\n- During a match, Half Wingers could not have changed sides when swapped with their counterparts in Team Management.\n- Players could have sometimes lost the ball too easily when making physical contact during a Skill Move.\n- In some scenarios goalkeepers were attempting to punch or deflect the ball instead of catching it.\n- Some passes could have resulted in the ball traveling faster than intended.\n- The CPU AI incorrectly ignored certain Skill Moves and did not perform them.\n- When remaining in control of the ball after a tackle attempt by the defender, a requested Lob Pass could have taken longer to execute than intended.\n- Some passes could have been more accurate than intended.\n- Improved animations that can occur when performing short passes.\n- In rare scenarios, the user could have lost control of a player receiving a pass.\n- During Set Pieces, an incorrect off the ball player animation could have occurred.\n- Goalkeepers could have sometimes unintentionally dived the wrong way when attempting to make a save.\n- In some dribbling situations, the CPU AI did not attempt to challenge for the ball against a user controller player.\n- In rare cases, goalkeepers could have gotten stuck around their goal posts when attempting to make a save.\n- Sometimes, automatic clearance animations were occurring outside of intended heading and goal line clearance situations.\n- The CPU Slider for Skill Moves previously only applied to Legendary difficulty.\n- Improved goalkeeper animations when dribbling with the ball.\n- The ball could have passed through a goalkeeper in some rare scenarios.\n- In some rare situations, players’ feet could have gotten stuck around goal posts instead of attempting to hit the ball.\n- During Rush penalties, the goalkeeper could have sometimes moved off the line and gotten stuck.\n- During Rush corners, players could have incorrectly positioned and continuously readjusted themselves until the corner was taken.\n- In certain scenarios, the opposing goalkeeper could have been controlled during set pieces by all players in a match.\n- During penalty kicks, players outside of the box did not always perform the correct idle animations.\n- When a Free Kick timed out, sometimes the automatic action could have resulted in a pass instead of an inaccurate shot.\n- Players could have run up directly to the set piece taker in some scenarios, ignoring the minimum distance they must keep.\n- Sometimes, sliding or falling shot animations could have occurred unintentionally.\n- In some cases, defenders going to ground could have applied more pressure to the ball carrier than intended.\n- Addressed instances of player switching not functioning as intended.\n\n### Ultimate Team\n\nAddressed the following issues:\n\n- Attribute upgrades were not showing in the Player Bio when using an upgraded Evolution Item in another Evolution.\n- A stability issue could have occurred when claiming Season Pass, Objective, and Milestone Rewards.\n- After creating a Squad in Single Player Ultimate Draft, new tactics could not be created on the team management screen.\n- Loan Player Items in Seasonal Objectives were showing as having 0 contracts, this was a visual issue only.\n- Sometimes, the Objective notification would still be present even if all Objectives were claimed.\n- A stability issue could have occurred after swapping players and then making tactical changes in Ultimate Draft.\n- If a player forfeited a Rush match, they were not able to party up with their original group again with a new invite.\n- In rare situations, a Player Bio can be displayed after returning after Pack Preview.\n- After completing the onboarding in Ultimate Team, Learn and Upgrade was sending players to the FC Hub.\n- Stadium Items set to active on the New Items screen were not applied.\n- A Season Pass screen could have displayed when an Objective reward was claimed.\n- Sometimes, the match result was displayed when waiting in the match lobby.\n- In Evolutions, Role rewards did not display + or ++ symbols.\n- Some Stadium Items were showing a placeholder image on the Item.\n- In some circumstances, it was not possible to navigate to the SBC Storage.\n- Addressed instances of players not being able to preview rewards in the Season Pass.\n- Player profiles could overlap with Club Badges in the Rush lobby.\n- Sometimes, a Custom Tactics share code could have disappeared.\n- A player could have been assigned more than one Corner Kick Instruction.\n- Sometimes, a Goalkeeper could have come up for a corner kick unintentionally.\n- Addressed instances of stability issues when navigating SBCs.\n\n‌\n\n### Clubs\n\nAddressed the following issues:\n\n- In a rare scenario, an incorrect match result was shown when the opposing team left the match.\n- Drop-in matches didn’t proceed to penalties if Golden Goal Extra Time ended in a draw.\n- CAM Avatars could have been placed in incorrect positions when selecting the Any option in some cases.\n- The Captain was not always able to interact with Quick Tactics.\n- Highlights in Rush displayed an incorrect time format.\n- After getting a Match Rating of 10 in Rush, it was not possible for it to decrease during the match.\n- Addressed a stability issue when using the Reset Tactic option.\n- In Rush, the pop-up message to join the team voice channel did not always display.\n- In certain situations, a Waiting for Clubmates message would display at the end of a match.\n\n### Career Mode\n\nMade the following changes:\n\n- The Simulation gameplay preset is now the default for new Career Mode saves.\n- Added multiple settings when creating a new Career Mode save, including the ability to disable Club Growth Board Objectives.\n\n‌\n\nAddressed the following issues:\n\n- Improved Growth Plan logic for secondary positions in Manager Career.\n- Addressed instances of social media posts not displaying as intended.\n- Youth Academy goalkeepers had lower Diving Attributes than intended.\n- Addressed an instance of conversations interrupting Calendar time advancement.\n- Youth Academy surnames could have repeated too often.\n- Sometimes in Manager Career, the Player of the Month award was not present.\n- In Player Career, created Players were not always displaying correctly.\n- Addressed instances of incorrect camera angles.\n- Addressed instances of Manager customization not displaying as intended.\n- In some cases, the Transfer tab could have been inactive.\n- Improved some UI transitions.\n- A stability issue could have occurred when firing a Scout.\n- Improved social media comment context.\n- The audio for goal sounds could play at inconsistent volumes.\n- Updated Youth Academy player body types.\n- Addressed visual issues when customizing players.\n- Addressed an instance of an incorrect task present in Women’s Player Career.\n- Addressed instances of Team Sheets not functioning as intended.\n\n### General, Audio, and Visual\n\nMade the following changes:\n\n- Updated some art and UI elements, balls, badges, placeholder text, QR codes, kits, accessibility settings, stadia, audio and commentary, crowds, star heads, camera angles, and visual effects.\n\n‌\n\nAddressed the following issues:\n\n- Sideline players and staff did not always react to shots as intended.\n- During Tournament matches, an NPC could have appeared standing in the middle of the pitch.\n- Adjusted the timing window for Suggested Tactic pop ups in game.\n- Addressed instances of incorrect lighting.\n- Sometimes after using the Rewind functionality, the EA connect widget can appear during gameplay\n- When connecting online in Kick Off, Main Menu settings could have overwritten Kick Off settings.\n- Some Tactical Suggestions did not display the Substitutions option.\n- In Kick Off some player roles were not highlighted when playing them in their preferred position.\n- Addressed instances of UI not displaying or functioning as intended.\n- In Learn To Play Rush, the game could have started on a full-size pitch.\n- [Xbox Only] The Online Seasons Leaderboard did not update correctly.\n- In Kick Off, the CDM role was not shown as an option in some formations.\n- When switching the player role from Goalkeeper to an outfield position in the create Avatar screen, the option to change gloves was not available.\n- The Lob Pass Skill Game did not always calculate scoring correctly.\n\n‌\n\nThanks to those who’ve provided and continue to provide feedback. Throughout the course of the EA SPORTS FC 25 season, we'll provide you with more information and updates if and when they become available. Be sure to follow \\@‌EASFCDIRECT on X and to check out the EA SPORTS FC Tracker for the latest news and updates.\n\n‌\n\n- The EA SPORTS FC Team"
+                },
+                "board": {
+                    "id": "5f73f7c1b4c1280a7068df5f",
+                    "name": "EA SPORTS FC Tracker",
+                    "shortLink": "keigLn6R"
+                },
+                "list": {
+                    "id": "66e9a32579095e09d37ffc55",
+                    "name": "Game Updates"
+                }
+            },
+            "appCreator": null,
+            "type": "updateCard",
+            "date": "2024-10-17T09:55:46.029Z",
+            "limits": null,
+            "memberCreator": {
+                "id": "5c48831d226ccb5009c3b830",
+                "activityBlocked": false,
+                "avatarHash": "65b8551dba3917ec1acddcfa24cd1bea",
+                "avatarUrl": "https://trello-members.s3.amazonaws.com/5c48831d226ccb5009c3b830/65b8551dba3917ec1acddcfa24cd1bea",
+                "fullName": "Paul Murphy",
+                "idMemberReferrer": null,
+                "initials": "PM",
+                "nonPublic": {},
+                "nonPublicAvailable": true,
+                "username": "pmurphy_liveops"
+            }
+        },
+        {
+            "id": "670f8d5e21ad4a369a43a7dc",
+            "idMemberCreator": "5c48831d226ccb5009c3b830",
+            "data": {
+                "card": {
+                    "name": "[PS5/PS4/PC/XBSX|S/XB1/SWITCH] Title Update #3",
+                    "id": "670d398b217e4fa01c9091d7",
+                    "idShort": 490,
+                    "shortLink": "hK1PJgJ9"
+                },
+                "old": {
+                    "name": "[PS4/PS5/PC/XB1/XBX|S/SWITCH] Title Update #3"
+                },
+                "board": {
+                    "id": "5f73f7c1b4c1280a7068df5f",
+                    "name": "EA SPORTS FC Tracker",
+                    "shortLink": "keigLn6R"
+                },
+                "list": {
+                    "id": "66e9a32579095e09d37ffc55",
+                    "name": "Game Updates"
+                }
+            },
+            "appCreator": null,
+            "type": "updateCard",
+            "date": "2024-10-16T09:54:38.829Z",
+            "limits": null,
+            "memberCreator": {
+                "id": "5c48831d226ccb5009c3b830",
+                "activityBlocked": false,
+                "avatarHash": "65b8551dba3917ec1acddcfa24cd1bea",
+                "avatarUrl": "https://trello-members.s3.amazonaws.com/5c48831d226ccb5009c3b830/65b8551dba3917ec1acddcfa24cd1bea",
+                "fullName": "Paul Murphy",
+                "idMemberReferrer": null,
+                "initials": "PM",
+                "nonPublic": {},
+                "nonPublicAvailable": true,
+                "username": "pmurphy_liveops"
+            }
+        },
+        {
+            "id": "670f8d4e1fb10d6b7f10891d",
+            "idMemberCreator": "5c48831d226ccb5009c3b830",
+            "data": {
+                "card": {
+                    "name": "[PS4/PS5/PC/XB1/XBX|S/SWITCH] Title Update #3",
+                    "id": "670d398b217e4fa01c9091d7",
+                    "idShort": 490,
+                    "shortLink": "hK1PJgJ9"
+                },
+                "old": {
+                    "name": "[PS4/PS5/PC/XB1/XBX|S/Switch] Title Update #3"
+                },
+                "board": {
+                    "id": "5f73f7c1b4c1280a7068df5f",
+                    "name": "EA SPORTS FC Tracker",
+                    "shortLink": "keigLn6R"
+                },
+                "list": {
+                    "id": "66e9a32579095e09d37ffc55",
+                    "name": "Game Updates"
+                }
+            },
+            "appCreator": null,
+            "type": "updateCard",
+            "date": "2024-10-16T09:54:22.519Z",
+            "limits": null,
+            "memberCreator": {
+                "id": "5c48831d226ccb5009c3b830",
+                "activityBlocked": false,
+                "avatarHash": "65b8551dba3917ec1acddcfa24cd1bea",
+                "avatarUrl": "https://trello-members.s3.amazonaws.com/5c48831d226ccb5009c3b830/65b8551dba3917ec1acddcfa24cd1bea",
+                "fullName": "Paul Murphy",
+                "idMemberReferrer": null,
+                "initials": "PM",
+                "nonPublic": {},
+                "nonPublicAvailable": true,
+                "username": "pmurphy_liveops"
+            }
+        },
+        {
+            "id": "670f8d06ad81e22bf77e9ad0",
+            "idMemberCreator": "5c48831d226ccb5009c3b830",
+            "data": {
+                "card": {
+                    "name": "[PS4/PS5/PC/XB1/XBX|S/Switch] Title Update #3",
+                    "id": "670d398b217e4fa01c9091d7",
+                    "idShort": 490,
+                    "shortLink": "hK1PJgJ9"
+                },
+                "old": {
+                    "name": "[PS4/XB1] Title Update #3"
+                },
+                "board": {
+                    "id": "5f73f7c1b4c1280a7068df5f",
+                    "name": "EA SPORTS FC Tracker",
+                    "shortLink": "keigLn6R"
+                },
+                "list": {
+                    "id": "66e9a32579095e09d37ffc55",
+                    "name": "Game Updates"
+                }
+            },
+            "appCreator": null,
+            "type": "updateCard",
+            "date": "2024-10-16T09:53:10.763Z",
+            "limits": null,
+            "memberCreator": {
+                "id": "5c48831d226ccb5009c3b830",
+                "activityBlocked": false,
+                "avatarHash": "65b8551dba3917ec1acddcfa24cd1bea",
+                "avatarUrl": "https://trello-members.s3.amazonaws.com/5c48831d226ccb5009c3b830/65b8551dba3917ec1acddcfa24cd1bea",
+                "fullName": "Paul Murphy",
+                "idMemberReferrer": null,
+                "initials": "PM",
+                "nonPublic": {},
+                "nonPublicAvailable": true,
+                "username": "pmurphy_liveops"
+            }
+        },
+        {
+            "id": "670f8ce6b56e93c612f43d8b",
+            "idMemberCreator": "5c48831d226ccb5009c3b830",
+            "data": {
+                "card": {
+                    "desc": "EA SPORTS FC 25 Title Update 3 is now available for the PlayStation 4 and Xbox One versions of EA SPORTS FC 25 and will soon be available for the PlayStation 5, Xbox Series X|S, PC and Switch versions of EA SPORTS FC 25. It includes the changes below.\n\n### Gameplay\n\nMade the following changes:\n\n- Reduced accuracy of First Time Lobbed Through Passes including when performed at extreme angles.\n  - This change is most noticeable for players with high passing Attributes.\n- Greatly reduced potential accuracy of Trivelas.\n- Greatly increased width of the defensive line for 5 defender formations.\n- Reduced potential accuracy of Driven Passes.\n- Increased the frequency of attacking runs for AI players in the following roles: Shadow Striker, Inside Forward Attack, Inside Forward Roaming, Wide Playmaker Attack, and Wingbacks in scenarios with open space ahead of them.\n- Improved AI player decision making when considering diagonal runs into open space, and when considering runs into nearby open space.\n- Improved accuracy of shots taken in situations where the player is not being pressured and generally has a clear line of sight on goal, including 1 on 1 situations and open goals.\n- Improved AI Center Back decision making when attempting to provide a safe option for a pass.\n- Improved AI player recognition of offside situations.\n- The CPU AI will look to further prioritize passing during build up play instead of dribbling.\n- Reduced the speed of some slide tackling animations.\n- Slightly increased clearance accuracy.\n- Reduced Ground Pass and Through Pass ball velocity in wet weather.\n\n‌\n\nAddressed the following issues:\n\n- During some long distance shots and corners, goalkeepers faced away from the ball unintentionally.\n- In some cases, defenders could have turned and faced away from the ball instead of trying to intercept a pass.\n- Right Wing Inside Forward AI players did not always position themselves as intended.\n- Improved referee decision making when calling for fouls and penalty kicks.\n- During a match, Half Wingers could not have changed sides when swapped with their counterparts in Team Management.\n- Players could have sometimes lost the ball too easily when making physical contact during a Skill Move.\n- In some scenarios goalkeepers were attempting to punch or deflect the ball instead of catching it.\n- Some passes could have resulted in the ball traveling faster than intended.\n- The CPU AI incorrectly ignored certain Skill Moves and did not perform them.\n- When remaining in control of the ball after a tackle attempt by the defender, a requested Lob Pass could have taken longer to execute than intended.\n- Some passes could have been more accurate than intended.\n- Improved animations that can occur when performing short passes.\n- In rare scenarios, the user could have lost control of a player receiving a pass.\n- During Set Pieces, an incorrect off the ball player animation could have occurred.\n- Goalkeepers could have sometimes unintentionally dived the wrong way when attempting to make a save.\n- In some dribbling situations, the CPU AI did not attempt to challenge for the ball against a user controller player.\n- In rare cases, goalkeepers could have gotten stuck around their goal posts when attempting to make a save.\n- Sometimes, automatic clearance animations were occurring outside of intended heading and goal line clearance situations.\n- The CPU Slider for Skill Moves previously only applied to Legendary difficulty.\n- Improved goalkeeper animations when dribbling with the ball.\n- The ball could have passed through a goalkeeper in some rare scenarios.\n- In some rare situations, players’ feet could have gotten stuck around goal posts instead of attempting to hit the ball.\n- During Rush penalties, the goalkeeper could have sometimes moved off the line and gotten stuck.\n- During Rush corners, players could have incorrectly positioned and continuously readjusted themselves until the corner was taken.\n- In certain scenarios, the opposing goalkeeper could have been controlled during set pieces by all players in a match.\n- During penalty kicks, players outside of the box did not always perform the correct idle animations.\n- When a Free Kick timed out, sometimes the automatic action could have resulted in a pass instead of an inaccurate shot.\n- Players could have run up directly to the set piece taker in some scenarios, ignoring the minimum distance they must keep.\n- Sometimes, sliding or falling shot animations could have occurred unintentionally.\n- In some cases, defenders going to ground could have applied more pressure to the ball carrier than intended.\n- Addressed instances of player switching not functioning as intended.\n\n### Ultimate Team\n\nAddressed the following issues:\n\n- Attribute upgrades were not showing in the Player Bio when using an upgraded Evolution Item in another Evolution.\n- A stability issue could have occurred when claiming Season Pass, Objective, and Milestone Rewards.\n- After creating a Squad in Single Player Ultimate Draft, new tactics could not be created on the team management screen.\n- Loan Player Items in Seasonal Objectives were showing as having 0 contracts, this was a visual issue only.\n- Sometimes, the Objective notification would still be present even if all Objectives were claimed.\n- A stability issue could have occurred after swapping players and then making tactical changes in Ultimate Draft.\n- If a player forfeited a Rush match, they were not able to party up with their original group again with a new invite.\n- In rare situations, a Player Bio can be displayed after returning after Pack Preview.\n- After completing the onboarding in Ultimate Team, Learn and Upgrade was sending players to the FC Hub.\n- Stadium Items set to active on the New Items screen were not applied.\n- A Season Pass screen could have displayed when an Objective reward was claimed.\n- Sometimes, the match result was displayed when waiting in the match lobby.\n- In Evolutions, Role rewards did not display + or ++ symbols.\n- Some Stadium Items were showing a placeholder image on the Item.\n- In some circumstances, it was not possible to navigate to the SBC Storage.\n- Addressed instances of players not being able to preview rewards in the Season Pass.\n- Player profiles could overlap with Club Badges in the Rush lobby.\n- Sometimes, a Custom Tactics share code could have disappeared.\n- A player could have been assigned more than one Corner Kick Instruction.\n- Sometimes, a Goalkeeper could have come up for a corner kick unintentionally.\n- Addressed instances of stability issues when navigating SBCs.\n\n‌\n\n### Clubs\n\nAddressed the following issues:\n\n- In a rare scenario, an incorrect match result was shown when the opposing team left the match.\n- Drop-in matches didn’t proceed to penalties if Golden Goal Extra Time ended in a draw.\n- CAM Avatars could have been placed in incorrect positions when selecting the Any option in some cases.\n- The Captain was not always able to interact with Quick Tactics.\n- Highlights in Rush displayed an incorrect time format.\n- After getting a Match Rating of 10 in Rush, it was not possible for it to decrease during the match.\n- Addressed a stability issue when using the Reset Tactic option.\n- In Rush, the pop-up message to join the team voice channel did not always display.\n- In certain situations, a Waiting for Clubmates message would display at the end of a match.\n\n### Career Mode\n\nMade the following changes:\n\n- The Simulation gameplay preset is now the default for new Career Mode saves.\n- Added multiple settings when creating a new Career Mode save, including the ability to disable Club Growth Board Objectives.\n\n‌\n\nAddressed the following issues:\n\n- Improved Growth Plan logic for secondary positions in Manager Career.\n- Addressed instances of social media posts not displaying as intended.\n- Youth Academy goalkeepers had lower Diving Attributes than intended.\n- Addressed an instance of conversations interrupting Calendar time advancement.\n- Youth Academy surnames could have repeated too often.\n- Sometimes in Manager Career, the Player of the Month award was not present.\n- In Player Career, created Players were not always displaying correctly.\n- Addressed instances of incorrect camera angles.\n- Addressed instances of Manager customization not displaying as intended.\n- In some cases, the Transfer tab could have been inactive.\n- Improved some UI transitions.\n- A stability issue could have occurred when firing a Scout.\n- Improved social media comment context.\n- The audio for goal sounds could play at inconsistent volumes.\n- Updated Youth Academy player body types.\n- Addressed visual issues when customizing players.\n- Addressed an instance of an incorrect task present in Women’s Player Career.\n- Addressed instances of Team Sheets not functioning as intended.\n\n### General, Audio, and Visual\n\nMade the following changes:\n\n- Updated some art and UI elements, balls, badges, placeholder text, QR codes, kits, accessibility settings, stadia, audio and commentary, crowds, star heads, camera angles, and visual effects.\n\n‌\n\nAddressed the following issues:\n\n- Sideline players and staff did not always react to shots as intended.\n- During Tournament matches, an NPC could have appeared standing in the middle of the pitch.\n- Adjusted the timing window for Suggested Tactic pop ups in game.\n- Addressed instances of incorrect lighting.\n- Sometimes after using the Rewind functionality, the EA connect widget can appear during gameplay\n- When connecting online in Kick Off, Main Menu settings could have overwritten Kick Off settings.\n- Some Tactical Suggestions did not display the Substitutions option.\n- In Kick Off some player roles were not highlighted when playing them in their preferred position.\n- Addressed instances of UI not displaying or functioning as intended.\n- In Learn To Play Rush, the game could have started on a full-size pitch.\n- [Xbox Only] The Online Seasons Leaderboard did not update correctly.\n- In Kick Off, the CDM role was not shown as an option in some formations.\n- When switching the player role from Goalkeeper to an outfield position in the create Avatar screen, the option to change gloves was not available.\n- The Lob Pass Skill Game did not always calculate scoring correctly.\n\n‌\n\nThanks to those who’ve provided and continue to provide feedback. Throughout the course of the EA SPORTS FC 25 season, we'll provide you with more information and updates if and when they become available. Be sure to follow \\@‌EASFCDIRECT on X and to check out the EA SPORTS FC Tracker for the latest news and updates.\n\n‌\n\n- The EA SPORTS FC Team",
+                    "id": "670d398b217e4fa01c9091d7",
+                    "name": "[PS4/XB1] Title Update #3",
+                    "idShort": 490,
+                    "shortLink": "hK1PJgJ9"
+                },
+                "old": {
+                    "desc": "EA SPORTS FC 25 Title Update 3 will soon be available for the PlayStation 4 and Xbox One versions of EA SPORTS FC 25. It includes the changes below.\n\n### Gameplay\n\nMade the following changes:\n\n- Reduced accuracy of First Time Lobbed Through Passes including when performed at extreme angles.\n  - This change is most noticeable for players with high passing Attributes.\n- Greatly reduced potential accuracy of Trivelas.\n- Greatly increased width of the defensive line for 5 defender formations.\n- Reduced potential accuracy of Driven Passes.\n- Increased the frequency of attacking runs for AI players in the following roles: Shadow Striker, Inside Forward Attack, Inside Forward Roaming, Wide Playmaker Attack, and Wingbacks in scenarios with open space ahead of them.\n- Improved AI player decision making when considering diagonal runs into open space, and when considering runs into nearby open space.\n- Improved accuracy of shots taken in situations where the player is not being pressured and generally has a clear line of sight on goal, including 1 on 1 situations and open goals.\n- Improved AI Center Back decision making when attempting to provide a safe option for a pass.\n- Improved AI player recognition of offside situations.\n- The CPU AI will look to further prioritize passing during build up play instead of dribbling.\n- Reduced the speed of some slide tackling animations.\n- Slightly increased clearance accuracy.\n- Reduced Ground Pass and Through Pass ball velocity in wet weather.\n\n‌\n\nAddressed the following issues:\n\n- During some long distance shots and corners, goalkeepers faced away from the ball unintentionally.\n- In some cases, defenders could have turned and faced away from the ball instead of trying to intercept a pass.\n- Right Wing Inside Forward AI players did not always position themselves as intended.\n- Improved referee decision making when calling for fouls and penalty kicks.\n- During a match, Half Wingers could not have changed sides when swapped with their counterparts in Team Management.\n- Players could have sometimes lost the ball too easily when making physical contact during a Skill Move.\n- In some scenarios goalkeepers were attempting to punch or deflect the ball instead of catching it.\n- Some passes could have resulted in the ball traveling faster than intended.\n- The CPU AI incorrectly ignored certain Skill Moves and did not perform them.\n- When remaining in control of the ball after a tackle attempt by the defender, a requested Lob Pass could have taken longer to execute than intended.\n- Some passes could have been more accurate than intended.\n- Improved animations that can occur when performing short passes.\n- In rare scenarios, the user could have lost control of a player receiving a pass.\n- During Set Pieces, an incorrect off the ball player animation could have occurred.\n- Goalkeepers could have sometimes unintentionally dived the wrong way when attempting to make a save.\n- In some dribbling situations, the CPU AI did not attempt to challenge for the ball against a user controller player.\n- In rare cases, goalkeepers could have gotten stuck around their goal posts when attempting to make a save.\n- Sometimes, automatic clearance animations were occurring outside of intended heading and goal line clearance situations.\n- The CPU Slider for Skill Moves previously only applied to Legendary difficulty.\n- Improved goalkeeper animations when dribbling with the ball.\n- The ball could have passed through a goalkeeper in some rare scenarios.\n- In some rare situations, players’ feet could have gotten stuck around goal posts instead of attempting to hit the ball.\n- During Rush penalties, the goalkeeper could have sometimes moved off the line and gotten stuck.\n- During Rush corners, players could have incorrectly positioned and continuously readjusted themselves until the corner was taken.\n- In certain scenarios, the opposing goalkeeper could have been controlled during set pieces by all players in a match.\n- During penalty kicks, players outside of the box did not always perform the correct idle animations.\n- When a Free Kick timed out, sometimes the automatic action could have resulted in a pass instead of an inaccurate shot.\n- Players could have run up directly to the set piece taker in some scenarios, ignoring the minimum distance they must keep.\n- Sometimes, sliding or falling shot animations could have occurred unintentionally.\n- In some cases, defenders going to ground could have applied more pressure to the ball carrier than intended.\n- Addressed instances of player switching not functioning as intended.\n\n### Ultimate Team\n\nAddressed the following issues:\n\n- Attribute upgrades were not showing in the Player Bio when using an upgraded Evolution Item in another Evolution.\n- A stability issue could have occurred when claiming Season Pass, Objective, and Milestone Rewards.\n- After creating a Squad in Single Player Ultimate Draft, new tactics could not be created on the team management screen.\n- Loan Player Items in Seasonal Objectives were showing as having 0 contracts, this was a visual issue only.\n- Sometimes, the Objective notification would still be present even if all Objectives were claimed.\n- A stability issue could have occurred after swapping players and then making tactical changes in Ultimate Draft.\n- If a player forfeited a Rush match, they were not able to party up with their original group again with a new invite.\n- In rare situations, a Player Bio can be displayed after returning after Pack Preview.\n- After completing the onboarding in Ultimate Team, Learn and Upgrade was sending players to the FC Hub.\n- Stadium Items set to active on the New Items screen were not applied.\n- A Season Pass screen could have displayed when an Objective reward was claimed.\n- Sometimes, the match result was displayed when waiting in the match lobby.\n- In Evolutions, Role rewards did not display + or ++ symbols.\n- Some Stadium Items were showing a placeholder image on the Item.\n- In some circumstances, it was not possible to navigate to the SBC Storage.\n- Addressed instances of players not being able to preview rewards in the Season Pass.\n- Player profiles could overlap with Club Badges in the Rush lobby.\n- Sometimes, a Custom Tactics share code could have disappeared.\n- A player could have been assigned more than one Corner Kick Instruction.\n- Sometimes, a Goalkeeper could have come up for a corner kick unintentionally.\n- Addressed instances of stability issues when navigating SBCs.\n\n‌\n\n### Clubs\n\nAddressed the following issues:\n\n- In a rare scenario, an incorrect match result was shown when the opposing team left the match.\n- Drop-in matches didn’t proceed to penalties if Golden Goal Extra Time ended in a draw.\n- CAM Avatars could have been placed in incorrect positions when selecting the Any option in some cases.\n- The Captain was not always able to interact with Quick Tactics.\n- Highlights in Rush displayed an incorrect time format.\n- After getting a Match Rating of 10 in Rush, it was not possible for it to decrease during the match.\n- Addressed a stability issue when using the Reset Tactic option.\n- In Rush, the pop-up message to join the team voice channel did not always display.\n- In certain situations, a Waiting for Clubmates message would display at the end of a match.\n\n### Career Mode\n\nMade the following changes:\n\n- The Simulation gameplay preset is now the default for new Career Mode saves.\n- Added multiple settings when creating a new Career Mode save, including the ability to disable Club Growth Board Objectives.\n\n‌\n\nAddressed the following issues:\n\n- Improved Growth Plan logic for secondary positions in Manager Career.\n- Addressed instances of social media posts not displaying as intended.\n- Youth Academy goalkeepers had lower Diving Attributes than intended.\n- Addressed an instance of conversations interrupting Calendar time advancement.\n- Youth Academy surnames could have repeated too often.\n- Sometimes in Manager Career, the Player of the Month award was not present.\n- In Player Career, created Players were not always displaying correctly.\n- Addressed instances of incorrect camera angles.\n- Addressed instances of Manager customization not displaying as intended.\n- In some cases, the Transfer tab could have been inactive.\n- Improved some UI transitions.\n- A stability issue could have occurred when firing a Scout.\n- Improved social media comment context.\n- The audio for goal sounds could play at inconsistent volumes.\n- Updated Youth Academy player body types.\n- Addressed visual issues when customizing players.\n- Addressed an instance of an incorrect task present in Women’s Player Career.\n- Addressed instances of Team Sheets not functioning as intended.\n\n### General, Audio, and Visual\n\nMade the following changes:\n\n- Updated some art and UI elements, balls, badges, placeholder text, QR codes, kits, accessibility settings, stadia, audio and commentary, crowds, star heads, camera angles, and visual effects.\n\n‌\n\nAddressed the following issues:\n\n- Sideline players and staff did not always react to shots as intended.\n- During Tournament matches, an NPC could have appeared standing in the middle of the pitch.\n- Adjusted the timing window for Suggested Tactic pop ups in game.\n- Addressed instances of incorrect lighting.\n- Sometimes after using the Rewind functionality, the EA connect widget can appear during gameplay\n- When connecting online in Kick Off, Main Menu settings could have overwritten Kick Off settings.\n- Some Tactical Suggestions did not display the Substitutions option.\n- In Kick Off some player roles were not highlighted when playing them in their preferred position.\n- Addressed instances of UI not displaying or functioning as intended.\n- In Learn To Play Rush, the game could have started on a full-size pitch.\n- [Xbox Only] The Online Seasons Leaderboard did not update correctly.\n- In Kick Off, the CDM role was not shown as an option in some formations.\n- When switching the player role from Goalkeeper to an outfield position in the create Avatar screen, the option to change gloves was not available.\n- The Lob Pass Skill Game did not always calculate scoring correctly.\n\n‌\n\nThanks to those who’ve provided and continue to provide feedback. Throughout the course of the EA SPORTS FC 25 season, we'll provide you with more information and updates if and when they become available. Be sure to follow \\@‌EASFCDIRECT on X and to check out the EA SPORTS FC Tracker for the latest news and updates.\n\n‌\n\n- The EA SPORTS FC Team"
+                },
+                "board": {
+                    "id": "5f73f7c1b4c1280a7068df5f",
+                    "name": "EA SPORTS FC Tracker",
+                    "shortLink": "keigLn6R"
+                },
+                "list": {
+                    "id": "66e9a32579095e09d37ffc55",
+                    "name": "Game Updates"
+                }
+            },
+            "appCreator": null,
+            "type": "updateCard",
+            "date": "2024-10-16T09:52:38.103Z",
+            "limits": null,
+            "memberCreator": {
+                "id": "5c48831d226ccb5009c3b830",
+                "activityBlocked": false,
+                "avatarHash": "65b8551dba3917ec1acddcfa24cd1bea",
+                "avatarUrl": "https://trello-members.s3.amazonaws.com/5c48831d226ccb5009c3b830/65b8551dba3917ec1acddcfa24cd1bea",
+                "fullName": "Paul Murphy",
+                "idMemberReferrer": null,
+                "initials": "PM",
+                "nonPublic": {},
+                "nonPublicAvailable": true,
+                "username": "pmurphy_liveops"
+            }
+        },
+        {
+            "id": "670e22f687ec932652932397",
+            "idMemberCreator": "5c48831d226ccb5009c3b830",
+            "data": {
+                "card": {
+                    "desc": "EA SPORTS FC 25 Title Update 3 will soon be available for the PlayStation 4 and Xbox One versions of EA SPORTS FC 25. It includes the changes below.\n\n### Gameplay\n\nMade the following changes:\n\n- Reduced accuracy of First Time Lobbed Through Passes including when performed at extreme angles.\n  - This change is most noticeable for players with high passing Attributes.\n- Greatly reduced potential accuracy of Trivelas.\n- Greatly increased width of the defensive line for 5 defender formations.\n- Reduced potential accuracy of Driven Passes.\n- Increased the frequency of attacking runs for AI players in the following roles: Shadow Striker, Inside Forward Attack, Inside Forward Roaming, Wide Playmaker Attack, and Wingbacks in scenarios with open space ahead of them.\n- Improved AI player decision making when considering diagonal runs into open space, and when considering runs into nearby open space.\n- Improved accuracy of shots taken in situations where the player is not being pressured and generally has a clear line of sight on goal, including 1 on 1 situations and open goals.\n- Improved AI Center Back decision making when attempting to provide a safe option for a pass.\n- Improved AI player recognition of offside situations.\n- The CPU AI will look to further prioritize passing during build up play instead of dribbling.\n- Reduced the speed of some slide tackling animations.\n- Slightly increased clearance accuracy.\n- Reduced Ground Pass and Through Pass ball velocity in wet weather.\n\n‌\n\nAddressed the following issues:\n\n- During some long distance shots and corners, goalkeepers faced away from the ball unintentionally.\n- In some cases, defenders could have turned and faced away from the ball instead of trying to intercept a pass.\n- Right Wing Inside Forward AI players did not always position themselves as intended.\n- Improved referee decision making when calling for fouls and penalty kicks.\n- During a match, Half Wingers could not have changed sides when swapped with their counterparts in Team Management.\n- Players could have sometimes lost the ball too easily when making physical contact during a Skill Move.\n- In some scenarios goalkeepers were attempting to punch or deflect the ball instead of catching it.\n- Some passes could have resulted in the ball traveling faster than intended.\n- The CPU AI incorrectly ignored certain Skill Moves and did not perform them.\n- When remaining in control of the ball after a tackle attempt by the defender, a requested Lob Pass could have taken longer to execute than intended.\n- Some passes could have been more accurate than intended.\n- Improved animations that can occur when performing short passes.\n- In rare scenarios, the user could have lost control of a player receiving a pass.\n- During Set Pieces, an incorrect off the ball player animation could have occurred.\n- Goalkeepers could have sometimes unintentionally dived the wrong way when attempting to make a save.\n- In some dribbling situations, the CPU AI did not attempt to challenge for the ball against a user controller player.\n- In rare cases, goalkeepers could have gotten stuck around their goal posts when attempting to make a save.\n- Sometimes, automatic clearance animations were occurring outside of intended heading and goal line clearance situations.\n- The CPU Slider for Skill Moves previously only applied to Legendary difficulty.\n- Improved goalkeeper animations when dribbling with the ball.\n- The ball could have passed through a goalkeeper in some rare scenarios.\n- In some rare situations, players’ feet could have gotten stuck around goal posts instead of attempting to hit the ball.\n- During Rush penalties, the goalkeeper could have sometimes moved off the line and gotten stuck.\n- During Rush corners, players could have incorrectly positioned and continuously readjusted themselves until the corner was taken.\n- In certain scenarios, the opposing goalkeeper could have been controlled during set pieces by all players in a match.\n- During penalty kicks, players outside of the box did not always perform the correct idle animations.\n- When a Free Kick timed out, sometimes the automatic action could have resulted in a pass instead of an inaccurate shot.\n- Players could have run up directly to the set piece taker in some scenarios, ignoring the minimum distance they must keep.\n- Sometimes, sliding or falling shot animations could have occurred unintentionally.\n- In some cases, defenders going to ground could have applied more pressure to the ball carrier than intended.\n- Addressed instances of player switching not functioning as intended.\n\n### Ultimate Team\n\nAddressed the following issues:\n\n- Attribute upgrades were not showing in the Player Bio when using an upgraded Evolution Item in another Evolution.\n- A stability issue could have occurred when claiming Season Pass, Objective, and Milestone Rewards.\n- After creating a Squad in Single Player Ultimate Draft, new tactics could not be created on the team management screen.\n- Loan Player Items in Seasonal Objectives were showing as having 0 contracts, this was a visual issue only.\n- Sometimes, the Objective notification would still be present even if all Objectives were claimed.\n- A stability issue could have occurred after swapping players and then making tactical changes in Ultimate Draft.\n- If a player forfeited a Rush match, they were not able to party up with their original group again with a new invite.\n- In rare situations, a Player Bio can be displayed after returning after Pack Preview.\n- After completing the onboarding in Ultimate Team, Learn and Upgrade was sending players to the FC Hub.\n- Stadium Items set to active on the New Items screen were not applied.\n- A Season Pass screen could have displayed when an Objective reward was claimed.\n- Sometimes, the match result was displayed when waiting in the match lobby.\n- In Evolutions, Role rewards did not display + or ++ symbols.\n- Some Stadium Items were showing a placeholder image on the Item.\n- In some circumstances, it was not possible to navigate to the SBC Storage.\n- Addressed instances of players not being able to preview rewards in the Season Pass.\n- Player profiles could overlap with Club Badges in the Rush lobby.\n- Sometimes, a Custom Tactics share code could have disappeared.\n- A player could have been assigned more than one Corner Kick Instruction.\n- Sometimes, a Goalkeeper could have come up for a corner kick unintentionally.\n- Addressed instances of stability issues when navigating SBCs.\n\n‌\n\n### Clubs\n\nAddressed the following issues:\n\n- In a rare scenario, an incorrect match result was shown when the opposing team left the match.\n- Drop-in matches didn’t proceed to penalties if Golden Goal Extra Time ended in a draw.\n- CAM Avatars could have been placed in incorrect positions when selecting the Any option in some cases.\n- The Captain was not always able to interact with Quick Tactics.\n- Highlights in Rush displayed an incorrect time format.\n- After getting a Match Rating of 10 in Rush, it was not possible for it to decrease during the match.\n- Addressed a stability issue when using the Reset Tactic option.\n- In Rush, the pop-up message to join the team voice channel did not always display.\n- In certain situations, a Waiting for Clubmates message would display at the end of a match.\n\n### Career Mode\n\nMade the following changes:\n\n- The Simulation gameplay preset is now the default for new Career Mode saves.\n- Added multiple settings when creating a new Career Mode save, including the ability to disable Club Growth Board Objectives.\n\n‌\n\nAddressed the following issues:\n\n- Improved Growth Plan logic for secondary positions in Manager Career.\n- Addressed instances of social media posts not displaying as intended.\n- Youth Academy goalkeepers had lower Diving Attributes than intended.\n- Addressed an instance of conversations interrupting Calendar time advancement.\n- Youth Academy surnames could have repeated too often.\n- Sometimes in Manager Career, the Player of the Month award was not present.\n- In Player Career, created Players were not always displaying correctly.\n- Addressed instances of incorrect camera angles.\n- Addressed instances of Manager customization not displaying as intended.\n- In some cases, the Transfer tab could have been inactive.\n- Improved some UI transitions.\n- A stability issue could have occurred when firing a Scout.\n- Improved social media comment context.\n- The audio for goal sounds could play at inconsistent volumes.\n- Updated Youth Academy player body types.\n- Addressed visual issues when customizing players.\n- Addressed an instance of an incorrect task present in Women’s Player Career.\n- Addressed instances of Team Sheets not functioning as intended.\n\n### General, Audio, and Visual\n\nMade the following changes:\n\n- Updated some art and UI elements, balls, badges, placeholder text, QR codes, kits, accessibility settings, stadia, audio and commentary, crowds, star heads, camera angles, and visual effects.\n\n‌\n\nAddressed the following issues:\n\n- Sideline players and staff did not always react to shots as intended.\n- During Tournament matches, an NPC could have appeared standing in the middle of the pitch.\n- Adjusted the timing window for Suggested Tactic pop ups in game.\n- Addressed instances of incorrect lighting.\n- Sometimes after using the Rewind functionality, the EA connect widget can appear during gameplay\n- When connecting online in Kick Off, Main Menu settings could have overwritten Kick Off settings.\n- Some Tactical Suggestions did not display the Substitutions option.\n- In Kick Off some player roles were not highlighted when playing them in their preferred position.\n- Addressed instances of UI not displaying or functioning as intended.\n- In Learn To Play Rush, the game could have started on a full-size pitch.\n- [Xbox Only] The Online Seasons Leaderboard did not update correctly.\n- In Kick Off, the CDM role was not shown as an option in some formations.\n- When switching the player role from Goalkeeper to an outfield position in the create Avatar screen, the option to change gloves was not available.\n- The Lob Pass Skill Game did not always calculate scoring correctly.\n\n‌\n\nThanks to those who’ve provided and continue to provide feedback. Throughout the course of the EA SPORTS FC 25 season, we'll provide you with more information and updates if and when they become available. Be sure to follow \\@‌EASFCDIRECT on X and to check out the EA SPORTS FC Tracker for the latest news and updates.\n\n‌\n\n- The EA SPORTS FC Team",
+                    "id": "670d398b217e4fa01c9091d7",
+                    "name": "[PS4/XB1] Title Update #3",
+                    "idShort": 490,
+                    "shortLink": "hK1PJgJ9"
+                },
+                "old": {
+                    "desc": "EA SPORTS FC 25 Title Update 3 will soon be available for the PlayStation 4 and Xbox One versions of EA SPORTS FC 25. It includes the changes below.\n\n### Gameplay\n\nMade the following changes:\n\n- Reduced accuracy of First Time Lobbed Through Passes including when performed at extreme angles.\n  - This change is most noticeable for players with high passing Attributes.\n- Greatly reduced potential accuracy of Trivelas.\n- Greatly increased width of the defensive line for 5 defender formations.\n- Reduced potential accuracy of Driven Passes.\n- Increased the frequency of attacking runs for AI players in the following roles: Shadow Striker, Inside Forward Attack, Inside Forward Roaming, WIde Playmaker Attack, and Wingbacks in scenarios with open space ahead of them.\n- Improved AI player decision making when considering diagonal runs into open space, and when considering runs into nearby open space.\n- Improved accuracy of shots taken in situations where the player is not being pressured and generally has a clear line of sight on goal, including 1 on 1 situations and open goals.\n- Improved AI Center Back decision making when attempting to provide a safe option for a pass.\n- Improved AI player recognition of offside situations.\n- The CPU AI will look to further prioritize passing during build up play instead of dribbling.\n- Reduced the speed of some slide tackling animations.\n- Slightly increased clearance accuracy.\n- Reduced Ground Pass and Through Pass ball velocity in wet weather.\n\n‌\n\nAddressed the following issues:\n\n- During some long distance shots and corners, goalkeepers faced away from the ball unintentionally.\n- In some cases, defenders could have turned and faced away from the ball instead of trying to intercept a pass.\n- Right Wing Inside Forward AI players did not always position themselves as intended.\n- Improved referee decision making when calling for fouls and penalty kicks.\n- During a match, Half Wingers could not have changed sides when swapped with their counterparts in Team Management.\n- Players could have sometimes lost the ball too easily when making physical contact during a Skill Move.\n- In some scenarios goalkeepers were attempting to punch or deflect the ball instead of catching it.\n- Some passes could have resulted in the ball traveling faster than intended.\n- The CPU AI incorrectly ignored certain Skill Moves and did not perform them.\n- When remaining in control of the ball after a tackle attempt by the defender, a requested Lob Pass could have taken longer to execute than intended.\n- Some passes could have been more accurate than intended.\n- Improved animations that can occur when performing short passes.\n- In rare scenarios, the user could have lost control of a player receiving a pass.\n- During Set Pieces, an incorrect off the ball player animation could have occurred.\n- Goalkeepers could have sometimes unintentionally dived the wrong way when attempting to make a save.\n- In some dribbling situations, the CPU AI did not attempt to challenge for the ball against a user controller player.\n- In rare cases, goalkeepers could have gotten stuck around their goal posts when attempting to make a save.\n- Sometimes, automatic clearance animations were occurring outside of intended heading and goal line clearance situations.\n- The CPU Slider for Skill Moves previously only applied to Legendary difficulty.\n- Improved goalkeeper animations when dribbling with the ball.\n- The ball could have passed through a goalkeeper in some rare scenarios.\n- In some rare situations, players’ feet could have gotten stuck around goal posts instead of attempting to hit the ball.\n- During Rush penalties, the goalkeeper could have sometimes moved off the line and gotten stuck.\n- During Rush corners, players could have incorrectly positioned and continuously readjusted themselves until the corner was taken.\n- In certain scenarios, the opposing goalkeeper could have been controlled during set pieces by all players in a match.\n- During penalty kicks, players outside of the box did not always perform the correct idle animations.\n- When a Free Kick timed out, sometimes the automatic action could have resulted in a pass instead of an inaccurate shot.\n- Players could have run up directly to the set piece taker in some scenarios, ignoring the minimum distance they must keep.\n- Sometimes, sliding or falling shot animations could have occurred unintentionally.\n- In some cases, defenders going to ground could have applied more pressure to the ball carrier than intended.\n- Addressed instances of player switching not functioning as intended.\n\n### Ultimate Team\n\nAddressed the following issues:\n\n- Attribute upgrades were not showing in the Player Bio when using an upgraded Evolution Item in another Evolution.\n- A stability issue could have occurred when claiming Season Pass, Objective, and Milestone Rewards.\n- After creating a Squad in Single Player Ultimate Draft, new tactics could not be created on the team management screen.\n- Loan Player Items in Seasonal Objectives were showing as having 0 contracts, this was a visual issue only.\n- Sometimes, the Objective notification would still be present even if all Objectives were claimed.\n- A stability issue could have occurred after swapping players and then making tactical changes in Ultimate Draft.\n- If a player forfeited a Rush match, they were not able to party up with their original group again with a new invite.\n- In rare situations, a Player Bio can be displayed after returning after Pack Preview.\n- After completing the onboarding in Ultimate Team, Learn and Upgrade was sending players to the FC Hub.\n- Stadium Items set to active on the New Items screen were not applied.\n- A Season Pass screen could have displayed when an Objective reward was claimed.\n- Sometimes, the match result was displayed when waiting in the match lobby.\n- In Evolutions, Role rewards did not display + or ++ symbols.\n- Some Stadium Items were showing a placeholder image on the Item.\n- In some circumstances, it was not possible to navigate to the SBC Storage.\n- Addressed instances of players not being able to preview rewards in the Season Pass.\n- Player profiles could overlap with Club Badges in the Rush lobby.\n- Sometimes, a Custom Tactics share code could have disappeared.\n- A player could have been assigned more than one Corner Kick Instruction.\n- Sometimes, a Goalkeeper could have come up for a corner kick unintentionally.\n- Addressed instances of stability issues when navigating SBCs.\n\n‌\n\n### Clubs\n\nAddressed the following issues:\n\n- In a rare scenario, an incorrect match result was shown when the opposing team left the match.\n- Drop-in matches didn’t proceed to penalties if Golden Goal Extra Time ended in a draw.\n- CAM Avatars could have been placed in incorrect positions when selecting the Any option in some cases.\n- The Captain was not always able to interact with Quick Tactics.\n- Highlights in Rush displayed an incorrect time format.\n- After getting a Match Rating of 10 in Rush, it was not possible for it to decrease during the match.\n- Addressed a stability issue when using the Reset Tactic option.\n- In Rush, the pop-up message to join the team voice channel did not always display.\n- In certain situations, a Waiting for Clubmates message would display at the end of a match.\n\n### Career Mode\n\nMade the following changes:\n\n- The Simulation gameplay preset is now the default for new Career Mode saves.\n- Added multiple settings when creating a new Career Mode save, including the ability to disable Club Growth Board Objectives.\n\n‌\n\nAddressed the following issues:\n\n- Improved Growth Plan logic for secondary positions in Manager Career.\n- Addressed instances of social media posts not displaying as intended.\n- Youth Academy goalkeepers had lower Diving Attributes than intended.\n- Addressed an instance of conversations interrupting Calendar time advancement.\n- Youth Academy surnames could have repeated too often.\n- Sometimes in Manager Career, the Player of the Month award was not present.\n- In Player Career, created Players were not always displaying incorrectly.\n- Addressed instances of incorrect camera angles.\n- Addressed instances of Manager customization not displaying as intended.\n- In some cases, the Transfer tab could have been inactive.\n- Improved some UI transitions.\n- A stability issue could have occurred when firing a Scout.\n- Improved social media comment context.\n- The audio for goal sounds could play at inconsistent volumes.\n- Updated Youth Academy player body types.\n- Addressed visual issues when customizing players.\n- Addressed an instance of an incorrect task present in Women’s Player Career.\n- Addressed instances of Team Sheets not functioning as intended.\n\n### General, Audio, and Visual\n\nMade the following changes:\n\n- Updated some art and UI elements, balls, badges, placeholder text, QR codes, kits, accessibility settings, stadia, audio and commentary, crowds, star heads, camera angles, and visual effects.\n\n‌\n\nAddressed the following issues:\n\n- Sideline players and staff did not always react to shots as intended.\n- During Tournament matches, an NPC could have appeared standing in the middle of the pitch.\n- Adjusted the timing window for Suggested Tactic pop ups in game.\n- Addressed instances of incorrect lighting.\n- Sometimes after using the Rewind functionality, the EA connect widget can appear during gameplay\n- When connecting online in Kick Off, Main Menu settings could have overwritten Kick Off settings.\n- Some Tactical Suggestions did not display the Substitutions option.\n- In Kick Off some player roles were not highlighted when playing them in their preferred position.\n- Addressed instances of UI not displaying or functioning as intended.\n- In Learn To Play Rush, the game could have started on a full-size pitch.\n- [Xbox Only] The Online Seasons Leaderboard did not update correctly.\n- In Kick Off, the CDM role was not shown as an option in some formations.\n- When switching the player role from Goalkeeper to an outfield position in the create Avatar screen, the option to change gloves was not available.\n- The Lob Pass Skill Game did not always calculate scoring correctly.\n\n‌\n\nThanks to those who’ve provided and continue to provide feedback. Throughout the course of the EA SPORTS FC 25 season, we'll provide you with more information and updates if and when they become available. Be sure to follow \\@‌EASFCDIRECT on X and to check out the EA SPORTS FC Tracker for the latest news and updates.\n\n‌\n\n- The EA SPORTS FC Team"
+                },
+                "board": {
+                    "id": "5f73f7c1b4c1280a7068df5f",
+                    "name": "EA SPORTS FC Tracker",
+                    "shortLink": "keigLn6R"
+                },
+                "list": {
+                    "id": "66e9a32579095e09d37ffc55",
+                    "name": "Game Updates"
+                }
+            },
+            "appCreator": null,
+            "type": "updateCard",
+            "date": "2024-10-15T08:08:22.259Z",
+            "limits": null,
+            "memberCreator": {
+                "id": "5c48831d226ccb5009c3b830",
+                "activityBlocked": false,
+                "avatarHash": "65b8551dba3917ec1acddcfa24cd1bea",
+                "avatarUrl": "https://trello-members.s3.amazonaws.com/5c48831d226ccb5009c3b830/65b8551dba3917ec1acddcfa24cd1bea",
+                "fullName": "Paul Murphy",
+                "idMemberReferrer": null,
+                "initials": "PM",
+                "nonPublic": {},
+                "nonPublicAvailable": true,
+                "username": "pmurphy_liveops"
+            }
+        },
+        {
+            "id": "670d39fa5009df1f9f0a4bac",
+            "idMemberCreator": "5c48831d226ccb5009c3b830",
+            "data": {
+                "card": {
+                    "pos": 20480,
+                    "id": "670d398b217e4fa01c9091d7",
+                    "name": "[PS4/XB1] Title Update #3",
+                    "idShort": 490,
+                    "shortLink": "hK1PJgJ9"
+                },
+                "old": {
+                    "pos": 49152
+                },
+                "board": {
+                    "id": "5f73f7c1b4c1280a7068df5f",
+                    "name": "EA SPORTS FC Tracker",
+                    "shortLink": "keigLn6R"
+                },
+                "list": {
+                    "id": "66e9a32579095e09d37ffc55",
+                    "name": "Game Updates"
+                }
+            },
+            "appCreator": null,
+            "type": "updateCard",
+            "date": "2024-10-14T15:34:18.038Z",
+            "limits": null,
+            "memberCreator": {
+                "id": "5c48831d226ccb5009c3b830",
+                "activityBlocked": false,
+                "avatarHash": "65b8551dba3917ec1acddcfa24cd1bea",
+                "avatarUrl": "https://trello-members.s3.amazonaws.com/5c48831d226ccb5009c3b830/65b8551dba3917ec1acddcfa24cd1bea",
+                "fullName": "Paul Murphy",
+                "idMemberReferrer": null,
+                "initials": "PM",
+                "nonPublic": {},
+                "nonPublicAvailable": true,
+                "username": "pmurphy_liveops"
+            }
+        },
+        {
+            "id": "670d39f20f06c991807d8810",
+            "idMemberCreator": "5c48831d226ccb5009c3b830",
+            "data": {
+                "card": {
+                    "idLabels": [
+                        "5f73f7c1b4c1280a7068dfeb",
+                        "66b64c66fe2b82a1a0bd8245"
+                    ],
+                    "id": "670d398b217e4fa01c9091d7",
+                    "name": "[PS4/XB1] Title Update #3",
+                    "idShort": 490,
+                    "shortLink": "hK1PJgJ9"
+                },
+                "old": {
+                    "idLabels": [
+                        "5f73f7c1b4c1280a7068dfeb"
+                    ]
+                },
+                "board": {
+                    "id": "5f73f7c1b4c1280a7068df5f",
+                    "name": "EA SPORTS FC Tracker",
+                    "shortLink": "keigLn6R"
+                },
+                "list": {
+                    "id": "66e9a32579095e09d37ffc55",
+                    "name": "Game Updates"
+                }
+            },
+            "appCreator": null,
+            "type": "updateCard",
+            "date": "2024-10-14T15:34:10.913Z",
+            "limits": null,
+            "memberCreator": {
+                "id": "5c48831d226ccb5009c3b830",
+                "activityBlocked": false,
+                "avatarHash": "65b8551dba3917ec1acddcfa24cd1bea",
+                "avatarUrl": "https://trello-members.s3.amazonaws.com/5c48831d226ccb5009c3b830/65b8551dba3917ec1acddcfa24cd1bea",
+                "fullName": "Paul Murphy",
+                "idMemberReferrer": null,
+                "initials": "PM",
+                "nonPublic": {},
+                "nonPublicAvailable": true,
+                "username": "pmurphy_liveops"
+            }
+        },
+        {
+            "id": "670d39eddd6e06e428a834ad",
+            "idMemberCreator": "5c48831d226ccb5009c3b830",
+            "data": {
+                "card": {
+                    "idLabels": [
+                        "5f73f7c1b4c1280a7068dfeb"
+                    ],
+                    "id": "670d398b217e4fa01c9091d7",
+                    "name": "[PS4/XB1] Title Update #3",
+                    "idShort": 490,
+                    "shortLink": "hK1PJgJ9"
+                },
+                "old": {
+                    "idLabels": []
+                },
+                "board": {
+                    "id": "5f73f7c1b4c1280a7068df5f",
+                    "name": "EA SPORTS FC Tracker",
+                    "shortLink": "keigLn6R"
+                },
+                "list": {
+                    "id": "66e9a32579095e09d37ffc55",
+                    "name": "Game Updates"
+                }
+            },
+            "appCreator": null,
+            "type": "updateCard",
+            "date": "2024-10-14T15:34:05.587Z",
+            "limits": null,
+            "memberCreator": {
+                "id": "5c48831d226ccb5009c3b830",
+                "activityBlocked": false,
+                "avatarHash": "65b8551dba3917ec1acddcfa24cd1bea",
+                "avatarUrl": "https://trello-members.s3.amazonaws.com/5c48831d226ccb5009c3b830/65b8551dba3917ec1acddcfa24cd1bea",
+                "fullName": "Paul Murphy",
+                "idMemberReferrer": null,
+                "initials": "PM",
+                "nonPublic": {},
+                "nonPublicAvailable": true,
+                "username": "pmurphy_liveops"
+            }
+        },
+        {
+            "id": "670d39d115df7f808226846c",
+            "idMemberCreator": "5c48831d226ccb5009c3b830",
+            "data": {
+                "attachment": {
+                    "id": "670d39d015df7f8082268451",
+                    "name": "FC_25_TU_3.png",
+                    "url": "https://trello.com/1/cards/670d398b217e4fa01c9091d7/attachments/670d39d015df7f8082268451/download/FC_25_TU_3.png",
+                    "previewUrl": "https://trello.com/1/cards/670d398b217e4fa01c9091d7/attachments/670d39d015df7f8082268451/previews/preview/download/FC_25_TU_3.png",
+                    "previewUrl2x": "https://trello.com/1/cards/670d398b217e4fa01c9091d7/attachments/670d39d015df7f8082268451/previews/preview2x/download/FC_25_TU_3.png"
+                },
+                "card": {
+                    "id": "670d398b217e4fa01c9091d7",
+                    "name": "[PS4/XB1] Title Update #3",
+                    "idShort": 490,
+                    "shortLink": "hK1PJgJ9"
+                },
+                "list": {
+                    "id": "66e9a32579095e09d37ffc55",
+                    "name": "Game Updates"
+                },
+                "board": {
+                    "id": "5f73f7c1b4c1280a7068df5f",
+                    "name": "EA SPORTS FC Tracker",
+                    "shortLink": "keigLn6R"
+                }
+            },
+            "appCreator": null,
+            "type": "addAttachmentToCard",
+            "date": "2024-10-14T15:33:37.740Z",
+            "limits": null,
+            "memberCreator": {
+                "id": "5c48831d226ccb5009c3b830",
+                "activityBlocked": false,
+                "avatarHash": "65b8551dba3917ec1acddcfa24cd1bea",
+                "avatarUrl": "https://trello-members.s3.amazonaws.com/5c48831d226ccb5009c3b830/65b8551dba3917ec1acddcfa24cd1bea",
+                "fullName": "Paul Murphy",
+                "idMemberReferrer": null,
+                "initials": "PM",
+                "nonPublic": {},
+                "nonPublicAvailable": true,
+                "username": "pmurphy_liveops"
+            }
+        },
+        {
+            "id": "670d39a3a6690534d2bb0622",
+            "idMemberCreator": "5c48831d226ccb5009c3b830",
+            "data": {
+                "card": {
+                    "desc": "EA SPORTS FC 25 Title Update 3 will soon be available for the PlayStation 4 and Xbox One versions of EA SPORTS FC 25. It includes the changes below.\n\n### Gameplay\n\nMade the following changes:\n\n- Reduced accuracy of First Time Lobbed Through Passes including when performed at extreme angles.\n  - This change is most noticeable for players with high passing Attributes.\n- Greatly reduced potential accuracy of Trivelas.\n- Greatly increased width of the defensive line for 5 defender formations.\n- Reduced potential accuracy of Driven Passes.\n- Increased the frequency of attacking runs for AI players in the following roles: Shadow Striker, Inside Forward Attack, Inside Forward Roaming, WIde Playmaker Attack, and Wingbacks in scenarios with open space ahead of them.\n- Improved AI player decision making when considering diagonal runs into open space, and when considering runs into nearby open space.\n- Improved accuracy of shots taken in situations where the player is not being pressured and generally has a clear line of sight on goal, including 1 on 1 situations and open goals.\n- Improved AI Center Back decision making when attempting to provide a safe option for a pass.\n- Improved AI player recognition of offside situations.\n- The CPU AI will look to further prioritize passing during build up play instead of dribbling.\n- Reduced the speed of some slide tackling animations.\n- Slightly increased clearance accuracy.\n- Reduced Ground Pass and Through Pass ball velocity in wet weather.\n\n‌\n\nAddressed the following issues:\n\n- During some long distance shots and corners, goalkeepers faced away from the ball unintentionally.\n- In some cases, defenders could have turned and faced away from the ball instead of trying to intercept a pass.\n- Right Wing Inside Forward AI players did not always position themselves as intended.\n- Improved referee decision making when calling for fouls and penalty kicks.\n- During a match, Half Wingers could not have changed sides when swapped with their counterparts in Team Management.\n- Players could have sometimes lost the ball too easily when making physical contact during a Skill Move.\n- In some scenarios goalkeepers were attempting to punch or deflect the ball instead of catching it.\n- Some passes could have resulted in the ball traveling faster than intended.\n- The CPU AI incorrectly ignored certain Skill Moves and did not perform them.\n- When remaining in control of the ball after a tackle attempt by the defender, a requested Lob Pass could have taken longer to execute than intended.\n- Some passes could have been more accurate than intended.\n- Improved animations that can occur when performing short passes.\n- In rare scenarios, the user could have lost control of a player receiving a pass.\n- During Set Pieces, an incorrect off the ball player animation could have occurred.\n- Goalkeepers could have sometimes unintentionally dived the wrong way when attempting to make a save.\n- In some dribbling situations, the CPU AI did not attempt to challenge for the ball against a user controller player.\n- In rare cases, goalkeepers could have gotten stuck around their goal posts when attempting to make a save.\n- Sometimes, automatic clearance animations were occurring outside of intended heading and goal line clearance situations.\n- The CPU Slider for Skill Moves previously only applied to Legendary difficulty.\n- Improved goalkeeper animations when dribbling with the ball.\n- The ball could have passed through a goalkeeper in some rare scenarios.\n- In some rare situations, players’ feet could have gotten stuck around goal posts instead of attempting to hit the ball.\n- During Rush penalties, the goalkeeper could have sometimes moved off the line and gotten stuck.\n- During Rush corners, players could have incorrectly positioned and continuously readjusted themselves until the corner was taken.\n- In certain scenarios, the opposing goalkeeper could have been controlled during set pieces by all players in a match.\n- During penalty kicks, players outside of the box did not always perform the correct idle animations.\n- When a Free Kick timed out, sometimes the automatic action could have resulted in a pass instead of an inaccurate shot.\n- Players could have run up directly to the set piece taker in some scenarios, ignoring the minimum distance they must keep.\n- Sometimes, sliding or falling shot animations could have occurred unintentionally.\n- In some cases, defenders going to ground could have applied more pressure to the ball carrier than intended.\n- Addressed instances of player switching not functioning as intended.\n\n### Ultimate Team\n\nAddressed the following issues:\n\n- Attribute upgrades were not showing in the Player Bio when using an upgraded Evolution Item in another Evolution.\n- A stability issue could have occurred when claiming Season Pass, Objective, and Milestone Rewards.\n- After creating a Squad in Single Player Ultimate Draft, new tactics could not be created on the team management screen.\n- Loan Player Items in Seasonal Objectives were showing as having 0 contracts, this was a visual issue only.\n- Sometimes, the Objective notification would still be present even if all Objectives were claimed.\n- A stability issue could have occurred after swapping players and then making tactical changes in Ultimate Draft.\n- If a player forfeited a Rush match, they were not able to party up with their original group again with a new invite.\n- In rare situations, a Player Bio can be displayed after returning after Pack Preview.\n- After completing the onboarding in Ultimate Team, Learn and Upgrade was sending players to the FC Hub.\n- Stadium Items set to active on the New Items screen were not applied.\n- A Season Pass screen could have displayed when an Objective reward was claimed.\n- Sometimes, the match result was displayed when waiting in the match lobby.\n- In Evolutions, Role rewards did not display + or ++ symbols.\n- Some Stadium Items were showing a placeholder image on the Item.\n- In some circumstances, it was not possible to navigate to the SBC Storage.\n- Addressed instances of players not being able to preview rewards in the Season Pass.\n- Player profiles could overlap with Club Badges in the Rush lobby.\n- Sometimes, a Custom Tactics share code could have disappeared.\n- A player could have been assigned more than one Corner Kick Instruction.\n- Sometimes, a Goalkeeper could have come up for a corner kick unintentionally.\n- Addressed instances of stability issues when navigating SBCs.\n\n‌\n\n### Clubs\n\nAddressed the following issues:\n\n- In a rare scenario, an incorrect match result was shown when the opposing team left the match.\n- Drop-in matches didn’t proceed to penalties if Golden Goal Extra Time ended in a draw.\n- CAM Avatars could have been placed in incorrect positions when selecting the Any option in some cases.\n- The Captain was not always able to interact with Quick Tactics.\n- Highlights in Rush displayed an incorrect time format.\n- After getting a Match Rating of 10 in Rush, it was not possible for it to decrease during the match.\n- Addressed a stability issue when using the Reset Tactic option.\n- In Rush, the pop-up message to join the team voice channel did not always display.\n- In certain situations, a Waiting for Clubmates message would display at the end of a match.\n\n### Career Mode\n\nMade the following changes:\n\n- The Simulation gameplay preset is now the default for new Career Mode saves.\n- Added multiple settings when creating a new Career Mode save, including the ability to disable Club Growth Board Objectives.\n\n‌\n\nAddressed the following issues:\n\n- Improved Growth Plan logic for secondary positions in Manager Career.\n- Addressed instances of social media posts not displaying as intended.\n- Youth Academy goalkeepers had lower Diving Attributes than intended.\n- Addressed an instance of conversations interrupting Calendar time advancement.\n- Youth Academy surnames could have repeated too often.\n- Sometimes in Manager Career, the Player of the Month award was not present.\n- In Player Career, created Players were not always displaying incorrectly.\n- Addressed instances of incorrect camera angles.\n- Addressed instances of Manager customization not displaying as intended.\n- In some cases, the Transfer tab could have been inactive.\n- Improved some UI transitions.\n- A stability issue could have occurred when firing a Scout.\n- Improved social media comment context.\n- The audio for goal sounds could play at inconsistent volumes.\n- Updated Youth Academy player body types.\n- Addressed visual issues when customizing players.\n- Addressed an instance of an incorrect task present in Women’s Player Career.\n- Addressed instances of Team Sheets not functioning as intended.\n\n### General, Audio, and Visual\n\nMade the following changes:\n\n- Updated some art and UI elements, balls, badges, placeholder text, QR codes, kits, accessibility settings, stadia, audio and commentary, crowds, star heads, camera angles, and visual effects.\n\n‌\n\nAddressed the following issues:\n\n- Sideline players and staff did not always react to shots as intended.\n- During Tournament matches, an NPC could have appeared standing in the middle of the pitch.\n- Adjusted the timing window for Suggested Tactic pop ups in game.\n- Addressed instances of incorrect lighting.\n- Sometimes after using the Rewind functionality, the EA connect widget can appear during gameplay\n- When connecting online in Kick Off, Main Menu settings could have overwritten Kick Off settings.\n- Some Tactical Suggestions did not display the Substitutions option.\n- In Kick Off some player roles were not highlighted when playing them in their preferred position.\n- Addressed instances of UI not displaying or functioning as intended.\n- In Learn To Play Rush, the game could have started on a full-size pitch.\n- [Xbox Only] The Online Seasons Leaderboard did not update correctly.\n- In Kick Off, the CDM role was not shown as an option in some formations.\n- When switching the player role from Goalkeeper to an outfield position in the create Avatar screen, the option to change gloves was not available.\n- The Lob Pass Skill Game did not always calculate scoring correctly.\n\n‌\n\nThanks to those who’ve provided and continue to provide feedback. Throughout the course of the EA SPORTS FC 25 season, we'll provide you with more information and updates if and when they become available. Be sure to follow \\@‌EASFCDIRECT on X and to check out the EA SPORTS FC Tracker for the latest news and updates.\n\n‌\n\n- The EA SPORTS FC Team",
+                    "id": "670d398b217e4fa01c9091d7",
+                    "name": "[PS4/XB1] Title Update #3",
+                    "idShort": 490,
+                    "shortLink": "hK1PJgJ9"
+                },
+                "old": {
+                    "desc": ""
+                },
+                "board": {
+                    "id": "5f73f7c1b4c1280a7068df5f",
+                    "name": "EA SPORTS FC Tracker",
+                    "shortLink": "keigLn6R"
+                },
+                "list": {
+                    "id": "66e9a32579095e09d37ffc55",
+                    "name": "Game Updates"
+                }
+            },
+            "appCreator": null,
+            "type": "updateCard",
+            "date": "2024-10-14T15:32:51.863Z",
+            "limits": null,
+            "memberCreator": {
+                "id": "5c48831d226ccb5009c3b830",
+                "activityBlocked": false,
+                "avatarHash": "65b8551dba3917ec1acddcfa24cd1bea",
+                "avatarUrl": "https://trello-members.s3.amazonaws.com/5c48831d226ccb5009c3b830/65b8551dba3917ec1acddcfa24cd1bea",
+                "fullName": "Paul Murphy",
+                "idMemberReferrer": null,
+                "initials": "PM",
+                "nonPublic": {},
+                "nonPublicAvailable": true,
+                "username": "pmurphy_liveops"
+            }
+        },
+        {
+            "id": "670d398b217e4fa01c909213",
+            "idMemberCreator": "5c48831d226ccb5009c3b830",
+            "data": {
+                "creationMethod": null,
+                "card": {
+                    "id": "670d398b217e4fa01c9091d7",
+                    "name": "[PS4/XB1] Title Update #3",
+                    "idShort": 490,
+                    "shortLink": "hK1PJgJ9"
+                },
+                "list": {
+                    "id": "66e9a32579095e09d37ffc55",
+                    "name": "Game Updates"
+                },
+                "board": {
+                    "id": "5f73f7c1b4c1280a7068df5f",
+                    "name": "EA SPORTS FC Tracker",
+                    "shortLink": "keigLn6R"
+                }
+            },
+            "appCreator": null,
+            "type": "createCard",
+            "date": "2024-10-14T15:32:27.589Z",
+            "limits": null,
+            "memberCreator": {
+                "id": "5c48831d226ccb5009c3b830",
+                "activityBlocked": false,
+                "avatarHash": "65b8551dba3917ec1acddcfa24cd1bea",
+                "avatarUrl": "https://trello-members.s3.amazonaws.com/5c48831d226ccb5009c3b830/65b8551dba3917ec1acddcfa24cd1bea",
+                "fullName": "Paul Murphy",
+                "idMemberReferrer": null,
+                "initials": "PM",
+                "nonPublic": {},
+                "nonPublicAvailable": true,
+                "username": "pmurphy_liveops"
+            }
+        }
+    ]
+}

@@ -1,0 +1,745 @@
+{
+    "id": "656f4cad77f064dc7fa2aa86",
+    "address": null,
+    "badges": {
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "attachments": 1,
+        "description": true,
+        "due": null,
+        "dueComplete": false,
+        "start": null,
+        "lastUpdatedByAi": false,
+        "attachmentsByType": {
+            "trello": {
+                "board": 0,
+                "card": 0
+            }
+        },
+        "externalSource": null,
+        "location": false,
+        "votes": 0,
+        "maliciousAttachments": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false
+    },
+    "checkItemStates": [],
+    "closed": false,
+    "coordinates": null,
+    "creationMethod": null,
+    "creationMethodError": null,
+    "creationMethodLoadingStartedAt": null,
+    "dueComplete": false,
+    "dateClosed": null,
+    "dateLastActivity": "2024-02-19T14:31:49.494Z",
+    "dateCompleted": null,
+    "dateViewedByCreator": null,
+    "desc": "The Holiday Update (Title Update #6) is now available for all versions of EA SPORTS FC 24. This TU brings a number of changes and additions, including a winter themed main menu, new Player Items in Ultimate Team, and gameplay updates like:\n\n- Reduced midfield congestion.\n- Reduced sideline pressure on attackers.\n- Decreased manual goalkeeper movement speed and positioning.\n- More offensive minded wingbacks in 3 and 5 at the back formations.\n\nIn addition to these TU notes, be sure to [check out our Pitch Notes article](https://www.ea.com/games/ea-sports-fc/pitch-notes/news/fc-24-holiday-update \"‌\") for the Holiday Update which dives deep into some changes and additions through videos and screenshots.\n\n### Ultimate Team\n\nMade the following change:\n\n- Added 92 Player Items to Ultimate Team which will become available following a squad update.\n\nAddressed the following issues:\n\n- Centurion ICONs bios could have incorrectly displayed Base ICON bios.\n- The News UI did not always display correctly.\n- Squads with the Carlos Tévez Manager Item could not have entered matches.\n\n### Gameplay\n\nMade the following changes:\n\n- [PlayStation 5, Xbox Series X|S, PC Only] Strikers and wide midfielders will tend to be less aggressive when trying to mark central attackers.\n- [PlayStation 5, Xbox Series X|S, PC Only] Significantly reduced the amount of pressure the defensive team can apply to players along the sidelines.\n- [PlayStation 5, Xbox Series X|S, PC Only] Significantly lowered the track back speed of AI teammate wingbacks in 3 and 5 at the back formations.\n- Reduced the movement speed of goalkeepers when using the Move Goalkeeper input.\n- Additionally, goalkeepers will now hold their final position for a short time before returning to their normal position.\n- Slightly reduced the top speed of players when using Controlled Sprint.\n- Significantly reduced header shot accuracy when performed by players with the Power Header and Power Header+ PlayStyles.\n- Slightly reduced finesse shot accuracy when performed by players with the Finesse and Finesse+ PlayStyles.\n\nAddressed the following issues:\n\n- In some situations following a kick off, the defending team did not always track attacker runs appropriately.\n- Sometimes, a tackling defender’s leg could have gone through the ball, resulting in an incorrect foul call.\n- Sometimes, players without the Intercept and Intercept+ PlayStyles could have incorrectly triggered slide interceptions animations exclusive to those PlayStyles.\n- Addressed further instances of slide tackles resulting in the ball unintentionally falling back to the attacker.\n- In some cases, a Precision Ground Pass intended for a nearby teammate could have ignored them for a teammate that was in the same direction, but further away.\n- In certain situations goalkeepers did not attempt to save penalty kicks aimed at the middle of the goal.\n- When the ball was traveling at a high speed, players could have had an unintentional amount of ball control when attempting to control the ball with their head.\n- Improved referee logic when determining red card advantage calls.\n- Improved referee logic when determining offside calls following deflections.\n- Goalkeepers did not always use enough power when automatically kicking the ball in order to avoid the 6 second violation.\n- CPU AI goalkeepers could have underpowered their drop kicks at times.\n- Some physical tackle animations did not play correctly.\n- Sometimes a seal out could have occurred after the ball carrier already passed the ball.\n- When receiving a red card, sometimes a scene of the referee giving a yellow card occurred instead.\n\n### Clubs\n\nAddressed the following issue:\n\n- Addressed instances of Playoffs matches not always being counted correctly.\n\n### General\n\nMade the following changes:\n\n- Refreshed the main menu with winter themed effects such as snow.\n- Added the eEuros XI team to Kick off and Online Friendlies which will become available following a squad update.\n- Added a new signature celebration for Diogo Jota, the Triangle celebration.\n- Added and updated a total of 102 player star heads and 6 manager star heads.\n- These will become visible after a Server Release.\n- Updated some UI elements, out-of-match scenes, kits, and Career Mode activities, 2D portraits, banners, scarves, flags, and audio.\n\nAddressed the following issues:\n\n- Addressed instances of various Skill Game issues impacting areas such UI elements, scoring systems, and camera positioning.\n- Addressed instances of stability issues that could have occurred.\n- [PlayStation 5 Only] In some scenarios, adaptive triggers could have become enabled unintentionally.\n\nThanks to those who’ve provided and continue to provide feedback. Throughout the course of the EA SPORTS FC 24 season, we'll provide you with more information and updates if and when they become available. Be sure to follow [\\@‌EASFCDIRECT](https://twitter.com/EASFCDirect \"‌\") on X and to check out the EA SPORTS FC Tracker for the latest news and updates.\n\n- The EA SPORTS FC Team",
+    "descData": {
+        "emoji": {}
+    },
+    "due": null,
+    "dueReminder": null,
+    "email": null,
+    "externalSource": null,
+    "idBoard": "5f73f7c1b4c1280a7068df5f",
+    "idChecklists": [],
+    "idLabels": [
+        "5f73f7c1b4c1280a7068dfeb",
+        "64a6d93136e6c63d5556ac6f"
+    ],
+    "idList": "65106b33b85885896f15d616",
+    "idMemberCreator": null,
+    "idMembers": [],
+    "idMembersVoted": [],
+    "idOrganization": "6137a564cb8f6432c89f8977",
+    "idShort": 417,
+    "idAttachmentCover": "656f4ce34935346aa4da9cb5",
+    "labels": [
+        {
+            "id": "5f73f7c1b4c1280a7068dfeb",
+            "idBoard": "5f73f7c1b4c1280a7068df5f",
+            "idOrganization": "6137a564cb8f6432c89f8977",
+            "name": "Title Update",
+            "nodeId": "ari:cloud:trello::label/workspace/6137a564cb8f6432c89f8977/5f73f7c1b4c1280a7068dfeb",
+            "color": "green",
+            "uses": 182
+        },
+        {
+            "id": "64a6d93136e6c63d5556ac6f",
+            "idBoard": "5f73f7c1b4c1280a7068df5f",
+            "idOrganization": "6137a564cb8f6432c89f8977",
+            "name": "EA SPORTS FC 24",
+            "nodeId": "ari:cloud:trello::label/workspace/6137a564cb8f6432c89f8977/64a6d93136e6c63d5556ac6f",
+            "color": "green_dark",
+            "uses": 87
+        }
+    ],
+    "limits": {
+        "attachments": {
+            "perCard": {
+                "status": "ok",
+                "disableAt": 1000,
+                "warnAt": 800
+            }
+        },
+        "checklists": {
+            "perCard": {
+                "status": "ok",
+                "disableAt": 500,
+                "warnAt": 400
+            }
+        },
+        "stickers": {
+            "perCard": {
+                "status": "ok",
+                "disableAt": 70,
+                "warnAt": 56
+            }
+        }
+    },
+    "locationName": null,
+    "manualCoverAttachment": true,
+    "name": "[PC/PS4/PS5/XB1/XBSX|S/SWITCH] Title Update #6",
+    "nodeId": "ari:cloud:trello::card/workspace/6137a564cb8f6432c89f8977/656f4cad77f064dc7fa2aa86",
+    "pinned": false,
+    "pos": 68607,
+    "shortLink": "Q0OZmWzZ",
+    "shortUrl": "https://trello.com/c/Q0OZmWzZ",
+    "singleInstrumentationId": null,
+    "sourceEmail": null,
+    "staticMapUrl": null,
+    "start": null,
+    "subscribed": null,
+    "url": "https://trello.com/c/Q0OZmWzZ/417-pc-ps4-ps5-xb1-xbsxs-switch-title-update-6",
+    "cover": {
+        "idAttachment": "656f4ce34935346aa4da9cb5",
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "dark",
+        "scaled": [
+            {
+                "id": "656f4ce44935346aa4da9d1c",
+                "_id": "656f4ce44935346aa4da9d1c",
+                "scaled": false,
+                "url": "https://trello.com/1/cards/656f4cad77f064dc7fa2aa86/attachments/656f4ce34935346aa4da9cb5/previews/656f4ce44935346aa4da9d1c/download/FC_24_TU_6.png",
+                "bytes": 2618,
+                "height": 50,
+                "width": 70
+            },
+            {
+                "id": "656f4ce44935346aa4da9d1e",
+                "_id": "656f4ce44935346aa4da9d1e",
+                "scaled": true,
+                "url": "https://trello.com/1/cards/656f4cad77f064dc7fa2aa86/attachments/656f4ce34935346aa4da9cb5/previews/656f4ce44935346aa4da9d1e/download/FC_24_TU_6.png",
+                "bytes": 8475,
+                "height": 46,
+                "width": 150
+            },
+            {
+                "id": "656f4ce44935346aa4da9d1d",
+                "_id": "656f4ce44935346aa4da9d1d",
+                "scaled": false,
+                "url": "https://trello.com/1/cards/656f4cad77f064dc7fa2aa86/attachments/656f4ce34935346aa4da9cb5/previews/656f4ce44935346aa4da9d1d/download/FC_24_TU_6.png",
+                "bytes": 19391,
+                "height": 150,
+                "width": 250
+            },
+            {
+                "id": "656f4ce44935346aa4da9d1f",
+                "_id": "656f4ce44935346aa4da9d1f",
+                "scaled": true,
+                "url": "https://trello.com/1/cards/656f4cad77f064dc7fa2aa86/attachments/656f4ce34935346aa4da9cb5/previews/656f4ce44935346aa4da9d1f/download/FC_24_TU_6.png",
+                "bytes": 26125,
+                "height": 91,
+                "width": 299
+            },
+            {
+                "id": "656f4ce44935346aa4da9d20",
+                "_id": "656f4ce44935346aa4da9d20",
+                "scaled": true,
+                "url": "https://trello.com/1/cards/656f4cad77f064dc7fa2aa86/attachments/656f4ce34935346aa4da9cb5/previews/656f4ce44935346aa4da9d20/download/FC_24_TU_6.png",
+                "bytes": 98573,
+                "height": 183,
+                "width": 600
+            },
+            {
+                "id": "656f4ce44935346aa4da9d21",
+                "_id": "656f4ce44935346aa4da9d21",
+                "scaled": true,
+                "url": "https://trello.com/1/cards/656f4cad77f064dc7fa2aa86/attachments/656f4ce34935346aa4da9cb5/previews/656f4ce44935346aa4da9d21/download/FC_24_TU_6.png",
+                "bytes": 330336,
+                "height": 329,
+                "width": 1080
+            },
+            {
+                "id": "656f4ce44935346aa4da9d22",
+                "_id": "656f4ce44935346aa4da9d22",
+                "scaled": true,
+                "url": "https://trello.com/1/cards/656f4cad77f064dc7fa2aa86/attachments/656f4ce34935346aa4da9cb5/previews/656f4ce44935346aa4da9d22/download/FC_24_TU_6.png",
+                "bytes": 330176,
+                "height": 329,
+                "width": 1080
+            }
+        ],
+        "idPlugin": null
+    },
+    "isTemplate": false,
+    "cardRole": null,
+    "mirrorSourceId": null,
+    "mirrorSourceNodeId": null,
+    "checklists": [],
+    "customFieldItems": [],
+    "members": [],
+    "pluginData": [],
+    "actions": [
+        {
+            "id": "65d36655ee4cb7ca13e1a963",
+            "idMemberCreator": "5c48831d226ccb5009c3b830",
+            "data": {
+                "card": {
+                    "pos": 68607,
+                    "id": "656f4cad77f064dc7fa2aa86",
+                    "name": "[PC/PS4/PS5/XB1/XBSX|S/SWITCH] Title Update #6",
+                    "idShort": 417,
+                    "shortLink": "Q0OZmWzZ"
+                },
+                "old": {
+                    "pos": 4607.9296875
+                },
+                "board": {
+                    "id": "5f73f7c1b4c1280a7068df5f",
+                    "name": "EA SPORTS FC Tracker",
+                    "shortLink": "keigLn6R"
+                },
+                "list": {
+                    "id": "65106b33b85885896f15d616",
+                    "name": "Game Updates Archive"
+                }
+            },
+            "appCreator": null,
+            "type": "updateCard",
+            "date": "2024-02-19T14:31:49.518Z",
+            "limits": null,
+            "memberCreator": {
+                "id": "5c48831d226ccb5009c3b830",
+                "activityBlocked": false,
+                "avatarHash": "65b8551dba3917ec1acddcfa24cd1bea",
+                "avatarUrl": "https://trello-members.s3.amazonaws.com/5c48831d226ccb5009c3b830/65b8551dba3917ec1acddcfa24cd1bea",
+                "fullName": "Paul Murphy",
+                "idMemberReferrer": null,
+                "initials": "PM",
+                "nonPublic": {},
+                "nonPublicAvailable": true,
+                "username": "pmurphy_liveops"
+            }
+        },
+        {
+            "id": "65d36655ee4cb7ca13e1a669",
+            "idMemberCreator": "5c48831d226ccb5009c3b830",
+            "data": {
+                "card": {
+                    "idList": "65106b33b85885896f15d616",
+                    "id": "656f4cad77f064dc7fa2aa86",
+                    "name": "[PC/PS4/PS5/XB1/XBSX|S/SWITCH] Title Update #6",
+                    "idShort": 417,
+                    "shortLink": "Q0OZmWzZ"
+                },
+                "old": {
+                    "idList": "5f73f7c1b4c1280a7068df61"
+                },
+                "board": {
+                    "id": "5f73f7c1b4c1280a7068df5f",
+                    "name": "EA SPORTS FC Tracker",
+                    "shortLink": "keigLn6R"
+                },
+                "listBefore": {
+                    "id": "5f73f7c1b4c1280a7068df61",
+                    "name": "Latest News"
+                },
+                "listAfter": {
+                    "id": "65106b33b85885896f15d616",
+                    "name": "Game Updates Archive"
+                }
+            },
+            "appCreator": null,
+            "type": "updateCard",
+            "date": "2024-02-19T14:31:49.047Z",
+            "limits": null,
+            "memberCreator": {
+                "id": "5c48831d226ccb5009c3b830",
+                "activityBlocked": false,
+                "avatarHash": "65b8551dba3917ec1acddcfa24cd1bea",
+                "avatarUrl": "https://trello-members.s3.amazonaws.com/5c48831d226ccb5009c3b830/65b8551dba3917ec1acddcfa24cd1bea",
+                "fullName": "Paul Murphy",
+                "idMemberReferrer": null,
+                "initials": "PM",
+                "nonPublic": {},
+                "nonPublicAvailable": true,
+                "username": "pmurphy_liveops"
+            }
+        },
+        {
+            "id": "6570b9919a85cb96f88b28d7",
+            "idMemberCreator": "5d5b1beea30eaf1b648e6ee7",
+            "data": {
+                "card": {
+                    "desc": "The Holiday Update (Title Update #6) is now available for all versions of EA SPORTS FC 24. This TU brings a number of changes and additions, including a winter themed main menu, new Player Items in Ultimate Team, and gameplay updates like:\n\n- Reduced midfield congestion.\n- Reduced sideline pressure on attackers.\n- Decreased manual goalkeeper movement speed and positioning.\n- More offensive minded wingbacks in 3 and 5 at the back formations.\n\nIn addition to these TU notes, be sure to [check out our Pitch Notes article](https://www.ea.com/games/ea-sports-fc/pitch-notes/news/fc-24-holiday-update \"‌\") for the Holiday Update which dives deep into some changes and additions through videos and screenshots.\n\n### Ultimate Team\n\nMade the following change:\n\n- Added 92 Player Items to Ultimate Team which will become available following a squad update.\n\nAddressed the following issues:\n\n- Centurion ICONs bios could have incorrectly displayed Base ICON bios.\n- The News UI did not always display correctly.\n- Squads with the Carlos Tévez Manager Item could not have entered matches.\n\n### Gameplay\n\nMade the following changes:\n\n- [PlayStation 5, Xbox Series X|S, PC Only] Strikers and wide midfielders will tend to be less aggressive when trying to mark central attackers.\n- [PlayStation 5, Xbox Series X|S, PC Only] Significantly reduced the amount of pressure the defensive team can apply to players along the sidelines.\n- [PlayStation 5, Xbox Series X|S, PC Only] Significantly lowered the track back speed of AI teammate wingbacks in 3 and 5 at the back formations.\n- Reduced the movement speed of goalkeepers when using the Move Goalkeeper input.\n- Additionally, goalkeepers will now hold their final position for a short time before returning to their normal position.\n- Slightly reduced the top speed of players when using Controlled Sprint.\n- Significantly reduced header shot accuracy when performed by players with the Power Header and Power Header+ PlayStyles.\n- Slightly reduced finesse shot accuracy when performed by players with the Finesse and Finesse+ PlayStyles.\n\nAddressed the following issues:\n\n- In some situations following a kick off, the defending team did not always track attacker runs appropriately.\n- Sometimes, a tackling defender’s leg could have gone through the ball, resulting in an incorrect foul call.\n- Sometimes, players without the Intercept and Intercept+ PlayStyles could have incorrectly triggered slide interceptions animations exclusive to those PlayStyles.\n- Addressed further instances of slide tackles resulting in the ball unintentionally falling back to the attacker.\n- In some cases, a Precision Ground Pass intended for a nearby teammate could have ignored them for a teammate that was in the same direction, but further away.\n- In certain situations goalkeepers did not attempt to save penalty kicks aimed at the middle of the goal.\n- When the ball was traveling at a high speed, players could have had an unintentional amount of ball control when attempting to control the ball with their head.\n- Improved referee logic when determining red card advantage calls.\n- Improved referee logic when determining offside calls following deflections.\n- Goalkeepers did not always use enough power when automatically kicking the ball in order to avoid the 6 second violation.\n- CPU AI goalkeepers could have underpowered their drop kicks at times.\n- Some physical tackle animations did not play correctly.\n- Sometimes a seal out could have occurred after the ball carrier already passed the ball.\n- When receiving a red card, sometimes a scene of the referee giving a yellow card occurred instead.\n\n### Clubs\n\nAddressed the following issue:\n\n- Addressed instances of Playoffs matches not always being counted correctly.\n\n### General\n\nMade the following changes:\n\n- Refreshed the main menu with winter themed effects such as snow.\n- Added the eEuros XI team to Kick off and Online Friendlies which will become available following a squad update.\n- Added a new signature celebration for Diogo Jota, the Triangle celebration.\n- Added and updated a total of 102 player star heads and 6 manager star heads.\n- These will become visible after a Server Release.\n- Updated some UI elements, out-of-match scenes, kits, and Career Mode activities, 2D portraits, banners, scarves, flags, and audio.\n\nAddressed the following issues:\n\n- Addressed instances of various Skill Game issues impacting areas such UI elements, scoring systems, and camera positioning.\n- Addressed instances of stability issues that could have occurred.\n- [PlayStation 5 Only] In some scenarios, adaptive triggers could have become enabled unintentionally.\n\nThanks to those who’ve provided and continue to provide feedback. Throughout the course of the EA SPORTS FC 24 season, we'll provide you with more information and updates if and when they become available. Be sure to follow [\\@‌EASFCDIRECT](https://twitter.com/EASFCDirect \"‌\") on X and to check out the EA SPORTS FC Tracker for the latest news and updates.\n\n- The EA SPORTS FC Team",
+                    "id": "656f4cad77f064dc7fa2aa86",
+                    "name": "[PC/PS4/PS5/XB1/XBSX|S/SWITCH] Title Update #6",
+                    "idShort": 417,
+                    "shortLink": "Q0OZmWzZ"
+                },
+                "old": {
+                    "desc": "The Holiday Update (Title Update #6) is now available for all versions of EA SPORTS FC 24. This TU will bring a number of changes and additions, including a winter themed main menu, new Player Items in Ultimate Team, and gameplay updates like:\n\n- Reduced midfield congestion.\n- Reduced sideline pressure on attackers.\n- Decreased manual goalkeeper movement speed and positioning.\n- More offensive minded wingbacks in 3 and 5 at the back formations.\n\nIn addition to these TU notes, be sure to [check out our Pitch Notes article](https://www.ea.com/games/ea-sports-fc/pitch-notes/news/fc-24-holiday-update \"‌\") for the Holiday Update which dives deep into some changes and additions through videos and screenshots.\n\n### Ultimate Team\n\nMade the following change:\n\n- Added 94 Player Items to Ultimate Team which will become available following a squad update.\n\nAddressed the following issues:\n\n- Centurion ICONs bios could have incorrectly displayed Base ICON bios.\n- The News UI did not always display correctly.\n- Squads with the Carlos Tévez Manager Item could not have entered matches.\n\n### Gameplay\n\nMade the following changes:\n\n- [PlayStation 5, Xbox Series X|S, PC Only] Strikers and wide midfielders will tend to be less aggressive when trying to mark central attackers.\n- [PlayStation 5, Xbox Series X|S, PC Only] Significantly reduced the amount of pressure the defensive team can apply to players along the sidelines.\n- [PlayStation 5, Xbox Series X|S, PC Only] Significantly lowered the track back speed of AI teammate wingbacks in 3 and 5 at the back formations.\n- Reduced the movement speed of goalkeepers when using the Move Goalkeeper input.\n- Additionally, goalkeepers will now hold their final position for a short time before returning to their normal position.\n- Slightly reduced the top speed of players when using Controlled Sprint.\n- Significantly reduced header shot accuracy when performed by players with the Power Header and Power Header+ PlayStyles.\n- Slightly reduced finesse shot accuracy when performed by players with the Finesse and Finesse+ PlayStyles.\n\nAddressed the following issues:\n\n- In some situations following a kick off, the defending team did not always track attacker runs appropriately.\n- Sometimes, a tackling defender’s leg could have gone through the ball, resulting in an incorrect foul call.\n- Sometimes, players without the Intercept and Intercept+ PlayStyles could have incorrectly triggered slide interceptions animations exclusive to those PlayStyles.\n- Addressed further instances of slide tackles resulting in the ball unintentionally falling back to the attacker.\n- In some cases, a Precision Ground Pass intended for a nearby teammate could have ignored them for a teammate that was in the same direction, but further away.\n- In certain situations goalkeepers did not attempt to save penalty kicks aimed at the middle of the goal.\n- When the ball was traveling at a high speed, players could have had an unintentional amount of ball control when attempting to control the ball with their head.\n- Improved referee logic when determining red card advantage calls.\n- Improved referee logic when determining offside calls following deflections.\n- Goalkeepers did not always use enough power when automatically kicking the ball in order to avoid the 6 second violation.\n- CPU AI goalkeepers could have underpowered their drop kicks at times.\n- Some physical tackle animations did not play correctly.\n- Sometimes a seal out could have occurred after the ball carrier already passed the ball.\n- When receiving a red card, sometimes a scene of the referee giving a yellow card occurred instead.\n\n### Clubs\n\nAddressed the following issue:\n\n- Addressed instances of Playoffs matches not always being counted correctly.\n\n### General\n\nMade the following changes:\n\n- Refreshed the main menu with winter themed effects such as snow.\n- Added the eEuros XI team to Kick off and Online Friendlies which will become available following a squad update.\n- Added a new signature celebration for Diogo Jota, the Triangle celebration.\n- Added and updated a total of 102 player star heads and 6 manager star heads.\n- These will become visible after a Server Release.\n- Updated some UI elements, out-of-match scenes, kits, and Career Mode activities, 2D portraits, banners, scarves, flags, and audio.\n\nAddressed the following issues:\n\n- Addressed instances of various Skill Game issues impacting areas such UI elements, scoring systems, and camera positioning.\n- Addressed instances of stability issues that could have occurred.\n- [PlayStation 5 Only] In some scenarios, adaptive triggers could have become enabled unintentionally.\n\nThanks to those who’ve provided and continue to provide feedback. Throughout the course of the EA SPORTS FC 24 season, we'll provide you with more information and updates if and when they become available. Be sure to follow [\\@‌EASFCDIRECT](https://twitter.com/EASFCDirect \"‌\") on X and to check out the EA SPORTS FC Tracker for the latest news and updates.\n\n- The EA SPORTS FC Team"
+                },
+                "board": {
+                    "id": "5f73f7c1b4c1280a7068df5f",
+                    "name": "EA SPORTS FC Tracker",
+                    "shortLink": "keigLn6R"
+                },
+                "list": {
+                    "id": "5f73f7c1b4c1280a7068df61",
+                    "name": "Latest News",
+                    "color": "gray"
+                }
+            },
+            "appCreator": null,
+            "type": "updateCard",
+            "date": "2023-12-06T18:12:33.757Z",
+            "limits": null,
+            "memberCreator": {
+                "id": "5d5b1beea30eaf1b648e6ee7",
+                "activityBlocked": false,
+                "avatarHash": "9b8c2ae64bd8604e7257419fe56df466",
+                "avatarUrl": "https://trello-members.s3.amazonaws.com/5d5b1beea30eaf1b648e6ee7/9b8c2ae64bd8604e7257419fe56df466",
+                "fullName": "Goran",
+                "idMemberReferrer": null,
+                "initials": "G",
+                "nonPublic": {},
+                "nonPublicAvailable": true,
+                "username": "goran_drpoplove"
+            }
+        },
+        {
+            "id": "65704ec71596f000adacaa0b",
+            "idMemberCreator": "5c48831d226ccb5009c3b830",
+            "data": {
+                "card": {
+                    "desc": "The Holiday Update (Title Update #6) is now available for all versions of EA SPORTS FC 24. This TU will bring a number of changes and additions, including a winter themed main menu, new Player Items in Ultimate Team, and gameplay updates like:\n\n- Reduced midfield congestion.\n- Reduced sideline pressure on attackers.\n- Decreased manual goalkeeper movement speed and positioning.\n- More offensive minded wingbacks in 3 and 5 at the back formations.\n\nIn addition to these TU notes, be sure to [check out our Pitch Notes article](https://www.ea.com/games/ea-sports-fc/pitch-notes/news/fc-24-holiday-update \"‌\") for the Holiday Update which dives deep into some changes and additions through videos and screenshots.\n\n### Ultimate Team\n\nMade the following change:\n\n- Added 94 Player Items to Ultimate Team which will become available following a squad update.\n\nAddressed the following issues:\n\n- Centurion ICONs bios could have incorrectly displayed Base ICON bios.\n- The News UI did not always display correctly.\n- Squads with the Carlos Tévez Manager Item could not have entered matches.\n\n### Gameplay\n\nMade the following changes:\n\n- [PlayStation 5, Xbox Series X|S, PC Only] Strikers and wide midfielders will tend to be less aggressive when trying to mark central attackers.\n- [PlayStation 5, Xbox Series X|S, PC Only] Significantly reduced the amount of pressure the defensive team can apply to players along the sidelines.\n- [PlayStation 5, Xbox Series X|S, PC Only] Significantly lowered the track back speed of AI teammate wingbacks in 3 and 5 at the back formations.\n- Reduced the movement speed of goalkeepers when using the Move Goalkeeper input.\n- Additionally, goalkeepers will now hold their final position for a short time before returning to their normal position.\n- Slightly reduced the top speed of players when using Controlled Sprint.\n- Significantly reduced header shot accuracy when performed by players with the Power Header and Power Header+ PlayStyles.\n- Slightly reduced finesse shot accuracy when performed by players with the Finesse and Finesse+ PlayStyles.\n\nAddressed the following issues:\n\n- In some situations following a kick off, the defending team did not always track attacker runs appropriately.\n- Sometimes, a tackling defender’s leg could have gone through the ball, resulting in an incorrect foul call.\n- Sometimes, players without the Intercept and Intercept+ PlayStyles could have incorrectly triggered slide interceptions animations exclusive to those PlayStyles.\n- Addressed further instances of slide tackles resulting in the ball unintentionally falling back to the attacker.\n- In some cases, a Precision Ground Pass intended for a nearby teammate could have ignored them for a teammate that was in the same direction, but further away.\n- In certain situations goalkeepers did not attempt to save penalty kicks aimed at the middle of the goal.\n- When the ball was traveling at a high speed, players could have had an unintentional amount of ball control when attempting to control the ball with their head.\n- Improved referee logic when determining red card advantage calls.\n- Improved referee logic when determining offside calls following deflections.\n- Goalkeepers did not always use enough power when automatically kicking the ball in order to avoid the 6 second violation.\n- CPU AI goalkeepers could have underpowered their drop kicks at times.\n- Some physical tackle animations did not play correctly.\n- Sometimes a seal out could have occurred after the ball carrier already passed the ball.\n- When receiving a red card, sometimes a scene of the referee giving a yellow card occurred instead.\n\n### Clubs\n\nAddressed the following issue:\n\n- Addressed instances of Playoffs matches not always being counted correctly.\n\n### General\n\nMade the following changes:\n\n- Refreshed the main menu with winter themed effects such as snow.\n- Added the eEuros XI team to Kick off and Online Friendlies which will become available following a squad update.\n- Added a new signature celebration for Diogo Jota, the Triangle celebration.\n- Added and updated a total of 102 player star heads and 6 manager star heads.\n- These will become visible after a Server Release.\n- Updated some UI elements, out-of-match scenes, kits, and Career Mode activities, 2D portraits, banners, scarves, flags, and audio.\n\nAddressed the following issues:\n\n- Addressed instances of various Skill Game issues impacting areas such UI elements, scoring systems, and camera positioning.\n- Addressed instances of stability issues that could have occurred.\n- [PlayStation 5 Only] In some scenarios, adaptive triggers could have become enabled unintentionally.\n\nThanks to those who’ve provided and continue to provide feedback. Throughout the course of the EA SPORTS FC 24 season, we'll provide you with more information and updates if and when they become available. Be sure to follow [\\@‌EASFCDIRECT](https://twitter.com/EASFCDirect \"‌\") on X and to check out the EA SPORTS FC Tracker for the latest news and updates.\n\n- The EA SPORTS FC Team",
+                    "id": "656f4cad77f064dc7fa2aa86",
+                    "name": "[PC/PS4/PS5/XB1/XBSX|S/SWITCH] Title Update #6",
+                    "idShort": 417,
+                    "shortLink": "Q0OZmWzZ"
+                },
+                "old": {
+                    "desc": "The Holiday Update (Title Update #6) will soon be available for all versions of EA SPORTS FC 24. This TU will bring a number of changes and additions, including a winter themed main menu, new Player Items in Ultimate Team, and gameplay updates like:\n\n- Reduced midfield congestion.\n- Reduced sideline pressure on attackers.\n- Decreased manual goalkeeper movement speed and positioning.\n- More offensive minded wingbacks in 3 and 5 at the back formations.\n\nIn addition to these TU notes, be sure to [check out our Pitch Notes article](https://www.ea.com/games/ea-sports-fc/pitch-notes/news/fc-24-holiday-update \"‌\") for the Holiday Update which dives deep into some changes and additions through videos and screenshots.\n\n### Ultimate Team\n\nMade the following change:\n\n- Added 94 Player Items to Ultimate Team which will become available following a squad update.\n\nAddressed the following issues:\n\n- Centurion ICONs bios could have incorrectly displayed Base ICON bios.\n- The News UI did not always display correctly.\n- Squads with the Carlos Tévez Manager Item could not have entered matches.\n\n### Gameplay\n\nMade the following changes:\n\n- [PlayStation 5, Xbox Series X|S, PC Only] Strikers and wide midfielders will tend to be less aggressive when trying to mark central attackers.\n- [PlayStation 5, Xbox Series X|S, PC Only] Significantly reduced the amount of pressure the defensive team can apply to players along the sidelines.\n- [PlayStation 5, Xbox Series X|S, PC Only] Significantly lowered the track back speed of AI teammate wingbacks in 3 and 5 at the back formations.\n- Reduced the movement speed of goalkeepers when using the Move Goalkeeper input.\n- Additionally, goalkeepers will now hold their final position for a short time before returning to their normal position.\n- Slightly reduced the top speed of players when using Controlled Sprint.\n- Significantly reduced header shot accuracy when performed by players with the Power Header and Power Header+ PlayStyles.\n- Slightly reduced finesse shot accuracy when performed by players with the Finesse and Finesse+ PlayStyles.\n\nAddressed the following issues:\n\n- In some situations following a kick off, the defending team did not always track attacker runs appropriately.\n- Sometimes, a tackling defender’s leg could have gone through the ball, resulting in an incorrect foul call.\n- Sometimes, players without the Intercept and Intercept+ PlayStyles could have incorrectly triggered slide interceptions animations exclusive to those PlayStyles.\n- Addressed further instances of slide tackles resulting in the ball unintentionally falling back to the attacker.\n- In some cases, a Precision Ground Pass intended for a nearby teammate could have ignored them for a teammate that was in the same direction, but further away.\n- In certain situations goalkeepers did not attempt to save penalty kicks aimed at the middle of the goal.\n- When the ball was traveling at a high speed, players could have had an unintentional amount of ball control when attempting to control the ball with their head.\n- Improved referee logic when determining red card advantage calls.\n- Improved referee logic when determining offside calls following deflections.\n- Goalkeepers did not always use enough power when automatically kicking the ball in order to avoid the 6 second violation.\n- CPU AI goalkeepers could have underpowered their drop kicks at times.\n- Some physical tackle animations did not play correctly.\n- Sometimes a seal out could have occurred after the ball carrier already passed the ball.\n- When receiving a red card, sometimes a scene of the referee giving a yellow card occurred instead.\n\n### Clubs\n\nAddressed the following issue:\n\n- Addressed instances of Playoffs matches not always being counted correctly.\n\n### General\n\nMade the following changes:\n\n- Refreshed the main menu with winter themed effects such as snow.\n- Added the eEuros XI team to Kick off and Online Friendlies which will become available following a squad update.\n- Added a new signature celebration for Diogo Jota, the Triangle celebration.\n- Added and updated a total of 102 player star heads and 6 manager star heads.\n- These will become visible after a Server Release.\n- Updated some UI elements, out-of-match scenes, kits, and Career Mode activities, 2D portraits, banners, scarves, flags, and audio.\n\nAddressed the following issues:\n\n- Addressed instances of various Skill Game issues impacting areas such UI elements, scoring systems, and camera positioning.\n- Addressed instances of stability issues that could have occurred.\n- [PlayStation 5 Only] In some scenarios, adaptive triggers could have become enabled unintentionally.\n\nThanks to those who’ve provided and continue to provide feedback. Throughout the course of the EA SPORTS FC 24 season, we'll provide you with more information and updates if and when they become available. Be sure to follow [\\@‌EASFCDIRECT](https://twitter.com/EASFCDirect \"‌\") on X and to check out the EA SPORTS FC Tracker for the latest news and updates.\n\n- The EA SPORTS FC Team"
+                },
+                "board": {
+                    "id": "5f73f7c1b4c1280a7068df5f",
+                    "name": "EA SPORTS FC Tracker",
+                    "shortLink": "keigLn6R"
+                },
+                "list": {
+                    "id": "5f73f7c1b4c1280a7068df61",
+                    "name": "Latest News",
+                    "color": "gray"
+                }
+            },
+            "appCreator": null,
+            "type": "updateCard",
+            "date": "2023-12-06T10:36:55.986Z",
+            "limits": null,
+            "memberCreator": {
+                "id": "5c48831d226ccb5009c3b830",
+                "activityBlocked": false,
+                "avatarHash": "65b8551dba3917ec1acddcfa24cd1bea",
+                "avatarUrl": "https://trello-members.s3.amazonaws.com/5c48831d226ccb5009c3b830/65b8551dba3917ec1acddcfa24cd1bea",
+                "fullName": "Paul Murphy",
+                "idMemberReferrer": null,
+                "initials": "PM",
+                "nonPublic": {},
+                "nonPublicAvailable": true,
+                "username": "pmurphy_liveops"
+            }
+        },
+        {
+            "id": "656f51310ccda16f99f8c959",
+            "idMemberCreator": "5d5b1beea30eaf1b648e6ee7",
+            "data": {
+                "card": {
+                    "desc": "The Holiday Update (Title Update #6) will soon be available for all versions of EA SPORTS FC 24. This TU will bring a number of changes and additions, including a winter themed main menu, new Player Items in Ultimate Team, and gameplay updates like:\n\n- Reduced midfield congestion.\n- Reduced sideline pressure on attackers.\n- Decreased manual goalkeeper movement speed and positioning.\n- More offensive minded wingbacks in 3 and 5 at the back formations.\n\nIn addition to these TU notes, be sure to [check out our Pitch Notes article](https://www.ea.com/games/ea-sports-fc/pitch-notes/news/fc-24-holiday-update \"‌\") for the Holiday Update which dives deep into some changes and additions through videos and screenshots.\n\n### Ultimate Team\n\nMade the following change:\n\n- Added 94 Player Items to Ultimate Team which will become available following a squad update.\n\nAddressed the following issues:\n\n- Centurion ICONs bios could have incorrectly displayed Base ICON bios.\n- The News UI did not always display correctly.\n- Squads with the Carlos Tévez Manager Item could not have entered matches.\n\n### Gameplay\n\nMade the following changes:\n\n- [PlayStation 5, Xbox Series X|S, PC Only] Strikers and wide midfielders will tend to be less aggressive when trying to mark central attackers.\n- [PlayStation 5, Xbox Series X|S, PC Only] Significantly reduced the amount of pressure the defensive team can apply to players along the sidelines.\n- [PlayStation 5, Xbox Series X|S, PC Only] Significantly lowered the track back speed of AI teammate wingbacks in 3 and 5 at the back formations.\n- Reduced the movement speed of goalkeepers when using the Move Goalkeeper input.\n- Additionally, goalkeepers will now hold their final position for a short time before returning to their normal position.\n- Slightly reduced the top speed of players when using Controlled Sprint.\n- Significantly reduced header shot accuracy when performed by players with the Power Header and Power Header+ PlayStyles.\n- Slightly reduced finesse shot accuracy when performed by players with the Finesse and Finesse+ PlayStyles.\n\nAddressed the following issues:\n\n- In some situations following a kick off, the defending team did not always track attacker runs appropriately.\n- Sometimes, a tackling defender’s leg could have gone through the ball, resulting in an incorrect foul call.\n- Sometimes, players without the Intercept and Intercept+ PlayStyles could have incorrectly triggered slide interceptions animations exclusive to those PlayStyles.\n- Addressed further instances of slide tackles resulting in the ball unintentionally falling back to the attacker.\n- In some cases, a Precision Ground Pass intended for a nearby teammate could have ignored them for a teammate that was in the same direction, but further away.\n- In certain situations goalkeepers did not attempt to save penalty kicks aimed at the middle of the goal.\n- When the ball was traveling at a high speed, players could have had an unintentional amount of ball control when attempting to control the ball with their head.\n- Improved referee logic when determining red card advantage calls.\n- Improved referee logic when determining offside calls following deflections.\n- Goalkeepers did not always use enough power when automatically kicking the ball in order to avoid the 6 second violation.\n- CPU AI goalkeepers could have underpowered their drop kicks at times.\n- Some physical tackle animations did not play correctly.\n- Sometimes a seal out could have occurred after the ball carrier already passed the ball.\n- When receiving a red card, sometimes a scene of the referee giving a yellow card occurred instead.\n\n### Clubs\n\nAddressed the following issue:\n\n- Addressed instances of Playoffs matches not always being counted correctly.\n\n### General\n\nMade the following changes:\n\n- Refreshed the main menu with winter themed effects such as snow.\n- Added the eEuros XI team to Kick off and Online Friendlies which will become available following a squad update.\n- Added a new signature celebration for Diogo Jota, the Triangle celebration.\n- Added and updated a total of 102 player star heads and 6 manager star heads.\n- These will become visible after a Server Release.\n- Updated some UI elements, out-of-match scenes, kits, and Career Mode activities, 2D portraits, banners, scarves, flags, and audio.\n\nAddressed the following issues:\n\n- Addressed instances of various Skill Game issues impacting areas such UI elements, scoring systems, and camera positioning.\n- Addressed instances of stability issues that could have occurred.\n- [PlayStation 5 Only] In some scenarios, adaptive triggers could have become enabled unintentionally.\n\nThanks to those who’ve provided and continue to provide feedback. Throughout the course of the EA SPORTS FC 24 season, we'll provide you with more information and updates if and when they become available. Be sure to follow [\\@‌EASFCDIRECT](https://twitter.com/EASFCDirect \"‌\") on X and to check out the EA SPORTS FC Tracker for the latest news and updates.\n\n- The EA SPORTS FC Team",
+                    "id": "656f4cad77f064dc7fa2aa86",
+                    "name": "[PC/PS4/PS5/XB1/XBSX|S/SWITCH] Title Update #6",
+                    "idShort": 417,
+                    "shortLink": "Q0OZmWzZ"
+                },
+                "old": {
+                    "desc": "The Holiday Update (Title Update #6) will soon be available for all versions of EA SPORTS FC 24. This TU will bring a number of changes and additions, including a winter themed main menu, new Player Items in Ultimate Team, and gameplay updates like:\n\n- Reduced midfield congestion.\n- Reduced sideline pressure on attackers.\n- Decreased manual goalkeeper movement speed and positioning.\n- More offensive minded wingbacks in 3 and 5 at the back formations.\n\nIn addition to these TU notes, be sure to [check out our Pitch Notes article](https://www.ea.com/games/ea-sports-fc/pitch-notes/news/fc-24-holiday-update \"‌\") for the Holiday Update which dives deep into some changes and additions through videos and screenshots.\n\n### Ultimate Team\n\nMade the following change:\n\n- Added 94 Player Items to Ultimate Team which will become available following a squad update.\n\nAddressed the following issues:\n\n- Centurion ICONs bios could have incorrectly displayed Base ICON bios.\n- The News UI did not always display correctly.\n- Squads with the Carlos Tévez Manager Item could not have entered matches.\n\n### Gameplay\n\nMade the following changes:\n\n- [PlayStation 5, Xbox Series X|S, PC Only] Strikers and wide midfielders will tend to be less aggressive when trying to mark central attackers.\n- [PlayStation 5, Xbox Series X|S, PC Only] Significantly reduced the amount of pressure the defensive team can apply to players along the sidelines.\n- [PlayStation 5, Xbox Series X|S, PC Only] Significantly lowered the track back speed of AI teammate wingbacks in 3 and 5 at the back formations.\n- Reduced the movement speed of goalkeepers when using the Move Goalkeeper input.\n- Additionally, goalkeepers will now hold their final position for a short time before returning to their normal position.\n- Slightly reduced the top speed of players when using Controlled Sprint.\n- Significantly reduced header shot accuracy when performed by players with the Power Header and Power Header+ PlayStyles.\n- Slightly reduced finesse shot accuracy when performed by players with the Finesse and Finesse+ PlayStyles.\n\nAddressed the following issues:\n\n- In some situations following a kick off, the defending team did not always track attacker runs appropriately.\n- Sometimes, a tackling defender’s leg could have gone through the ball, resulting in an incorrect foul call.\n- Sometimes, players without the Intercept and Intercept+ PlayStyles could have incorrectly triggered slide interceptions animations exclusive to those PlayStyles.\n- Addressed further instances of slide tackles resulting in the ball unintentionally falling back to the attacker.\n- In some cases, a Precision Ground Pass intended for a nearby teammate could have ignored them for a teammate that was in the same direction, but further away.\n- In certain situations goalkeepers did not attempt to save penalty kicks aimed at the middle of the goal.\n- When the ball was traveling at a high speed, players could have had an unintentional amount of ball control when attempting to control the ball with their head.\n- Improved referee logic when determining red card advantage calls.\n- Improved referee logic when determining offside calls following deflections.\n- Goalkeepers did not always use enough power when automatically kicking the ball in order to avoid the 6 second violation.\n- CPU AI goalkeepers could have underpowered their drop kicks at times.\n- Some physical tackle animations did not play correctly.\n- Sometimes a seal out could have occurred after the ball carrier already passed the ball.\n- When receiving a red card, sometimes a scene of the referee giving a yellow card occurred instead.\n\n### Clubs\n\nAddressed the following issue:\n\n- Addressed instances of Playoffs matches not always being counted correctly.\n\n### General\n\nMade the following changes:\n\n- Refreshed the main menu with winter themed effects such as snow.\n- Added the eEuros XI team to Kick off and Online Friendlies which will become available following a squad update.\n- Added a new signature celebration for Diogo Jota, the Triangle celebration.\n- Added and updated a total of 102 player star heads and 6 manager star heads.\n- These will become visible after a Server Release.\n- Updated some UI elements, out-of-match scenes, kits, and Career Mode activities, 2D portraits, banners, scarves, flags, and audio.\n\nAddressed the following issues:\n\n- Addressed instances of various Skill Game issues impacting areas such UI elements, scoring systems, and camera positioning.\n- Addressed instances of stability issues that could have occurred.\n- [PlayStation 5 Only] In some scenarios, adaptive triggers could have become enabled unintentionally.\n\nThanks to those who’ve provided and continue to provide feedback. Throughout the course of the EA SPORTS FC 24 season, we'll provide you with more information and updates if and when they become available. Be sure to follow [\\@‌EASFCDIRECT](https://twitter.com/EASFCDirect \"‌\") on X and to check out the EA SPORTS FC Tracker for the latest news and updates.\n\n‌\n\n- The EA SPORTS FC Team"
+                },
+                "board": {
+                    "id": "5f73f7c1b4c1280a7068df5f",
+                    "name": "EA SPORTS FC Tracker",
+                    "shortLink": "keigLn6R"
+                },
+                "list": {
+                    "id": "5f73f7c1b4c1280a7068df61",
+                    "name": "Latest News"
+                }
+            },
+            "appCreator": null,
+            "type": "updateCard",
+            "date": "2023-12-05T16:34:57.224Z",
+            "limits": null,
+            "memberCreator": {
+                "id": "5d5b1beea30eaf1b648e6ee7",
+                "activityBlocked": false,
+                "avatarHash": "9b8c2ae64bd8604e7257419fe56df466",
+                "avatarUrl": "https://trello-members.s3.amazonaws.com/5d5b1beea30eaf1b648e6ee7/9b8c2ae64bd8604e7257419fe56df466",
+                "fullName": "Goran",
+                "idMemberReferrer": null,
+                "initials": "G",
+                "nonPublic": {},
+                "nonPublicAvailable": true,
+                "username": "goran_drpoplove"
+            }
+        },
+        {
+            "id": "656f511dac3f30654e9ac1f9",
+            "idMemberCreator": "5d5b1beea30eaf1b648e6ee7",
+            "data": {
+                "card": {
+                    "desc": "The Holiday Update (Title Update #6) will soon be available for all versions of EA SPORTS FC 24. This TU will bring a number of changes and additions, including a winter themed main menu, new Player Items in Ultimate Team, and gameplay updates like:\n\n- Reduced midfield congestion.\n- Reduced sideline pressure on attackers.\n- Decreased manual goalkeeper movement speed and positioning.\n- More offensive minded wingbacks in 3 and 5 at the back formations.\n\nIn addition to these TU notes, be sure to [check out our Pitch Notes article](https://www.ea.com/games/ea-sports-fc/pitch-notes/news/fc-24-holiday-update \"‌\") for the Holiday Update which dives deep into some changes and additions through videos and screenshots.\n\n### Ultimate Team\n\nMade the following change:\n\n- Added 94 Player Items to Ultimate Team which will become available following a squad update.\n\nAddressed the following issues:\n\n- Centurion ICONs bios could have incorrectly displayed Base ICON bios.\n- The News UI did not always display correctly.\n- Squads with the Carlos Tévez Manager Item could not have entered matches.\n\n### Gameplay\n\nMade the following changes:\n\n- [PlayStation 5, Xbox Series X|S, PC Only] Strikers and wide midfielders will tend to be less aggressive when trying to mark central attackers.\n- [PlayStation 5, Xbox Series X|S, PC Only] Significantly reduced the amount of pressure the defensive team can apply to players along the sidelines.\n- [PlayStation 5, Xbox Series X|S, PC Only] Significantly lowered the track back speed of AI teammate wingbacks in 3 and 5 at the back formations.\n- Reduced the movement speed of goalkeepers when using the Move Goalkeeper input.\n- Additionally, goalkeepers will now hold their final position for a short time before returning to their normal position.\n- Slightly reduced the top speed of players when using Controlled Sprint.\n- Significantly reduced header shot accuracy when performed by players with the Power Header and Power Header+ PlayStyles.\n- Slightly reduced finesse shot accuracy when performed by players with the Finesse and Finesse+ PlayStyles.\n\nAddressed the following issues:\n\n- In some situations following a kick off, the defending team did not always track attacker runs appropriately.\n- Sometimes, a tackling defender’s leg could have gone through the ball, resulting in an incorrect foul call.\n- Sometimes, players without the Intercept and Intercept+ PlayStyles could have incorrectly triggered slide interceptions animations exclusive to those PlayStyles.\n- Addressed further instances of slide tackles resulting in the ball unintentionally falling back to the attacker.\n- In some cases, a Precision Ground Pass intended for a nearby teammate could have ignored them for a teammate that was in the same direction, but further away.\n- In certain situations goalkeepers did not attempt to save penalty kicks aimed at the middle of the goal.\n- When the ball was traveling at a high speed, players could have had an unintentional amount of ball control when attempting to control the ball with their head.\n- Improved referee logic when determining red card advantage calls.\n- Improved referee logic when determining offside calls following deflections.\n- Goalkeepers did not always use enough power when automatically kicking the ball in order to avoid the 6 second violation.\n- CPU AI goalkeepers could have underpowered their drop kicks at times.\n- Some physical tackle animations did not play correctly.\n- Sometimes a seal out could have occurred after the ball carrier already passed the ball.\n- When receiving a red card, sometimes a scene of the referee giving a yellow card occurred instead.\n\n### Clubs\n\nAddressed the following issue:\n\n- Addressed instances of Playoffs matches not always being counted correctly.\n\n### General\n\nMade the following changes:\n\n- Refreshed the main menu with winter themed effects such as snow.\n- Added the eEuros XI team to Kick off and Online Friendlies which will become available following a squad update.\n- Added a new signature celebration for Diogo Jota, the Triangle celebration.\n- Added and updated a total of 102 player star heads and 6 manager star heads.\n- These will become visible after a Server Release.\n- Updated some UI elements, out-of-match scenes, kits, and Career Mode activities, 2D portraits, banners, scarves, flags, and audio.\n\nAddressed the following issues:\n\n- Addressed instances of various Skill Game issues impacting areas such UI elements, scoring systems, and camera positioning.\n- Addressed instances of stability issues that could have occurred.\n- [PlayStation 5 Only] In some scenarios, adaptive triggers could have become enabled unintentionally.\n\nThanks to those who’ve provided and continue to provide feedback. Throughout the course of the EA SPORTS FC 24 season, we'll provide you with more information and updates if and when they become available. Be sure to follow [\\@‌EASFCDIRECT](https://twitter.com/EASFCDirect \"‌\") on X and to check out the EA SPORTS FC Tracker for the latest news and updates.\n\n‌\n\n- The EA SPORTS FC Team",
+                    "id": "656f4cad77f064dc7fa2aa86",
+                    "name": "[PC/PS4/PS5/XB1/XBSX|S/SWITCH] Title Update #6",
+                    "idShort": 417,
+                    "shortLink": "Q0OZmWzZ"
+                },
+                "old": {
+                    "desc": "The Holiday Update (Title Update #6) will soon be available for all versions of EA SPORTS FC 24. This TU will bring a number of changes and additions, including a winter themed main menu, new Player Items in Ultimate Team, and gameplay updates like:\n\n‌\n\n- Reduced midfield congestion.\n- Reduced sideline pressure on attackers.\n- Decreased manual goalkeeper movement speed and positioning.\n- More offensive minded wingbacks in 3 and 5 at the back formations.\n\n‌\n\nIn addition to these TU notes, be sure to [check out our Pitch Notes article](https://www.ea.com/games/ea-sports-fc/pitch-notes/news/fc-24-holiday-update \"‌\") for the Holiday Update which dives deep into some changes and additions through videos and screenshots.\n\n### Ultimate Team\n\n‌\n\nMade the following change:\n\n‌\n\n- Added 94 Player Items to Ultimate Team which will become available following a squad update.\n\n‌\n\nAddressed the following issues:\n\n‌\n\n- Centurion ICONs bios could have incorrectly displayed Base ICON bios.\n- The News UI did not always display correctly.\n- Squads with the Carlos Tévez Manager Item could not have entered matches.\n\n### Gameplay\n\n‌\n\nMade the following changes:\n\n‌\n\n- [PlayStation 5, Xbox Series X|S, PC Only] Strikers and wide midfielders will tend to be less aggressive when trying to mark central attackers.\n- [PlayStation 5, Xbox Series X|S, PC Only] Significantly reduced the amount of pressure the defensive team can apply to players along the sidelines.\n- [PlayStation 5, Xbox Series X|S, PC Only] Significantly lowered the track back speed of AI teammate wingbacks in 3 and 5 at the back formations.\n- Reduced the movement speed of goalkeepers when using the Move Goalkeeper input.\n- Additionally, goalkeepers will now hold their final position for a short time before returning to their normal position.\n- Slightly reduced the top speed of players when using Controlled Sprint.\n- Significantly reduced header shot accuracy when performed by players with the Power Header and Power Header+ PlayStyles.\n- Slightly reduced finesse shot accuracy when performed by players with the Finesse and Finesse+ PlayStyles.\n\n‌\n\nAddressed the following issues:\n\n‌\n\n- In some situations following a kick off, the defending team did not always track attacker runs appropriately.\n- Sometimes, a tackling defender’s leg could have gone through the ball, resulting in an incorrect foul call.\n- Sometimes, players without the Intercept and Intercept+ PlayStyles could have incorrectly triggered slide interceptions animations exclusive to those PlayStyles.\n- Addressed further instances of slide tackles resulting in the ball unintentionally falling back to the attacker.\n- In some cases, a Precision Ground Pass intended for a nearby teammate could have ignored them for a teammate that was in the same direction, but further away.\n- In certain situations goalkeepers did not attempt to save penalty kicks aimed at the middle of the goal.\n- When the ball was traveling at a high speed, players could have had an unintentional amount of ball control when attempting to control the ball with their head.\n- Improved referee logic when determining red card advantage calls.\n- Improved referee logic when determining offside calls following deflections.\n- Goalkeepers did not always use enough power when automatically kicking the ball in order to avoid the 6 second violation.\n- CPU AI goalkeepers could have underpowered their drop kicks at times.\n- Some physical tackle animations did not play correctly.\n- Sometimes a seal out could have occurred after the ball carrier already passed the ball.\n- When receiving a red card, sometimes a scene of the referee giving a yellow card occurred instead.\n\n### Clubs\n\n‌\n\nAddressed the following issue:\n\n‌\n\n- Addressed instances of Playoffs matches not always being counted correctly.\n\n### General\n\n‌\n\nMade the following changes:\n\n‌\n\n- Refreshed the main menu with winter themed effects such as snow.\n- Added the eEuros XI team to Kick off and Online Friendlies which will become available following a squad update.\n- Added a new signature celebration for Diogo Jota, the Triangle celebration.\n- Added and updated a total of 102 player star heads and 6 manager star heads.\n- These will become visible after a Server Release.\n- Updated some UI elements, out-of-match scenes, kits, and Career Mode activities, 2D portraits, banners, scarves, flags, and audio.\n\n‌\n\nAddressed the following issues:\n\n‌\n\n- Addressed instances of various Skill Game issues impacting areas such UI elements, scoring systems, and camera positioning.\n- Addressed instances of stability issues that could have occurred.\n- [PlayStation 5 Only] In some scenarios, adaptive triggers could have become enabled unintentionally.\n\n‌\n\nThanks to those who’ve provided and continue to provide feedback. Throughout the course of the EA SPORTS FC 24 season, we'll provide you with more information and updates if and when they become available. Be sure to follow [\\@‌EASFCDIRECT](https://twitter.com/EASFCDirect \"‌\") on X and to check out the EA SPORTS FC Tracker for the latest news and updates.\n\n‌\n\n- The EA SPORTS FC Team"
+                },
+                "board": {
+                    "id": "5f73f7c1b4c1280a7068df5f",
+                    "name": "EA SPORTS FC Tracker",
+                    "shortLink": "keigLn6R"
+                },
+                "list": {
+                    "id": "5f73f7c1b4c1280a7068df61",
+                    "name": "Latest News"
+                }
+            },
+            "appCreator": null,
+            "type": "updateCard",
+            "date": "2023-12-05T16:34:37.935Z",
+            "limits": null,
+            "memberCreator": {
+                "id": "5d5b1beea30eaf1b648e6ee7",
+                "activityBlocked": false,
+                "avatarHash": "9b8c2ae64bd8604e7257419fe56df466",
+                "avatarUrl": "https://trello-members.s3.amazonaws.com/5d5b1beea30eaf1b648e6ee7/9b8c2ae64bd8604e7257419fe56df466",
+                "fullName": "Goran",
+                "idMemberReferrer": null,
+                "initials": "G",
+                "nonPublic": {},
+                "nonPublicAvailable": true,
+                "username": "goran_drpoplove"
+            }
+        },
+        {
+            "id": "656f4cf65e5383cf56edb7e7",
+            "idMemberCreator": "5c48831d226ccb5009c3b830",
+            "data": {
+                "card": {
+                    "pos": 4607.9296875,
+                    "id": "656f4cad77f064dc7fa2aa86",
+                    "name": "[PC/PS4/PS5/XB1/XBSX|S/SWITCH] Title Update #6",
+                    "idShort": 417,
+                    "shortLink": "Q0OZmWzZ"
+                },
+                "old": {
+                    "pos": 73727.875
+                },
+                "board": {
+                    "id": "5f73f7c1b4c1280a7068df5f",
+                    "name": "EA SPORTS FC Tracker",
+                    "shortLink": "keigLn6R"
+                },
+                "list": {
+                    "id": "5f73f7c1b4c1280a7068df61",
+                    "name": "Latest News"
+                }
+            },
+            "appCreator": null,
+            "type": "updateCard",
+            "date": "2023-12-05T16:16:54.313Z",
+            "limits": null,
+            "memberCreator": {
+                "id": "5c48831d226ccb5009c3b830",
+                "activityBlocked": false,
+                "avatarHash": "65b8551dba3917ec1acddcfa24cd1bea",
+                "avatarUrl": "https://trello-members.s3.amazonaws.com/5c48831d226ccb5009c3b830/65b8551dba3917ec1acddcfa24cd1bea",
+                "fullName": "Paul Murphy",
+                "idMemberReferrer": null,
+                "initials": "PM",
+                "nonPublic": {},
+                "nonPublicAvailable": true,
+                "username": "pmurphy_liveops"
+            }
+        },
+        {
+            "id": "656f4cef5f5478441e230015",
+            "idMemberCreator": "5c48831d226ccb5009c3b830",
+            "data": {
+                "card": {
+                    "name": "[PC/PS4/PS5/XB1/XBSX|S/SWITCH] Title Update #6",
+                    "id": "656f4cad77f064dc7fa2aa86",
+                    "idShort": 417,
+                    "shortLink": "Q0OZmWzZ"
+                },
+                "old": {
+                    "name": "[PC/PS4/PS5/XB1/XBSX|S/SWITCH] Title Update #5"
+                },
+                "board": {
+                    "id": "5f73f7c1b4c1280a7068df5f",
+                    "name": "EA SPORTS FC Tracker",
+                    "shortLink": "keigLn6R"
+                },
+                "list": {
+                    "id": "5f73f7c1b4c1280a7068df61",
+                    "name": "Latest News"
+                }
+            },
+            "appCreator": null,
+            "type": "updateCard",
+            "date": "2023-12-05T16:16:47.532Z",
+            "limits": null,
+            "memberCreator": {
+                "id": "5c48831d226ccb5009c3b830",
+                "activityBlocked": false,
+                "avatarHash": "65b8551dba3917ec1acddcfa24cd1bea",
+                "avatarUrl": "https://trello-members.s3.amazonaws.com/5c48831d226ccb5009c3b830/65b8551dba3917ec1acddcfa24cd1bea",
+                "fullName": "Paul Murphy",
+                "idMemberReferrer": null,
+                "initials": "PM",
+                "nonPublic": {},
+                "nonPublicAvailable": true,
+                "username": "pmurphy_liveops"
+            }
+        },
+        {
+            "id": "656f4ce44935346aa4da9d32",
+            "idMemberCreator": "5c48831d226ccb5009c3b830",
+            "data": {
+                "attachment": {
+                    "id": "656f4ce34935346aa4da9cb5",
+                    "name": "FC 24 TU 6.png",
+                    "url": "https://trello.com/1/cards/656f4cad77f064dc7fa2aa86/attachments/656f4ce34935346aa4da9cb5/download/FC_24_TU_6.png",
+                    "previewUrl": "https://trello.com/1/cards/656f4cad77f064dc7fa2aa86/attachments/656f4ce34935346aa4da9cb5/previews/preview/download/FC_24_TU_6.png",
+                    "previewUrl2x": "https://trello.com/1/cards/656f4cad77f064dc7fa2aa86/attachments/656f4ce34935346aa4da9cb5/previews/preview2x/download/FC_24_TU_6.png"
+                },
+                "card": {
+                    "id": "656f4cad77f064dc7fa2aa86",
+                    "name": "[PC/PS4/PS5/XB1/XBSX|S/SWITCH] Title Update #5",
+                    "idShort": 417,
+                    "shortLink": "Q0OZmWzZ"
+                },
+                "list": {
+                    "id": "5f73f7c1b4c1280a7068df61",
+                    "name": "Latest News"
+                },
+                "board": {
+                    "id": "5f73f7c1b4c1280a7068df5f",
+                    "name": "EA SPORTS FC Tracker",
+                    "shortLink": "keigLn6R"
+                }
+            },
+            "appCreator": null,
+            "type": "addAttachmentToCard",
+            "date": "2023-12-05T16:16:36.846Z",
+            "limits": null,
+            "memberCreator": {
+                "id": "5c48831d226ccb5009c3b830",
+                "activityBlocked": false,
+                "avatarHash": "65b8551dba3917ec1acddcfa24cd1bea",
+                "avatarUrl": "https://trello-members.s3.amazonaws.com/5c48831d226ccb5009c3b830/65b8551dba3917ec1acddcfa24cd1bea",
+                "fullName": "Paul Murphy",
+                "idMemberReferrer": null,
+                "initials": "PM",
+                "nonPublic": {},
+                "nonPublicAvailable": true,
+                "username": "pmurphy_liveops"
+            }
+        },
+        {
+            "id": "656f4cd9961be2b14c9c7c90",
+            "idMemberCreator": "5c48831d226ccb5009c3b830",
+            "data": {
+                "card": {
+                    "idLabels": [
+                        "5f73f7c1b4c1280a7068dfeb",
+                        "64a6d93136e6c63d5556ac6f"
+                    ],
+                    "id": "656f4cad77f064dc7fa2aa86",
+                    "name": "[PC/PS4/PS5/XB1/XBSX|S/SWITCH] Title Update #5",
+                    "idShort": 417,
+                    "shortLink": "Q0OZmWzZ"
+                },
+                "old": {
+                    "idLabels": [
+                        "5f73f7c1b4c1280a7068dfeb"
+                    ]
+                },
+                "board": {
+                    "id": "5f73f7c1b4c1280a7068df5f",
+                    "name": "EA SPORTS FC Tracker",
+                    "shortLink": "keigLn6R"
+                },
+                "list": {
+                    "id": "5f73f7c1b4c1280a7068df61",
+                    "name": "Latest News"
+                }
+            },
+            "appCreator": null,
+            "type": "updateCard",
+            "date": "2023-12-05T16:16:25.190Z",
+            "limits": null,
+            "memberCreator": {
+                "id": "5c48831d226ccb5009c3b830",
+                "activityBlocked": false,
+                "avatarHash": "65b8551dba3917ec1acddcfa24cd1bea",
+                "avatarUrl": "https://trello-members.s3.amazonaws.com/5c48831d226ccb5009c3b830/65b8551dba3917ec1acddcfa24cd1bea",
+                "fullName": "Paul Murphy",
+                "idMemberReferrer": null,
+                "initials": "PM",
+                "nonPublic": {},
+                "nonPublicAvailable": true,
+                "username": "pmurphy_liveops"
+            }
+        },
+        {
+            "id": "656f4cd840daff346ce0aa78",
+            "idMemberCreator": "5c48831d226ccb5009c3b830",
+            "data": {
+                "card": {
+                    "idLabels": [
+                        "5f73f7c1b4c1280a7068dfeb"
+                    ],
+                    "id": "656f4cad77f064dc7fa2aa86",
+                    "name": "[PC/PS4/PS5/XB1/XBSX|S/SWITCH] Title Update #5",
+                    "idShort": 417,
+                    "shortLink": "Q0OZmWzZ"
+                },
+                "old": {
+                    "idLabels": []
+                },
+                "board": {
+                    "id": "5f73f7c1b4c1280a7068df5f",
+                    "name": "EA SPORTS FC Tracker",
+                    "shortLink": "keigLn6R"
+                },
+                "list": {
+                    "id": "5f73f7c1b4c1280a7068df61",
+                    "name": "Latest News"
+                }
+            },
+            "appCreator": null,
+            "type": "updateCard",
+            "date": "2023-12-05T16:16:24.588Z",
+            "limits": null,
+            "memberCreator": {
+                "id": "5c48831d226ccb5009c3b830",
+                "activityBlocked": false,
+                "avatarHash": "65b8551dba3917ec1acddcfa24cd1bea",
+                "avatarUrl": "https://trello-members.s3.amazonaws.com/5c48831d226ccb5009c3b830/65b8551dba3917ec1acddcfa24cd1bea",
+                "fullName": "Paul Murphy",
+                "idMemberReferrer": null,
+                "initials": "PM",
+                "nonPublic": {},
+                "nonPublicAvailable": true,
+                "username": "pmurphy_liveops"
+            }
+        },
+        {
+            "id": "656f4cd2662370b313907a40",
+            "idMemberCreator": "5c48831d226ccb5009c3b830",
+            "data": {
+                "card": {
+                    "desc": "The Holiday Update (Title Update #6) will soon be available for all versions of EA SPORTS FC 24. This TU will bring a number of changes and additions, including a winter themed main menu, new Player Items in Ultimate Team, and gameplay updates like:\n\n‌\n\n- Reduced midfield congestion.\n- Reduced sideline pressure on attackers.\n- Decreased manual goalkeeper movement speed and positioning.\n- More offensive minded wingbacks in 3 and 5 at the back formations.\n\n‌\n\nIn addition to these TU notes, be sure to [check out our Pitch Notes article](https://www.ea.com/games/ea-sports-fc/pitch-notes/news/fc-24-holiday-update \"‌\") for the Holiday Update which dives deep into some changes and additions through videos and screenshots.\n\n### Ultimate Team\n\n‌\n\nMade the following change:\n\n‌\n\n- Added 94 Player Items to Ultimate Team which will become available following a squad update.\n\n‌\n\nAddressed the following issues:\n\n‌\n\n- Centurion ICONs bios could have incorrectly displayed Base ICON bios.\n- The News UI did not always display correctly.\n- Squads with the Carlos Tévez Manager Item could not have entered matches.\n\n### Gameplay\n\n‌\n\nMade the following changes:\n\n‌\n\n- [PlayStation 5, Xbox Series X|S, PC Only] Strikers and wide midfielders will tend to be less aggressive when trying to mark central attackers.\n- [PlayStation 5, Xbox Series X|S, PC Only] Significantly reduced the amount of pressure the defensive team can apply to players along the sidelines.\n- [PlayStation 5, Xbox Series X|S, PC Only] Significantly lowered the track back speed of AI teammate wingbacks in 3 and 5 at the back formations.\n- Reduced the movement speed of goalkeepers when using the Move Goalkeeper input.\n- Additionally, goalkeepers will now hold their final position for a short time before returning to their normal position.\n- Slightly reduced the top speed of players when using Controlled Sprint.\n- Significantly reduced header shot accuracy when performed by players with the Power Header and Power Header+ PlayStyles.\n- Slightly reduced finesse shot accuracy when performed by players with the Finesse and Finesse+ PlayStyles.\n\n‌\n\nAddressed the following issues:\n\n‌\n\n- In some situations following a kick off, the defending team did not always track attacker runs appropriately.\n- Sometimes, a tackling defender’s leg could have gone through the ball, resulting in an incorrect foul call.\n- Sometimes, players without the Intercept and Intercept+ PlayStyles could have incorrectly triggered slide interceptions animations exclusive to those PlayStyles.\n- Addressed further instances of slide tackles resulting in the ball unintentionally falling back to the attacker.\n- In some cases, a Precision Ground Pass intended for a nearby teammate could have ignored them for a teammate that was in the same direction, but further away.\n- In certain situations goalkeepers did not attempt to save penalty kicks aimed at the middle of the goal.\n- When the ball was traveling at a high speed, players could have had an unintentional amount of ball control when attempting to control the ball with their head.\n- Improved referee logic when determining red card advantage calls.\n- Improved referee logic when determining offside calls following deflections.\n- Goalkeepers did not always use enough power when automatically kicking the ball in order to avoid the 6 second violation.\n- CPU AI goalkeepers could have underpowered their drop kicks at times.\n- Some physical tackle animations did not play correctly.\n- Sometimes a seal out could have occurred after the ball carrier already passed the ball.\n- When receiving a red card, sometimes a scene of the referee giving a yellow card occurred instead.\n\n### Clubs\n\n‌\n\nAddressed the following issue:\n\n‌\n\n- Addressed instances of Playoffs matches not always being counted correctly.\n\n### General\n\n‌\n\nMade the following changes:\n\n‌\n\n- Refreshed the main menu with winter themed effects such as snow.\n- Added the eEuros XI team to Kick off and Online Friendlies which will become available following a squad update.\n- Added a new signature celebration for Diogo Jota, the Triangle celebration.\n- Added and updated a total of 102 player star heads and 6 manager star heads.\n- These will become visible after a Server Release.\n- Updated some UI elements, out-of-match scenes, kits, and Career Mode activities, 2D portraits, banners, scarves, flags, and audio.\n\n‌\n\nAddressed the following issues:\n\n‌\n\n- Addressed instances of various Skill Game issues impacting areas such UI elements, scoring systems, and camera positioning.\n- Addressed instances of stability issues that could have occurred.\n- [PlayStation 5 Only] In some scenarios, adaptive triggers could have become enabled unintentionally.\n\n‌\n\nThanks to those who’ve provided and continue to provide feedback. Throughout the course of the EA SPORTS FC 24 season, we'll provide you with more information and updates if and when they become available. Be sure to follow [\\@‌EASFCDIRECT](https://twitter.com/EASFCDirect \"‌\") on X and to check out the EA SPORTS FC Tracker for the latest news and updates.\n\n‌\n\n- The EA SPORTS FC Team",
+                    "id": "656f4cad77f064dc7fa2aa86",
+                    "name": "[PC/PS4/PS5/XB1/XBSX|S/SWITCH] Title Update #5",
+                    "idShort": 417,
+                    "shortLink": "Q0OZmWzZ"
+                },
+                "old": {
+                    "desc": ""
+                },
+                "board": {
+                    "id": "5f73f7c1b4c1280a7068df5f",
+                    "name": "EA SPORTS FC Tracker",
+                    "shortLink": "keigLn6R"
+                },
+                "list": {
+                    "id": "5f73f7c1b4c1280a7068df61",
+                    "name": "Latest News"
+                }
+            },
+            "appCreator": null,
+            "type": "updateCard",
+            "date": "2023-12-05T16:16:18.539Z",
+            "limits": null,
+            "memberCreator": {
+                "id": "5c48831d226ccb5009c3b830",
+                "activityBlocked": false,
+                "avatarHash": "65b8551dba3917ec1acddcfa24cd1bea",
+                "avatarUrl": "https://trello-members.s3.amazonaws.com/5c48831d226ccb5009c3b830/65b8551dba3917ec1acddcfa24cd1bea",
+                "fullName": "Paul Murphy",
+                "idMemberReferrer": null,
+                "initials": "PM",
+                "nonPublic": {},
+                "nonPublicAvailable": true,
+                "username": "pmurphy_liveops"
+            }
+        },
+        {
+            "id": "656f4cad77f064dc7fa2aa8f",
+            "idMemberCreator": "5c48831d226ccb5009c3b830",
+            "data": {
+                "card": {
+                    "id": "656f4cad77f064dc7fa2aa86",
+                    "name": "[PC/PS4/PS5/XB1/XBSX|S/SWITCH] Title Update #5",
+                    "idShort": 417,
+                    "shortLink": "Q0OZmWzZ"
+                },
+                "list": {
+                    "id": "5f73f7c1b4c1280a7068df61",
+                    "name": "Latest News"
+                },
+                "board": {
+                    "id": "5f73f7c1b4c1280a7068df5f",
+                    "name": "EA SPORTS FC Tracker",
+                    "shortLink": "keigLn6R"
+                }
+            },
+            "appCreator": null,
+            "type": "createCard",
+            "date": "2023-12-05T16:15:41.337Z",
+            "limits": null,
+            "memberCreator": {
+                "id": "5c48831d226ccb5009c3b830",
+                "activityBlocked": false,
+                "avatarHash": "65b8551dba3917ec1acddcfa24cd1bea",
+                "avatarUrl": "https://trello-members.s3.amazonaws.com/5c48831d226ccb5009c3b830/65b8551dba3917ec1acddcfa24cd1bea",
+                "fullName": "Paul Murphy",
+                "idMemberReferrer": null,
+                "initials": "PM",
+                "nonPublic": {},
+                "nonPublicAvailable": true,
+                "username": "pmurphy_liveops"
+            }
+        }
+    ]
+}

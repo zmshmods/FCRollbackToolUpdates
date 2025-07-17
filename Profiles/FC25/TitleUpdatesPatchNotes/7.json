@@ -1,0 +1,653 @@
+{
+    "id": "677d88e8468c4ff316572c64",
+    "address": null,
+    "badges": {
+        "attachments": 1,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "description": true,
+        "due": null,
+        "dueComplete": false,
+        "lastUpdatedByAi": false,
+        "start": null,
+        "attachmentsByType": {
+            "trello": {
+                "board": 0,
+                "card": 0
+            }
+        },
+        "externalSource": null,
+        "location": false,
+        "votes": 0,
+        "maliciousAttachments": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false
+    },
+    "checkItemStates": [],
+    "closed": false,
+    "coordinates": null,
+    "creationMethod": null,
+    "creationMethodError": null,
+    "creationMethodLoadingStartedAt": null,
+    "dueComplete": false,
+    "dateClosed": null,
+    "dateLastActivity": "2025-02-11T12:13:23.984Z",
+    "dateCompleted": null,
+    "dateViewedByCreator": null,
+    "desc": "The latest Title Update for EA SPORTS FC 25 is now available for all versions of EA SPORTS FC 25 and includes the changes below.\n\n**Ultimate Team**\n\nAddressed the following issues:\n\n- When opening a Player Pick Item and performing specific actions, the Player Item could display as tradable; this was a visual issue only.\n- Addressed a stability issue that could occur when opening multiple Player Pick Packs.\n- Sometimes, Player Item portraits could have appeared misaligned with the rest of the Player Item during the walkout animation.\n- When opening a pack containing double walkout Player Items, the details of the second Player Item were shown.\n  - Details of the first player reveal will now be displayed in the tunnel sequence.\n- Sometimes, the country flag was not displayed on time during the pack opening animation.\n\n**Gameplay**\n\nAddressed the following issues:\n\n- In certain situations the positioning system was bringing players too close to the ball carrier when cutting off passing lanes, resulting in autotackles.\n  - This could also result in midfielders being pulled out of position to overload the ball carrier, reducing passing options.\n- Addressed multiple situations where the goalkeeper would deflect the ball instead of catching it, making it look like they “fumbled” the save.\n- Addressed an issue where skill moves could be unresponsive or not be triggered.\n- Addressed an issue where the goalkeeper could sometimes fail to perform desperation animations when running back to the goal on chip shots.\n- Addressed an issue where the player not receiving the ball from the ball kid could cause a broken throw-in animation, preventing the game from progressing.\n- Addressed issues where attempting a lobbed through pass would sometimes result in a through ground pass instead.\n- Players were incorrectly able to do precision lobs off of headers, which could result in headers launching enormous distances across the field.\n  - We have resolved this issue and players will no longer be able to perform this action.\n- Sometimes the goalkeeper could trigger an unrealistic jumping animation during a save.\n- Addressed an issue where the Precision Pass UI would incorrectly enlarge after a pass was made.\n- Addressed an issue where a Super Cancel sometimes did not stop the player from running after the ball.\n- Reduced accuracy of first-time lofted through passes.\n- In rare situations, players could appear invisible on the Pitch.\n\n**Clubs**\n\nAddressed the following issues:\n\n- At the Top Performers screen, the CPU Avatar could have incorrect body types.\n- Sometimes, following a player disconnecting from the match, the CPU AI would be assigned as the penalty taker.\n- Addressed an issue that would cause UI elements to appear twice on Short Goal Replays.\n\n**Career Mode**\n\nAddressed the following issues:\n\n- A stability issue could have occurred while playing Live Starting Point.\n- In Manager Career, a stability issue could have occurred after consecutively substituting players during the simulation.\n- In rare situations, in Manager Career, a stability issue could have occurred when creating a club.\n- In Player Career, addressed some instances of irrelevant and incorrect emails being sent by Managers.\n\nMade the following changes:\n\n- Increased the amount of Player Roles a player within Manager Career Mode can be familiar with.\n- Updated UEFA competition rules so teams cannot face opponents from their own association (domestic league), and can only be drawn against a maximum of two sides from the same association.\n\n**General, Audio, and Visual**\n\nMade the following changes:\n\n- Updated some tifos, stadium themes, balls, kits, hair, stadiums, trophies, star heads, crests, props, scenes, broadcasting, and crowds.\n- Added Favourite Team Selector that allows Squads and Line-Up saves to be carried over to Seasons and Co-Op Seasons.\n\nAddressed the following issues:\n\n- Addressed instances of placeholder text, incorrect UI elements, incorrect camera angles, and button conflicts.\n- Addressed instances of stability issues that could have occurred.\n\nThanks to those who’ve provided and continue to provide feedback. Throughout the course of the EA SPORTS FC 25 season, we'll provide you with more information and updates if and when they become available. Be sure to follow \\@‌EASFCDIRECT on X and to check out the EA SPORTS FC Tracker for the latest news and updates.\n\n- The EA SPORTS FC Team",
+    "descData": {
+        "emoji": {}
+    },
+    "due": null,
+    "dueReminder": null,
+    "email": null,
+    "externalSource": null,
+    "idBoard": "5f73f7c1b4c1280a7068df5f",
+    "idChecklists": [],
+    "idLabels": [
+        "5f73f7c1b4c1280a7068dfeb",
+        "66b64c66fe2b82a1a0bd8245"
+    ],
+    "idList": "66e9a32579095e09d37ffc55",
+    "idMemberCreator": "5c490271b0de67896445a8d7",
+    "idMembers": [],
+    "idMembersVoted": [],
+    "idOrganization": "6137a564cb8f6432c89f8977",
+    "idShort": 505,
+    "idAttachmentCover": "677d890004ee84f12a7b3d62",
+    "labels": [
+        {
+            "id": "5f73f7c1b4c1280a7068dfeb",
+            "idBoard": "5f73f7c1b4c1280a7068df5f",
+            "idOrganization": "6137a564cb8f6432c89f8977",
+            "name": "Title Update",
+            "nodeId": "ari:cloud:trello::label/workspace/6137a564cb8f6432c89f8977/5f73f7c1b4c1280a7068dfeb",
+            "color": "green",
+            "uses": 181
+        },
+        {
+            "id": "66b64c66fe2b82a1a0bd8245",
+            "idBoard": "5f73f7c1b4c1280a7068df5f",
+            "idOrganization": "6137a564cb8f6432c89f8977",
+            "name": "EA SPORTS FC 25",
+            "nodeId": "ari:cloud:trello::label/workspace/6137a564cb8f6432c89f8977/66b64c66fe2b82a1a0bd8245",
+            "color": "black_dark",
+            "uses": 76
+        }
+    ],
+    "limits": {
+        "attachments": {
+            "perCard": {
+                "status": "ok",
+                "disableAt": 1000,
+                "warnAt": 800
+            }
+        },
+        "checklists": {
+            "perCard": {
+                "status": "ok",
+                "disableAt": 500,
+                "warnAt": 400
+            }
+        },
+        "stickers": {
+            "perCard": {
+                "status": "ok",
+                "disableAt": 70,
+                "warnAt": 56
+            }
+        }
+    },
+    "locationName": null,
+    "manualCoverAttachment": true,
+    "name": "[PC/PS4/PS5/XB1/XBSX|S/SWITCH] Title Update #7",
+    "nodeId": "ari:cloud:trello::card/workspace/6137a564cb8f6432c89f8977/677d88e8468c4ff316572c64",
+    "pinned": false,
+    "pos": 147456,
+    "shortLink": "oX1Swaph",
+    "shortUrl": "https://trello.com/c/oX1Swaph",
+    "singleInstrumentationId": null,
+    "sourceEmail": null,
+    "staticMapUrl": null,
+    "start": null,
+    "subscribed": null,
+    "url": "https://trello.com/c/oX1Swaph/505-pc-ps4-ps5-xb1-xbsxs-switch-title-update-7",
+    "cover": {
+        "idAttachment": "677d890004ee84f12a7b3d62",
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "dark",
+        "scaled": [
+            {
+                "id": "677d890104ee84f12a7b3d69",
+                "_id": "677d890104ee84f12a7b3d69",
+                "scaled": false,
+                "url": "https://trello.com/1/cards/677d88e8468c4ff316572c64/attachments/677d890004ee84f12a7b3d62/previews/677d890104ee84f12a7b3d69/download/EA_SPORTS_FC_24_Title_Update__237.webp",
+                "bytes": 776,
+                "height": 50,
+                "width": 70
+            },
+            {
+                "id": "677d890104ee84f12a7b3d6b",
+                "_id": "677d890104ee84f12a7b3d6b",
+                "scaled": true,
+                "url": "https://trello.com/1/cards/677d88e8468c4ff316572c64/attachments/677d890004ee84f12a7b3d62/previews/677d890104ee84f12a7b3d6b/download/EA_SPORTS_FC_24_Title_Update__237.webp",
+                "bytes": 2226,
+                "height": 46,
+                "width": 150
+            },
+            {
+                "id": "677d890104ee84f12a7b3d6a",
+                "_id": "677d890104ee84f12a7b3d6a",
+                "scaled": false,
+                "url": "https://trello.com/1/cards/677d88e8468c4ff316572c64/attachments/677d890004ee84f12a7b3d62/previews/677d890104ee84f12a7b3d6a/download/EA_SPORTS_FC_24_Title_Update__237.webp",
+                "bytes": 4294,
+                "height": 150,
+                "width": 250
+            },
+            {
+                "id": "677d890104ee84f12a7b3d6c",
+                "_id": "677d890104ee84f12a7b3d6c",
+                "scaled": true,
+                "url": "https://trello.com/1/cards/677d88e8468c4ff316572c64/attachments/677d890004ee84f12a7b3d62/previews/677d890104ee84f12a7b3d6c/download/EA_SPORTS_FC_24_Title_Update__237.webp",
+                "bytes": 6332,
+                "height": 91,
+                "width": 299
+            },
+            {
+                "id": "677d890104ee84f12a7b3d6d",
+                "_id": "677d890104ee84f12a7b3d6d",
+                "scaled": true,
+                "url": "https://trello.com/1/cards/677d88e8468c4ff316572c64/attachments/677d890004ee84f12a7b3d62/previews/677d890104ee84f12a7b3d6d/download/EA_SPORTS_FC_24_Title_Update__237.webp",
+                "bytes": 21954,
+                "height": 183,
+                "width": 600
+            },
+            {
+                "id": "677d890104ee84f12a7b3d6e",
+                "_id": "677d890104ee84f12a7b3d6e",
+                "scaled": true,
+                "url": "https://trello.com/1/cards/677d88e8468c4ff316572c64/attachments/677d890004ee84f12a7b3d62/previews/677d890104ee84f12a7b3d6e/download/EA_SPORTS_FC_24_Title_Update__237.webp",
+                "bytes": 71266,
+                "height": 329,
+                "width": 1080
+            }
+        ],
+        "idPlugin": null
+    },
+    "isTemplate": false,
+    "cardRole": null,
+    "mirrorSourceId": null,
+    "mirrorSourceNodeId": null,
+    "checklists": [],
+    "customFieldItems": [],
+    "members": [],
+    "pluginData": [],
+    "actions": [
+        {
+            "id": "67ab3ee3c51a82fc23c8266b",
+            "idMemberCreator": "55fab97406891939fbe4cb5e",
+            "data": {
+                "card": {
+                    "pos": 16395.99981689453,
+                    "id": "677d88e8468c4ff316572c64",
+                    "name": "[PC/PS4/PS5/XB1/XBSX|S/SWITCH] Title Update #7",
+                    "idShort": 505,
+                    "shortLink": "oX1Swaph"
+                },
+                "old": {
+                    "pos": 1055.98388671875
+                },
+                "board": {
+                    "id": "5f73f7c1b4c1280a7068df5f",
+                    "name": "EA SPORTS FC Tracker",
+                    "shortLink": "keigLn6R"
+                },
+                "list": {
+                    "id": "66e9a32579095e09d37ffc55",
+                    "name": "Game Updates"
+                }
+            },
+            "appCreator": null,
+            "type": "updateCard",
+            "date": "2025-02-11T12:13:23.999Z",
+            "limits": null,
+            "memberCreator": {
+                "id": "55fab97406891939fbe4cb5e",
+                "activityBlocked": false,
+                "avatarHash": "12acb16aff4d994e1b6cf238d7522e59",
+                "avatarUrl": "https://trello-members.s3.amazonaws.com/55fab97406891939fbe4cb5e/12acb16aff4d994e1b6cf238d7522e59",
+                "fullName": "D-Maks",
+                "idMemberReferrer": null,
+                "initials": "D",
+                "nonPublic": {},
+                "nonPublicAvailable": true,
+                "username": "denissmaksimovs"
+            }
+        },
+        {
+            "id": "67ab3ee3c51a82fc23c8229a",
+            "idMemberCreator": "55fab97406891939fbe4cb5e",
+            "data": {
+                "card": {
+                    "idList": "66e9a32579095e09d37ffc55",
+                    "id": "677d88e8468c4ff316572c64",
+                    "name": "[PC/PS4/PS5/XB1/XBSX|S/SWITCH] Title Update #7",
+                    "idShort": 505,
+                    "shortLink": "oX1Swaph"
+                },
+                "old": {
+                    "idList": "5f73f7c1b4c1280a7068df61"
+                },
+                "board": {
+                    "id": "5f73f7c1b4c1280a7068df5f",
+                    "name": "EA SPORTS FC Tracker",
+                    "shortLink": "keigLn6R"
+                },
+                "listBefore": {
+                    "id": "5f73f7c1b4c1280a7068df61",
+                    "name": "Latest News"
+                },
+                "listAfter": {
+                    "id": "66e9a32579095e09d37ffc55",
+                    "name": "Game Updates"
+                }
+            },
+            "appCreator": null,
+            "type": "updateCard",
+            "date": "2025-02-11T12:13:23.651Z",
+            "limits": null,
+            "memberCreator": {
+                "id": "55fab97406891939fbe4cb5e",
+                "activityBlocked": false,
+                "avatarHash": "12acb16aff4d994e1b6cf238d7522e59",
+                "avatarUrl": "https://trello-members.s3.amazonaws.com/55fab97406891939fbe4cb5e/12acb16aff4d994e1b6cf238d7522e59",
+                "fullName": "D-Maks",
+                "idMemberReferrer": null,
+                "initials": "D",
+                "nonPublic": {},
+                "nonPublicAvailable": true,
+                "username": "denissmaksimovs"
+            }
+        },
+        {
+            "id": "677eb04bea0a48a2f657497b",
+            "idMemberCreator": "5c48831d226ccb5009c3b830",
+            "data": {
+                "card": {
+                    "desc": "The latest Title Update for EA SPORTS FC 25 is now available for all versions of EA SPORTS FC 25 and includes the changes below.\n\n**Ultimate Team**\n\nAddressed the following issues:\n\n- When opening a Player Pick Item and performing specific actions, the Player Item could display as tradable; this was a visual issue only.\n- Addressed a stability issue that could occur when opening multiple Player Pick Packs.\n- Sometimes, Player Item portraits could have appeared misaligned with the rest of the Player Item during the walkout animation.\n- When opening a pack containing double walkout Player Items, the details of the second Player Item were shown.\n  - Details of the first player reveal will now be displayed in the tunnel sequence.\n- Sometimes, the country flag was not displayed on time during the pack opening animation.\n\n**Gameplay**\n\nAddressed the following issues:\n\n- In certain situations the positioning system was bringing players too close to the ball carrier when cutting off passing lanes, resulting in autotackles.\n  - This could also result in midfielders being pulled out of position to overload the ball carrier, reducing passing options.\n- Addressed multiple situations where the goalkeeper would deflect the ball instead of catching it, making it look like they “fumbled” the save.\n- Addressed an issue where skill moves could be unresponsive or not be triggered.\n- Addressed an issue where the goalkeeper could sometimes fail to perform desperation animations when running back to the goal on chip shots.\n- Addressed an issue where the player not receiving the ball from the ball kid could cause a broken throw-in animation, preventing the game from progressing.\n- Addressed issues where attempting a lobbed through pass would sometimes result in a through ground pass instead.\n- Players were incorrectly able to do precision lobs off of headers, which could result in headers launching enormous distances across the field.\n  - We have resolved this issue and players will no longer be able to perform this action.\n- Sometimes the goalkeeper could trigger an unrealistic jumping animation during a save.\n- Addressed an issue where the Precision Pass UI would incorrectly enlarge after a pass was made.\n- Addressed an issue where a Super Cancel sometimes did not stop the player from running after the ball.\n- Reduced accuracy of first-time lofted through passes.\n- In rare situations, players could appear invisible on the Pitch.\n\n**Clubs**\n\nAddressed the following issues:\n\n- At the Top Performers screen, the CPU Avatar could have incorrect body types.\n- Sometimes, following a player disconnecting from the match, the CPU AI would be assigned as the penalty taker.\n- Addressed an issue that would cause UI elements to appear twice on Short Goal Replays.\n\n**Career Mode**\n\nAddressed the following issues:\n\n- A stability issue could have occurred while playing Live Starting Point.\n- In Manager Career, a stability issue could have occurred after consecutively substituting players during the simulation.\n- In rare situations, in Manager Career, a stability issue could have occurred when creating a club.\n- In Player Career, addressed some instances of irrelevant and incorrect emails being sent by Managers.\n\nMade the following changes:\n\n- Increased the amount of Player Roles a player within Manager Career Mode can be familiar with.\n- Updated UEFA competition rules so teams cannot face opponents from their own association (domestic league), and can only be drawn against a maximum of two sides from the same association.\n\n**General, Audio, and Visual**\n\nMade the following changes:\n\n- Updated some tifos, stadium themes, balls, kits, hair, stadiums, trophies, star heads, crests, props, scenes, broadcasting, and crowds.\n- Added Favourite Team Selector that allows Squads and Line-Up saves to be carried over to Seasons and Co-Op Seasons.\n\nAddressed the following issues:\n\n- Addressed instances of placeholder text, incorrect UI elements, incorrect camera angles, and button conflicts.\n- Addressed instances of stability issues that could have occurred.\n\nThanks to those who’ve provided and continue to provide feedback. Throughout the course of the EA SPORTS FC 25 season, we'll provide you with more information and updates if and when they become available. Be sure to follow \\@‌EASFCDIRECT on X and to check out the EA SPORTS FC Tracker for the latest news and updates.\n\n- The EA SPORTS FC Team",
+                    "id": "677d88e8468c4ff316572c64",
+                    "name": "[PC/PS4/PS5/XB1/XBSX|S/SWITCH] Title Update #7",
+                    "idShort": 505,
+                    "shortLink": "oX1Swaph"
+                },
+                "old": {
+                    "desc": "The latest Title Update for EA SPORTS FC 25 is now available for all versions of EA SPORTS FC 25 and includes the changes below.\n\n**Ultimate Team**\n\nAddressed the following issues:\n\n- When opening a Player Pick Item and performing specific actions, the Player Item could display as tradable; this was a visual issue only.\n- Addressed a stability issue that could occur when opening multiple Player Pick Packs.\n- Sometimes, Player Item portraits could have appeared misaligned with the rest of the Player Item during the walkout animation.\n- When opening a pack containing double walkout Player Items, the details of the second Player Item were shown.\n  - Details of the first player reveal will now be displayed in the tunnel sequence.\n- Sometimes, the country flag was not displayed on time during the pack opening animation.\n\n**Gameplay**\n\nAddressed the following issues:\n\n- In certain situations the positioning system was bringing players too close to the ball carrier when cutting off passing lanes, resulting in autotackles.\n- This could also result in midfielders being pulled out of position to overload the ball carrier, reducing passing options.\n- Addressed multiple situations where the goalkeeper would deflect the ball instead of catching it, making it look like they “fumbled” the save.\n- Addressed an issue where skill moves could be unresponsive or not be triggered.\n- Addressed an issue where the goalkeeper could sometimes fail to perform desperation animations when running back to the goal on chip shots.\n- Addressed an issue where the player not receiving the ball from the ball kid could cause a broken throw-in animation, preventing the game from progressing.\n- Addressed issues where attempting a lobbed through pass would sometimes result in a through ground pass instead.\n- Players were incorrectly able to do precision lobs off of headers, which could result in headers launching enormous distances across the field.\n- We have resolved this issue and players will no longer be able to perform this action.\n- Sometimes the goalkeeper could trigger an unrealistic jumping animation during a save.\n- Addressed an issue where the Precision Pass UI would incorrectly enlarge after a pass was made.\n- Addressed an issue where a Super Cancel sometimes did not stop the player from running after the ball.\n- Reduced accuracy of first-time lofted through passes.\n- In rare situations, players could appear invisible on the Pitch.\n\n**Clubs**\n\nAddressed the following issues:\n\n- At the Top Performers screen, the CPU Avatar could have incorrect body types.\n- Sometimes, following a player disconnecting from the match, the CPU AI would be assigned as the penalty taker.\n- Addressed an issue that would cause UI elements to appear twice on Short Goal Replays.\n\n**Career Mode**\n\nAddressed the following issues:\n\n- A stability issue could have occurred while playing Live Starting Point.\n- In Manager Career, a stability issue could have occurred after consecutively substituting players during the simulation.\n- In rare situations, in Manager Career, a stability issue could have occurred when creating a club.\n- In Player Career, addressed some instances of irrelevant and incorrect emails being sent by Managers.\n\nMade the following changes:\n\n- Increased the amount of Player Roles a player within Manager Career Mode can be familiar with.\n- Updated UEFA competition rules so teams cannot face opponents from their own association (domestic league), and can only be drawn against a maximum of two sides from the same association.\n\n**General, Audio, and Visual**\n\nMade the following changes:\n\n- Updated some tifos, stadium themes, balls, kits, hair, stadiums, trophies, star heads, crests, props, scenes, broadcasting, and crowds.\n- Added Favourite Team Selector that allows Squads and Line-Up saves to be carried over to Seasons and Co-Op Seasons.\n\nAddressed the following issues:\n\n- Addressed instances of placeholder text, incorrect UI elements, incorrect camera angles, and button conflicts.\n- Addressed instances of stability issues that could have occurred.\n\nThanks to those who’ve provided and continue to provide feedback. Throughout the course of the EA SPORTS FC 25 season, we'll provide you with more information and updates if and when they become available. Be sure to follow \\@‌EASFCDIRECT on X and to check out the EA SPORTS FC Tracker for the latest news and updates.\n\n- The EA SPORTS FC Team"
+                },
+                "board": {
+                    "id": "5f73f7c1b4c1280a7068df5f",
+                    "name": "EA SPORTS FC Tracker",
+                    "shortLink": "keigLn6R"
+                },
+                "list": {
+                    "id": "5f73f7c1b4c1280a7068df61",
+                    "name": "Latest News"
+                }
+            },
+            "appCreator": null,
+            "type": "updateCard",
+            "date": "2025-01-08T17:05:15.931Z",
+            "limits": null,
+            "memberCreator": {
+                "id": "5c48831d226ccb5009c3b830",
+                "activityBlocked": false,
+                "avatarHash": "65b8551dba3917ec1acddcfa24cd1bea",
+                "avatarUrl": "https://trello-members.s3.amazonaws.com/5c48831d226ccb5009c3b830/65b8551dba3917ec1acddcfa24cd1bea",
+                "fullName": "Paul Murphy",
+                "idMemberReferrer": null,
+                "initials": "PM",
+                "nonPublic": {},
+                "nonPublicAvailable": true,
+                "username": "pmurphy_liveops"
+            }
+        },
+        {
+            "id": "677e495af7bdd23630b2924b",
+            "idMemberCreator": "5c48831d226ccb5009c3b830",
+            "data": {
+                "card": {
+                    "desc": "The latest Title Update for EA SPORTS FC 25 is now available for all versions of EA SPORTS FC 25 and includes the changes below.\n\n**Ultimate Team**\n\nAddressed the following issues:\n\n- When opening a Player Pick Item and performing specific actions, the Player Item could display as tradable; this was a visual issue only.\n- Addressed a stability issue that could occur when opening multiple Player Pick Packs.\n- Sometimes, Player Item portraits could have appeared misaligned with the rest of the Player Item during the walkout animation.\n- When opening a pack containing double walkout Player Items, the details of the second Player Item were shown.\n  - Details of the first player reveal will now be displayed in the tunnel sequence.\n- Sometimes, the country flag was not displayed on time during the pack opening animation.\n\n**Gameplay**\n\nAddressed the following issues:\n\n- In certain situations the positioning system was bringing players too close to the ball carrier when cutting off passing lanes, resulting in autotackles.\n- This could also result in midfielders being pulled out of position to overload the ball carrier, reducing passing options.\n- Addressed multiple situations where the goalkeeper would deflect the ball instead of catching it, making it look like they “fumbled” the save.\n- Addressed an issue where skill moves could be unresponsive or not be triggered.\n- Addressed an issue where the goalkeeper could sometimes fail to perform desperation animations when running back to the goal on chip shots.\n- Addressed an issue where the player not receiving the ball from the ball kid could cause a broken throw-in animation, preventing the game from progressing.\n- Addressed issues where attempting a lobbed through pass would sometimes result in a through ground pass instead.\n- Players were incorrectly able to do precision lobs off of headers, which could result in headers launching enormous distances across the field.\n- We have resolved this issue and players will no longer be able to perform this action.\n- Sometimes the goalkeeper could trigger an unrealistic jumping animation during a save.\n- Addressed an issue where the Precision Pass UI would incorrectly enlarge after a pass was made.\n- Addressed an issue where a Super Cancel sometimes did not stop the player from running after the ball.\n- Reduced accuracy of first-time lofted through passes.\n- In rare situations, players could appear invisible on the Pitch.\n\n**Clubs**\n\nAddressed the following issues:\n\n- At the Top Performers screen, the CPU Avatar could have incorrect body types.\n- Sometimes, following a player disconnecting from the match, the CPU AI would be assigned as the penalty taker.\n- Addressed an issue that would cause UI elements to appear twice on Short Goal Replays.\n\n**Career Mode**\n\nAddressed the following issues:\n\n- A stability issue could have occurred while playing Live Starting Point.\n- In Manager Career, a stability issue could have occurred after consecutively substituting players during the simulation.\n- In rare situations, in Manager Career, a stability issue could have occurred when creating a club.\n- In Player Career, addressed some instances of irrelevant and incorrect emails being sent by Managers.\n\nMade the following changes:\n\n- Increased the amount of Player Roles a player within Manager Career Mode can be familiar with.\n- Updated UEFA competition rules so teams cannot face opponents from their own association (domestic league), and can only be drawn against a maximum of two sides from the same association.\n\n**General, Audio, and Visual**\n\nMade the following changes:\n\n- Updated some tifos, stadium themes, balls, kits, hair, stadiums, trophies, star heads, crests, props, scenes, broadcasting, and crowds.\n- Added Favourite Team Selector that allows Squads and Line-Up saves to be carried over to Seasons and Co-Op Seasons.\n\nAddressed the following issues:\n\n- Addressed instances of placeholder text, incorrect UI elements, incorrect camera angles, and button conflicts.\n- Addressed instances of stability issues that could have occurred.\n\nThanks to those who’ve provided and continue to provide feedback. Throughout the course of the EA SPORTS FC 25 season, we'll provide you with more information and updates if and when they become available. Be sure to follow \\@‌EASFCDIRECT on X and to check out the EA SPORTS FC Tracker for the latest news and updates.\n\n- The EA SPORTS FC Team",
+                    "id": "677d88e8468c4ff316572c64",
+                    "name": "[PC/PS4/PS5/XB1/XBSX|S/SWITCH] Title Update #7",
+                    "idShort": 505,
+                    "shortLink": "oX1Swaph"
+                },
+                "old": {
+                    "desc": "The latest Title Update for EA SPORTS FC 25 will soon be available for all versions of EA SPORTS FC 25 and includes the changes below.\n\n**Ultimate Team**\n\nAddressed the following issues:\n\n- When opening a Player Pick Item and performing specific actions, the Player Item could display as tradable; this was a visual issue only.\n- Addressed a stability issue that could occur when opening multiple Player Pick Packs.\n- Sometimes, Player Item portraits could have appeared misaligned with the rest of the Player Item during the walkout animation.\n- When opening a pack containing double walkout Player Items, the details of the second Player Item were shown.\n  - Details of the first player reveal will now be displayed in the tunnel sequence.\n- Sometimes, the country flag was not displayed on time during the pack opening animation.\n\n**Gameplay**\n\nAddressed the following issues:\n\n- In certain situations the positioning system was bringing players too close to the ball carrier when cutting off passing lanes, resulting in autotackles.\n- This could also result in midfielders being pulled out of position to overload the ball carrier, reducing passing options.\n- Addressed multiple situations where the goalkeeper would deflect the ball instead of catching it, making it look like they “fumbled” the save.\n- Addressed an issue where skill moves could be unresponsive or not be triggered.\n- Addressed an issue where the goalkeeper could sometimes fail to perform desperation animations when running back to the goal on chip shots.\n- Addressed an issue where the player not receiving the ball from the ball kid could cause a broken throw-in animation, preventing the game from progressing.\n- Addressed issues where attempting a lobbed through pass would sometimes result in a through ground pass instead.\n- Players were incorrectly able to do precision lobs off of headers, which could result in headers launching enormous distances across the field.\n- We have resolved this issue and players will no longer be able to perform this action.\n- Sometimes the goalkeeper could trigger an unrealistic jumping animation during a save.\n- Addressed an issue where the Precision Pass UI would incorrectly enlarge after a pass was made.\n- Addressed an issue where a Super Cancel sometimes did not stop the player from running after the ball.\n- Reduced accuracy of first-time lofted through passes.\n- In rare situations, players could appear invisible on the Pitch.\n\n**Clubs**\n\nAddressed the following issues:\n\n- At the Top Performers screen, the CPU Avatar could have incorrect body types.\n- Sometimes, following a player disconnecting from the match, the CPU AI would be assigned as the penalty taker.\n- Addressed an issue that would cause UI elements to appear twice on Short Goal Replays.\n\n**Career Mode**\n\nAddressed the following issues:\n\n- A stability issue could have occurred while playing Live Starting Point.\n- In Manager Career, a stability issue could have occurred after consecutively substituting players during the simulation.\n- In rare situations, in Manager Career, a stability issue could have occurred when creating a club.\n- In Player Career, addressed some instances of irrelevant and incorrect emails being sent by Managers.\n\nMade the following changes:\n\n- Increased the amount of Player Roles a player within Manager Career Mode can be familiar with.\n- Updated UEFA competition rules so teams cannot face opponents from their own association (domestic league), and can only be drawn against a maximum of two sides from the same association.\n\n**General, Audio, and Visual**\n\nMade the following changes:\n\n- Updated some tifos, stadium themes, balls, kits, hair, stadiums, trophies, star heads, crests, props, scenes, broadcasting, and crowds.\n- Added Favourite Team Selector that allows Squads and Line-Up saves to be carried over to Seasons and Co-Op Seasons.\n\nAddressed the following issues:\n\n- Addressed instances of placeholder text, incorrect UI elements, incorrect camera angles, and button conflicts.\n- Addressed instances of stability issues that could have occurred.\n\nThanks to those who’ve provided and continue to provide feedback. Throughout the course of the EA SPORTS FC 25 season, we'll provide you with more information and updates if and when they become available. Be sure to follow \\@‌EASFCDIRECT on X and to check out the EA SPORTS FC Tracker for the latest news and updates.\n\n- The EA SPORTS FC Team"
+                },
+                "board": {
+                    "id": "5f73f7c1b4c1280a7068df5f",
+                    "name": "EA SPORTS FC Tracker",
+                    "shortLink": "keigLn6R"
+                },
+                "list": {
+                    "id": "5f73f7c1b4c1280a7068df61",
+                    "name": "Latest News"
+                }
+            },
+            "appCreator": null,
+            "type": "updateCard",
+            "date": "2025-01-08T09:46:02.544Z",
+            "limits": null,
+            "memberCreator": {
+                "id": "5c48831d226ccb5009c3b830",
+                "activityBlocked": false,
+                "avatarHash": "65b8551dba3917ec1acddcfa24cd1bea",
+                "avatarUrl": "https://trello-members.s3.amazonaws.com/5c48831d226ccb5009c3b830/65b8551dba3917ec1acddcfa24cd1bea",
+                "fullName": "Paul Murphy",
+                "idMemberReferrer": null,
+                "initials": "PM",
+                "nonPublic": {},
+                "nonPublicAvailable": true,
+                "username": "pmurphy_liveops"
+            }
+        },
+        {
+            "id": "677db75844f5d2e304e58599",
+            "idMemberCreator": "5c490271b0de67896445a8d7",
+            "data": {
+                "card": {
+                    "desc": "The latest Title Update for EA SPORTS FC 25 will soon be available for all versions of EA SPORTS FC 25 and includes the changes below.\n\n**Ultimate Team**\n\nAddressed the following issues:\n\n- When opening a Player Pick Item and performing specific actions, the Player Item could display as tradable; this was a visual issue only.\n- Addressed a stability issue that could occur when opening multiple Player Pick Packs.\n- Sometimes, Player Item portraits could have appeared misaligned with the rest of the Player Item during the walkout animation.\n- When opening a pack containing double walkout Player Items, the details of the second Player Item were shown.\n  - Details of the first player reveal will now be displayed in the tunnel sequence.\n- Sometimes, the country flag was not displayed on time during the pack opening animation.\n\n**Gameplay**\n\nAddressed the following issues:\n\n- In certain situations the positioning system was bringing players too close to the ball carrier when cutting off passing lanes, resulting in autotackles.\n- This could also result in midfielders being pulled out of position to overload the ball carrier, reducing passing options.\n- Addressed multiple situations where the goalkeeper would deflect the ball instead of catching it, making it look like they “fumbled” the save.\n- Addressed an issue where skill moves could be unresponsive or not be triggered.\n- Addressed an issue where the goalkeeper could sometimes fail to perform desperation animations when running back to the goal on chip shots.\n- Addressed an issue where the player not receiving the ball from the ball kid could cause a broken throw-in animation, preventing the game from progressing.\n- Addressed issues where attempting a lobbed through pass would sometimes result in a through ground pass instead.\n- Players were incorrectly able to do precision lobs off of headers, which could result in headers launching enormous distances across the field.\n- We have resolved this issue and players will no longer be able to perform this action.\n- Sometimes the goalkeeper could trigger an unrealistic jumping animation during a save.\n- Addressed an issue where the Precision Pass UI would incorrectly enlarge after a pass was made.\n- Addressed an issue where a Super Cancel sometimes did not stop the player from running after the ball.\n- Reduced accuracy of first-time lofted through passes.\n- In rare situations, players could appear invisible on the Pitch.\n\n**Clubs**\n\nAddressed the following issues:\n\n- At the Top Performers screen, the CPU Avatar could have incorrect body types.\n- Sometimes, following a player disconnecting from the match, the CPU AI would be assigned as the penalty taker.\n- Addressed an issue that would cause UI elements to appear twice on Short Goal Replays.\n\n**Career Mode**\n\nAddressed the following issues:\n\n- A stability issue could have occurred while playing Live Starting Point.\n- In Manager Career, a stability issue could have occurred after consecutively substituting players during the simulation.\n- In rare situations, in Manager Career, a stability issue could have occurred when creating a club.\n- In Player Career, addressed some instances of irrelevant and incorrect emails being sent by Managers.\n\nMade the following changes:\n\n- Increased the amount of Player Roles a player within Manager Career Mode can be familiar with.\n- Updated UEFA competition rules so teams cannot face opponents from their own association (domestic league), and can only be drawn against a maximum of two sides from the same association.\n\n**General, Audio, and Visual**\n\nMade the following changes:\n\n- Updated some tifos, stadium themes, balls, kits, hair, stadiums, trophies, star heads, crests, props, scenes, broadcasting, and crowds.\n- Added Favourite Team Selector that allows Squads and Line-Up saves to be carried over to Seasons and Co-Op Seasons.\n\nAddressed the following issues:\n\n- Addressed instances of placeholder text, incorrect UI elements, incorrect camera angles, and button conflicts.\n- Addressed instances of stability issues that could have occurred.\n\nThanks to those who’ve provided and continue to provide feedback. Throughout the course of the EA SPORTS FC 25 season, we'll provide you with more information and updates if and when they become available. Be sure to follow \\@‌EASFCDIRECT on X and to check out the EA SPORTS FC Tracker for the latest news and updates.\n\n- The EA SPORTS FC Team",
+                    "id": "677d88e8468c4ff316572c64",
+                    "name": "[PC/PS4/PS5/XB1/XBSX|S/SWITCH] Title Update #7",
+                    "idShort": 505,
+                    "shortLink": "oX1Swaph"
+                },
+                "old": {
+                    "desc": "The latest Title Update for EA SPORTS FC 25 will soon be available for all versions of EA SPORTS FC 25 and includes the changes below. \n\n**Ultimate Team**\n\nAddressed the following issues: \n\n- When opening a Player Pick Item and performing specific actions, the Player Item could display as tradable; this was a visual issue only.\n\n- Addressed a stability issue that could occur when opening multiple Player Pick Packs.\n\n- Sometimes, Player Item portraits could have appeared misaligned with the rest of the Player Item during the walkout animation.\n\n- When opening a pack containing double walkout Player Items, the details of the second Player Item portrait were shown.\n  - Details of the first player reveal will now be displayed in the tunnel sequence.\n\n- Sometimes, the country flag was not displayed on time during the pack opening animation. \n\n**Gameplay**\n\nAddressed the following issues: \n\n- In certain situations the positioning system was bringing players too close to the ball carrier when cutting off passing lanes, resulting in autotackles. \n\n- This could also result in midfielders being pulled out of position to overload the ball carrier, reducing passing options. \n\n- Addressed multiple situations where the goalkeeper would deflect the ball instead of catching it, making it look like they “fumbled” the save.\n\n- Addressed an issue where skill moves could be unresponsive or not be triggered.\n\n- Addressed an issue where the goalkeeper could sometimes fail to perform desperation animations when running back to the goal on chip shots.  \n\n- Addressed an issue where the player not receiving the ball from the ball kid could cause a broken throw-in animation, preventing the game from progressing.\n\n- Addressed issues where attempting a lobbed through pass would sometimes result in a through ground pass instead.\n\n- Players were incorrectly able to do precision lobs off of headers, which could result in headers launching enormous distances across the field.\n\n- We have resolved this issue and players will no longer be able to perform this action.\n\n- Sometimes the goalkeeper could trigger an unrealistic jumping animation during a save. \n\n- Addressed an issue where the Precision Pass UI would incorrectly enlarge after a pass was made. \n\n- Addressed an issue where a Super Cancel sometimes did not stop the player from running after the ball. \n\n- Reduced accuracy of first-time lofted through passes.\n\n- In rare situations, players could appear invisible on the Pitch.\n\n**Clubs**\n\nAddressed the following issues: \n\n- At the Top Performers screen, the CPU Avatar could have incorrect body types.\n\n- Sometimes, following a player disconnecting from the match, the CPU AI would be assigned as the penalty taker.\n\n- Addressed an issue that would cause UI elements to appear twice on Short Goal Replays. \n\n**Career Mode**\n\nAddressed the following issues: \n\n- A stability issue could have occurred while playing Live Starting Point.\n\n- In Manager Career, a stability issue could have occurred after consecutively substituting players during the simulation.\n\n- In rare situations, in Manager Career, a stability issue could have occurred when creating a club.\n\n- In Player Career, addressed some instances of irrelevant and incorrect emails being sent by Managers.\n\nMade the following changes:\n\n- Increased the amount of Player Roles a player within Manager Career Mode can be familiar with.\n\n- Updated UEFA competition rules so teams cannot face opponents from their own association (domestic league), and can only be drawn against a maximum of two sides from the same association.\n\n**General, Audio, and Visual**\n\nMade the following changes:\n\n- Updated some tifos, stadium themes, balls, kits, hair, stadiums, trophies, star heads, crests, props, scenes, broadcasting, and crowds.\n\n- Added Favourite Team Selector that allows Squads and Line-Up saves to be carried over to Seasons and Co-Op Seasons. \n\nAddressed the following issues: \n\n- Addressed instances of placeholder text, incorrect UI elements, incorrect camera angles, and button conflicts.\n\n- Addressed instances of stability issues that could have occurred.\n\nThanks to those who’ve provided and continue to provide feedback. Throughout the course of the EA SPORTS FC 25 season, we'll provide you with more information and updates if and when they become available. Be sure to follow \\@‌EASFCDIRECT on X and to check out the EA SPORTS FC Tracker for the latest news and updates.\n\n- The EA SPORTS FC Team"
+                },
+                "board": {
+                    "id": "5f73f7c1b4c1280a7068df5f",
+                    "name": "EA SPORTS FC Tracker",
+                    "shortLink": "keigLn6R"
+                },
+                "list": {
+                    "id": "5f73f7c1b4c1280a7068df61",
+                    "name": "Latest News"
+                }
+            },
+            "appCreator": null,
+            "type": "updateCard",
+            "date": "2025-01-07T23:23:04.091Z",
+            "limits": null,
+            "memberCreator": {
+                "id": "5c490271b0de67896445a8d7",
+                "activityBlocked": false,
+                "avatarHash": "a5d3c3af7eb4a75c148443674d88ef60",
+                "avatarUrl": "https://trello-members.s3.amazonaws.com/5c490271b0de67896445a8d7/a5d3c3af7eb4a75c148443674d88ef60",
+                "fullName": "TikiTaka",
+                "idMemberReferrer": null,
+                "initials": "T",
+                "nonPublic": {},
+                "nonPublicAvailable": true,
+                "username": "brandontakahara"
+            }
+        },
+        {
+            "id": "677db5838510251f402e09b8",
+            "idMemberCreator": "5c490271b0de67896445a8d7",
+            "data": {
+                "card": {
+                    "pos": 1055.98388671875,
+                    "id": "677d88e8468c4ff316572c64",
+                    "name": "[PC/PS4/PS5/XB1/XBSX|S/SWITCH] Title Update #7",
+                    "idShort": 505,
+                    "shortLink": "oX1Swaph"
+                },
+                "old": {
+                    "pos": 17663.98046875
+                },
+                "board": {
+                    "id": "5f73f7c1b4c1280a7068df5f",
+                    "name": "EA SPORTS FC Tracker",
+                    "shortLink": "keigLn6R"
+                },
+                "list": {
+                    "id": "5f73f7c1b4c1280a7068df61",
+                    "name": "Latest News"
+                }
+            },
+            "appCreator": null,
+            "type": "updateCard",
+            "date": "2025-01-07T23:15:15.308Z",
+            "limits": null,
+            "memberCreator": {
+                "id": "5c490271b0de67896445a8d7",
+                "activityBlocked": false,
+                "avatarHash": "a5d3c3af7eb4a75c148443674d88ef60",
+                "avatarUrl": "https://trello-members.s3.amazonaws.com/5c490271b0de67896445a8d7/a5d3c3af7eb4a75c148443674d88ef60",
+                "fullName": "TikiTaka",
+                "idMemberReferrer": null,
+                "initials": "T",
+                "nonPublic": {},
+                "nonPublicAvailable": true,
+                "username": "brandontakahara"
+            }
+        },
+        {
+            "id": "677db579ae83d71bef049d82",
+            "idMemberCreator": "5c490271b0de67896445a8d7",
+            "data": {
+                "card": {
+                    "idLabels": [
+                        "5f73f7c1b4c1280a7068dfeb",
+                        "66b64c66fe2b82a1a0bd8245"
+                    ],
+                    "id": "677d88e8468c4ff316572c64",
+                    "name": "[PC/PS4/PS5/XB1/XBSX|S/SWITCH] Title Update #7",
+                    "idShort": 505,
+                    "shortLink": "oX1Swaph"
+                },
+                "old": {
+                    "idLabels": [
+                        "5f73f7c1b4c1280a7068dfeb"
+                    ]
+                },
+                "board": {
+                    "id": "5f73f7c1b4c1280a7068df5f",
+                    "name": "EA SPORTS FC Tracker",
+                    "shortLink": "keigLn6R"
+                },
+                "list": {
+                    "id": "5f73f7c1b4c1280a7068df61",
+                    "name": "Latest News"
+                }
+            },
+            "appCreator": null,
+            "type": "updateCard",
+            "date": "2025-01-07T23:15:05.145Z",
+            "limits": null,
+            "memberCreator": {
+                "id": "5c490271b0de67896445a8d7",
+                "activityBlocked": false,
+                "avatarHash": "a5d3c3af7eb4a75c148443674d88ef60",
+                "avatarUrl": "https://trello-members.s3.amazonaws.com/5c490271b0de67896445a8d7/a5d3c3af7eb4a75c148443674d88ef60",
+                "fullName": "TikiTaka",
+                "idMemberReferrer": null,
+                "initials": "T",
+                "nonPublic": {},
+                "nonPublicAvailable": true,
+                "username": "brandontakahara"
+            }
+        },
+        {
+            "id": "677db5731f2b06a788444a45",
+            "idMemberCreator": "5c490271b0de67896445a8d7",
+            "data": {
+                "card": {
+                    "idLabels": [
+                        "5f73f7c1b4c1280a7068dfeb"
+                    ],
+                    "id": "677d88e8468c4ff316572c64",
+                    "name": "[PC/PS4/PS5/XB1/XBSX|S/SWITCH] Title Update #7",
+                    "idShort": 505,
+                    "shortLink": "oX1Swaph"
+                },
+                "old": {
+                    "idLabels": []
+                },
+                "board": {
+                    "id": "5f73f7c1b4c1280a7068df5f",
+                    "name": "EA SPORTS FC Tracker",
+                    "shortLink": "keigLn6R"
+                },
+                "list": {
+                    "id": "5f73f7c1b4c1280a7068df61",
+                    "name": "Latest News"
+                }
+            },
+            "appCreator": null,
+            "type": "updateCard",
+            "date": "2025-01-07T23:14:59.751Z",
+            "limits": null,
+            "memberCreator": {
+                "id": "5c490271b0de67896445a8d7",
+                "activityBlocked": false,
+                "avatarHash": "a5d3c3af7eb4a75c148443674d88ef60",
+                "avatarUrl": "https://trello-members.s3.amazonaws.com/5c490271b0de67896445a8d7/a5d3c3af7eb4a75c148443674d88ef60",
+                "fullName": "TikiTaka",
+                "idMemberReferrer": null,
+                "initials": "T",
+                "nonPublic": {},
+                "nonPublicAvailable": true,
+                "username": "brandontakahara"
+            }
+        },
+        {
+            "id": "677db56e8e4325bb83e945c7",
+            "idMemberCreator": "5c490271b0de67896445a8d7",
+            "data": {
+                "card": {
+                    "desc": "The latest Title Update for EA SPORTS FC 25 will soon be available for all versions of EA SPORTS FC 25 and includes the changes below. \n\n**Ultimate Team**\n\nAddressed the following issues: \n\n- When opening a Player Pick Item and performing specific actions, the Player Item could display as tradable; this was a visual issue only.\n\n- Addressed a stability issue that could occur when opening multiple Player Pick Packs.\n\n- Sometimes, Player Item portraits could have appeared misaligned with the rest of the Player Item during the walkout animation.\n\n- When opening a pack containing double walkout Player Items, the details of the second Player Item portrait were shown.\n  - Details of the first player reveal will now be displayed in the tunnel sequence.\n\n- Sometimes, the country flag was not displayed on time during the pack opening animation. \n\n**Gameplay**\n\nAddressed the following issues: \n\n- In certain situations the positioning system was bringing players too close to the ball carrier when cutting off passing lanes, resulting in autotackles. \n\n- This could also result in midfielders being pulled out of position to overload the ball carrier, reducing passing options. \n\n- Addressed multiple situations where the goalkeeper would deflect the ball instead of catching it, making it look like they “fumbled” the save.\n\n- Addressed an issue where skill moves could be unresponsive or not be triggered.\n\n- Addressed an issue where the goalkeeper could sometimes fail to perform desperation animations when running back to the goal on chip shots.  \n\n- Addressed an issue where the player not receiving the ball from the ball kid could cause a broken throw-in animation, preventing the game from progressing.\n\n- Addressed issues where attempting a lobbed through pass would sometimes result in a through ground pass instead.\n\n- Players were incorrectly able to do precision lobs off of headers, which could result in headers launching enormous distances across the field.\n\n- We have resolved this issue and players will no longer be able to perform this action.\n\n- Sometimes the goalkeeper could trigger an unrealistic jumping animation during a save. \n\n- Addressed an issue where the Precision Pass UI would incorrectly enlarge after a pass was made. \n\n- Addressed an issue where a Super Cancel sometimes did not stop the player from running after the ball. \n\n- Reduced accuracy of first-time lofted through passes.\n\n- In rare situations, players could appear invisible on the Pitch.\n\n**Clubs**\n\nAddressed the following issues: \n\n- At the Top Performers screen, the CPU Avatar could have incorrect body types.\n\n- Sometimes, following a player disconnecting from the match, the CPU AI would be assigned as the penalty taker.\n\n- Addressed an issue that would cause UI elements to appear twice on Short Goal Replays. \n\n**Career Mode**\n\nAddressed the following issues: \n\n- A stability issue could have occurred while playing Live Starting Point.\n\n- In Manager Career, a stability issue could have occurred after consecutively substituting players during the simulation.\n\n- In rare situations, in Manager Career, a stability issue could have occurred when creating a club.\n\n- In Player Career, addressed some instances of irrelevant and incorrect emails being sent by Managers.\n\nMade the following changes:\n\n- Increased the amount of Player Roles a player within Manager Career Mode can be familiar with.\n\n- Updated UEFA competition rules so teams cannot face opponents from their own association (domestic league), and can only be drawn against a maximum of two sides from the same association.\n\n**General, Audio, and Visual**\n\nMade the following changes:\n\n- Updated some tifos, stadium themes, balls, kits, hair, stadiums, trophies, star heads, crests, props, scenes, broadcasting, and crowds.\n\n- Added Favourite Team Selector that allows Squads and Line-Up saves to be carried over to Seasons and Co-Op Seasons. \n\nAddressed the following issues: \n\n- Addressed instances of placeholder text, incorrect UI elements, incorrect camera angles, and button conflicts.\n\n- Addressed instances of stability issues that could have occurred.\n\nThanks to those who’ve provided and continue to provide feedback. Throughout the course of the EA SPORTS FC 25 season, we'll provide you with more information and updates if and when they become available. Be sure to follow \\@‌EASFCDIRECT on X and to check out the EA SPORTS FC Tracker for the latest news and updates.\n\n- The EA SPORTS FC Team",
+                    "id": "677d88e8468c4ff316572c64",
+                    "name": "[PC/PS4/PS5/XB1/XBSX|S/SWITCH] Title Update #7",
+                    "idShort": 505,
+                    "shortLink": "oX1Swaph"
+                },
+                "old": {
+                    "desc": ""
+                },
+                "board": {
+                    "id": "5f73f7c1b4c1280a7068df5f",
+                    "name": "EA SPORTS FC Tracker",
+                    "shortLink": "keigLn6R"
+                },
+                "list": {
+                    "id": "5f73f7c1b4c1280a7068df61",
+                    "name": "Latest News"
+                }
+            },
+            "appCreator": null,
+            "type": "updateCard",
+            "date": "2025-01-07T23:14:54.520Z",
+            "limits": null,
+            "memberCreator": {
+                "id": "5c490271b0de67896445a8d7",
+                "activityBlocked": false,
+                "avatarHash": "a5d3c3af7eb4a75c148443674d88ef60",
+                "avatarUrl": "https://trello-members.s3.amazonaws.com/5c490271b0de67896445a8d7/a5d3c3af7eb4a75c148443674d88ef60",
+                "fullName": "TikiTaka",
+                "idMemberReferrer": null,
+                "initials": "T",
+                "nonPublic": {},
+                "nonPublicAvailable": true,
+                "username": "brandontakahara"
+            }
+        },
+        {
+            "id": "677d890104ee84f12a7b3d7c",
+            "idMemberCreator": "5c490271b0de67896445a8d7",
+            "data": {
+                "attachment": {
+                    "id": "677d890004ee84f12a7b3d62",
+                    "name": "EA_SPORTS_FC_24_Title_Update_%237.png",
+                    "url": "https://trello.com/1/cards/677d88e8468c4ff316572c64/attachments/677d890004ee84f12a7b3d62/download/EA_SPORTS_FC_24_Title_Update__237.png",
+                    "previewUrl": "https://trello.com/1/cards/677d88e8468c4ff316572c64/attachments/677d890004ee84f12a7b3d62/previews/preview/download/EA_SPORTS_FC_24_Title_Update__237.webp",
+                    "previewUrl2x": "https://trello.com/1/cards/677d88e8468c4ff316572c64/attachments/677d890004ee84f12a7b3d62/previews/preview2x/download/EA_SPORTS_FC_24_Title_Update__237.webp"
+                },
+                "card": {
+                    "id": "677d88e8468c4ff316572c64",
+                    "name": "[PC/PS4/PS5/XB1/XBSX|S/SWITCH] Title Update #7",
+                    "idShort": 505,
+                    "shortLink": "oX1Swaph"
+                },
+                "list": {
+                    "id": "5f73f7c1b4c1280a7068df61",
+                    "name": "Latest News"
+                },
+                "board": {
+                    "id": "5f73f7c1b4c1280a7068df5f",
+                    "name": "EA SPORTS FC Tracker",
+                    "shortLink": "keigLn6R"
+                }
+            },
+            "appCreator": null,
+            "type": "addAttachmentToCard",
+            "date": "2025-01-07T20:05:21.676Z",
+            "limits": null,
+            "memberCreator": {
+                "id": "5c490271b0de67896445a8d7",
+                "activityBlocked": false,
+                "avatarHash": "a5d3c3af7eb4a75c148443674d88ef60",
+                "avatarUrl": "https://trello-members.s3.amazonaws.com/5c490271b0de67896445a8d7/a5d3c3af7eb4a75c148443674d88ef60",
+                "fullName": "TikiTaka",
+                "idMemberReferrer": null,
+                "initials": "T",
+                "nonPublic": {},
+                "nonPublicAvailable": true,
+                "username": "brandontakahara"
+            }
+        },
+        {
+            "id": "677d88e8468c4ff316572ca0",
+            "idMemberCreator": "5c490271b0de67896445a8d7",
+            "data": {
+                "card": {
+                    "id": "677d88e8468c4ff316572c64",
+                    "name": "[PC/PS4/PS5/XB1/XBSX|S/SWITCH] Title Update #7",
+                    "idShort": 505,
+                    "shortLink": "oX1Swaph"
+                },
+                "list": {
+                    "id": "5f73f7c1b4c1280a7068df61",
+                    "name": "Latest News"
+                },
+                "board": {
+                    "id": "5f73f7c1b4c1280a7068df5f",
+                    "name": "EA SPORTS FC Tracker",
+                    "shortLink": "keigLn6R"
+                }
+            },
+            "appCreator": null,
+            "type": "createCard",
+            "date": "2025-01-07T20:04:56.403Z",
+            "limits": null,
+            "memberCreator": {
+                "id": "5c490271b0de67896445a8d7",
+                "activityBlocked": false,
+                "avatarHash": "a5d3c3af7eb4a75c148443674d88ef60",
+                "avatarUrl": "https://trello-members.s3.amazonaws.com/5c490271b0de67896445a8d7/a5d3c3af7eb4a75c148443674d88ef60",
+                "fullName": "TikiTaka",
+                "idMemberReferrer": null,
+                "initials": "T",
+                "nonPublic": {},
+                "nonPublicAvailable": true,
+                "username": "brandontakahara"
+            }
+        }
+    ]
+}

@@ -1,0 +1,620 @@
+{
+    "id": "683de410158f267431c734e3",
+    "address": null,
+    "badges": {
+        "attachments": 1,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "description": true,
+        "due": null,
+        "dueComplete": false,
+        "lastUpdatedByAi": false,
+        "start": null,
+        "externalSource": null,
+        "attachmentsByType": {
+            "trello": {
+                "board": 0,
+                "card": 0
+            }
+        },
+        "location": false,
+        "votes": 0,
+        "maliciousAttachments": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false
+    },
+    "checkItemStates": [],
+    "closed": false,
+    "coordinates": null,
+    "creationMethod": null,
+    "creationMethodError": null,
+    "creationMethodLoadingStartedAt": null,
+    "dueComplete": false,
+    "dateClosed": null,
+    "dateLastActivity": "2025-06-03T17:48:15.980Z",
+    "dateCompleted": null,
+    "dateViewedByCreator": null,
+    "desc": "The Season Finale Update (Title Update #15) is now available and includes three adjustments to game balance based on your feedback and some updates to Ultimate Team and Career Mode. Here’s what you can expect:\n\n- Moderately increased accuracy of Ground Passes for players with high Passing related Attributes.\n- Significantly reduced effectiveness of goalkeepers rushing out with the Rush Out PlayStyle, and slightly reduced that effectiveness for Rush Out PlayStyle+ players.\n- Slightly increased accuracy of headers performed by the shooting input.\n- A new season and Premium Pass in Ultimate Team.\n- Increased the maximum number of PlayStyles+ UT Player Items can have up to five.\n- Updated Player Career ICON selection.\n- Refreshed Career Mode UI for Fixtures and Results.\n- Refreshed the main menu with a festive celebration theme.\n\nTo learn more about these changes and see them in action, scan the QR code on the right to view our Season Finale Update Pitch Notes article. [http://x.ea.com/84342](http://x.ea.com/84342 \"smartCard-inline\")\n\n**Gameplay**\n\nMade the following changes:\n\n- Moderately increased Ground Pass accuracy for players with high Passing related Attributes.\n  - This change does not impact Driven Ground Passes.\n- Slightly increased accuracy of headers performed by the shooting input.\n- Slightly reduced the rate of acceleration for goalkeepers with the Rush Out PlayStyle+.\n- Significantly reduced the rate of acceleration for goalkeepers with the Rush Out PlayStyle.\n\nDon’t forget you can learn more about these gameplay updates and see them in action in our Pitch Notes article, just scan the QR code on the right.\n\n**Ultimate Team**\n\nMade the following change:\n\n- Increased the maximum number of PlayStyle+ assignments to 5.\n  - To learn more about this change, be sure to check out our Pitch Notes by scanning the QR code on the right.\n\n**Career Mode**\n\nMade the following changes:\n\n- Updated ICON selection in Player Career to feature Birgit Prinz, George Best, Johan Cruyff, and Garrincha.\n- In Manager Career, 5v5 Youth Tournament Matches can be played in co-op, up to four players, via the addition of the Side Select functionality.\n- Refreshed Fixtures and Results UI, and updated how your match results are covered in social media feeds.\n\nAddressed the following issues:\n\n- A stability issue could have occurred when simulating from the Central Hub and when playing as a real player in Player Career.\n- Occasionally, the Tattoos tab was not available in player customization.\n\n**General, Audio, and Visual**\n\nMade the following change:\n\n- Updated some badges, hair, kits, equipment, tifos, tattoos, and scenes.\n\nAddressed the following issues:\n\n- Addressed some stability issues that could have occurred.\n- Addressed instances of incorrect and placeholder images and text.\n- In some circumstances, some music settings did not save correctly.\n- In some cases, EATV videos did not load.\n\nWant to provide us direct feedback about EA SPORTS FC 25? Visit [https://go.ea.com/fc25pf](https://go.ea.com/fc25pf \"‌\") and let us know what you think, it only takes a few minutes.\n\nThanks to those who’ve provided and continue to provide feedback. Throughout the course of the EA SPORTS FC 25 season, we'll provide you with more information and updates if and when they become available. Be sure to follow \\@‌EASFCDIRECT on X as well as WhatsApp, and check out the EA SPORTS FC Tracker for the latest news and updates.\n\n- The EA SPORTS FC Team",
+    "descData": {
+        "emoji": {}
+    },
+    "due": null,
+    "dueReminder": null,
+    "email": null,
+    "externalSource": null,
+    "idBoard": "5f73f7c1b4c1280a7068df5f",
+    "idChecklists": [],
+    "idLabels": [
+        "5f73f7c1b4c1280a7068dfeb",
+        "66b64c66fe2b82a1a0bd8245"
+    ],
+    "idList": "5f73f7c1b4c1280a7068df61",
+    "idMemberCreator": "5c490271b0de67896445a8d7",
+    "idMembers": [],
+    "idMembersVoted": [],
+    "idOrganization": "6137a564cb8f6432c89f8977",
+    "idShort": 530,
+    "idAttachmentCover": "683de44e6bf0a917a3676400",
+    "labels": [
+        {
+            "id": "5f73f7c1b4c1280a7068dfeb",
+            "idBoard": "5f73f7c1b4c1280a7068df5f",
+            "idOrganization": "6137a564cb8f6432c89f8977",
+            "name": "Title Update",
+            "nodeId": "ari:cloud:trello::label/workspace/6137a564cb8f6432c89f8977/5f73f7c1b4c1280a7068dfeb",
+            "color": "green",
+            "uses": 181
+        },
+        {
+            "id": "66b64c66fe2b82a1a0bd8245",
+            "idBoard": "5f73f7c1b4c1280a7068df5f",
+            "idOrganization": "6137a564cb8f6432c89f8977",
+            "name": "EA SPORTS FC 25",
+            "nodeId": "ari:cloud:trello::label/workspace/6137a564cb8f6432c89f8977/66b64c66fe2b82a1a0bd8245",
+            "color": "black_dark",
+            "uses": 76
+        }
+    ],
+    "limits": {
+        "attachments": {
+            "perCard": {
+                "status": "ok",
+                "disableAt": 1000,
+                "warnAt": 800
+            }
+        },
+        "checklists": {
+            "perCard": {
+                "status": "ok",
+                "disableAt": 500,
+                "warnAt": 400
+            }
+        },
+        "stickers": {
+            "perCard": {
+                "status": "ok",
+                "disableAt": 70,
+                "warnAt": 56
+            }
+        }
+    },
+    "locationName": null,
+    "manualCoverAttachment": true,
+    "name": "[PS5/PS4/PC/XBSX|S/XB1/SWITCH] Title Update #15",
+    "nodeId": "ari:cloud:trello::card/workspace/6137a564cb8f6432c89f8977/683de410158f267431c734e3",
+    "pinned": false,
+    "pos": 5119.984375,
+    "shortLink": "zKlxaTnI",
+    "shortUrl": "https://trello.com/c/zKlxaTnI",
+    "singleInstrumentationId": null,
+    "sourceEmail": null,
+    "staticMapUrl": null,
+    "start": null,
+    "subscribed": null,
+    "url": "https://trello.com/c/zKlxaTnI/530-ps5-ps4-pc-xbsxs-xb1-switch-title-update-15",
+    "cover": {
+        "idAttachment": "683de44e6bf0a917a3676400",
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "dark",
+        "scaled": [
+            {
+                "id": "683de44f6bf0a917a3676405",
+                "_id": "683de44f6bf0a917a3676405",
+                "scaled": false,
+                "url": "https://trello.com/1/cards/683de410158f267431c734e3/attachments/683de44e6bf0a917a3676400/previews/683de44f6bf0a917a3676405/download/FC_25_Title_Update_%2315.webp",
+                "bytes": 608,
+                "height": 50,
+                "width": 70
+            },
+            {
+                "id": "683de44f6bf0a917a3676407",
+                "_id": "683de44f6bf0a917a3676407",
+                "scaled": true,
+                "url": "https://trello.com/1/cards/683de410158f267431c734e3/attachments/683de44e6bf0a917a3676400/previews/683de44f6bf0a917a3676407/download/FC_25_Title_Update_%2315.webp",
+                "bytes": 1614,
+                "height": 26,
+                "width": 150
+            },
+            {
+                "id": "683de44f6bf0a917a3676406",
+                "_id": "683de44f6bf0a917a3676406",
+                "scaled": false,
+                "url": "https://trello.com/1/cards/683de410158f267431c734e3/attachments/683de44e6bf0a917a3676400/previews/683de44f6bf0a917a3676406/download/FC_25_Title_Update_%2315.webp",
+                "bytes": 3136,
+                "height": 150,
+                "width": 250
+            },
+            {
+                "id": "683de44f6bf0a917a3676408",
+                "_id": "683de44f6bf0a917a3676408",
+                "scaled": true,
+                "url": "https://trello.com/1/cards/683de410158f267431c734e3/attachments/683de44e6bf0a917a3676400/previews/683de44f6bf0a917a3676408/download/FC_25_Title_Update_%2315.webp",
+                "bytes": 3980,
+                "height": 51,
+                "width": 298
+            },
+            {
+                "id": "683de44f6bf0a917a3676409",
+                "_id": "683de44f6bf0a917a3676409",
+                "scaled": true,
+                "url": "https://trello.com/1/cards/683de410158f267431c734e3/attachments/683de44e6bf0a917a3676400/previews/683de44f6bf0a917a3676409/download/FC_25_Title_Update_%2315.webp",
+                "bytes": 11960,
+                "height": 103,
+                "width": 600
+            },
+            {
+                "id": "683de44f6bf0a917a367640a",
+                "_id": "683de44f6bf0a917a367640a",
+                "scaled": true,
+                "url": "https://trello.com/1/cards/683de410158f267431c734e3/attachments/683de44e6bf0a917a3676400/previews/683de44f6bf0a917a367640a/download/FC_25_Title_Update_%2315.webp",
+                "bytes": 36518,
+                "height": 206,
+                "width": 1200
+            },
+            {
+                "id": "683de44f6bf0a917a367640b",
+                "_id": "683de44f6bf0a917a367640b",
+                "scaled": true,
+                "url": "https://trello.com/1/cards/683de410158f267431c734e3/attachments/683de44e6bf0a917a3676400/previews/683de44f6bf0a917a367640b/download/FC_25_Title_Update_%2315.webp",
+                "bytes": 75064,
+                "height": 329,
+                "width": 1920
+            }
+        ],
+        "idPlugin": null
+    },
+    "isTemplate": false,
+    "cardRole": null,
+    "mirrorSourceId": null,
+    "mirrorSourceNodeId": null,
+    "checklists": [],
+    "customFieldItems": [],
+    "members": [],
+    "pluginData": [],
+    "actions": [
+        {
+            "id": "683f355f9bf8ce34eb522679",
+            "idMemberCreator": "5d5b1beea30eaf1b648e6ee7",
+            "data": {
+                "old": {
+                    "desc": "The Season Finale Update (Title Update #15) is now available and includes three adjustments to game balance based on your feedback and some updates to Ultimate Team and Career Mode. Here’s what you can expect:\n\n- Moderately increased accuracy of Ground Passes for players with high Passing related Attributes.\n- Significantly reduced effectiveness of goalkeepers rushing out with the Rush Out PlayStyle, and slightly reduced that effectiveness for Rush Out PlayStyle+ players.\n- Slightly increased accuracy of headers performed by the shooting input.\n- A new season and Premium Pass in Ultimate Team.\n- Increased the maximum number of PlayStyles+ UT Player Items can have up to five.\n- Updated Player Career ICON selection.\n- Refreshed Career Mode UI for Fixtures and Results.\n- Refreshed the main menu with a festive celebration theme.\n\nTo learn more about these changes and see them in action, scan the QR code on the right to view our Season Finale Update Pitch Notes article. [http://x.ea.com/84342](http://x.ea.com/84342 \"smartCard-inline\")\n\n**Gameplay**\n\nMade the following changes:\n\n- Moderately increased Ground Pass accuracy for players with high Passing related Attributes.\n  - This change does not impact Driven Ground Passes.\n- Slightly reduced the rate of acceleration for goalkeepers with the Rush Out PlayStyle+.\n- Significantly reduced the rate of acceleration for goalkeepers with the Rush Out PlayStyle.\n\nDon’t forget you can learn more about these gameplay updates and see them in action in our Pitch Notes article, just scan the QR code on the right.\n\n**Ultimate Team**\n\nMade the following change:\n\n- Increased the maximum number of PlayStyle+ assignments to 5.\n  - To learn more about this change, be sure to check out our Pitch Notes by scanning the QR code on the right.\n\n**Career Mode**\n\nMade the following changes:\n\n- Updated ICON selection in Player Career to feature Birgit Prinz, George Best, Johan Cruyff, and Garrincha.\n- In Manager Career, 5v5 Youth Tournament Matches can be played in co-op, up to four players, via the addition of the Side Select functionality.\n- Refreshed Fixtures and Results UI, and updated how your match results are covered in social media feeds.\n\nAddressed the following issues:\n\n- A stability issue could have occurred when simulating from the Central Hub and when playing as a real player in Player Career.\n- Occasionally, the Tattoos tab was not available in player customization.\n\n**General, Audio, and Visual**\n\nMade the following change:\n\n- Updated some badges, hair, kits, equipment, tifos, tattoos, and scenes.\n\nAddressed the following issues:\n\n- Addressed some stability issues that could have occurred.\n- Addressed instances of incorrect and placeholder images and text.\n- In some circumstances, some music settings did not save correctly.\n- In some cases, EATV videos did not load.\n\nWant to provide us direct feedback about EA SPORTS FC 25? Visit [https://go.ea.com/fc25pf](https://go.ea.com/fc25pf \"‌\") and let us know what you think, it only takes a few minutes.\n\nThanks to those who’ve provided and continue to provide feedback. Throughout the course of the EA SPORTS FC 25 season, we'll provide you with more information and updates if and when they become available. Be sure to follow \\@‌EASFCDIRECT on X as well as WhatsApp, and check out the EA SPORTS FC Tracker for the latest news and updates.\n\n- The EA SPORTS FC Team"
+                },
+                "card": {
+                    "desc": "The Season Finale Update (Title Update #15) is now available and includes three adjustments to game balance based on your feedback and some updates to Ultimate Team and Career Mode. Here’s what you can expect:\n\n- Moderately increased accuracy of Ground Passes for players with high Passing related Attributes.\n- Significantly reduced effectiveness of goalkeepers rushing out with the Rush Out PlayStyle, and slightly reduced that effectiveness for Rush Out PlayStyle+ players.\n- Slightly increased accuracy of headers performed by the shooting input.\n- A new season and Premium Pass in Ultimate Team.\n- Increased the maximum number of PlayStyles+ UT Player Items can have up to five.\n- Updated Player Career ICON selection.\n- Refreshed Career Mode UI for Fixtures and Results.\n- Refreshed the main menu with a festive celebration theme.\n\nTo learn more about these changes and see them in action, scan the QR code on the right to view our Season Finale Update Pitch Notes article. [http://x.ea.com/84342](http://x.ea.com/84342 \"smartCard-inline\")\n\n**Gameplay**\n\nMade the following changes:\n\n- Moderately increased Ground Pass accuracy for players with high Passing related Attributes.\n  - This change does not impact Driven Ground Passes.\n- Slightly increased accuracy of headers performed by the shooting input.\n- Slightly reduced the rate of acceleration for goalkeepers with the Rush Out PlayStyle+.\n- Significantly reduced the rate of acceleration for goalkeepers with the Rush Out PlayStyle.\n\nDon’t forget you can learn more about these gameplay updates and see them in action in our Pitch Notes article, just scan the QR code on the right.\n\n**Ultimate Team**\n\nMade the following change:\n\n- Increased the maximum number of PlayStyle+ assignments to 5.\n  - To learn more about this change, be sure to check out our Pitch Notes by scanning the QR code on the right.\n\n**Career Mode**\n\nMade the following changes:\n\n- Updated ICON selection in Player Career to feature Birgit Prinz, George Best, Johan Cruyff, and Garrincha.\n- In Manager Career, 5v5 Youth Tournament Matches can be played in co-op, up to four players, via the addition of the Side Select functionality.\n- Refreshed Fixtures and Results UI, and updated how your match results are covered in social media feeds.\n\nAddressed the following issues:\n\n- A stability issue could have occurred when simulating from the Central Hub and when playing as a real player in Player Career.\n- Occasionally, the Tattoos tab was not available in player customization.\n\n**General, Audio, and Visual**\n\nMade the following change:\n\n- Updated some badges, hair, kits, equipment, tifos, tattoos, and scenes.\n\nAddressed the following issues:\n\n- Addressed some stability issues that could have occurred.\n- Addressed instances of incorrect and placeholder images and text.\n- In some circumstances, some music settings did not save correctly.\n- In some cases, EATV videos did not load.\n\nWant to provide us direct feedback about EA SPORTS FC 25? Visit [https://go.ea.com/fc25pf](https://go.ea.com/fc25pf \"‌\") and let us know what you think, it only takes a few minutes.\n\nThanks to those who’ve provided and continue to provide feedback. Throughout the course of the EA SPORTS FC 25 season, we'll provide you with more information and updates if and when they become available. Be sure to follow \\@‌EASFCDIRECT on X as well as WhatsApp, and check out the EA SPORTS FC Tracker for the latest news and updates.\n\n- The EA SPORTS FC Team",
+                    "id": "683de410158f267431c734e3",
+                    "name": "[PS5/PS4/PC/XBSX|S/XB1/SWITCH] Title Update #15",
+                    "idShort": 530,
+                    "shortLink": "zKlxaTnI"
+                },
+                "board": {
+                    "id": "5f73f7c1b4c1280a7068df5f",
+                    "name": "EA SPORTS FC Tracker",
+                    "shortLink": "keigLn6R"
+                },
+                "list": {
+                    "id": "5f73f7c1b4c1280a7068df61",
+                    "name": "Latest News"
+                }
+            },
+            "appCreator": null,
+            "type": "updateCard",
+            "date": "2025-06-03T17:48:15.991Z",
+            "limits": null,
+            "memberCreator": {
+                "id": "5d5b1beea30eaf1b648e6ee7",
+                "activityBlocked": false,
+                "avatarHash": "9b8c2ae64bd8604e7257419fe56df466",
+                "avatarUrl": "https://trello-members.s3.amazonaws.com/5d5b1beea30eaf1b648e6ee7/9b8c2ae64bd8604e7257419fe56df466",
+                "fullName": "Goran",
+                "idMemberReferrer": null,
+                "initials": "G",
+                "nonPublic": {},
+                "nonPublicAvailable": true,
+                "username": "goran_drpoplove"
+            }
+        },
+        {
+            "id": "683ecd3101fce7531c9bedbf",
+            "idMemberCreator": "55fab97406891939fbe4cb5e",
+            "data": {
+                "old": {
+                    "desc": "The Season Finale Update (Title Update #15) is releasing soon and includes three adjustments to game balance based on your feedback and some updates to Ultimate Team and Career Mode. Here’s what you can expect:\n\n- Moderately increased accuracy of Ground Passes for players with high Passing related Attributes.\n- Significantly reduced effectiveness of goalkeepers rushing out with the Rush Out PlayStyle, and slightly reduced that effectiveness for Rush Out PlayStyle+ players.\n- Slightly increased accuracy of headers performed by the shooting input.\n- A new season and Premium Pass in Ultimate Team.\n- Increased the maximum number of PlayStyles+ UT Player Items can have up to five.\n- Updated Player Career ICON selection.\n- Refreshed Career Mode UI for Fixtures and Results.\n- Refreshed the main menu with a festive celebration theme.\n\nTo learn more about these changes and see them in action, scan the QR code on the right to view our Season Finale Update Pitch Notes article. [http://x.ea.com/84342](http://x.ea.com/84342 \"smartCard-inline\")\n\n**Gameplay**\n\nMade the following changes:\n\n- Moderately increased Ground Pass accuracy for players with high Passing related Attributes.\n  - This change does not impact Driven Ground Passes.\n- Slightly reduced the rate of acceleration for goalkeepers with the Rush Out PlayStyle+.\n- Significantly reduced the rate of acceleration for goalkeepers with the Rush Out PlayStyle.\n\nDon’t forget you can learn more about these gameplay updates and see them in action in our Pitch Notes article, just scan the QR code on the right.\n\n**Ultimate Team**\n\nMade the following change:\n\n- Increased the maximum number of PlayStyle+ assignments to 5.\n  - To learn more about this change, be sure to check out our Pitch Notes by scanning the QR code on the right.\n\n**Career Mode**\n\nMade the following changes:\n\n- Updated ICON selection in Player Career to feature Birgit Prinz, George Best, Johan Cruyff, and Garrincha.\n- In Manager Career, 5v5 Youth Tournament Matches can be played in co-op, up to four players, via the addition of the Side Select functionality.\n- Refreshed Fixtures and Results UI, and updated how your match results are covered in social media feeds.\n\nAddressed the following issues:\n\n- A stability issue could have occurred when simulating from the Central Hub and when playing as a real player in Player Career.\n- Occasionally, the Tattoos tab was not available in player customization.\n\n**General, Audio, and Visual**\n\nMade the following change:\n\n- Updated some badges, hair, kits, equipment, tifos, tattoos, and scenes.\n\nAddressed the following issues:\n\n- Addressed some stability issues that could have occurred.\n- Addressed instances of incorrect and placeholder images and text.\n- In some circumstances, some music settings did not save correctly.\n- In some cases, EATV videos did not load.\n\nWant to provide us direct feedback about EA SPORTS FC 25? Visit [https://go.ea.com/fc25pf](https://go.ea.com/fc25pf \"‌\") and let us know what you think, it only takes a few minutes.\n\nThanks to those who’ve provided and continue to provide feedback. Throughout the course of the EA SPORTS FC 25 season, we'll provide you with more information and updates if and when they become available. Be sure to follow \\@‌EASFCDIRECT on X as well as WhatsApp, and check out the EA SPORTS FC Tracker for the latest news and updates.\n\n- The EA SPORTS FC Team"
+                },
+                "card": {
+                    "desc": "The Season Finale Update (Title Update #15) is now available and includes three adjustments to game balance based on your feedback and some updates to Ultimate Team and Career Mode. Here’s what you can expect:\n\n- Moderately increased accuracy of Ground Passes for players with high Passing related Attributes.\n- Significantly reduced effectiveness of goalkeepers rushing out with the Rush Out PlayStyle, and slightly reduced that effectiveness for Rush Out PlayStyle+ players.\n- Slightly increased accuracy of headers performed by the shooting input.\n- A new season and Premium Pass in Ultimate Team.\n- Increased the maximum number of PlayStyles+ UT Player Items can have up to five.\n- Updated Player Career ICON selection.\n- Refreshed Career Mode UI for Fixtures and Results.\n- Refreshed the main menu with a festive celebration theme.\n\nTo learn more about these changes and see them in action, scan the QR code on the right to view our Season Finale Update Pitch Notes article. [http://x.ea.com/84342](http://x.ea.com/84342 \"smartCard-inline\")\n\n**Gameplay**\n\nMade the following changes:\n\n- Moderately increased Ground Pass accuracy for players with high Passing related Attributes.\n  - This change does not impact Driven Ground Passes.\n- Slightly reduced the rate of acceleration for goalkeepers with the Rush Out PlayStyle+.\n- Significantly reduced the rate of acceleration for goalkeepers with the Rush Out PlayStyle.\n\nDon’t forget you can learn more about these gameplay updates and see them in action in our Pitch Notes article, just scan the QR code on the right.\n\n**Ultimate Team**\n\nMade the following change:\n\n- Increased the maximum number of PlayStyle+ assignments to 5.\n  - To learn more about this change, be sure to check out our Pitch Notes by scanning the QR code on the right.\n\n**Career Mode**\n\nMade the following changes:\n\n- Updated ICON selection in Player Career to feature Birgit Prinz, George Best, Johan Cruyff, and Garrincha.\n- In Manager Career, 5v5 Youth Tournament Matches can be played in co-op, up to four players, via the addition of the Side Select functionality.\n- Refreshed Fixtures and Results UI, and updated how your match results are covered in social media feeds.\n\nAddressed the following issues:\n\n- A stability issue could have occurred when simulating from the Central Hub and when playing as a real player in Player Career.\n- Occasionally, the Tattoos tab was not available in player customization.\n\n**General, Audio, and Visual**\n\nMade the following change:\n\n- Updated some badges, hair, kits, equipment, tifos, tattoos, and scenes.\n\nAddressed the following issues:\n\n- Addressed some stability issues that could have occurred.\n- Addressed instances of incorrect and placeholder images and text.\n- In some circumstances, some music settings did not save correctly.\n- In some cases, EATV videos did not load.\n\nWant to provide us direct feedback about EA SPORTS FC 25? Visit [https://go.ea.com/fc25pf](https://go.ea.com/fc25pf \"‌\") and let us know what you think, it only takes a few minutes.\n\nThanks to those who’ve provided and continue to provide feedback. Throughout the course of the EA SPORTS FC 25 season, we'll provide you with more information and updates if and when they become available. Be sure to follow \\@‌EASFCDIRECT on X as well as WhatsApp, and check out the EA SPORTS FC Tracker for the latest news and updates.\n\n- The EA SPORTS FC Team",
+                    "id": "683de410158f267431c734e3",
+                    "name": "[PS5/PS4/PC/XBSX|S/XB1/SWITCH] Title Update #15",
+                    "idShort": 530,
+                    "shortLink": "zKlxaTnI"
+                },
+                "board": {
+                    "id": "5f73f7c1b4c1280a7068df5f",
+                    "name": "EA SPORTS FC Tracker",
+                    "shortLink": "keigLn6R"
+                },
+                "list": {
+                    "id": "5f73f7c1b4c1280a7068df61",
+                    "name": "Latest News"
+                }
+            },
+            "appCreator": null,
+            "type": "updateCard",
+            "date": "2025-06-03T10:23:45.047Z",
+            "limits": null,
+            "memberCreator": {
+                "id": "55fab97406891939fbe4cb5e",
+                "activityBlocked": false,
+                "avatarHash": "12acb16aff4d994e1b6cf238d7522e59",
+                "avatarUrl": "https://trello-members.s3.amazonaws.com/55fab97406891939fbe4cb5e/12acb16aff4d994e1b6cf238d7522e59",
+                "fullName": "D-Maks",
+                "idMemberReferrer": null,
+                "initials": "D",
+                "nonPublic": {},
+                "nonPublicAvailable": true,
+                "username": "denissmaksimovs"
+            }
+        },
+        {
+            "id": "683e0dd5e1c24f01e77b475d",
+            "idMemberCreator": "5d5b1beea30eaf1b648e6ee7",
+            "data": {
+                "old": {
+                    "desc": "The Season Finale Update (Title Update #15) is releasing soon and includes three adjustments to game balance based on your feedback and some updates to Ultimate Team and Career Mode. Here’s what you can expect:\n\n- Moderately increased accuracy of Ground Passes for players with high Passing related Attributes.\n- Significantly reduced effectiveness of goalkeepers rushing out with the Rush Out PlayStyle, and slightly reduced that effectiveness for Rush Out PlayStyle+ players.\n- Slightly increased accuracy of contested and uncontested headers.\n- A new season and Premium Pass in Ultimate Team.\n- Increased the maximum number of PlayStyles+ UT Player Items can have up to five.\n- Updated Player Career ICON selection.\n- Refreshed Career Mode UI for Fixtures and Results.\n- Refreshed the main menu with a festive celebration theme.\n\nTo learn more about these changes and see them in action, scan the QR code on the right to view our Season Finale Update Pitch Notes article. [http://x.ea.com/84342](http://x.ea.com/84342 \"smartCard-inline\")\n\n**Gameplay**\n\nMade the following changes:\n\n- Moderately increased Ground Pass accuracy for players with high Passing related Attributes.\n  - This change does not impact Driven Ground Passes.\n- Slightly reduced the rate of acceleration for goalkeepers with the Rush Out PlayStyle+.\n- Significantly reduced the rate of acceleration for goalkeepers with the Rush Out PlayStyle.\n\nDon’t forget you can learn more about these gameplay updates and see them in action in our Pitch Notes article, just scan the QR code on the right.\n\n**Ultimate Team**\n\nMade the following change:\n\n- Increased the maximum number of PlayStyle+ assignments to 5.\n  - To learn more about this change, be sure to check out our Pitch Notes by scanning the QR code on the right.\n\n**Career Mode**\n\nMade the following changes:\n\n- Updated ICON selection in Player Career to feature Birgit Prinz, George Best, Johan Cruyff, and Garrincha.\n- In Manager Career, 5v5 Youth Tournament Matches can be played in co-op, up to four players, via the addition of the Side Select functionality.\n- Refreshed Fixtures and Results UI, and updated how your match results are covered in social media feeds.\n\nAddressed the following issues:\n\n- A stability issue could have occurred when simulating from the Central Hub and when playing as a real player in Player Career.\n- Occasionally, the Tattoos tab was not available in player customization.\n\n**General, Audio, and Visual**\n\nMade the following change:\n\n- Updated some badges, hair, kits, equipment, tifos, tattoos, and scenes.\n\nAddressed the following issues:\n\n- Addressed some stability issues that could have occurred.\n- Addressed instances of incorrect and placeholder images and text.\n- In some circumstances, some music settings did not save correctly.\n- In some cases, EATV videos did not load.\n\nWant to provide us direct feedback about EA SPORTS FC 25? Visit [https://go.ea.com/fc25pf](https://go.ea.com/fc25pf \"‌\") and let us know what you think, it only takes a few minutes.\n\nThanks to those who’ve provided and continue to provide feedback. Throughout the course of the EA SPORTS FC 25 season, we'll provide you with more information and updates if and when they become available. Be sure to follow \\@‌EASFCDIRECT on X as well as WhatsApp, and check out the EA SPORTS FC Tracker for the latest news and updates.\n\n- The EA SPORTS FC Team"
+                },
+                "card": {
+                    "desc": "The Season Finale Update (Title Update #15) is releasing soon and includes three adjustments to game balance based on your feedback and some updates to Ultimate Team and Career Mode. Here’s what you can expect:\n\n- Moderately increased accuracy of Ground Passes for players with high Passing related Attributes.\n- Significantly reduced effectiveness of goalkeepers rushing out with the Rush Out PlayStyle, and slightly reduced that effectiveness for Rush Out PlayStyle+ players.\n- Slightly increased accuracy of headers performed by the shooting input.\n- A new season and Premium Pass in Ultimate Team.\n- Increased the maximum number of PlayStyles+ UT Player Items can have up to five.\n- Updated Player Career ICON selection.\n- Refreshed Career Mode UI for Fixtures and Results.\n- Refreshed the main menu with a festive celebration theme.\n\nTo learn more about these changes and see them in action, scan the QR code on the right to view our Season Finale Update Pitch Notes article. [http://x.ea.com/84342](http://x.ea.com/84342 \"smartCard-inline\")\n\n**Gameplay**\n\nMade the following changes:\n\n- Moderately increased Ground Pass accuracy for players with high Passing related Attributes.\n  - This change does not impact Driven Ground Passes.\n- Slightly reduced the rate of acceleration for goalkeepers with the Rush Out PlayStyle+.\n- Significantly reduced the rate of acceleration for goalkeepers with the Rush Out PlayStyle.\n\nDon’t forget you can learn more about these gameplay updates and see them in action in our Pitch Notes article, just scan the QR code on the right.\n\n**Ultimate Team**\n\nMade the following change:\n\n- Increased the maximum number of PlayStyle+ assignments to 5.\n  - To learn more about this change, be sure to check out our Pitch Notes by scanning the QR code on the right.\n\n**Career Mode**\n\nMade the following changes:\n\n- Updated ICON selection in Player Career to feature Birgit Prinz, George Best, Johan Cruyff, and Garrincha.\n- In Manager Career, 5v5 Youth Tournament Matches can be played in co-op, up to four players, via the addition of the Side Select functionality.\n- Refreshed Fixtures and Results UI, and updated how your match results are covered in social media feeds.\n\nAddressed the following issues:\n\n- A stability issue could have occurred when simulating from the Central Hub and when playing as a real player in Player Career.\n- Occasionally, the Tattoos tab was not available in player customization.\n\n**General, Audio, and Visual**\n\nMade the following change:\n\n- Updated some badges, hair, kits, equipment, tifos, tattoos, and scenes.\n\nAddressed the following issues:\n\n- Addressed some stability issues that could have occurred.\n- Addressed instances of incorrect and placeholder images and text.\n- In some circumstances, some music settings did not save correctly.\n- In some cases, EATV videos did not load.\n\nWant to provide us direct feedback about EA SPORTS FC 25? Visit [https://go.ea.com/fc25pf](https://go.ea.com/fc25pf \"‌\") and let us know what you think, it only takes a few minutes.\n\nThanks to those who’ve provided and continue to provide feedback. Throughout the course of the EA SPORTS FC 25 season, we'll provide you with more information and updates if and when they become available. Be sure to follow \\@‌EASFCDIRECT on X as well as WhatsApp, and check out the EA SPORTS FC Tracker for the latest news and updates.\n\n- The EA SPORTS FC Team",
+                    "id": "683de410158f267431c734e3",
+                    "name": "[PS5/PS4/PC/XBSX|S/XB1/SWITCH] Title Update #15",
+                    "idShort": 530,
+                    "shortLink": "zKlxaTnI"
+                },
+                "board": {
+                    "id": "5f73f7c1b4c1280a7068df5f",
+                    "name": "EA SPORTS FC Tracker",
+                    "shortLink": "keigLn6R"
+                },
+                "list": {
+                    "id": "5f73f7c1b4c1280a7068df61",
+                    "name": "Latest News"
+                }
+            },
+            "appCreator": null,
+            "type": "updateCard",
+            "date": "2025-06-02T20:47:17.213Z",
+            "limits": null,
+            "memberCreator": {
+                "id": "5d5b1beea30eaf1b648e6ee7",
+                "activityBlocked": false,
+                "avatarHash": "9b8c2ae64bd8604e7257419fe56df466",
+                "avatarUrl": "https://trello-members.s3.amazonaws.com/5d5b1beea30eaf1b648e6ee7/9b8c2ae64bd8604e7257419fe56df466",
+                "fullName": "Goran",
+                "idMemberReferrer": null,
+                "initials": "G",
+                "nonPublic": {},
+                "nonPublicAvailable": true,
+                "username": "goran_drpoplove"
+            }
+        },
+        {
+            "id": "683de552d41c0fa455cb74f0",
+            "idMemberCreator": "5c490271b0de67896445a8d7",
+            "data": {
+                "card": {
+                    "pos": 5119.984375,
+                    "id": "683de410158f267431c734e3",
+                    "name": "[PS5/PS4/PC/XBSX|S/XB1/SWITCH] Title Update #15",
+                    "idShort": 530,
+                    "shortLink": "zKlxaTnI"
+                },
+                "old": {
+                    "pos": 66559.984375
+                },
+                "board": {
+                    "id": "5f73f7c1b4c1280a7068df5f",
+                    "name": "EA SPORTS FC Tracker",
+                    "shortLink": "keigLn6R"
+                },
+                "list": {
+                    "id": "5f73f7c1b4c1280a7068df61",
+                    "name": "Latest News"
+                }
+            },
+            "appCreator": null,
+            "type": "updateCard",
+            "date": "2025-06-02T17:54:26.998Z",
+            "limits": null,
+            "memberCreator": {
+                "id": "5c490271b0de67896445a8d7",
+                "activityBlocked": false,
+                "avatarHash": "a5d3c3af7eb4a75c148443674d88ef60",
+                "avatarUrl": "https://trello-members.s3.amazonaws.com/5c490271b0de67896445a8d7/a5d3c3af7eb4a75c148443674d88ef60",
+                "fullName": "TikiTaka",
+                "idMemberReferrer": null,
+                "initials": "T",
+                "nonPublic": {},
+                "nonPublicAvailable": true,
+                "username": "brandontakahara"
+            }
+        },
+        {
+            "id": "683de549af077012bfa293ae",
+            "idMemberCreator": "5c490271b0de67896445a8d7",
+            "data": {
+                "card": {
+                    "idLabels": [
+                        "5f73f7c1b4c1280a7068dfeb",
+                        "66b64c66fe2b82a1a0bd8245"
+                    ],
+                    "id": "683de410158f267431c734e3",
+                    "name": "[PS5/PS4/PC/XBSX|S/XB1/SWITCH] Title Update #15",
+                    "idShort": 530,
+                    "shortLink": "zKlxaTnI"
+                },
+                "old": {
+                    "idLabels": [
+                        "5f73f7c1b4c1280a7068dfeb",
+                        "66b64c66fe2b82a1a0bd8245"
+                    ]
+                },
+                "board": {
+                    "id": "5f73f7c1b4c1280a7068df5f",
+                    "name": "EA SPORTS FC Tracker",
+                    "shortLink": "keigLn6R"
+                },
+                "list": {
+                    "id": "5f73f7c1b4c1280a7068df61",
+                    "name": "Latest News"
+                }
+            },
+            "appCreator": null,
+            "type": "updateCard",
+            "date": "2025-06-02T17:54:17.360Z",
+            "limits": null,
+            "memberCreator": {
+                "id": "5c490271b0de67896445a8d7",
+                "activityBlocked": false,
+                "avatarHash": "a5d3c3af7eb4a75c148443674d88ef60",
+                "avatarUrl": "https://trello-members.s3.amazonaws.com/5c490271b0de67896445a8d7/a5d3c3af7eb4a75c148443674d88ef60",
+                "fullName": "TikiTaka",
+                "idMemberReferrer": null,
+                "initials": "T",
+                "nonPublic": {},
+                "nonPublicAvailable": true,
+                "username": "brandontakahara"
+            }
+        },
+        {
+            "id": "683de544c78e16141c424e31",
+            "idMemberCreator": "5c490271b0de67896445a8d7",
+            "data": {
+                "card": {
+                    "idLabels": [
+                        "5f73f7c1b4c1280a7068dfeb"
+                    ],
+                    "id": "683de410158f267431c734e3",
+                    "name": "[PS5/PS4/PC/XBSX|S/XB1/SWITCH] Title Update #15",
+                    "idShort": 530,
+                    "shortLink": "zKlxaTnI"
+                },
+                "old": {
+                    "idLabels": [
+                        "5f73f7c1b4c1280a7068dfeb"
+                    ]
+                },
+                "board": {
+                    "id": "5f73f7c1b4c1280a7068df5f",
+                    "name": "EA SPORTS FC Tracker",
+                    "shortLink": "keigLn6R"
+                },
+                "list": {
+                    "id": "5f73f7c1b4c1280a7068df61",
+                    "name": "Latest News"
+                }
+            },
+            "appCreator": null,
+            "type": "updateCard",
+            "date": "2025-06-02T17:54:12.460Z",
+            "limits": null,
+            "memberCreator": {
+                "id": "5c490271b0de67896445a8d7",
+                "activityBlocked": false,
+                "avatarHash": "a5d3c3af7eb4a75c148443674d88ef60",
+                "avatarUrl": "https://trello-members.s3.amazonaws.com/5c490271b0de67896445a8d7/a5d3c3af7eb4a75c148443674d88ef60",
+                "fullName": "TikiTaka",
+                "idMemberReferrer": null,
+                "initials": "T",
+                "nonPublic": {},
+                "nonPublicAvailable": true,
+                "username": "brandontakahara"
+            }
+        },
+        {
+            "id": "683de5305cd3e2c47caffe9b",
+            "idMemberCreator": "5c490271b0de67896445a8d7",
+            "data": {
+                "old": {
+                    "desc": "The Season Finale Update (Title Update #15) is releasing soon and includes three adjustments to game balance based on your feedback and some updates to Ultimate Team and Career Mode. Here’s what you can expect:\n\n- Moderately increased accuracy of Ground Passes for players with high Passing related Attributes.\n- Significantly reduced effectiveness of goalkeepers rushing out with the Rush Out PlayStyle, and slightly reduced that effectiveness for Rush Out PlayStyle+ players.\n- Slightly increased accuracy of contested and uncontested headers.\n- A new season and Premium Pass in Ultimate Team.\n- Increased the maximum number of PlayStyles+ UT Player Items can have up to five.\n- Updated Player Career ICON selection.\n- Refreshed Career Mode UI for Fixtures and Results.\n- Refreshed the main menu with a festive celebration theme.\n\nTo learn more about these changes and see them in action, scan the QR code on the right to view our Season Finale Update Pitch Notes article. [http://x.ea.com/84342](http://x.ea.com/84342 \"smartCard-inline\")\n\nGameplay\n\nMade the following changes:\n\n- Moderately increased Ground Pass accuracy for players with high Passing related Attributes.\n  - This change does not impact Driven Ground Passes.\n- Slightly reduced the rate of acceleration for goalkeepers with the Rush Out PlayStyle+.\n- Significantly reduced the rate of acceleration for goalkeepers with the Rush Out PlayStyle.\n\nDon’t forget you can learn more about these gameplay updates and see them in action in our Pitch Notes article, just scan the QR code on the right.\n\nUltimate Team\n\nMade the following change:\n\n- Increased the maximum number of PlayStyle+ assignments to 5.\n  - To learn more about this change, be sure to check out our Pitch Notes by scanning the QR code on the right.\n\nCareer Mode\n\nMade the following changes:\n\n- Updated ICON selection in Player Career to feature Birgit Prinz, George Best, Johan Cruyff, and Garrincha.\n- In Manager Career, 5v5 Youth Tournament Matches can be played in co-op, up to four players, via the addition of the Side Select functionality.\n- Refreshed Fixtures and Results UI, and updated how your match results are covered in social media feeds.\n\nAddressed the following issues:\n\n- A stability issue could have occurred when simulating from the Central Hub and when playing as a real player in Player Career.\n- Occasionally, the Tattoos tab was not available in player customization.\n\nGeneral, Audio, and Visual\n\nMade the following change:\n\n- Updated some badges, hair, kits, equipment, tifos, tattoos, and scenes.\n\nAddressed the following issues:\n\n- Addressed some stability issues that could have occurred.\n- Addressed instances of incorrect and placeholder images and text.\n- In some circumstances, some music settings did not save correctly.\n- In some cases, EATV videos did not load.\n\nWant to provide us direct feedback about EA SPORTS FC 25? Visit [https://go.ea.com/fc25pf](https://go.ea.com/fc25pf \"‌\") and let us know what you think, it only takes a few minutes.\n\nThanks to those who’ve provided and continue to provide feedback. Throughout the course of the EA SPORTS FC 25 season, we'll provide you with more information and updates if and when they become available. Be sure to follow \\@‌EASFCDIRECT on X as well as WhatsApp, and check out the EA SPORTS FC Tracker for the latest news and updates.\n\n- The EA SPORTS FC Team"
+                },
+                "card": {
+                    "desc": "The Season Finale Update (Title Update #15) is releasing soon and includes three adjustments to game balance based on your feedback and some updates to Ultimate Team and Career Mode. Here’s what you can expect:\n\n- Moderately increased accuracy of Ground Passes for players with high Passing related Attributes.\n- Significantly reduced effectiveness of goalkeepers rushing out with the Rush Out PlayStyle, and slightly reduced that effectiveness for Rush Out PlayStyle+ players.\n- Slightly increased accuracy of contested and uncontested headers.\n- A new season and Premium Pass in Ultimate Team.\n- Increased the maximum number of PlayStyles+ UT Player Items can have up to five.\n- Updated Player Career ICON selection.\n- Refreshed Career Mode UI for Fixtures and Results.\n- Refreshed the main menu with a festive celebration theme.\n\nTo learn more about these changes and see them in action, scan the QR code on the right to view our Season Finale Update Pitch Notes article. [http://x.ea.com/84342](http://x.ea.com/84342 \"smartCard-inline\")\n\n**Gameplay**\n\nMade the following changes:\n\n- Moderately increased Ground Pass accuracy for players with high Passing related Attributes.\n  - This change does not impact Driven Ground Passes.\n- Slightly reduced the rate of acceleration for goalkeepers with the Rush Out PlayStyle+.\n- Significantly reduced the rate of acceleration for goalkeepers with the Rush Out PlayStyle.\n\nDon’t forget you can learn more about these gameplay updates and see them in action in our Pitch Notes article, just scan the QR code on the right.\n\n**Ultimate Team**\n\nMade the following change:\n\n- Increased the maximum number of PlayStyle+ assignments to 5.\n  - To learn more about this change, be sure to check out our Pitch Notes by scanning the QR code on the right.\n\n**Career Mode**\n\nMade the following changes:\n\n- Updated ICON selection in Player Career to feature Birgit Prinz, George Best, Johan Cruyff, and Garrincha.\n- In Manager Career, 5v5 Youth Tournament Matches can be played in co-op, up to four players, via the addition of the Side Select functionality.\n- Refreshed Fixtures and Results UI, and updated how your match results are covered in social media feeds.\n\nAddressed the following issues:\n\n- A stability issue could have occurred when simulating from the Central Hub and when playing as a real player in Player Career.\n- Occasionally, the Tattoos tab was not available in player customization.\n\n**General, Audio, and Visual**\n\nMade the following change:\n\n- Updated some badges, hair, kits, equipment, tifos, tattoos, and scenes.\n\nAddressed the following issues:\n\n- Addressed some stability issues that could have occurred.\n- Addressed instances of incorrect and placeholder images and text.\n- In some circumstances, some music settings did not save correctly.\n- In some cases, EATV videos did not load.\n\nWant to provide us direct feedback about EA SPORTS FC 25? Visit [https://go.ea.com/fc25pf](https://go.ea.com/fc25pf \"‌\") and let us know what you think, it only takes a few minutes.\n\nThanks to those who’ve provided and continue to provide feedback. Throughout the course of the EA SPORTS FC 25 season, we'll provide you with more information and updates if and when they become available. Be sure to follow \\@‌EASFCDIRECT on X as well as WhatsApp, and check out the EA SPORTS FC Tracker for the latest news and updates.\n\n- The EA SPORTS FC Team",
+                    "id": "683de410158f267431c734e3",
+                    "name": "[PS5/PS4/PC/XBSX|S/XB1/SWITCH] Title Update #15",
+                    "idShort": 530,
+                    "shortLink": "zKlxaTnI"
+                },
+                "board": {
+                    "id": "5f73f7c1b4c1280a7068df5f",
+                    "name": "EA SPORTS FC Tracker",
+                    "shortLink": "keigLn6R"
+                },
+                "list": {
+                    "id": "5f73f7c1b4c1280a7068df61",
+                    "name": "Latest News"
+                }
+            },
+            "appCreator": null,
+            "type": "updateCard",
+            "date": "2025-06-02T17:53:52.088Z",
+            "limits": null,
+            "memberCreator": {
+                "id": "5c490271b0de67896445a8d7",
+                "activityBlocked": false,
+                "avatarHash": "a5d3c3af7eb4a75c148443674d88ef60",
+                "avatarUrl": "https://trello-members.s3.amazonaws.com/5c490271b0de67896445a8d7/a5d3c3af7eb4a75c148443674d88ef60",
+                "fullName": "TikiTaka",
+                "idMemberReferrer": null,
+                "initials": "T",
+                "nonPublic": {},
+                "nonPublicAvailable": true,
+                "username": "brandontakahara"
+            }
+        },
+        {
+            "id": "683de4fbc8faf7eae84a9929",
+            "idMemberCreator": "5c490271b0de67896445a8d7",
+            "data": {
+                "old": {
+                    "desc": ""
+                },
+                "card": {
+                    "desc": "The Season Finale Update (Title Update #15) is releasing soon and includes three adjustments to game balance based on your feedback and some updates to Ultimate Team and Career Mode. Here’s what you can expect:\n\n- Moderately increased accuracy of Ground Passes for players with high Passing related Attributes.\n- Significantly reduced effectiveness of goalkeepers rushing out with the Rush Out PlayStyle, and slightly reduced that effectiveness for Rush Out PlayStyle+ players.\n- Slightly increased accuracy of contested and uncontested headers.\n- A new season and Premium Pass in Ultimate Team.\n- Increased the maximum number of PlayStyles+ UT Player Items can have up to five.\n- Updated Player Career ICON selection.\n- Refreshed Career Mode UI for Fixtures and Results.\n- Refreshed the main menu with a festive celebration theme.\n\nTo learn more about these changes and see them in action, scan the QR code on the right to view our Season Finale Update Pitch Notes article. [http://x.ea.com/84342](http://x.ea.com/84342 \"smartCard-inline\")\n\nGameplay\n\nMade the following changes:\n\n- Moderately increased Ground Pass accuracy for players with high Passing related Attributes.\n  - This change does not impact Driven Ground Passes.\n- Slightly reduced the rate of acceleration for goalkeepers with the Rush Out PlayStyle+.\n- Significantly reduced the rate of acceleration for goalkeepers with the Rush Out PlayStyle.\n\nDon’t forget you can learn more about these gameplay updates and see them in action in our Pitch Notes article, just scan the QR code on the right.\n\nUltimate Team\n\nMade the following change:\n\n- Increased the maximum number of PlayStyle+ assignments to 5.\n  - To learn more about this change, be sure to check out our Pitch Notes by scanning the QR code on the right.\n\nCareer Mode\n\nMade the following changes:\n\n- Updated ICON selection in Player Career to feature Birgit Prinz, George Best, Johan Cruyff, and Garrincha.\n- In Manager Career, 5v5 Youth Tournament Matches can be played in co-op, up to four players, via the addition of the Side Select functionality.\n- Refreshed Fixtures and Results UI, and updated how your match results are covered in social media feeds.\n\nAddressed the following issues:\n\n- A stability issue could have occurred when simulating from the Central Hub and when playing as a real player in Player Career.\n- Occasionally, the Tattoos tab was not available in player customization.\n\nGeneral, Audio, and Visual\n\nMade the following change:\n\n- Updated some badges, hair, kits, equipment, tifos, tattoos, and scenes.\n\nAddressed the following issues:\n\n- Addressed some stability issues that could have occurred.\n- Addressed instances of incorrect and placeholder images and text.\n- In some circumstances, some music settings did not save correctly.\n- In some cases, EATV videos did not load.\n\nWant to provide us direct feedback about EA SPORTS FC 25? Visit [https://go.ea.com/fc25pf](https://go.ea.com/fc25pf \"‌\") and let us know what you think, it only takes a few minutes.\n\nThanks to those who’ve provided and continue to provide feedback. Throughout the course of the EA SPORTS FC 25 season, we'll provide you with more information and updates if and when they become available. Be sure to follow \\@‌EASFCDIRECT on X as well as WhatsApp, and check out the EA SPORTS FC Tracker for the latest news and updates.\n\n- The EA SPORTS FC Team",
+                    "id": "683de410158f267431c734e3",
+                    "name": "[PS5/PS4/PC/XBSX|S/XB1/SWITCH] Title Update #15",
+                    "idShort": 530,
+                    "shortLink": "zKlxaTnI"
+                },
+                "board": {
+                    "id": "5f73f7c1b4c1280a7068df5f",
+                    "name": "EA SPORTS FC Tracker",
+                    "shortLink": "keigLn6R"
+                },
+                "list": {
+                    "id": "5f73f7c1b4c1280a7068df61",
+                    "name": "Latest News"
+                }
+            },
+            "appCreator": null,
+            "type": "updateCard",
+            "date": "2025-06-02T17:52:59.202Z",
+            "limits": null,
+            "memberCreator": {
+                "id": "5c490271b0de67896445a8d7",
+                "activityBlocked": false,
+                "avatarHash": "a5d3c3af7eb4a75c148443674d88ef60",
+                "avatarUrl": "https://trello-members.s3.amazonaws.com/5c490271b0de67896445a8d7/a5d3c3af7eb4a75c148443674d88ef60",
+                "fullName": "TikiTaka",
+                "idMemberReferrer": null,
+                "initials": "T",
+                "nonPublic": {},
+                "nonPublicAvailable": true,
+                "username": "brandontakahara"
+            }
+        },
+        {
+            "id": "683de44f6bf0a917a3676417",
+            "idMemberCreator": "5c490271b0de67896445a8d7",
+            "data": {
+                "attachment": {
+                    "id": "683de44e6bf0a917a3676400",
+                    "name": "FC 25 Title Update #15.png",
+                    "url": "https://trello.com/1/cards/683de410158f267431c734e3/attachments/683de44e6bf0a917a3676400/download/FC_25_Title_Update_%2315.png",
+                    "previewUrl": "https://trello.com/1/cards/683de410158f267431c734e3/attachments/683de44e6bf0a917a3676400/previews/preview/download/FC_25_Title_Update_%2315.webp",
+                    "previewUrl2x": "https://trello.com/1/cards/683de410158f267431c734e3/attachments/683de44e6bf0a917a3676400/previews/preview2x/download/FC_25_Title_Update_%2315.webp"
+                },
+                "card": {
+                    "id": "683de410158f267431c734e3",
+                    "name": "[PS5/PS4/PC/XBSX|S/XB1/SWITCH] Title Update #15",
+                    "idShort": 530,
+                    "shortLink": "zKlxaTnI"
+                },
+                "list": {
+                    "id": "5f73f7c1b4c1280a7068df61",
+                    "name": "Latest News"
+                },
+                "board": {
+                    "id": "5f73f7c1b4c1280a7068df5f",
+                    "name": "EA SPORTS FC Tracker",
+                    "shortLink": "keigLn6R"
+                }
+            },
+            "appCreator": null,
+            "type": "addAttachmentToCard",
+            "date": "2025-06-02T17:50:07.086Z",
+            "limits": null,
+            "memberCreator": {
+                "id": "5c490271b0de67896445a8d7",
+                "activityBlocked": false,
+                "avatarHash": "a5d3c3af7eb4a75c148443674d88ef60",
+                "avatarUrl": "https://trello-members.s3.amazonaws.com/5c490271b0de67896445a8d7/a5d3c3af7eb4a75c148443674d88ef60",
+                "fullName": "TikiTaka",
+                "idMemberReferrer": null,
+                "initials": "T",
+                "nonPublic": {},
+                "nonPublicAvailable": true,
+                "username": "brandontakahara"
+            }
+        },
+        {
+            "id": "683de410158f267431c73544",
+            "idMemberCreator": "5c490271b0de67896445a8d7",
+            "data": {
+                "card": {
+                    "id": "683de410158f267431c734e3",
+                    "name": "[PS5/PS4/PC/XBSX|S/XB1/SWITCH] Title Update #15",
+                    "idShort": 530,
+                    "shortLink": "zKlxaTnI"
+                },
+                "list": {
+                    "id": "5f73f7c1b4c1280a7068df61",
+                    "name": "Latest News"
+                },
+                "board": {
+                    "id": "5f73f7c1b4c1280a7068df5f",
+                    "name": "EA SPORTS FC Tracker",
+                    "shortLink": "keigLn6R"
+                }
+            },
+            "appCreator": null,
+            "type": "createCard",
+            "date": "2025-06-02T17:49:04.922Z",
+            "limits": null,
+            "memberCreator": {
+                "id": "5c490271b0de67896445a8d7",
+                "activityBlocked": false,
+                "avatarHash": "a5d3c3af7eb4a75c148443674d88ef60",
+                "avatarUrl": "https://trello-members.s3.amazonaws.com/5c490271b0de67896445a8d7/a5d3c3af7eb4a75c148443674d88ef60",
+                "fullName": "TikiTaka",
+                "idMemberReferrer": null,
+                "initials": "T",
+                "nonPublic": {},
+                "nonPublicAvailable": true,
+                "username": "brandontakahara"
+            }
+        }
+    ]
+}

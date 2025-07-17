@@ -1,0 +1,572 @@
+{
+  "id": "6787e94e06a7ce05cd845cc1",
+  "address": null,
+  "badges": {
+    "attachments": 1,
+    "fogbugz": "",
+    "checkItems": 0,
+    "checkItemsChecked": 0,
+    "checkItemsEarliestDue": null,
+    "comments": 0,
+    "description": true,
+    "due": null,
+    "dueComplete": false,
+    "lastUpdatedByAi": false,
+    "start": null,
+    "attachmentsByType": {
+      "trello": {
+        "board": 0,
+        "card": 0
+      }
+    },
+    "externalSource": null,
+    "location": false,
+    "votes": 0,
+    "maliciousAttachments": 0,
+    "viewingMemberVoted": false,
+    "subscribed": false
+  },
+  "checkItemStates": [],
+  "closed": false,
+  "coordinates": null,
+  "creationMethod": null,
+  "creationMethodError": null,
+  "creationMethodLoadingStartedAt": null,
+  "dueComplete": false,
+  "dateClosed": null,
+  "dateLastActivity": "2025-03-10T16:38:03.326Z",
+  "dateCompleted": null,
+  "dateViewedByCreator": null,
+  "desc": "The Gameplay Refresh update is now available for all versions of EA SPORTS FC 25, and it’s the most significant mid-season gameplay overhaul we’ve ever made based on your feedback, including:\n\n- Major updates to core gameplay systems like passing, shooting, goalkeeping, and defending.\n- Addressed issues like defenders catching up to dribblers too often.\n- More offensively fluid gameplay enabling you to move the ball easier.\n- Reduced tacklebacks and AI interceptions.\n\nTo learn more about these changes, be sure to [check out our Pitch Notes article.](https://www.ea.com/games/ea-sports-fc/fc-25/news/fc-25-pitch-notes-gameplay-refresh-update \"‌\")\n\n### Gameplay\n\nMade the following changes:\n\n- Significantly reduced effectiveness of first-time Lofted Through Passes.\n- Players are now able to provide quicker support when they are familiar with their Role.\n- Increased intelligence of attacking and supporting runs made by AI teammates.\n- Improved AI teammate attacking run quality when trying to beat the offside line.\n- AI teammates can better hold their runs when near the line and get back onside more quickly.\n- Improved effectiveness of Inside and Advance Forwards.\n- They can move farther up the pitch.\n- They can better evaluate when to run into space or occupy a position.\n- Offensive players can now operate in attacking spaces near other attackers instead of stopping their runs.\n- Attacking players can continue their runs more often, excluding offside scenarios.\n- Increased accuracy and shot speed from inside the box for regular and Finesse shots.\n- Slightly increased accuracy of low difficulty regular and Finesse shots in the box.\n- Slightly increased the impact of Attributes on the accuracy of Finesse shots taken by players without the Finesse Shot or Finesse Shot+ PlayStyles.\n- A series of changes have been made aimed at reducing tacklebacks, which is when the opposing player wins the ball back after the defender makes a tackle.\n  - Defenders with the Anticipate PlayStyle are now more likely to tackle the ball towards a teammate with more space if stopping the ball in place would be disadvantageous.\n  - Improved the quality of touches defenders can make on tackles.\n  - In some cases, the ball carrier could have unintentionally stumbled forward when being tackled, resulting in incorrectly winning the ball back.\n  - In some cases, the defender could have stumbled when running towards the ball after a successful tackle rather than gaining possession.\n- In Competitive Ultimate Team and Online Seasons ruleset matches slightly increased defensive line width for 4 defender formations when the ball is inside of the box, and when the ball is close to the defensive line itself.\n- In Competitive Ultimate Team and Online Seasons ruleset matches slightly decreased defensive line width for 3 defender formations in general.\n- In Competitive Ultimate Team and Online Seasons ruleset matches, AI defenders will mark dribblers less tightly and will be less likely to cover shooting lanes near the edge of the box.\n- Triggered Runs can once again be requested while Controlled Sprint Dribbling.\n- Slightly increased speed of normal Ground Passes.\n- Significantly increased effectiveness of Semi Assisted Through Passes.\n- Slightly increased accuracy of short Ground Passes to open players.\n- Moderately reduced accuracy of headed passes in contested situations.\n- Further decreased how often AI players are able to make successful interceptions.\n- Defenders will focus more on man marking when defending counter attacks starting from corners.\n- The intent of this change is to provide more effective defensive positioning against counter attacks originating from corners.\n- RM/LM players with the Winger Balanced Role can drop deeper when defending.\n- Goalkeepers will now position themselves slightly closer to the near post.\n- The intent of this change is for goalkeepers to more effectively cover near post shots.\n\nAddressed the following issues:\n\n- Addressed instances of players catching up to the ball carrier despite the ball carrier having much higher Pace Attributes.\n- In some cases, the ball carrier could have unintentionally stumbled forward after a successful tackle, resulting in them incorrectly winning the ball back.\n- Goalkeepers could sometimes incorrectly step away from the near post in tight angle shooting situations.\n- Falsebacks could stay central for too long when the team lost possession.\n- They will now immediately look to return to their LB/RB positions.\n- Low powered Ground Passes were sometimes being delivered to farther players than intended.\n- Medium powered passes sometimes focused too much on the player’s aim input instead of the amount of power generated.\n- Addressed some instances where first time passes and shots were less responsive than intended when the input was performed late.\n- Reduced the effectiveness of tackles from behind in certain situations.\n- In some cases, simple physical contact could have resulted in the ball carrier losing the ball more easily than intended.\n- When playing against the CPU AI, it was triggering more Directed Runs than intended.\n- Sometimes, the dribbler could have pushed the ball too far away from themselves when turning.\n- The player could have incorrectly run past the ball when performing a Flair Jog Nutmeg or when Strafe Dribbling.\n- In certain situations, the Player Switch to the pass receiver did not occur.\n- In some cases, teammates could have accidentally dispossessed each other.\n- In Rush matches, players could have gotten stuck on the goal posts in rare situations.\n- Calling for a teammate to come short did not always function as intended when requested on the wings.\n- In some cases, defenders were not correctly positioning themselves when attempting to track runs, resulting in slow backwards runs while facing the ball.\n- Addressed instances of players moving slowly despite inputs requesting them to move quickly or sprint.\n- Improved referee logic when determining foul calls involving Skill Moves in the box.\n- Addressed instances of incorrect player placement during Rush penalties.\n- Addressed instances of incorrect player switching occurring after a blocked pass, during air balls when Secondary Contain was used, or during inaccurate Lob Passes.\n- Players could sometimes take longer than intended to recover after having a kick blocked.\n- In some cases, a long recovery animation could have occurred when the ball was passing through a player’s legs, preventing them from responding to the situation quickly.\n\n### Ultimate Team\n\nAddressed the following issue:\n\n- When using Multi Swap in SBCs, the button callout for navigating to the right did not always function as intended.\n\n### Career Mode\n\nAddressed the following issues:\n\n- The CPU AI goalkeeper could have incorrectly kicked the ball out of play in some cases.\n- Some Tactical Visions featured unintended Tactics and Roles.\n- In Manager Career, Youth Potential was not present on the Youth Development Plan screen.\n- In Manager Career, some manager hairstyles could unintentionally change.\n\n### Clubs\n\nAddressed the following issue:\n\n- Addressed instances of Avatars gaining bypassing height restrictions in some situations.\n\n### General, Audio, and Visual\n\nMade the following changes:\n\n- Updated some kits, clothing, and equipment.\n- Updated 125 star heads which will become visible in-game following a Server Release.\n\nWant to provide us direct feedback about EA SPORTS FC 25? Visit [https://go.ea.com/fc25pf](https://go.ea.com/fc25pf \"‌\") and let us know what you think, it only takes a few minutes.\n\nThanks to those who’ve provided and continue to provide feedback. Throughout the course of the EA SPORTS FC 25 season we'll provide you with more information and updates if and when they become available. Be sure to follow \\@‌EASFCDIRECT on X and to check out the EA SPORTS FC Tracker for the latest news and updates.\n\n- The EA SPORTS FC Team",
+  "descData": {
+    "emoji": {
+
+    }
+  },
+  "due": null,
+  "dueReminder": null,
+  "email": null,
+  "externalSource": null,
+  "idBoard": "5f73f7c1b4c1280a7068df5f",
+  "idChecklists": [],
+  "idLabels": [],
+  "idList": "66e9a32579095e09d37ffc55",
+  "idMemberCreator": "5d5b1beea30eaf1b648e6ee7",
+  "idMembers": [],
+  "idMembersVoted": [],
+  "idOrganization": "6137a564cb8f6432c89f8977",
+  "idShort": 506,
+  "idAttachmentCover": "6787e98394b0588451c032b8",
+  "labels": [],
+  "limits": {
+    "attachments": {
+      "perCard": {
+        "status": "ok",
+        "disableAt": 1000,
+        "warnAt": 800
+      }
+    },
+    "checklists": {
+      "perCard": {
+        "status": "ok",
+        "disableAt": 500,
+        "warnAt": 400
+      }
+    },
+    "stickers": {
+      "perCard": {
+        "status": "ok",
+        "disableAt": 70,
+        "warnAt": 56
+      }
+    }
+  },
+  "locationName": null,
+  "manualCoverAttachment": true,
+  "name": "[PC/PS4/PS5/XB1/XBSX|S/Switch] Gameplay Refresh Update",
+  "nodeId": "ari:cloud:trello::card/workspace/6137a564cb8f6432c89f8977/6787e94e06a7ce05cd845cc1",
+  "pinned": false,
+  "pos": 131072,
+  "shortLink": "FxyoFSLf",
+  "shortUrl": "https://trello.com/c/FxyoFSLf",
+  "singleInstrumentationId": null,
+  "sourceEmail": null,
+  "staticMapUrl": null,
+  "start": null,
+  "subscribed": null,
+  "url": "https://trello.com/c/FxyoFSLf/506-pc-ps4-ps5-xb1-xbsxs-switch-gameplay-refresh-update",
+  "cover": {
+    "idAttachment": "6787e98394b0588451c032b8",
+    "color": null,
+    "idUploadedBackground": null,
+    "size": "normal",
+    "brightness": "dark",
+    "scaled": [
+      {
+        "id": "6787e98494b0588451c032bf",
+        "_id": "6787e98494b0588451c032bf",
+        "scaled": false,
+        "url": "https://trello.com/1/cards/6787e94e06a7ce05cd845cc1/attachments/6787e98394b0588451c032b8/previews/6787e98494b0588451c032bf/download/Gameplay_Refresh.webp",
+        "bytes": 576,
+        "height": 50,
+        "width": 70
+      },
+      {
+        "id": "6787e98494b0588451c032c1",
+        "_id": "6787e98494b0588451c032c1",
+        "scaled": true,
+        "url": "https://trello.com/1/cards/6787e94e06a7ce05cd845cc1/attachments/6787e98394b0588451c032b8/previews/6787e98494b0588451c032c1/download/Gameplay_Refresh.webp",
+        "bytes": 1596,
+        "height": 26,
+        "width": 150
+      },
+      {
+        "id": "6787e98494b0588451c032c0",
+        "_id": "6787e98494b0588451c032c0",
+        "scaled": false,
+        "url": "https://trello.com/1/cards/6787e94e06a7ce05cd845cc1/attachments/6787e98394b0588451c032b8/previews/6787e98494b0588451c032c0/download/Gameplay_Refresh.webp",
+        "bytes": 3518,
+        "height": 150,
+        "width": 250
+      },
+      {
+        "id": "6787e98494b0588451c032c2",
+        "_id": "6787e98494b0588451c032c2",
+        "scaled": true,
+        "url": "https://trello.com/1/cards/6787e94e06a7ce05cd845cc1/attachments/6787e98394b0588451c032b8/previews/6787e98494b0588451c032c2/download/Gameplay_Refresh.webp",
+        "bytes": 4302,
+        "height": 51,
+        "width": 298
+      },
+      {
+        "id": "6787e98494b0588451c032c3",
+        "_id": "6787e98494b0588451c032c3",
+        "scaled": true,
+        "url": "https://trello.com/1/cards/6787e94e06a7ce05cd845cc1/attachments/6787e98394b0588451c032b8/previews/6787e98494b0588451c032c3/download/Gameplay_Refresh.webp",
+        "bytes": 13020,
+        "height": 103,
+        "width": 600
+      },
+      {
+        "id": "6787e98494b0588451c032c4",
+        "_id": "6787e98494b0588451c032c4",
+        "scaled": true,
+        "url": "https://trello.com/1/cards/6787e94e06a7ce05cd845cc1/attachments/6787e98394b0588451c032b8/previews/6787e98494b0588451c032c4/download/Gameplay_Refresh.webp",
+        "bytes": 39592,
+        "height": 206,
+        "width": 1200
+      },
+      {
+        "id": "6787e98494b0588451c032c5",
+        "_id": "6787e98494b0588451c032c5",
+        "scaled": true,
+        "url": "https://trello.com/1/cards/6787e94e06a7ce05cd845cc1/attachments/6787e98394b0588451c032b8/previews/6787e98494b0588451c032c5/download/Gameplay_Refresh.webp",
+        "bytes": 83838,
+        "height": 329,
+        "width": 1920
+      }
+    ],
+    "edgeColor": "#28311a",
+    "idPlugin": null
+  },
+  "isTemplate": false,
+  "cardRole": null,
+  "mirrorSourceId": null,
+  "mirrorSourceNodeId": null,
+  "checklists": [],
+  "customFieldItems": [],
+  "members": [],
+  "pluginData": [],
+  "actions": [
+    {
+      "id": "67cf156b16adf56a356e1d3b",
+      "idMemberCreator": "55fab97406891939fbe4cb5e",
+      "data": {
+        "card": {
+          "pos": 16389.9999084473,
+          "id": "6787e94e06a7ce05cd845cc1",
+          "name": "[PC/PS4/PS5/XB1/XBSX|S/Switch] Gameplay Refresh Update",
+          "idShort": 506,
+          "shortLink": "FxyoFSLf"
+        },
+        "old": {
+          "pos": 1039.98413085938
+        },
+        "board": {
+          "id": "5f73f7c1b4c1280a7068df5f",
+          "name": "EA SPORTS FC Tracker",
+          "shortLink": "keigLn6R"
+        },
+        "list": {
+          "id": "66e9a32579095e09d37ffc55",
+          "name": "Game Updates"
+        }
+      },
+      "appCreator": null,
+      "type": "updateCard",
+      "date": "2025-03-10T16:38:03.343Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "55fab97406891939fbe4cb5e",
+        "activityBlocked": false,
+        "avatarHash": "12acb16aff4d994e1b6cf238d7522e59",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/55fab97406891939fbe4cb5e/12acb16aff4d994e1b6cf238d7522e59",
+        "fullName": "D-Maks",
+        "idMemberReferrer": null,
+        "initials": "D",
+        "nonPublic": {
+
+        },
+        "nonPublicAvailable": true,
+        "username": "denissmaksimovs"
+      }
+    },
+    {
+      "id": "67cf156a16adf56a356e196b",
+      "idMemberCreator": "55fab97406891939fbe4cb5e",
+      "data": {
+        "card": {
+          "idList": "66e9a32579095e09d37ffc55",
+          "id": "6787e94e06a7ce05cd845cc1",
+          "name": "[PC/PS4/PS5/XB1/XBSX|S/Switch] Gameplay Refresh Update",
+          "idShort": 506,
+          "shortLink": "FxyoFSLf"
+        },
+        "old": {
+          "idList": "5f73f7c1b4c1280a7068df61"
+        },
+        "board": {
+          "id": "5f73f7c1b4c1280a7068df5f",
+          "name": "EA SPORTS FC Tracker",
+          "shortLink": "keigLn6R"
+        },
+        "listBefore": {
+          "id": "5f73f7c1b4c1280a7068df61",
+          "name": "Latest News"
+        },
+        "listAfter": {
+          "id": "66e9a32579095e09d37ffc55",
+          "name": "Game Updates"
+        }
+      },
+      "appCreator": null,
+      "type": "updateCard",
+      "date": "2025-03-10T16:38:02.843Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "55fab97406891939fbe4cb5e",
+        "activityBlocked": false,
+        "avatarHash": "12acb16aff4d994e1b6cf238d7522e59",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/55fab97406891939fbe4cb5e/12acb16aff4d994e1b6cf238d7522e59",
+        "fullName": "D-Maks",
+        "idMemberReferrer": null,
+        "initials": "D",
+        "nonPublic": {
+
+        },
+        "nonPublicAvailable": true,
+        "username": "denissmaksimovs"
+      }
+    },
+    {
+      "id": "6788d844314c94975ce9f88b",
+      "idMemberCreator": "5c48831d226ccb5009c3b830",
+      "data": {
+        "card": {
+          "desc": "The Gameplay Refresh update is now available for all versions of EA SPORTS FC 25, and it’s the most significant mid-season gameplay overhaul we’ve ever made based on your feedback, including:\n\n- Major updates to core gameplay systems like passing, shooting, goalkeeping, and defending.\n- Addressed issues like defenders catching up to dribblers too often.\n- More offensively fluid gameplay enabling you to move the ball easier.\n- Reduced tacklebacks and AI interceptions.\n\nTo learn more about these changes, be sure to [check out our Pitch Notes article.](https://www.ea.com/games/ea-sports-fc/fc-25/news/fc-25-pitch-notes-gameplay-refresh-update \"‌\")\n\n### Gameplay\n\nMade the following changes:\n\n- Significantly reduced effectiveness of first-time Lofted Through Passes.\n- Players are now able to provide quicker support when they are familiar with their Role.\n- Increased intelligence of attacking and supporting runs made by AI teammates.\n- Improved AI teammate attacking run quality when trying to beat the offside line.\n- AI teammates can better hold their runs when near the line and get back onside more quickly.\n- Improved effectiveness of Inside and Advance Forwards.\n- They can move farther up the pitch.\n- They can better evaluate when to run into space or occupy a position.\n- Offensive players can now operate in attacking spaces near other attackers instead of stopping their runs.\n- Attacking players can continue their runs more often, excluding offside scenarios.\n- Increased accuracy and shot speed from inside the box for regular and Finesse shots.\n- Slightly increased accuracy of low difficulty regular and Finesse shots in the box.\n- Slightly increased the impact of Attributes on the accuracy of Finesse shots taken by players without the Finesse Shot or Finesse Shot+ PlayStyles.\n- A series of changes have been made aimed at reducing tacklebacks, which is when the opposing player wins the ball back after the defender makes a tackle.\n  - Defenders with the Anticipate PlayStyle are now more likely to tackle the ball towards a teammate with more space if stopping the ball in place would be disadvantageous.\n  - Improved the quality of touches defenders can make on tackles.\n  - In some cases, the ball carrier could have unintentionally stumbled forward when being tackled, resulting in incorrectly winning the ball back.\n  - In some cases, the defender could have stumbled when running towards the ball after a successful tackle rather than gaining possession.\n- In Competitive Ultimate Team and Online Seasons ruleset matches slightly increased defensive line width for 4 defender formations when the ball is inside of the box, and when the ball is close to the defensive line itself.\n- In Competitive Ultimate Team and Online Seasons ruleset matches slightly decreased defensive line width for 3 defender formations in general.\n- In Competitive Ultimate Team and Online Seasons ruleset matches, AI defenders will mark dribblers less tightly and will be less likely to cover shooting lanes near the edge of the box.\n- Triggered Runs can once again be requested while Controlled Sprint Dribbling.\n- Slightly increased speed of normal Ground Passes.\n- Significantly increased effectiveness of Semi Assisted Through Passes.\n- Slightly increased accuracy of short Ground Passes to open players.\n- Moderately reduced accuracy of headed passes in contested situations.\n- Further decreased how often AI players are able to make successful interceptions.\n- Defenders will focus more on man marking when defending counter attacks starting from corners.\n- The intent of this change is to provide more effective defensive positioning against counter attacks originating from corners.\n- RM/LM players with the Winger Balanced Role can drop deeper when defending.\n- Goalkeepers will now position themselves slightly closer to the near post.\n- The intent of this change is for goalkeepers to more effectively cover near post shots.\n\nAddressed the following issues:\n\n- Addressed instances of players catching up to the ball carrier despite the ball carrier having much higher Pace Attributes.\n- In some cases, the ball carrier could have unintentionally stumbled forward after a successful tackle, resulting in them incorrectly winning the ball back.\n- Goalkeepers could sometimes incorrectly step away from the near post in tight angle shooting situations.\n- Falsebacks could stay central for too long when the team lost possession.\n- They will now immediately look to return to their LB/RB positions.\n- Low powered Ground Passes were sometimes being delivered to farther players than intended.\n- Medium powered passes sometimes focused too much on the player’s aim input instead of the amount of power generated.\n- Addressed some instances where first time passes and shots were less responsive than intended when the input was performed late.\n- Reduced the effectiveness of tackles from behind in certain situations.\n- In some cases, simple physical contact could have resulted in the ball carrier losing the ball more easily than intended.\n- When playing against the CPU AI, it was triggering more Directed Runs than intended.\n- Sometimes, the dribbler could have pushed the ball too far away from themselves when turning.\n- The player could have incorrectly run past the ball when performing a Flair Jog Nutmeg or when Strafe Dribbling.\n- In certain situations, the Player Switch to the pass receiver did not occur.\n- In some cases, teammates could have accidentally dispossessed each other.\n- In Rush matches, players could have gotten stuck on the goal posts in rare situations.\n- Calling for a teammate to come short did not always function as intended when requested on the wings.\n- In some cases, defenders were not correctly positioning themselves when attempting to track runs, resulting in slow backwards runs while facing the ball.\n- Addressed instances of players moving slowly despite inputs requesting them to move quickly or sprint.\n- Improved referee logic when determining foul calls involving Skill Moves in the box.\n- Addressed instances of incorrect player placement during Rush penalties.\n- Addressed instances of incorrect player switching occurring after a blocked pass, during air balls when Secondary Contain was used, or during inaccurate Lob Passes.\n- Players could sometimes take longer than intended to recover after having a kick blocked.\n- In some cases, a long recovery animation could have occurred when the ball was passing through a player’s legs, preventing them from responding to the situation quickly.\n\n### Ultimate Team\n\nAddressed the following issue:\n\n- When using Multi Swap in SBCs, the button callout for navigating to the right did not always function as intended.\n\n### Career Mode\n\nAddressed the following issues:\n\n- The CPU AI goalkeeper could have incorrectly kicked the ball out of play in some cases.\n- Some Tactical Visions featured unintended Tactics and Roles.\n- In Manager Career, Youth Potential was not present on the Youth Development Plan screen.\n- In Manager Career, some manager hairstyles could unintentionally change.\n\n### Clubs\n\nAddressed the following issue:\n\n- Addressed instances of Avatars gaining bypassing height restrictions in some situations.\n\n### General, Audio, and Visual\n\nMade the following changes:\n\n- Updated some kits, clothing, and equipment.\n- Updated 125 star heads which will become visible in-game following a Server Release.\n\nWant to provide us direct feedback about EA SPORTS FC 25? Visit [https://go.ea.com/fc25pf](https://go.ea.com/fc25pf \"‌\") and let us know what you think, it only takes a few minutes.\n\nThanks to those who’ve provided and continue to provide feedback. Throughout the course of the EA SPORTS FC 25 season we'll provide you with more information and updates if and when they become available. Be sure to follow \\@‌EASFCDIRECT on X and to check out the EA SPORTS FC Tracker for the latest news and updates.\n\n- The EA SPORTS FC Team",
+          "id": "6787e94e06a7ce05cd845cc1",
+          "name": "[PC/PS4/PS5/XB1/XBSX|S/Switch] Gameplay Refresh Update",
+          "idShort": 506,
+          "shortLink": "FxyoFSLf"
+        },
+        "old": {
+          "desc": "The Gameplay Refresh update will soon be available for EA SPORTS FC 25, and it’s the most significant mid-season gameplay overhaul we’ve ever made based on your feedback, including:\n\n- Major updates to core gameplay systems like passing, shooting, goalkeeping, and defending.\n- Addressed issues like defenders catching up to dribblers too often.\n- More offensively fluid gameplay enabling you to move the ball easier.\n- Reduced tacklebacks and AI interceptions.\n\nTo learn more about these changes, be sure to [check out our Pitch Notes article.](https://www.ea.com/games/ea-sports-fc/fc-25/news/fc-25-pitch-notes-gameplay-refresh-update \"‌\")\n\n### Gameplay\n\nMade the following changes:\n\n- Significantly reduced effectiveness of first-time Lofted Through Passes.\n- Players are now able to provide quicker support when they are familiar with their Role.\n- Increased intelligence of attacking and supporting runs made by AI teammates.\n- Improved AI teammate attacking run quality when trying to beat the offside line.\n- AI teammates can better hold their runs when near the line and get back onside more quickly.\n- Improved effectiveness of Inside and Advance Forwards.\n- They can move farther up the pitch.\n- They can better evaluate when to run into space or occupy a position.\n- Offensive players can now operate in attacking spaces near other attackers instead of stopping their runs.\n- Attacking players can continue their runs more often, excluding offside scenarios.\n- Increased accuracy and shot speed from inside the box for regular and Finesse shots.\n- Slightly increased accuracy of low difficulty regular and Finesse shots in the box.\n- Slightly increased the impact of Attributes on the accuracy of Finesse shots taken by players without the Finesse Shot or Finesse Shot+ PlayStyles.\n- A series of changes have been made aimed at reducing tacklebacks, which is when the opposing player wins the ball back after the defender makes a tackle.\n  - Defenders with the Anticipate PlayStyle are now more likely to tackle the ball towards a teammate with more space if stopping the ball in place would be disadvantageous.\n  - Improved the quality of touches defenders can make on tackles.\n  - In some cases, the ball carrier could have unintentionally stumbled forward when being tackled, resulting in incorrectly winning the ball back.\n  - In some cases, the defender could have stumbled when running towards the ball after a successful tackle rather than gaining possession.\n- In Competitive Ultimate Team and Online Seasons ruleset matches slightly increased defensive line width for 4 defender formations when the ball is inside of the box, and when the ball is close to the defensive line itself.\n- In Competitive Ultimate Team and Online Seasons ruleset matches slightly decreased defensive line width for 3 defender formations in general.\n- In Competitive Ultimate Team and Online Seasons ruleset matches, AI defenders will mark dribblers less tightly and will be less likely to cover shooting lanes near the edge of the box.\n- Triggered Runs can once again be requested while Controlled Sprint Dribbling.\n- Slightly increased speed of normal Ground Passes.\n- Significantly increased effectiveness of Semi Assisted Through Passes.\n- Slightly increased accuracy of short Ground Passes to open players.\n- Moderately reduced accuracy of headed passes in contested situations.\n- Further decreased how often AI players are able to make successful interceptions.\n- Defenders will focus more on man marking when defending counter attacks starting from corners.\n- The intent of this change is to provide more effective defensive positioning against counter attacks originating from corners.\n- RM/LM players with the Winger Balanced Role can drop deeper when defending.\n- Goalkeepers will now position themselves slightly closer to the near post.\n- The intent of this change is for goalkeepers to more effectively cover near post shots.\n\nAddressed the following issues:\n\n- Addressed instances of players catching up to the ball carrier despite the ball carrier having much higher Pace Attributes.\n- In some cases, the ball carrier could have unintentionally stumbled forward after a successful tackle, resulting in them incorrectly winning the ball back.\n- Goalkeepers could sometimes incorrectly step away from the near post in tight angle shooting situations.\n- Falsebacks could stay central for too long when the team lost possession.\n- They will now immediately look to return to their LB/RB positions.\n- Low powered Ground Passes were sometimes being delivered to farther players than intended.\n- Medium powered passes sometimes focused too much on the player’s aim input instead of the amount of power generated.\n- Addressed some instances where first time passes and shots were less responsive than intended when the input was performed late.\n- Reduced the effectiveness of tackles from behind in certain situations.\n- In some cases, simple physical contact could have resulted in the ball carrier losing the ball more easily than intended.\n- When playing against the CPU AI, it was triggering more Directed Runs than intended.\n- Sometimes, the dribbler could have pushed the ball too far away from themselves when turning.\n- The player could have incorrectly run past the ball when performing a Flair Jog Nutmeg or when Strafe Dribbling.\n- In certain situations, the Player Switch to the pass receiver did not occur.\n- In some cases, teammates could have accidentally dispossessed each other.\n- In Rush matches, players could have gotten stuck on the goal posts in rare situations.\n- Calling for a teammate to come short did not always function as intended when requested on the wings.\n- In some cases, defenders were not correctly positioning themselves when attempting to track runs, resulting in slow backwards runs while facing the ball.\n- Addressed instances of players moving slowly despite inputs requesting them to move quickly or sprint.\n- Improved referee logic when determining foul calls involving Skill Moves in the box.\n- Addressed instances of incorrect player placement during Rush penalties.\n- Addressed instances of incorrect player switching occurring after a blocked pass, during air balls when Secondary Contain was used, or during inaccurate Lob Passes.\n- Players could sometimes take longer than intended to recover after having a kick blocked.\n- In some cases, a long recovery animation could have occurred when the ball was passing through a player’s legs, preventing them from responding to the situation quickly.\n\n### Ultimate Team\n\nAddressed the following issue:\n\n- When using Multi Swap in SBCs, the button callout for navigating to the right did not always function as intended.\n\n### Career Mode\n\nAddressed the following issues:\n\n- The CPU AI goalkeeper could have incorrectly kicked the ball out of play in some cases.\n- Some Tactical Visions featured unintended Tactics and Roles.\n- In Manager Career, Youth Potential was not present on the Youth Development Plan screen.\n- In Manager Career, some manager hairstyles could unintentionally change.\n\n### Clubs\n\nAddressed the following issue:\n\n- Addressed instances of Avatars gaining bypassing height restrictions in some situations.\n\n### General, Audio, and Visual\n\nMade the following changes:\n\n- Updated some kits, clothing, and equipment.\n- Updated 125 star heads which will become visible in-game following a Server Release.\n\nWant to provide us direct feedback about EA SPORTS FC 25? Visit [https://go.ea.com/fc25pf](https://go.ea.com/fc25pf \"‌\") and let us know what you think, it only takes a few minutes.\n\nThanks to those who’ve provided and continue to provide feedback. Throughout the course of the EA SPORTS FC 25 season we'll provide you with more information and updates if and when they become available. Be sure to follow \\@‌EASFCDIRECT on X and to check out the EA SPORTS FC Tracker for the latest news and updates.\n\n- The EA SPORTS FC Team"
+        },
+        "board": {
+          "id": "5f73f7c1b4c1280a7068df5f",
+          "name": "EA SPORTS FC Tracker",
+          "shortLink": "keigLn6R"
+        },
+        "list": {
+          "id": "5f73f7c1b4c1280a7068df61",
+          "name": "Latest News"
+        }
+      },
+      "appCreator": null,
+      "type": "updateCard",
+      "date": "2025-01-16T09:58:28.008Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5c48831d226ccb5009c3b830",
+        "activityBlocked": false,
+        "avatarHash": "65b8551dba3917ec1acddcfa24cd1bea",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5c48831d226ccb5009c3b830/65b8551dba3917ec1acddcfa24cd1bea",
+        "fullName": "Paul Murphy",
+        "idMemberReferrer": null,
+        "initials": "PM",
+        "nonPublic": {
+
+        },
+        "nonPublicAvailable": true,
+        "username": "pmurphy_liveops"
+      }
+    },
+    {
+      "id": "678849cd3ea28c75cea40504",
+      "idMemberCreator": "5d5b1beea30eaf1b648e6ee7",
+      "data": {
+        "card": {
+          "desc": "The Gameplay Refresh update will soon be available for EA SPORTS FC 25, and it’s the most significant mid-season gameplay overhaul we’ve ever made based on your feedback, including:\n\n- Major updates to core gameplay systems like passing, shooting, goalkeeping, and defending.\n- Addressed issues like defenders catching up to dribblers too often.\n- More offensively fluid gameplay enabling you to move the ball easier.\n- Reduced tacklebacks and AI interceptions.\n\nTo learn more about these changes, be sure to [check out our Pitch Notes article.](https://www.ea.com/games/ea-sports-fc/fc-25/news/fc-25-pitch-notes-gameplay-refresh-update \"‌\")\n\n### Gameplay\n\nMade the following changes:\n\n- Significantly reduced effectiveness of first-time Lofted Through Passes.\n- Players are now able to provide quicker support when they are familiar with their Role.\n- Increased intelligence of attacking and supporting runs made by AI teammates.\n- Improved AI teammate attacking run quality when trying to beat the offside line.\n- AI teammates can better hold their runs when near the line and get back onside more quickly.\n- Improved effectiveness of Inside and Advance Forwards.\n- They can move farther up the pitch.\n- They can better evaluate when to run into space or occupy a position.\n- Offensive players can now operate in attacking spaces near other attackers instead of stopping their runs.\n- Attacking players can continue their runs more often, excluding offside scenarios.\n- Increased accuracy and shot speed from inside the box for regular and Finesse shots.\n- Slightly increased accuracy of low difficulty regular and Finesse shots in the box.\n- Slightly increased the impact of Attributes on the accuracy of Finesse shots taken by players without the Finesse Shot or Finesse Shot+ PlayStyles.\n- A series of changes have been made aimed at reducing tacklebacks, which is when the opposing player wins the ball back after the defender makes a tackle.\n  - Defenders with the Anticipate PlayStyle are now more likely to tackle the ball towards a teammate with more space if stopping the ball in place would be disadvantageous.\n  - Improved the quality of touches defenders can make on tackles.\n  - In some cases, the ball carrier could have unintentionally stumbled forward when being tackled, resulting in incorrectly winning the ball back.\n  - In some cases, the defender could have stumbled when running towards the ball after a successful tackle rather than gaining possession.\n- In Competitive Ultimate Team and Online Seasons ruleset matches slightly increased defensive line width for 4 defender formations when the ball is inside of the box, and when the ball is close to the defensive line itself.\n- In Competitive Ultimate Team and Online Seasons ruleset matches slightly decreased defensive line width for 3 defender formations in general.\n- In Competitive Ultimate Team and Online Seasons ruleset matches, AI defenders will mark dribblers less tightly and will be less likely to cover shooting lanes near the edge of the box.\n- Triggered Runs can once again be requested while Controlled Sprint Dribbling.\n- Slightly increased speed of normal Ground Passes.\n- Significantly increased effectiveness of Semi Assisted Through Passes.\n- Slightly increased accuracy of short Ground Passes to open players.\n- Moderately reduced accuracy of headed passes in contested situations.\n- Further decreased how often AI players are able to make successful interceptions.\n- Defenders will focus more on man marking when defending counter attacks starting from corners.\n- The intent of this change is to provide more effective defensive positioning against counter attacks originating from corners.\n- RM/LM players with the Winger Balanced Role can drop deeper when defending.\n- Goalkeepers will now position themselves slightly closer to the near post.\n- The intent of this change is for goalkeepers to more effectively cover near post shots.\n\nAddressed the following issues:\n\n- Addressed instances of players catching up to the ball carrier despite the ball carrier having much higher Pace Attributes.\n- In some cases, the ball carrier could have unintentionally stumbled forward after a successful tackle, resulting in them incorrectly winning the ball back.\n- Goalkeepers could sometimes incorrectly step away from the near post in tight angle shooting situations.\n- Falsebacks could stay central for too long when the team lost possession.\n- They will now immediately look to return to their LB/RB positions.\n- Low powered Ground Passes were sometimes being delivered to farther players than intended.\n- Medium powered passes sometimes focused too much on the player’s aim input instead of the amount of power generated.\n- Addressed some instances where first time passes and shots were less responsive than intended when the input was performed late.\n- Reduced the effectiveness of tackles from behind in certain situations.\n- In some cases, simple physical contact could have resulted in the ball carrier losing the ball more easily than intended.\n- When playing against the CPU AI, it was triggering more Directed Runs than intended.\n- Sometimes, the dribbler could have pushed the ball too far away from themselves when turning.\n- The player could have incorrectly run past the ball when performing a Flair Jog Nutmeg or when Strafe Dribbling.\n- In certain situations, the Player Switch to the pass receiver did not occur.\n- In some cases, teammates could have accidentally dispossessed each other.\n- In Rush matches, players could have gotten stuck on the goal posts in rare situations.\n- Calling for a teammate to come short did not always function as intended when requested on the wings.\n- In some cases, defenders were not correctly positioning themselves when attempting to track runs, resulting in slow backwards runs while facing the ball.\n- Addressed instances of players moving slowly despite inputs requesting them to move quickly or sprint.\n- Improved referee logic when determining foul calls involving Skill Moves in the box.\n- Addressed instances of incorrect player placement during Rush penalties.\n- Addressed instances of incorrect player switching occurring after a blocked pass, during air balls when Secondary Contain was used, or during inaccurate Lob Passes.\n- Players could sometimes take longer than intended to recover after having a kick blocked.\n- In some cases, a long recovery animation could have occurred when the ball was passing through a player’s legs, preventing them from responding to the situation quickly.\n\n### Ultimate Team\n\nAddressed the following issue:\n\n- When using Multi Swap in SBCs, the button callout for navigating to the right did not always function as intended.\n\n### Career Mode\n\nAddressed the following issues:\n\n- The CPU AI goalkeeper could have incorrectly kicked the ball out of play in some cases.\n- Some Tactical Visions featured unintended Tactics and Roles.\n- In Manager Career, Youth Potential was not present on the Youth Development Plan screen.\n- In Manager Career, some manager hairstyles could unintentionally change.\n\n### Clubs\n\nAddressed the following issue:\n\n- Addressed instances of Avatars gaining bypassing height restrictions in some situations.\n\n### General, Audio, and Visual\n\nMade the following changes:\n\n- Updated some kits, clothing, and equipment.\n- Updated 125 star heads which will become visible in-game following a Server Release.\n\nWant to provide us direct feedback about EA SPORTS FC 25? Visit [https://go.ea.com/fc25pf](https://go.ea.com/fc25pf \"‌\") and let us know what you think, it only takes a few minutes.\n\nThanks to those who’ve provided and continue to provide feedback. Throughout the course of the EA SPORTS FC 25 season we'll provide you with more information and updates if and when they become available. Be sure to follow \\@‌EASFCDIRECT on X and to check out the EA SPORTS FC Tracker for the latest news and updates.\n\n- The EA SPORTS FC Team",
+          "id": "6787e94e06a7ce05cd845cc1",
+          "name": "[PC/PS4/PS5/XB1/XBSX|S/Switch] Gameplay Refresh Update",
+          "idShort": 506,
+          "shortLink": "FxyoFSLf"
+        },
+        "old": {
+          "desc": "The Gameplay Refresh update will soon be available for EA SPORTS FC 25, and it’s the most significant mid-season gameplay overhaul we’ve ever made based on your feedback, including:\n\n- Major updates to core gameplay systems like passing, shooting, goalkeeping, and defending.\n- Addressed issues like defenders catching up to dribblers too often.\n- More offensively fluid gameplay enabling you to move the ball easier.\n- Reduced tacklebacks and AI interceptions.\n\nTo learn more about these changes, be sure to [check out our Pitch Notes article.](https://www.ea.com/games/ea-sports-fc/fc-25/news/fc-25-pitch-notes-gameplay-refresh-update \"‌\")\n\n### Gameplay\n\nMade the following changes:\n\n- Significantly reduced effectiveness of first-time Lofted Through Passes.\n- Players are now able to provide quicker support when they are familiar with their Role.\n- Increased intelligence of attacking and supporting runs made by AI teammates.\n- Improved AI teammate attacking run quality when trying to beat the offside line.\n- AI teammates can better hold their runs when near the line and get back onside more quickly.\n- Improved effectiveness of Inside and Advance Forwards.\n- They can move farther up the pitch.\n- They can better evaluate when to run into space or occupy a position.\n- Offensive players can now operate in attacking spaces near other attackers instead of stopping their runs.\n- Attacking players can continue their runs more often, excluding offside scenarios.\n- Increased accuracy and shot speed from inside the box for regular and Finesse shots.\n- Slightly increased accuracy of low difficulty regular and Finesse shots in the box.\n- Slightly increased the impact of Attributes on the accuracy of Finesse shots taken by players without the Finesse Shot or Finesse Shot+ PlayStyles.\n- A series of changes have been made aimed at reducing tacklebacks, which is when the opposing player wins the ball back after the defender makes a tackle.\n  - Defenders with the Anticipate PlayStyle are now more likely to tackle the ball towards a teammate with more space if stopping the ball in place would be disadvantageous.\n  - Improved the quality of touches defenders can make on tackles.\n  - In some cases, the ball carrier could have unintentionally stumbled forward when being tackled, resulting in incorrectly winning the ball back.\n  - In some cases, the defender could have stumbled when running towards the ball after a successful tackle rather than gaining possession.\n- Slightly increased defensive line width for 4 defender formations when the ball is inside of the box, and when the ball is close to the defensive line itself.\n- Slightly decreased defensive line width for 3 defender formations in general.\n- In Competitive Ultimate Team and Online Seasons ruleset matches, AI defenders will mark dribblers less tightly and will be less likely to cover shooting lanes near the edge of the box.\n- Triggered Runs can once again be requested while Controlled Sprint Dribbling.\n- Slightly increased speed of normal Ground Passes.\n- Significantly increased effectiveness of Semi Assisted Through Passes.\n- Slightly increased accuracy of short Ground Passes to open players.\n- Moderately reduced accuracy of headed passes in contested situations.\n- Further decreased how often AI players are able to make successful interceptions.\n- Defenders will focus more on man marking when defending counter attacks starting from corners.\n- The intent of this change is to provide more effective defensive positioning against counter attacks originating from corners.\n- RM/LM players with the Winger Balanced Role can drop deeper when defending.\n- Goalkeepers will now position themselves slightly closer to the near post.\n- The intent of this change is for goalkeepers to more effectively cover near post shots.\n\nAddressed the following issues:\n\n- Addressed instances of players catching up to the ball carrier despite the ball carrier having much higher Pace Attributes.\n- In some cases, the ball carrier could have unintentionally stumbled forward after a successful tackle, resulting in them incorrectly winning the ball back.\n- Goalkeepers could sometimes incorrectly step away from the near post in tight angle shooting situations.\n- Falsebacks could stay central for too long when the team lost possession.\n- They will now immediately look to return to their LB/RB positions.\n- Low powered Ground Passes were sometimes being delivered to farther players than intended.\n- Medium powered passes sometimes focused too much on the player’s aim input instead of the amount of power generated.\n- Addressed some instances where first time passes and shots were less responsive than intended when the input was performed late.\n- Reduced the effectiveness of tackles from behind in certain situations.\n- In some cases, simple physical contact could have resulted in the ball carrier losing the ball more easily than intended.\n- When playing against the CPU AI, it was triggering more Directed Runs than intended.\n- Sometimes, the dribbler could have pushed the ball too far away from themselves when turning.\n- The player could have incorrectly run past the ball when performing a Flair Jog Nutmeg or when Strafe Dribbling.\n- In certain situations, the Player Switch to the pass receiver did not occur.\n- In some cases, teammates could have accidentally dispossessed each other.\n- In Rush matches, players could have gotten stuck on the goal posts in rare situations.\n- Calling for a teammate to come short did not always function as intended when requested on the wings.\n- In some cases, defenders were not correctly positioning themselves when attempting to track runs, resulting in slow backwards runs while facing the ball.\n- Addressed instances of players moving slowly despite inputs requesting them to move quickly or sprint.\n- Improved referee logic when determining foul calls involving Skill Moves in the box.\n- Addressed instances of incorrect player placement during Rush penalties.\n- Addressed instances of incorrect player switching occurring after a blocked pass, during air balls when Secondary Contain was used, or during inaccurate Lob Passes.\n- Players could sometimes take longer than intended to recover after having a kick blocked.\n- In some cases, a long recovery animation could have occurred when the ball was passing through a player’s legs, preventing them from responding to the situation quickly.\n\n### Ultimate Team\n\nAddressed the following issue:\n\n- When using Multi Swap in SBCs, the button callout for navigating to the right did not always function as intended.\n\n### Career Mode\n\nAddressed the following issues:\n\n- The CPU AI goalkeeper could have incorrectly kicked the ball out of play in some cases.\n- Some Tactical Visions featured unintended Tactics and Roles.\n- In Manager Career, Youth Potential was not present on the Youth Development Plan screen.\n- In Manager Career, some manager hairstyles could unintentionally change.\n\n### Clubs\n\nAddressed the following issue:\n\n- Addressed instances of Avatars gaining bypassing height restrictions in some situations.\n\n### General, Audio, and Visual\n\nMade the following changes:\n\n- Updated some kits, clothing, and equipment.\n- Updated 125 star heads which will become visible in-game following a Server Release.\n\nWant to provide us direct feedback about EA SPORTS FC 25? Visit [https://go.ea.com/fc25pf](https://go.ea.com/fc25pf \"‌\") and let us know what you think, it only takes a few minutes.\n\nThanks to those who’ve provided and continue to provide feedback. Throughout the course of the EA SPORTS FC 25 season we'll provide you with more information and updates if and when they become available. Be sure to follow \\@‌EASFCDIRECT on X and to check out the EA SPORTS FC Tracker for the latest news and updates.\n\n- The EA SPORTS FC Team"
+        },
+        "board": {
+          "id": "5f73f7c1b4c1280a7068df5f",
+          "name": "EA SPORTS FC Tracker",
+          "shortLink": "keigLn6R"
+        },
+        "list": {
+          "id": "5f73f7c1b4c1280a7068df61",
+          "name": "Latest News"
+        }
+      },
+      "appCreator": null,
+      "type": "updateCard",
+      "date": "2025-01-15T23:50:37.253Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5d5b1beea30eaf1b648e6ee7",
+        "activityBlocked": false,
+        "avatarHash": "9b8c2ae64bd8604e7257419fe56df466",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5d5b1beea30eaf1b648e6ee7/9b8c2ae64bd8604e7257419fe56df466",
+        "fullName": "Goran",
+        "idMemberReferrer": null,
+        "initials": "G",
+        "nonPublic": {
+
+        },
+        "nonPublicAvailable": true,
+        "username": "goran_drpoplove"
+      }
+    },
+    {
+      "id": "67883d0beef79e24ebe50c41",
+      "idMemberCreator": "5d5b1beea30eaf1b648e6ee7",
+      "data": {
+        "card": {
+          "desc": "The Gameplay Refresh update will soon be available for EA SPORTS FC 25, and it’s the most significant mid-season gameplay overhaul we’ve ever made based on your feedback, including:\n\n- Major updates to core gameplay systems like passing, shooting, goalkeeping, and defending.\n- Addressed issues like defenders catching up to dribblers too often.\n- More offensively fluid gameplay enabling you to move the ball easier.\n- Reduced tacklebacks and AI interceptions.\n\nTo learn more about these changes, be sure to [check out our Pitch Notes article.](https://www.ea.com/games/ea-sports-fc/fc-25/news/fc-25-pitch-notes-gameplay-refresh-update \"‌\")\n\n### Gameplay\n\nMade the following changes:\n\n- Significantly reduced effectiveness of first-time Lofted Through Passes.\n- Players are now able to provide quicker support when they are familiar with their Role.\n- Increased intelligence of attacking and supporting runs made by AI teammates.\n- Improved AI teammate attacking run quality when trying to beat the offside line.\n- AI teammates can better hold their runs when near the line and get back onside more quickly.\n- Improved effectiveness of Inside and Advance Forwards.\n- They can move farther up the pitch.\n- They can better evaluate when to run into space or occupy a position.\n- Offensive players can now operate in attacking spaces near other attackers instead of stopping their runs.\n- Attacking players can continue their runs more often, excluding offside scenarios.\n- Increased accuracy and shot speed from inside the box for regular and Finesse shots.\n- Slightly increased accuracy of low difficulty regular and Finesse shots in the box.\n- Slightly increased the impact of Attributes on the accuracy of Finesse shots taken by players without the Finesse Shot or Finesse Shot+ PlayStyles.\n- A series of changes have been made aimed at reducing tacklebacks, which is when the opposing player wins the ball back after the defender makes a tackle.\n  - Defenders with the Anticipate PlayStyle are now more likely to tackle the ball towards a teammate with more space if stopping the ball in place would be disadvantageous.\n  - Improved the quality of touches defenders can make on tackles.\n  - In some cases, the ball carrier could have unintentionally stumbled forward when being tackled, resulting in incorrectly winning the ball back.\n  - In some cases, the defender could have stumbled when running towards the ball after a successful tackle rather than gaining possession.\n- Slightly increased defensive line width for 4 defender formations when the ball is inside of the box, and when the ball is close to the defensive line itself.\n- Slightly decreased defensive line width for 3 defender formations in general.\n- In Competitive Ultimate Team and Online Seasons ruleset matches, AI defenders will mark dribblers less tightly and will be less likely to cover shooting lanes near the edge of the box.\n- Triggered Runs can once again be requested while Controlled Sprint Dribbling.\n- Slightly increased speed of normal Ground Passes.\n- Significantly increased effectiveness of Semi Assisted Through Passes.\n- Slightly increased accuracy of short Ground Passes to open players.\n- Moderately reduced accuracy of headed passes in contested situations.\n- Further decreased how often AI players are able to make successful interceptions.\n- Defenders will focus more on man marking when defending counter attacks starting from corners.\n- The intent of this change is to provide more effective defensive positioning against counter attacks originating from corners.\n- RM/LM players with the Winger Balanced Role can drop deeper when defending.\n- Goalkeepers will now position themselves slightly closer to the near post.\n- The intent of this change is for goalkeepers to more effectively cover near post shots.\n\nAddressed the following issues:\n\n- Addressed instances of players catching up to the ball carrier despite the ball carrier having much higher Pace Attributes.\n- In some cases, the ball carrier could have unintentionally stumbled forward after a successful tackle, resulting in them incorrectly winning the ball back.\n- Goalkeepers could sometimes incorrectly step away from the near post in tight angle shooting situations.\n- Falsebacks could stay central for too long when the team lost possession.\n- They will now immediately look to return to their LB/RB positions.\n- Low powered Ground Passes were sometimes being delivered to farther players than intended.\n- Medium powered passes sometimes focused too much on the player’s aim input instead of the amount of power generated.\n- Addressed some instances where first time passes and shots were less responsive than intended when the input was performed late.\n- Reduced the effectiveness of tackles from behind in certain situations.\n- In some cases, simple physical contact could have resulted in the ball carrier losing the ball more easily than intended.\n- When playing against the CPU AI, it was triggering more Directed Runs than intended.\n- Sometimes, the dribbler could have pushed the ball too far away from themselves when turning.\n- The player could have incorrectly run past the ball when performing a Flair Jog Nutmeg or when Strafe Dribbling.\n- In certain situations, the Player Switch to the pass receiver did not occur.\n- In some cases, teammates could have accidentally dispossessed each other.\n- In Rush matches, players could have gotten stuck on the goal posts in rare situations.\n- Calling for a teammate to come short did not always function as intended when requested on the wings.\n- In some cases, defenders were not correctly positioning themselves when attempting to track runs, resulting in slow backwards runs while facing the ball.\n- Addressed instances of players moving slowly despite inputs requesting them to move quickly or sprint.\n- Improved referee logic when determining foul calls involving Skill Moves in the box.\n- Addressed instances of incorrect player placement during Rush penalties.\n- Addressed instances of incorrect player switching occurring after a blocked pass, during air balls when Secondary Contain was used, or during inaccurate Lob Passes.\n- Players could sometimes take longer than intended to recover after having a kick blocked.\n- In some cases, a long recovery animation could have occurred when the ball was passing through a player’s legs, preventing them from responding to the situation quickly.\n\n### Ultimate Team\n\nAddressed the following issue:\n\n- When using Multi Swap in SBCs, the button callout for navigating to the right did not always function as intended.\n\n### Career Mode\n\nAddressed the following issues:\n\n- The CPU AI goalkeeper could have incorrectly kicked the ball out of play in some cases.\n- Some Tactical Visions featured unintended Tactics and Roles.\n- In Manager Career, Youth Potential was not present on the Youth Development Plan screen.\n- In Manager Career, some manager hairstyles could unintentionally change.\n\n### Clubs\n\nAddressed the following issue:\n\n- Addressed instances of Avatars gaining bypassing height restrictions in some situations.\n\n### General, Audio, and Visual\n\nMade the following changes:\n\n- Updated some kits, clothing, and equipment.\n- Updated 125 star heads which will become visible in-game following a Server Release.\n\nWant to provide us direct feedback about EA SPORTS FC 25? Visit [https://go.ea.com/fc25pf](https://go.ea.com/fc25pf \"‌\") and let us know what you think, it only takes a few minutes.\n\nThanks to those who’ve provided and continue to provide feedback. Throughout the course of the EA SPORTS FC 25 season we'll provide you with more information and updates if and when they become available. Be sure to follow \\@‌EASFCDIRECT on X and to check out the EA SPORTS FC Tracker for the latest news and updates.\n\n- The EA SPORTS FC Team",
+          "id": "6787e94e06a7ce05cd845cc1",
+          "name": "[PC/PS4/PS5/XB1/XBSX|S/Switch] Gameplay Refresh Update",
+          "idShort": 506,
+          "shortLink": "FxyoFSLf"
+        },
+        "old": {
+          "desc": "The Gameplay Refresh update will soon be available for EA SPORTS FC 25, and it’s the most significant mid-season gameplay overhaul we’ve ever made based on your feedback, including:\n\n- Major updates to core gameplay systems like passing, shooting, goalkeeping, and defending.\n- Addressed issues like defenders catching up to dribblers too often.\n- More offensively fluid gameplay enabling you to move the ball easier.\n- Reduced tacklebacks and AI interceptions.\n\nTo learn more about these changes, be sure to [check out our Pitch Notes article.](https://www.ea.com/games/ea-sports-fc/fc-25/news/fc-25-pitch-notes-gameplay-refresh-update \"‌\")\n\n### Gameplay\n\nMade the following changes:\n\n- Significantly reduced effectiveness of first-time Lofted Through Passes.\n- Players are now able to provide quicker support when they are familiar with their Role.\n- Increased intelligence of attacking and supporting runs made by AI teammates.\n- Improved AI teammate attacking run quality when trying to beat the offside line.\n- AI teammates can better hold their runs when near the line and get back onside more quickly.\n- Improved effectiveness of Inside and Advance Forwards.\n- They can move farther up the pitch.\n- They can better evaluate when to run into space or occupy a position.\n- Offensive players can now operate in attacking spaces near other attackers instead of stopping their runs.\n- Attacking players can continue their runs more often, excluding offside scenarios.\n- Increased accuracy and shot speed from inside the box for regular and Finesse shots.\n- Slightly increased accuracy of low difficulty regular and Finesse shots in the box.\n- Slightly increased the impact of Attributes on the accuracy of Finesse shots taken by players without the Finesse Shot or Finesse Shot+ PlayStyles.\n- A series of changes have been made aimed at reducing tacklebacks, which is when the opposing player wins the ball back after the defender makes a tackle.\n- Defenders with the Anticipate PlayStyle are now more likely to tackle the ball towards a teammate with more space if stopping the ball in place would be disadvantageous.\n- Improved the quality of touches defenders can make on tackles.\n- In some cases, the ball carrier could have unintentionally stumbled forward when being tackled, resulting in incorrectly winning the ball back.\n- In some cases, the defender could have stumbled when running towards the ball after a successful tackle rather than gaining possession.\n- In Competitive Ultimate Team and Online Seasons ruleset matches, AI defenders will mark dribblers less tightly and will be less likely to cover shooting lanes near the edge of the box.\n- Triggered Runs can once again be requested while Controlled Sprint Dribbling.\n- Slightly increased speed of normal Ground Passes.\n- Significantly increased effectiveness of Semi Assisted Through Passes.\n- Slightly increased accuracy of short Ground Passes to open players.\n- Moderately reduced accuracy of headed passes in contested situations.\n- Further decreased how often AI players are able to make successful interceptions.\n- Defenders will focus more on man marking when defending counter attacks starting from corners.\n- The intent of this change is to provide more effective defensive positioning against counter attacks originating from corners.\n- RM/LM players with the Winger Balanced Role can drop deeper when defending.\n- Goalkeepers will now position themselves slightly closer to the near post.\n- The intent of this change is for goalkeepers to more effectively cover near post shots.\n\nAddressed the following issues:\n\n- Addressed instances of players catching up to the ball carrier despite the ball carrier having much higher Pace Attributes.\n- In some cases, the ball carrier could have unintentionally stumbled forward after a successful tackle, resulting in them incorrectly winning the ball back.\n- Goalkeepers could sometimes incorrectly step away from the near post in tight angle shooting situations.\n- Falsebacks could stay central for too long when the team lost possession.\n- They will now immediately look to return to their LB/RB positions.\n- Low powered Ground Passes were sometimes being delivered to farther players than intended.\n- Medium powered passes sometimes focused too much on the player’s aim input instead of the amount of power generated.\n- Addressed some instances where first time passes and shots were less responsive than intended when the input was performed late.\n- Reduced the effectiveness of tackles from behind in certain situations.\n- In some cases, simple physical contact could have resulted in the ball carrier losing the ball more easily than intended.\n- When playing against the CPU AI, it was triggering more Directed Runs than intended.\n- Sometimes, the dribbler could have pushed the ball too far away from themselves when turning.\n- The player could have incorrectly run past the ball when performing a Flair Jog Nutmeg or when Strafe Dribbling.\n- In certain situations, the Player Switch to the pass receiver did not occur.\n- In some cases, teammates could have accidentally dispossessed each other.\n- In Rush matches, players could have gotten stuck on the goal posts in rare situations.\n- Calling for a teammate to come short did not always function as intended when requested on the wings.\n- In some cases, defenders were not correctly positioning themselves when attempting to track runs, resulting in slow backwards runs while facing the ball.\n- Addressed instances of players moving slowly despite inputs requesting them to move quickly or sprint.\n- Improved referee logic when determining foul calls involving Skill Moves in the box.\n- Addressed instances of incorrect player placement during Rush penalties.\n- Addressed instances of incorrect player switching occurring after a blocked pass, during air balls when Secondary Contain was used, or during inaccurate Lob Passes.\n- Players could sometimes take longer than intended to recover after having a kick blocked.\n- In some cases, a long recovery animation could have occurred when the ball was passing through a player’s legs, preventing them from responding to the situation quickly.\n\n### Ultimate Team\n\nAddressed the following issue:\n\n- When using Multi Swap in SBCs, the button callout for navigating to the right did not always function as intended.\n\n### Career Mode\n\nAddressed the following issues:\n\n- The CPU AI goalkeeper could have incorrectly kicked the ball out of play in some cases.\n- Some Tactical Visions featured unintended Tactics and Roles.\n- In Manager Career, Youth Potential was not present on the Youth Development Plan screen.\n- In Manager Career, some manager hairstyles could unintentionally change.\n\n### Clubs\n\nAddressed the following issue:\n\n- Addressed instances of Avatars gaining bypassing height restrictions in some situations.\n\n### General, Audio, and Visual\n\nMade the following changes:\n\n- Updated some kits, clothing, and equipment.\n- Updated 125 star heads which will become visible in-game following a Server Release.\n\nWant to provide us direct feedback about EA SPORTS FC 25? Visit [https://go.ea.com/fc25pf](https://go.ea.com/fc25pf \"‌\") and let us know what you think, it only takes a few minutes.\n\nThanks to those who’ve provided and continue to provide feedback. Throughout the course of the EA SPORTS FC 25 season we'll provide you with more information and updates if and when they become available. Be sure to follow \\@‌EASFCDIRECT on X and to check out the EA SPORTS FC Tracker for the latest news and updates.\n\n- The EA SPORTS FC Team"
+        },
+        "board": {
+          "id": "5f73f7c1b4c1280a7068df5f",
+          "name": "EA SPORTS FC Tracker",
+          "shortLink": "keigLn6R"
+        },
+        "list": {
+          "id": "5f73f7c1b4c1280a7068df61",
+          "name": "Latest News"
+        }
+      },
+      "appCreator": null,
+      "type": "updateCard",
+      "date": "2025-01-15T22:56:11.459Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5d5b1beea30eaf1b648e6ee7",
+        "activityBlocked": false,
+        "avatarHash": "9b8c2ae64bd8604e7257419fe56df466",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5d5b1beea30eaf1b648e6ee7/9b8c2ae64bd8604e7257419fe56df466",
+        "fullName": "Goran",
+        "idMemberReferrer": null,
+        "initials": "G",
+        "nonPublic": {
+
+        },
+        "nonPublicAvailable": true,
+        "username": "goran_drpoplove"
+      }
+    },
+    {
+      "id": "6787e9c8831c4982388251be",
+      "idMemberCreator": "5d5b1beea30eaf1b648e6ee7",
+      "data": {
+        "card": {
+          "pos": 1039.98413085938,
+          "id": "6787e94e06a7ce05cd845cc1",
+          "name": "[PC/PS4/PS5/XB1/XBSX|S/Switch] Gameplay Refresh Update",
+          "idShort": 506,
+          "shortLink": "FxyoFSLf"
+        },
+        "old": {
+          "pos": 17535.982421875
+        },
+        "board": {
+          "id": "5f73f7c1b4c1280a7068df5f",
+          "name": "EA SPORTS FC Tracker",
+          "shortLink": "keigLn6R"
+        },
+        "list": {
+          "id": "5f73f7c1b4c1280a7068df61",
+          "name": "Latest News"
+        }
+      },
+      "appCreator": null,
+      "type": "updateCard",
+      "date": "2025-01-15T17:00:56.398Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5d5b1beea30eaf1b648e6ee7",
+        "activityBlocked": false,
+        "avatarHash": "9b8c2ae64bd8604e7257419fe56df466",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5d5b1beea30eaf1b648e6ee7/9b8c2ae64bd8604e7257419fe56df466",
+        "fullName": "Goran",
+        "idMemberReferrer": null,
+        "initials": "G",
+        "nonPublic": {
+
+        },
+        "nonPublicAvailable": true,
+        "username": "goran_drpoplove"
+      }
+    },
+    {
+      "id": "6787e98494b0588451c032d4",
+      "idMemberCreator": "5d5b1beea30eaf1b648e6ee7",
+      "data": {
+        "attachment": {
+          "id": "6787e98394b0588451c032b8",
+          "name": "Gameplay Refresh.png",
+          "url": "https://trello.com/1/cards/6787e94e06a7ce05cd845cc1/attachments/6787e98394b0588451c032b8/download/Gameplay_Refresh.png",
+          "previewUrl": "https://trello.com/1/cards/6787e94e06a7ce05cd845cc1/attachments/6787e98394b0588451c032b8/previews/preview/download/Gameplay_Refresh.webp",
+          "previewUrl2x": "https://trello.com/1/cards/6787e94e06a7ce05cd845cc1/attachments/6787e98394b0588451c032b8/previews/preview2x/download/Gameplay_Refresh.webp"
+        },
+        "card": {
+          "id": "6787e94e06a7ce05cd845cc1",
+          "name": "[PC/PS4/PS5/XB1/XBSX|S/Switch] Gameplay Refresh Update",
+          "idShort": 506,
+          "shortLink": "FxyoFSLf"
+        },
+        "list": {
+          "id": "5f73f7c1b4c1280a7068df61",
+          "name": "Latest News"
+        },
+        "board": {
+          "id": "5f73f7c1b4c1280a7068df5f",
+          "name": "EA SPORTS FC Tracker",
+          "shortLink": "keigLn6R"
+        }
+      },
+      "appCreator": null,
+      "type": "addAttachmentToCard",
+      "date": "2025-01-15T16:59:48.627Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5d5b1beea30eaf1b648e6ee7",
+        "activityBlocked": false,
+        "avatarHash": "9b8c2ae64bd8604e7257419fe56df466",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5d5b1beea30eaf1b648e6ee7/9b8c2ae64bd8604e7257419fe56df466",
+        "fullName": "Goran",
+        "idMemberReferrer": null,
+        "initials": "G",
+        "nonPublic": {
+
+        },
+        "nonPublicAvailable": true,
+        "username": "goran_drpoplove"
+      }
+    },
+    {
+      "id": "6787e9780247e974b3643c90",
+      "idMemberCreator": "5d5b1beea30eaf1b648e6ee7",
+      "data": {
+        "card": {
+          "desc": "The Gameplay Refresh update will soon be available for EA SPORTS FC 25, and it’s the most significant mid-season gameplay overhaul we’ve ever made based on your feedback, including:\n\n- Major updates to core gameplay systems like passing, shooting, goalkeeping, and defending.\n- Addressed issues like defenders catching up to dribblers too often.\n- More offensively fluid gameplay enabling you to move the ball easier.\n- Reduced tacklebacks and AI interceptions.\n\nTo learn more about these changes, be sure to [check out our Pitch Notes article.](https://www.ea.com/games/ea-sports-fc/fc-25/news/fc-25-pitch-notes-gameplay-refresh-update \"‌\")\n\n### Gameplay\n\nMade the following changes:\n\n- Significantly reduced effectiveness of first-time Lofted Through Passes.\n- Players are now able to provide quicker support when they are familiar with their Role.\n- Increased intelligence of attacking and supporting runs made by AI teammates.\n- Improved AI teammate attacking run quality when trying to beat the offside line.\n- AI teammates can better hold their runs when near the line and get back onside more quickly.\n- Improved effectiveness of Inside and Advance Forwards.\n- They can move farther up the pitch.\n- They can better evaluate when to run into space or occupy a position.\n- Offensive players can now operate in attacking spaces near other attackers instead of stopping their runs.\n- Attacking players can continue their runs more often, excluding offside scenarios.\n- Increased accuracy and shot speed from inside the box for regular and Finesse shots.\n- Slightly increased accuracy of low difficulty regular and Finesse shots in the box.\n- Slightly increased the impact of Attributes on the accuracy of Finesse shots taken by players without the Finesse Shot or Finesse Shot+ PlayStyles.\n- A series of changes have been made aimed at reducing tacklebacks, which is when the opposing player wins the ball back after the defender makes a tackle.\n- Defenders with the Anticipate PlayStyle are now more likely to tackle the ball towards a teammate with more space if stopping the ball in place would be disadvantageous.\n- Improved the quality of touches defenders can make on tackles.\n- In some cases, the ball carrier could have unintentionally stumbled forward when being tackled, resulting in incorrectly winning the ball back.\n- In some cases, the defender could have stumbled when running towards the ball after a successful tackle rather than gaining possession.\n- In Competitive Ultimate Team and Online Seasons ruleset matches, AI defenders will mark dribblers less tightly and will be less likely to cover shooting lanes near the edge of the box.\n- Triggered Runs can once again be requested while Controlled Sprint Dribbling.\n- Slightly increased speed of normal Ground Passes.\n- Significantly increased effectiveness of Semi Assisted Through Passes.\n- Slightly increased accuracy of short Ground Passes to open players.\n- Moderately reduced accuracy of headed passes in contested situations.\n- Further decreased how often AI players are able to make successful interceptions.\n- Defenders will focus more on man marking when defending counter attacks starting from corners.\n- The intent of this change is to provide more effective defensive positioning against counter attacks originating from corners.\n- RM/LM players with the Winger Balanced Role can drop deeper when defending.\n- Goalkeepers will now position themselves slightly closer to the near post.\n- The intent of this change is for goalkeepers to more effectively cover near post shots.\n\nAddressed the following issues:\n\n- Addressed instances of players catching up to the ball carrier despite the ball carrier having much higher Pace Attributes.\n- In some cases, the ball carrier could have unintentionally stumbled forward after a successful tackle, resulting in them incorrectly winning the ball back.\n- Goalkeepers could sometimes incorrectly step away from the near post in tight angle shooting situations.\n- Falsebacks could stay central for too long when the team lost possession.\n- They will now immediately look to return to their LB/RB positions.\n- Low powered Ground Passes were sometimes being delivered to farther players than intended.\n- Medium powered passes sometimes focused too much on the player’s aim input instead of the amount of power generated.\n- Addressed some instances where first time passes and shots were less responsive than intended when the input was performed late.\n- Reduced the effectiveness of tackles from behind in certain situations.\n- In some cases, simple physical contact could have resulted in the ball carrier losing the ball more easily than intended.\n- When playing against the CPU AI, it was triggering more Directed Runs than intended.\n- Sometimes, the dribbler could have pushed the ball too far away from themselves when turning.\n- The player could have incorrectly run past the ball when performing a Flair Jog Nutmeg or when Strafe Dribbling.\n- In certain situations, the Player Switch to the pass receiver did not occur.\n- In some cases, teammates could have accidentally dispossessed each other.\n- In Rush matches, players could have gotten stuck on the goal posts in rare situations.\n- Calling for a teammate to come short did not always function as intended when requested on the wings.\n- In some cases, defenders were not correctly positioning themselves when attempting to track runs, resulting in slow backwards runs while facing the ball.\n- Addressed instances of players moving slowly despite inputs requesting them to move quickly or sprint.\n- Improved referee logic when determining foul calls involving Skill Moves in the box.\n- Addressed instances of incorrect player placement during Rush penalties.\n- Addressed instances of incorrect player switching occurring after a blocked pass, during air balls when Secondary Contain was used, or during inaccurate Lob Passes.\n- Players could sometimes take longer than intended to recover after having a kick blocked.\n- In some cases, a long recovery animation could have occurred when the ball was passing through a player’s legs, preventing them from responding to the situation quickly.\n\n### Ultimate Team\n\nAddressed the following issue:\n\n- When using Multi Swap in SBCs, the button callout for navigating to the right did not always function as intended.\n\n### Career Mode\n\nAddressed the following issues:\n\n- The CPU AI goalkeeper could have incorrectly kicked the ball out of play in some cases.\n- Some Tactical Visions featured unintended Tactics and Roles.\n- In Manager Career, Youth Potential was not present on the Youth Development Plan screen.\n- In Manager Career, some manager hairstyles could unintentionally change.\n\n### Clubs\n\nAddressed the following issue:\n\n- Addressed instances of Avatars gaining bypassing height restrictions in some situations.\n\n### General, Audio, and Visual\n\nMade the following changes:\n\n- Updated some kits, clothing, and equipment.\n- Updated 125 star heads which will become visible in-game following a Server Release.\n\nWant to provide us direct feedback about EA SPORTS FC 25? Visit [https://go.ea.com/fc25pf](https://go.ea.com/fc25pf \"‌\") and let us know what you think, it only takes a few minutes.\n\nThanks to those who’ve provided and continue to provide feedback. Throughout the course of the EA SPORTS FC 25 season we'll provide you with more information and updates if and when they become available. Be sure to follow \\@‌EASFCDIRECT on X and to check out the EA SPORTS FC Tracker for the latest news and updates.\n\n- The EA SPORTS FC Team",
+          "id": "6787e94e06a7ce05cd845cc1",
+          "name": "[PC/PS4/PS5/XB1/XBSX|S/Switch] Gameplay Refresh Update",
+          "idShort": 506,
+          "shortLink": "FxyoFSLf"
+        },
+        "old": {
+          "desc": ""
+        },
+        "board": {
+          "id": "5f73f7c1b4c1280a7068df5f",
+          "name": "EA SPORTS FC Tracker",
+          "shortLink": "keigLn6R"
+        },
+        "list": {
+          "id": "5f73f7c1b4c1280a7068df61",
+          "name": "Latest News"
+        }
+      },
+      "appCreator": null,
+      "type": "updateCard",
+      "date": "2025-01-15T16:59:36.334Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5d5b1beea30eaf1b648e6ee7",
+        "activityBlocked": false,
+        "avatarHash": "9b8c2ae64bd8604e7257419fe56df466",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5d5b1beea30eaf1b648e6ee7/9b8c2ae64bd8604e7257419fe56df466",
+        "fullName": "Goran",
+        "idMemberReferrer": null,
+        "initials": "G",
+        "nonPublic": {
+
+        },
+        "nonPublicAvailable": true,
+        "username": "goran_drpoplove"
+      }
+    },
+    {
+      "id": "6787e94e06a7ce05cd845cfd",
+      "idMemberCreator": "5d5b1beea30eaf1b648e6ee7",
+      "data": {
+        "card": {
+          "id": "6787e94e06a7ce05cd845cc1",
+          "name": "[PC/PS4/PS5/XB1/XBSX|S/Switch] Gameplay Refresh Update",
+          "idShort": 506,
+          "shortLink": "FxyoFSLf"
+        },
+        "list": {
+          "id": "5f73f7c1b4c1280a7068df61",
+          "name": "Latest News"
+        },
+        "board": {
+          "id": "5f73f7c1b4c1280a7068df5f",
+          "name": "EA SPORTS FC Tracker",
+          "shortLink": "keigLn6R"
+        }
+      },
+      "appCreator": null,
+      "type": "createCard",
+      "date": "2025-01-15T16:58:54.206Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5d5b1beea30eaf1b648e6ee7",
+        "activityBlocked": false,
+        "avatarHash": "9b8c2ae64bd8604e7257419fe56df466",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5d5b1beea30eaf1b648e6ee7/9b8c2ae64bd8604e7257419fe56df466",
+        "fullName": "Goran",
+        "idMemberReferrer": null,
+        "initials": "G",
+        "nonPublic": {
+
+        },
+        "nonPublicAvailable": true,
+        "username": "goran_drpoplove"
+      }
+    }
+  ]
+}

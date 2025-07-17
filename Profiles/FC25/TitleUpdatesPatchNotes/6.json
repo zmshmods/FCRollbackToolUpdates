@@ -1,0 +1,908 @@
+{
+    "id": "674f2a3b93dbcadecd052787",
+    "address": null,
+    "badges": {
+        "attachments": 1,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "description": true,
+        "due": null,
+        "dueComplete": false,
+        "lastUpdatedByAi": false,
+        "start": null,
+        "attachmentsByType": {
+            "trello": {
+                "board": 0,
+                "card": 0
+            }
+        },
+        "externalSource": null,
+        "location": false,
+        "votes": 0,
+        "maliciousAttachments": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false
+    },
+    "checkItemStates": [],
+    "closed": false,
+    "coordinates": null,
+    "creationMethod": null,
+    "creationMethodError": null,
+    "creationMethodLoadingStartedAt": null,
+    "dueComplete": false,
+    "dateClosed": null,
+    "dateLastActivity": "2025-01-08T09:46:21.493Z",
+    "dateCompleted": null,
+    "dateViewedByCreator": null,
+    "desc": "The First Frost Update (Title Update #6) is now available for all versions of EA SPORTS FC 25, and it will include:\n\n- New Player Roles and Focuses\n- Shorter Rush matches and new Player Items in Ultimate Team\n- Career Mode and Clubs updates\n- A new winter menu theme.\n\nBe sure to check out our [Pitch Notes article for the First Frost Update](http://x.ea.com/82681 \"‌\"), it dives deeper into some of the changes and additions listed here.\n\n### Gameplay\n\nMade the following changes:\n\n- Added the Classic 10 and Wide Half Player Roles, as well as thirteen Focuses.\n- Slightly increased speed and consistency for the Stop And Turn (While Running) Skill Move when performed by 3 Star Skill Move players.\n- Slightly increased speed of Drag Backs.\n- Improved consistency for the Stop And Turn (While Running), Roulette, Heel To Heel, and Feint and Exit Skill Moves when performed by 2 Star Skill Move players.\n- Slightly increased speed and consistency of Jog Fake Shots when performed by 3 Star Skill Move players and above.\n- Slightly decreased the speed of Jog Body Feints.\n- Attacking players can now come back to an onside position quicker than before.\n- Slightly increased the window of time in which a Directed Run can be requested.\n- A Player Switch can now be requested during passes while in Player Lock.\n\nAddressed the following issues:\n\n- Improved defensive logic for tracking runs during Kick Offs.\n- The attacking team’s center backs could have pushed too far up the pitch in some cases.\n- When requested, Secondary Contain was not always being performed by the player with the Next Player Switch Indicator.\n- Sometimes, center backs could have positioned themselves too far apart while their team had possession.\n- Addressed instances of Player Switching not functioning as intended.\n- Addressed instances of the Player Lock Input triggering an unintended Player Switch.\n  - As a knock on effect that we are investigating, goalkeeper movement can trigger an unintended player switch.\n- Addressed an issue that was preventing high tackling Attribute players from being as effective as intended in specific situations.\n- In some instances, deep free kicks resulted in the ball not being passed to any specific receiver.\n- Improved referee logic when determining offside calls in situations involving the goalkeeper.\n- Improved referee logic when determining foul calls in some tackling situations.\n- In rare situations, attacking players could have crowded the center of the pitch unintentionally.\n- In some cases, defenders could have won the ball from behind the ball carrier easier than intended.\n- Addressed an issue in which a requested tackle could have moved the user controlled player towards the ball before starting the tackle animation.\n- Disabled the D Pad Tactics UI in Kick Off 3v3 matches as it had no impact on gameplay.\n\n### Ultimate Team\n\nMade the following changes:\n\n- Reduced Rush match length from 7 minutes to 5 minutes.\n- The Squad Builder Rarity filter can now be used to search for all available rarities, similar to how search is done in the Transfer Market.\n- Players not actively engaging in a Rush match are now more likely to be kicked from the match.\n\nAddressed the following issues:\n\n- Some Player Items were incorrectly showing as Loan Items when viewing them in the Season Pass.\n- After editing tactics, the positions of Player Items could have changed unintentionally.\n\n### Career Mode\n\nMade the following changes:\n\n- Non academy players can now earn PlayStyles+ as they develop.\n- Goalkeeper Youth Prospects now have a chance to develop two PlayStyles+.\n- Updated Tactical Vision presets to account for new Player Roles and Focuses.\n- Added winter weather to Training Drills which can be enabled or disabled through the Weather Effects setting.\n- Updated list of available ICONs in Player Career.\n\nAddressed the following issues:\n\n- In Live Starting Point, edited injuries and suspensions were not always applied to players correctly.\n- When creating a club in Manager Career, the default squad could have had the same facial expressions.\n- Trophies did not always display correctly.\n- In some cases, players could have earned an unlimited amount of PlayStyles through Training Drills.\n\n### Clubs\n\nMade the following changes:\n\n- Winter weather is now present in Drop-In matches. This is a visual update only and does not impact gameplay.\n- Added the VR Room and Passing Drill facilities.\n\nAddressed the following issues:\n\n- Signature celebrations could not be performed in League Matches.\n- Some PlayStyles would not display when viewing Avatar presets with more than six PlayStyles.\n- When playing as a goalkeeper at the Kenilworth Road stadium, the player's view could have been unintentionally limited.\n\n### General, Audio, and Visual\n\nMade the following changes:\n\n- Updated the menus with a new winter theme.\n- The Tactical and Possession views can now be toggled on the Team Tactic screen.\n- Updated some kits, stadium, celebrations, scenes, messages, button callouts, badges, tifos, gloves, balls, banners, flags, boots, ad boards, hair, tattoos, trophies, audio, UI elements, and commentary.\n\nAddressed the following issues:\n\n- Addressed instances of stability issues occurring during co-op online matches.\n- Some lower rated teams were easier to play against than intended on Legendary Difficulty.\n- Addressed instances of placeholder text, incorrect UI elements, incorrect camera angles, and button conflicts.\n- When playing a tournament in Career Mode or Tournament Mode, the trophies for some leagues were not the intended trophy.\n- Addressed instances of various stability issues that could have occurred.\n\nWant to provide us direct feedback about EA SPORTS FC 25? Visit [https://go.ea.com/fc25pf ](https://go.ea.com/fc25pf \"‌\")and let us know what you think, it only takes a few minutes.\n\n‌\n\nThanks to those who’ve provided and continue to provide feedback. Throughout the course of the EA SPORTS FC 25 season we'll provide you with more information and updates if and when they become available. Be sure to follow \\@‌EASFCDIRECT on X and to check out the EA SPORTS FC Tracker for the latest news and updates.\n\n‌\n\n- The EA SPORTS FC Team",
+    "descData": {
+        "emoji": {}
+    },
+    "due": null,
+    "dueReminder": null,
+    "email": null,
+    "externalSource": null,
+    "idBoard": "5f73f7c1b4c1280a7068df5f",
+    "idChecklists": [],
+    "idLabels": [
+        "5f73f7c1b4c1280a7068dfeb",
+        "66b64c66fe2b82a1a0bd8245"
+    ],
+    "idList": "66e9a32579095e09d37ffc55",
+    "idMemberCreator": "5c48831d226ccb5009c3b830",
+    "idMembers": [],
+    "idMembersVoted": [],
+    "idOrganization": "6137a564cb8f6432c89f8977",
+    "idShort": 497,
+    "idAttachmentCover": "674f2a81804330dafec526a6",
+    "labels": [
+        {
+            "id": "5f73f7c1b4c1280a7068dfeb",
+            "idBoard": "5f73f7c1b4c1280a7068df5f",
+            "idOrganization": "6137a564cb8f6432c89f8977",
+            "name": "Title Update",
+            "nodeId": "ari:cloud:trello::label/workspace/6137a564cb8f6432c89f8977/5f73f7c1b4c1280a7068dfeb",
+            "color": "green",
+            "uses": 181
+        },
+        {
+            "id": "66b64c66fe2b82a1a0bd8245",
+            "idBoard": "5f73f7c1b4c1280a7068df5f",
+            "idOrganization": "6137a564cb8f6432c89f8977",
+            "name": "EA SPORTS FC 25",
+            "nodeId": "ari:cloud:trello::label/workspace/6137a564cb8f6432c89f8977/66b64c66fe2b82a1a0bd8245",
+            "color": "black_dark",
+            "uses": 76
+        }
+    ],
+    "limits": {
+        "attachments": {
+            "perCard": {
+                "status": "ok",
+                "disableAt": 1000,
+                "warnAt": 800
+            }
+        },
+        "checklists": {
+            "perCard": {
+                "status": "ok",
+                "disableAt": 500,
+                "warnAt": 400
+            }
+        },
+        "stickers": {
+            "perCard": {
+                "status": "ok",
+                "disableAt": 70,
+                "warnAt": 56
+            }
+        }
+    },
+    "locationName": null,
+    "manualCoverAttachment": true,
+    "name": "[PC/PS4/PS5/XB1/XBSX|S/SWITCH] First Frost Update (Title Update #6)",
+    "nodeId": "ari:cloud:trello::card/workspace/6137a564cb8f6432c89f8977/674f2a3b93dbcadecd052787",
+    "pinned": false,
+    "pos": 196608,
+    "shortLink": "yEbJLuE5",
+    "shortUrl": "https://trello.com/c/yEbJLuE5",
+    "singleInstrumentationId": null,
+    "sourceEmail": null,
+    "staticMapUrl": null,
+    "start": null,
+    "subscribed": null,
+    "url": "https://trello.com/c/yEbJLuE5/497-pc-ps4-ps5-xb1-xbsxs-switch-first-frost-update-title-update-6",
+    "cover": {
+        "idAttachment": "674f2a81804330dafec526a6",
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "dark",
+        "scaled": [
+            {
+                "id": "674f2a82804330dafec526ad",
+                "_id": "674f2a82804330dafec526ad",
+                "scaled": false,
+                "url": "https://trello.com/1/cards/674f2a3b93dbcadecd052787/attachments/674f2a81804330dafec526a6/previews/674f2a82804330dafec526ad/download/First_Frost_Update.webp",
+                "bytes": 486,
+                "height": 50,
+                "width": 70
+            },
+            {
+                "id": "674f2a82804330dafec526af",
+                "_id": "674f2a82804330dafec526af",
+                "scaled": true,
+                "url": "https://trello.com/1/cards/674f2a3b93dbcadecd052787/attachments/674f2a81804330dafec526a6/previews/674f2a82804330dafec526af/download/First_Frost_Update.webp",
+                "bytes": 1228,
+                "height": 26,
+                "width": 150
+            },
+            {
+                "id": "674f2a82804330dafec526ae",
+                "_id": "674f2a82804330dafec526ae",
+                "scaled": false,
+                "url": "https://trello.com/1/cards/674f2a3b93dbcadecd052787/attachments/674f2a81804330dafec526a6/previews/674f2a82804330dafec526ae/download/First_Frost_Update.webp",
+                "bytes": 2454,
+                "height": 150,
+                "width": 250
+            },
+            {
+                "id": "674f2a82804330dafec526b0",
+                "_id": "674f2a82804330dafec526b0",
+                "scaled": true,
+                "url": "https://trello.com/1/cards/674f2a3b93dbcadecd052787/attachments/674f2a81804330dafec526a6/previews/674f2a82804330dafec526b0/download/First_Frost_Update.webp",
+                "bytes": 3150,
+                "height": 51,
+                "width": 298
+            },
+            {
+                "id": "674f2a82804330dafec526b1",
+                "_id": "674f2a82804330dafec526b1",
+                "scaled": true,
+                "url": "https://trello.com/1/cards/674f2a3b93dbcadecd052787/attachments/674f2a81804330dafec526a6/previews/674f2a82804330dafec526b1/download/First_Frost_Update.webp",
+                "bytes": 9466,
+                "height": 103,
+                "width": 600
+            },
+            {
+                "id": "674f2a82804330dafec526b2",
+                "_id": "674f2a82804330dafec526b2",
+                "scaled": true,
+                "url": "https://trello.com/1/cards/674f2a3b93dbcadecd052787/attachments/674f2a81804330dafec526a6/previews/674f2a82804330dafec526b2/download/First_Frost_Update.webp",
+                "bytes": 29182,
+                "height": 206,
+                "width": 1200
+            },
+            {
+                "id": "674f2a82804330dafec526b3",
+                "_id": "674f2a82804330dafec526b3",
+                "scaled": true,
+                "url": "https://trello.com/1/cards/674f2a3b93dbcadecd052787/attachments/674f2a81804330dafec526a6/previews/674f2a82804330dafec526b3/download/First_Frost_Update.webp",
+                "bytes": 59980,
+                "height": 329,
+                "width": 1920
+            }
+        ],
+        "edgeColor": "#283119",
+        "idPlugin": null
+    },
+    "isTemplate": false,
+    "cardRole": null,
+    "mirrorSourceId": null,
+    "mirrorSourceNodeId": null,
+    "checklists": [],
+    "customFieldItems": [],
+    "members": [],
+    "pluginData": [],
+    "actions": [
+        {
+            "id": "677e496d97a6ccc0d27113bd",
+            "idMemberCreator": "5c48831d226ccb5009c3b830",
+            "data": {
+                "card": {
+                    "pos": 16447.9990234375,
+                    "id": "674f2a3b93dbcadecd052787",
+                    "name": "[PC/PS4/PS5/XB1/XBSX|S/SWITCH] First Frost Update (Title Update #6)",
+                    "idShort": 497,
+                    "shortLink": "yEbJLuE5"
+                },
+                "old": {
+                    "pos": 1279.98046875
+                },
+                "board": {
+                    "id": "5f73f7c1b4c1280a7068df5f",
+                    "name": "EA SPORTS FC Tracker",
+                    "shortLink": "keigLn6R"
+                },
+                "list": {
+                    "id": "66e9a32579095e09d37ffc55",
+                    "name": "Game Updates"
+                }
+            },
+            "appCreator": null,
+            "type": "updateCard",
+            "date": "2025-01-08T09:46:21.538Z",
+            "limits": null,
+            "memberCreator": {
+                "id": "5c48831d226ccb5009c3b830",
+                "activityBlocked": false,
+                "avatarHash": "65b8551dba3917ec1acddcfa24cd1bea",
+                "avatarUrl": "https://trello-members.s3.amazonaws.com/5c48831d226ccb5009c3b830/65b8551dba3917ec1acddcfa24cd1bea",
+                "fullName": "Paul Murphy",
+                "idMemberReferrer": null,
+                "initials": "PM",
+                "nonPublic": {},
+                "nonPublicAvailable": true,
+                "username": "pmurphy_liveops"
+            }
+        },
+        {
+            "id": "677e496c97a6ccc0d2711014",
+            "idMemberCreator": "5c48831d226ccb5009c3b830",
+            "data": {
+                "card": {
+                    "idList": "66e9a32579095e09d37ffc55",
+                    "id": "674f2a3b93dbcadecd052787",
+                    "name": "[PC/PS4/PS5/XB1/XBSX|S/SWITCH] First Frost Update (Title Update #6)",
+                    "idShort": 497,
+                    "shortLink": "yEbJLuE5"
+                },
+                "old": {
+                    "idList": "5f73f7c1b4c1280a7068df61"
+                },
+                "board": {
+                    "id": "5f73f7c1b4c1280a7068df5f",
+                    "name": "EA SPORTS FC Tracker",
+                    "shortLink": "keigLn6R"
+                },
+                "listBefore": {
+                    "id": "5f73f7c1b4c1280a7068df61",
+                    "name": "Latest News"
+                },
+                "listAfter": {
+                    "id": "66e9a32579095e09d37ffc55",
+                    "name": "Game Updates"
+                }
+            },
+            "appCreator": null,
+            "type": "updateCard",
+            "date": "2025-01-08T09:46:20.355Z",
+            "limits": null,
+            "memberCreator": {
+                "id": "5c48831d226ccb5009c3b830",
+                "activityBlocked": false,
+                "avatarHash": "65b8551dba3917ec1acddcfa24cd1bea",
+                "avatarUrl": "https://trello-members.s3.amazonaws.com/5c48831d226ccb5009c3b830/65b8551dba3917ec1acddcfa24cd1bea",
+                "fullName": "Paul Murphy",
+                "idMemberReferrer": null,
+                "initials": "PM",
+                "nonPublic": {},
+                "nonPublicAvailable": true,
+                "username": "pmurphy_liveops"
+            }
+        },
+        {
+            "id": "6758d80dd2f9f1244665d825",
+            "idMemberCreator": "5c490271b0de67896445a8d7",
+            "data": {
+                "card": {
+                    "desc": "The First Frost Update (Title Update #6) is now available for all versions of EA SPORTS FC 25, and it will include:\n\n- New Player Roles and Focuses\n- Shorter Rush matches and new Player Items in Ultimate Team\n- Career Mode and Clubs updates\n- A new winter menu theme.\n\nBe sure to check out our [Pitch Notes article for the First Frost Update](http://x.ea.com/82681 \"‌\"), it dives deeper into some of the changes and additions listed here.\n\n### Gameplay\n\nMade the following changes:\n\n- Added the Classic 10 and Wide Half Player Roles, as well as thirteen Focuses.\n- Slightly increased speed and consistency for the Stop And Turn (While Running) Skill Move when performed by 3 Star Skill Move players.\n- Slightly increased speed of Drag Backs.\n- Improved consistency for the Stop And Turn (While Running), Roulette, Heel To Heel, and Feint and Exit Skill Moves when performed by 2 Star Skill Move players.\n- Slightly increased speed and consistency of Jog Fake Shots when performed by 3 Star Skill Move players and above.\n- Slightly decreased the speed of Jog Body Feints.\n- Attacking players can now come back to an onside position quicker than before.\n- Slightly increased the window of time in which a Directed Run can be requested.\n- A Player Switch can now be requested during passes while in Player Lock.\n\nAddressed the following issues:\n\n- Improved defensive logic for tracking runs during Kick Offs.\n- The attacking team’s center backs could have pushed too far up the pitch in some cases.\n- When requested, Secondary Contain was not always being performed by the player with the Next Player Switch Indicator.\n- Sometimes, center backs could have positioned themselves too far apart while their team had possession.\n- Addressed instances of Player Switching not functioning as intended.\n- Addressed instances of the Player Lock Input triggering an unintended Player Switch.\n  - As a knock on effect that we are investigating, goalkeeper movement can trigger an unintended player switch.\n- Addressed an issue that was preventing high tackling Attribute players from being as effective as intended in specific situations.\n- In some instances, deep free kicks resulted in the ball not being passed to any specific receiver.\n- Improved referee logic when determining offside calls in situations involving the goalkeeper.\n- Improved referee logic when determining foul calls in some tackling situations.\n- In rare situations, attacking players could have crowded the center of the pitch unintentionally.\n- In some cases, defenders could have won the ball from behind the ball carrier easier than intended.\n- Addressed an issue in which a requested tackle could have moved the user controlled player towards the ball before starting the tackle animation.\n- Disabled the D Pad Tactics UI in Kick Off 3v3 matches as it had no impact on gameplay.\n\n### Ultimate Team\n\nMade the following changes:\n\n- Reduced Rush match length from 7 minutes to 5 minutes.\n- The Squad Builder Rarity filter can now be used to search for all available rarities, similar to how search is done in the Transfer Market.\n- Players not actively engaging in a Rush match are now more likely to be kicked from the match.\n\nAddressed the following issues:\n\n- Some Player Items were incorrectly showing as Loan Items when viewing them in the Season Pass.\n- After editing tactics, the positions of Player Items could have changed unintentionally.\n\n### Career Mode\n\nMade the following changes:\n\n- Non academy players can now earn PlayStyles+ as they develop.\n- Goalkeeper Youth Prospects now have a chance to develop two PlayStyles+.\n- Updated Tactical Vision presets to account for new Player Roles and Focuses.\n- Added winter weather to Training Drills which can be enabled or disabled through the Weather Effects setting.\n- Updated list of available ICONs in Player Career.\n\nAddressed the following issues:\n\n- In Live Starting Point, edited injuries and suspensions were not always applied to players correctly.\n- When creating a club in Manager Career, the default squad could have had the same facial expressions.\n- Trophies did not always display correctly.\n- In some cases, players could have earned an unlimited amount of PlayStyles through Training Drills.\n\n### Clubs\n\nMade the following changes:\n\n- Winter weather is now present in Drop-In matches. This is a visual update only and does not impact gameplay.\n- Added the VR Room and Passing Drill facilities.\n\nAddressed the following issues:\n\n- Signature celebrations could not be performed in League Matches.\n- Some PlayStyles would not display when viewing Avatar presets with more than six PlayStyles.\n- When playing as a goalkeeper at the Kenilworth Road stadium, the player's view could have been unintentionally limited.\n\n### General, Audio, and Visual\n\nMade the following changes:\n\n- Updated the menus with a new winter theme.\n- The Tactical and Possession views can now be toggled on the Team Tactic screen.\n- Updated some kits, stadium, celebrations, scenes, messages, button callouts, badges, tifos, gloves, balls, banners, flags, boots, ad boards, hair, tattoos, trophies, audio, UI elements, and commentary.\n\nAddressed the following issues:\n\n- Addressed instances of stability issues occurring during co-op online matches.\n- Some lower rated teams were easier to play against than intended on Legendary Difficulty.\n- Addressed instances of placeholder text, incorrect UI elements, incorrect camera angles, and button conflicts.\n- When playing a tournament in Career Mode or Tournament Mode, the trophies for some leagues were not the intended trophy.\n- Addressed instances of various stability issues that could have occurred.\n\nWant to provide us direct feedback about EA SPORTS FC 25? Visit [https://go.ea.com/fc25pf ](https://go.ea.com/fc25pf \"‌\")and let us know what you think, it only takes a few minutes.\n\n‌\n\nThanks to those who’ve provided and continue to provide feedback. Throughout the course of the EA SPORTS FC 25 season we'll provide you with more information and updates if and when they become available. Be sure to follow \\@‌EASFCDIRECT on X and to check out the EA SPORTS FC Tracker for the latest news and updates.\n\n‌\n\n- The EA SPORTS FC Team",
+                    "id": "674f2a3b93dbcadecd052787",
+                    "name": "[PC/PS4/PS5/XB1/XBSX|S/SWITCH] First Frost Update (Title Update #6)",
+                    "idShort": 497,
+                    "shortLink": "yEbJLuE5"
+                },
+                "old": {
+                    "desc": "The First Frost Update (Title Update #6) is now available for all versions of EA SPORTS FC 25, and it will include:\n\n- New Player Roles and Focuses\n- Shorter Rush matches and new Player Items in Ultimate Team\n- Career Mode and Clubs updates\n- A new winter menu theme.\n\nBe sure to check out our [Pitch Notes article for the First Frost Update](http://x.ea.com/82681 \"‌\"), it dives deeper into some of the changes and additions listed here.\n\n### Gameplay\n\nMade the following changes:\n\n- Added the Classic 10 and Wide Half Player Roles, as well as thirteen Focuses.\n- Slightly increased speed and consistency for the Stop And Turn (While Running) Skill Move when performed by 3 Star Skill Move players.\n- Slightly increased speed of Drag Backs.\n- Improved consistency for the Stop And Turn (While Running), Roulette, Heel To Heel, and Feint and Exit Skill Moves when performed by 2 Star Skill Move players.\n- Slightly increased speed and consistency of Jog Fake Shots when performed by 3 Star Skill Move players and above.\n- Slightly decreased the speed of Jog Body Feints.\n- Attacking players can now come back to an onside position quicker than before.\n- Slightly increased the window of time in which a Directed Run can be requested.\n- A Player Switch can now be requested during passes while in Player Lock.\n\nAddressed the following issues:\n\n- Improved defensive logic for tracking runs during Kick Offs.\n- The attacking team’s center backs could have pushed too far up the pitch in some cases.\n- When requested, Secondary Contain was not always being performed by the player with the Next Player Switch Indicator.\n- Sometimes, center backs could have positioned themselves too far apart while their team had possession.\n- Addressed instances of Player Switching not functioning as intended.\n- Addressed instances of the Player Lock Input triggering an unintended Player Switch.\n  - As a knock on effect that we are investigating, goalkeeper movement can trigger an unintended player switch.\n- Addressed an issue that was preventing high tackling Attribute players from being as effective as intended in specific situations.\n- In some instances, deep free kicks resulted in the ball not being passed to any specific receiver.\n- Improved referee logic when determining offside calls in situations involving the goalkeeper.\n- Improved referee logic when determining foul calls in some tackling situations.\n- In rare situations, attacking players could have crowded the center of the pitch unintentionally.\n- In some cases, defenders could have won the ball from behind the ball carrier easier than intended.\n- Addressed an issue in which a requested tackle could have moved the user controlled player towards the ball before starting the tackle animation.\n- Disabled the D Pad Tactics UI in Kick Off 3v3 matches as it had no impact on gameplay.\n\n### Ultimate Team\n\nMade the following changes:\n\n- Reduced Rush match length from 7 minutes to 5 minutes.\n- The Squad Builder Rarity filter can now be used to search for all available rarities, similar to how search is done in the Transfer Market.\n- Players not actively engaging in a Rush match are now more likely to be kicked from the match.\n\nAddressed the following issues:\n\n- Some Player Items were incorrectly showing as Loan Items when viewing them in the Season Pass.\n- After editing tactics, the positions of Player Items could have changed unintentionally.\n\n### Career Mode\n\nMade the following changes:\n\n- Non academy players can now earn PlayStyes as they develop.\n- Goalkeeper Youth Prospects now have a chance to develop two PlayStyles+.\n- Updated Tactical Vision presets to account for new Player Roles and Focuses.\n- Added winter weather to Training Drills which can be enabled or disabled through the Weather Effects setting.\n- Updated list of available ICONs in Player Career.\n\nAddressed the following issues:\n\n- In Live Starting Point, edited injuries and suspensions were not always applied to players correctly.\n- When creating a club in Manager Career, the default squad could have had the same facial expressions.\n- Trophies did not always display correctly.\n- In some cases, players could have earned an unlimited amount of PlayStyles through Training Drills.\n\n### Clubs\n\nMade the following changes:\n\n- Winter weather is now present in Drop-In matches. This is a visual update only and does not impact gameplay.\n- Added the VR Room and Passing Drill facilities.\n\nAddressed the following issues:\n\n- Signature celebrations could not be performed in League Matches.\n- Some PlayStyles would not display when viewing Avatar presets with more than six PlayStyles.\n- When playing as a goalkeeper at the Kenilworth Road stadium, the player's view could have been unintentionally limited.\n\n### General, Audio, and Visual\n\nMade the following changes:\n\n- Updated the menus with a new winter theme.\n- The Tactical and Possession views can now be toggled on the Team Tactic screen.\n- Updated some kits, stadium, celebrations, scenes, messages, button callouts, badges, tifos, gloves, balls, banners, flags, boots, ad boards, hair, tattoos, trophies, audio, UI elements, and commentary.\n\nAddressed the following issues:\n\n- Addressed instances of stability issues occurring during co-op online matches.\n- Some lower rated teams were easier to play against than intended on Legendary Difficulty.\n- Addressed instances of placeholder text, incorrect UI elements, incorrect camera angles, and button conflicts.\n- When playing a tournament in Career Mode or Tournament Mode, the trophies for some leagues were not the intended trophy.\n- Addressed instances of various stability issues that could have occurred.\n\nWant to provide us direct feedback about EA SPORTS FC 25? Visit [https://go.ea.com/fc25pf ](https://go.ea.com/fc25pf \"‌\")and let us know what you think, it only takes a few minutes.\n\n‌\n\nThanks to those who’ve provided and continue to provide feedback. Throughout the course of the EA SPORTS FC 25 season we'll provide you with more information and updates if and when they become available. Be sure to follow \\@‌EASFCDIRECT on X and to check out the EA SPORTS FC Tracker for the latest news and updates.\n\n‌\n\n- The EA SPORTS FC Team"
+                },
+                "board": {
+                    "id": "5f73f7c1b4c1280a7068df5f",
+                    "name": "EA SPORTS FC Tracker",
+                    "shortLink": "keigLn6R"
+                },
+                "list": {
+                    "id": "5f73f7c1b4c1280a7068df61",
+                    "name": "Latest News"
+                }
+            },
+            "appCreator": null,
+            "type": "updateCard",
+            "date": "2024-12-11T00:08:45.952Z",
+            "limits": null,
+            "memberCreator": {
+                "id": "5c490271b0de67896445a8d7",
+                "activityBlocked": false,
+                "avatarHash": "a5d3c3af7eb4a75c148443674d88ef60",
+                "avatarUrl": "https://trello-members.s3.amazonaws.com/5c490271b0de67896445a8d7/a5d3c3af7eb4a75c148443674d88ef60",
+                "fullName": "TikiTaka",
+                "idMemberReferrer": null,
+                "initials": "T",
+                "nonPublic": {},
+                "nonPublicAvailable": true,
+                "username": "brandontakahara"
+            }
+        },
+        {
+            "id": "675175b3b075ae0b8c68833f",
+            "idMemberCreator": "5c48831d226ccb5009c3b830",
+            "data": {
+                "card": {
+                    "desc": "The First Frost Update (Title Update #6) is now available for all versions of EA SPORTS FC 25, and it will include:\n\n- New Player Roles and Focuses\n- Shorter Rush matches and new Player Items in Ultimate Team\n- Career Mode and Clubs updates\n- A new winter menu theme.\n\nBe sure to check out our [Pitch Notes article for the First Frost Update](http://x.ea.com/82681 \"‌\"), it dives deeper into some of the changes and additions listed here.\n\n### Gameplay\n\nMade the following changes:\n\n- Added the Classic 10 and Wide Half Player Roles, as well as thirteen Focuses.\n- Slightly increased speed and consistency for the Stop And Turn (While Running) Skill Move when performed by 3 Star Skill Move players.\n- Slightly increased speed of Drag Backs.\n- Improved consistency for the Stop And Turn (While Running), Roulette, Heel To Heel, and Feint and Exit Skill Moves when performed by 2 Star Skill Move players.\n- Slightly increased speed and consistency of Jog Fake Shots when performed by 3 Star Skill Move players and above.\n- Slightly decreased the speed of Jog Body Feints.\n- Attacking players can now come back to an onside position quicker than before.\n- Slightly increased the window of time in which a Directed Run can be requested.\n- A Player Switch can now be requested during passes while in Player Lock.\n\nAddressed the following issues:\n\n- Improved defensive logic for tracking runs during Kick Offs.\n- The attacking team’s center backs could have pushed too far up the pitch in some cases.\n- When requested, Secondary Contain was not always being performed by the player with the Next Player Switch Indicator.\n- Sometimes, center backs could have positioned themselves too far apart while their team had possession.\n- Addressed instances of Player Switching not functioning as intended.\n- Addressed instances of the Player Lock Input triggering an unintended Player Switch.\n  - As a knock on effect that we are investigating, goalkeeper movement can trigger an unintended player switch.\n- Addressed an issue that was preventing high tackling Attribute players from being as effective as intended in specific situations.\n- In some instances, deep free kicks resulted in the ball not being passed to any specific receiver.\n- Improved referee logic when determining offside calls in situations involving the goalkeeper.\n- Improved referee logic when determining foul calls in some tackling situations.\n- In rare situations, attacking players could have crowded the center of the pitch unintentionally.\n- In some cases, defenders could have won the ball from behind the ball carrier easier than intended.\n- Addressed an issue in which a requested tackle could have moved the user controlled player towards the ball before starting the tackle animation.\n- Disabled the D Pad Tactics UI in Kick Off 3v3 matches as it had no impact on gameplay.\n\n### Ultimate Team\n\nMade the following changes:\n\n- Reduced Rush match length from 7 minutes to 5 minutes.\n- The Squad Builder Rarity filter can now be used to search for all available rarities, similar to how search is done in the Transfer Market.\n- Players not actively engaging in a Rush match are now more likely to be kicked from the match.\n\nAddressed the following issues:\n\n- Some Player Items were incorrectly showing as Loan Items when viewing them in the Season Pass.\n- After editing tactics, the positions of Player Items could have changed unintentionally.\n\n### Career Mode\n\nMade the following changes:\n\n- Non academy players can now earn PlayStyes as they develop.\n- Goalkeeper Youth Prospects now have a chance to develop two PlayStyles+.\n- Updated Tactical Vision presets to account for new Player Roles and Focuses.\n- Added winter weather to Training Drills which can be enabled or disabled through the Weather Effects setting.\n- Updated list of available ICONs in Player Career.\n\nAddressed the following issues:\n\n- In Live Starting Point, edited injuries and suspensions were not always applied to players correctly.\n- When creating a club in Manager Career, the default squad could have had the same facial expressions.\n- Trophies did not always display correctly.\n- In some cases, players could have earned an unlimited amount of PlayStyles through Training Drills.\n\n### Clubs\n\nMade the following changes:\n\n- Winter weather is now present in Drop-In matches. This is a visual update only and does not impact gameplay.\n- Added the VR Room and Passing Drill facilities.\n\nAddressed the following issues:\n\n- Signature celebrations could not be performed in League Matches.\n- Some PlayStyles would not display when viewing Avatar presets with more than six PlayStyles.\n- When playing as a goalkeeper at the Kenilworth Road stadium, the player's view could have been unintentionally limited.\n\n### General, Audio, and Visual\n\nMade the following changes:\n\n- Updated the menus with a new winter theme.\n- The Tactical and Possession views can now be toggled on the Team Tactic screen.\n- Updated some kits, stadium, celebrations, scenes, messages, button callouts, badges, tifos, gloves, balls, banners, flags, boots, ad boards, hair, tattoos, trophies, audio, UI elements, and commentary.\n\nAddressed the following issues:\n\n- Addressed instances of stability issues occurring during co-op online matches.\n- Some lower rated teams were easier to play against than intended on Legendary Difficulty.\n- Addressed instances of placeholder text, incorrect UI elements, incorrect camera angles, and button conflicts.\n- When playing a tournament in Career Mode or Tournament Mode, the trophies for some leagues were not the intended trophy.\n- Addressed instances of various stability issues that could have occurred.\n\nWant to provide us direct feedback about EA SPORTS FC 25? Visit [https://go.ea.com/fc25pf ](https://go.ea.com/fc25pf \"‌\")and let us know what you think, it only takes a few minutes.\n\n‌\n\nThanks to those who’ve provided and continue to provide feedback. Throughout the course of the EA SPORTS FC 25 season we'll provide you with more information and updates if and when they become available. Be sure to follow \\@‌EASFCDIRECT on X and to check out the EA SPORTS FC Tracker for the latest news and updates.\n\n‌\n\n- The EA SPORTS FC Team",
+                    "id": "674f2a3b93dbcadecd052787",
+                    "name": "[PC/PS4/PS5/XB1/XBSX|S/SWITCH] First Frost Update (Title Update #6)",
+                    "idShort": 497,
+                    "shortLink": "yEbJLuE5"
+                },
+                "old": {
+                    "desc": "The First Frost Update (Title Update #6) is now available for the PC/PS4/PS5/XB1/XBSX|S versions of EA SPORTS FC 25 and will soon be available for the Switch versions of EA SPORTS FC 25, and it will include:\n\n- New Player Roles and Focuses\n- Shorter Rush matches and new Player Items in Ultimate Team\n- Career Mode and Clubs updates\n- A new winter menu theme.\n\nBe sure to check out our [Pitch Notes article for the First Frost Update](http://x.ea.com/82681 \"‌\"), it dives deeper into some of the changes and additions listed here.\n\n### Gameplay\n\nMade the following changes:\n\n- Added the Classic 10 and Wide Half Player Roles, as well as thirteen Focuses.\n- Slightly increased speed and consistency for the Stop And Turn (While Running) Skill Move when performed by 3 Star Skill Move players.\n- Slightly increased speed of Drag Backs.\n- Improved consistency for the Stop And Turn (While Running), Roulette, Heel To Heel, and Feint and Exit Skill Moves when performed by 2 Star Skill Move players.\n- Slightly increased speed and consistency of Jog Fake Shots when performed by 3 Star Skill Move players and above.\n- Slightly decreased the speed of Jog Body Feints.\n- Attacking players can now come back to an onside position quicker than before.\n- Slightly increased the window of time in which a Directed Run can be requested.\n- A Player Switch can now be requested during passes while in Player Lock.\n\nAddressed the following issues:\n\n- Improved defensive logic for tracking runs during Kick Offs.\n- The attacking team’s center backs could have pushed too far up the pitch in some cases.\n- When requested, Secondary Contain was not always being performed by the player with the Next Player Switch Indicator.\n- Sometimes, center backs could have positioned themselves too far apart while their team had possession.\n- Addressed instances of Player Switching not functioning as intended.\n- Addressed instances of the Player Lock Input triggering an unintended Player Switch.\n  - As a knock on effect that we are investigating, goalkeeper movement can trigger an unintended player switch.\n- Addressed an issue that was preventing high tackling Attribute players from being as effective as intended in specific situations.\n- In some instances, deep free kicks resulted in the ball not being passed to any specific receiver.\n- Improved referee logic when determining offside calls in situations involving the goalkeeper.\n- Improved referee logic when determining foul calls in some tackling situations.\n- In rare situations, attacking players could have crowded the center of the pitch unintentionally.\n- In some cases, defenders could have won the ball from behind the ball carrier easier than intended.\n- Addressed an issue in which a requested tackle could have moved the user controlled player towards the ball before starting the tackle animation.\n- Disabled the D Pad Tactics UI in Kick Off 3v3 matches as it had no impact on gameplay.\n\n### Ultimate Team\n\nMade the following changes:\n\n- Reduced Rush match length from 7 minutes to 5 minutes.\n- The Squad Builder Rarity filter can now be used to search for all available rarities, similar to how search is done in the Transfer Market.\n- Players not actively engaging in a Rush match are now more likely to be kicked from the match.\n\nAddressed the following issues:\n\n- Some Player Items were incorrectly showing as Loan Items when viewing them in the Season Pass.\n- After editing tactics, the positions of Player Items could have changed unintentionally.\n\n### Career Mode\n\nMade the following changes:\n\n- Non academy players can now earn PlayStyes as they develop.\n- Goalkeeper Youth Prospects now have a chance to develop two PlayStyles+.\n- Updated Tactical Vision presets to account for new Player Roles and Focuses.\n- Added winter weather to Training Drills which can be enabled or disabled through the Weather Effects setting.\n- Updated list of available ICONs in Player Career.\n\nAddressed the following issues:\n\n- In Live Starting Point, edited injuries and suspensions were not always applied to players correctly.\n- When creating a club in Manager Career, the default squad could have had the same facial expressions.\n- Trophies did not always display correctly.\n- In some cases, players could have earned an unlimited amount of PlayStyles through Training Drills.\n\n### Clubs\n\nMade the following changes:\n\n- Winter weather is now present in Drop-In matches. This is a visual update only and does not impact gameplay.\n- Added the VR Room and Passing Drill facilities.\n\nAddressed the following issues:\n\n- Signature celebrations could not be performed in League Matches.\n- Some PlayStyles would not display when viewing Avatar presets with more than six PlayStyles.\n- When playing as a goalkeeper at the Kenilworth Road stadium, the player's view could have been unintentionally limited.\n\n### General, Audio, and Visual\n\nMade the following changes:\n\n- Updated the menus with a new winter theme.\n- The Tactical and Possession views can now be toggled on the Team Tactic screen.\n- Updated some kits, stadium, celebrations, scenes, messages, button callouts, badges, tifos, gloves, balls, banners, flags, boots, ad boards, hair, tattoos, trophies, audio, UI elements, and commentary.\n\nAddressed the following issues:\n\n- Addressed instances of stability issues occurring during co-op online matches.\n- Some lower rated teams were easier to play against than intended on Legendary Difficulty.\n- Addressed instances of placeholder text, incorrect UI elements, incorrect camera angles, and button conflicts.\n- When playing a tournament in Career Mode or Tournament Mode, the trophies for some leagues were not the intended trophy.\n- Addressed instances of various stability issues that could have occurred.\n\nWant to provide us direct feedback about EA SPORTS FC 25? Visit [https://go.ea.com/fc25pf ](https://go.ea.com/fc25pf \"‌\")and let us know what you think, it only takes a few minutes.\n\n‌\n\nThanks to those who’ve provided and continue to provide feedback. Throughout the course of the EA SPORTS FC 25 season we'll provide you with more information and updates if and when they become available. Be sure to follow \\@‌EASFCDIRECT on X and to check out the EA SPORTS FC Tracker for the latest news and updates.\n\n‌\n\n- The EA SPORTS FC Team"
+                },
+                "board": {
+                    "id": "5f73f7c1b4c1280a7068df5f",
+                    "name": "EA SPORTS FC Tracker",
+                    "shortLink": "keigLn6R"
+                },
+                "list": {
+                    "id": "5f73f7c1b4c1280a7068df61",
+                    "name": "Latest News"
+                }
+            },
+            "appCreator": null,
+            "type": "updateCard",
+            "date": "2024-12-05T09:43:15.663Z",
+            "limits": null,
+            "memberCreator": {
+                "id": "5c48831d226ccb5009c3b830",
+                "activityBlocked": false,
+                "avatarHash": "65b8551dba3917ec1acddcfa24cd1bea",
+                "avatarUrl": "https://trello-members.s3.amazonaws.com/5c48831d226ccb5009c3b830/65b8551dba3917ec1acddcfa24cd1bea",
+                "fullName": "Paul Murphy",
+                "idMemberReferrer": null,
+                "initials": "PM",
+                "nonPublic": {},
+                "nonPublicAvailable": true,
+                "username": "pmurphy_liveops"
+            }
+        },
+        {
+            "id": "67509e2148568a0448e96488",
+            "idMemberCreator": "5c48831d226ccb5009c3b830",
+            "data": {
+                "card": {
+                    "desc": "The First Frost Update (Title Update #6) is now available for the PC/PS4/PS5/XB1/XBSX|S versions of EA SPORTS FC 25 and will soon be available for the Switch versions of EA SPORTS FC 25, and it will include:\n\n- New Player Roles and Focuses\n- Shorter Rush matches and new Player Items in Ultimate Team\n- Career Mode and Clubs updates\n- A new winter menu theme.\n\nBe sure to check out our [Pitch Notes article for the First Frost Update](http://x.ea.com/82681 \"‌\"), it dives deeper into some of the changes and additions listed here.\n\n### Gameplay\n\nMade the following changes:\n\n- Added the Classic 10 and Wide Half Player Roles, as well as thirteen Focuses.\n- Slightly increased speed and consistency for the Stop And Turn (While Running) Skill Move when performed by 3 Star Skill Move players.\n- Slightly increased speed of Drag Backs.\n- Improved consistency for the Stop And Turn (While Running), Roulette, Heel To Heel, and Feint and Exit Skill Moves when performed by 2 Star Skill Move players.\n- Slightly increased speed and consistency of Jog Fake Shots when performed by 3 Star Skill Move players and above.\n- Slightly decreased the speed of Jog Body Feints.\n- Attacking players can now come back to an onside position quicker than before.\n- Slightly increased the window of time in which a Directed Run can be requested.\n- A Player Switch can now be requested during passes while in Player Lock.\n\nAddressed the following issues:\n\n- Improved defensive logic for tracking runs during Kick Offs.\n- The attacking team’s center backs could have pushed too far up the pitch in some cases.\n- When requested, Secondary Contain was not always being performed by the player with the Next Player Switch Indicator.\n- Sometimes, center backs could have positioned themselves too far apart while their team had possession.\n- Addressed instances of Player Switching not functioning as intended.\n- Addressed instances of the Player Lock Input triggering an unintended Player Switch.\n  - As a knock on effect that we are investigating, goalkeeper movement can trigger an unintended player switch.\n- Addressed an issue that was preventing high tackling Attribute players from being as effective as intended in specific situations.\n- In some instances, deep free kicks resulted in the ball not being passed to any specific receiver.\n- Improved referee logic when determining offside calls in situations involving the goalkeeper.\n- Improved referee logic when determining foul calls in some tackling situations.\n- In rare situations, attacking players could have crowded the center of the pitch unintentionally.\n- In some cases, defenders could have won the ball from behind the ball carrier easier than intended.\n- Addressed an issue in which a requested tackle could have moved the user controlled player towards the ball before starting the tackle animation.\n- Disabled the D Pad Tactics UI in Kick Off 3v3 matches as it had no impact on gameplay.\n\n### Ultimate Team\n\nMade the following changes:\n\n- Reduced Rush match length from 7 minutes to 5 minutes.\n- The Squad Builder Rarity filter can now be used to search for all available rarities, similar to how search is done in the Transfer Market.\n- Players not actively engaging in a Rush match are now more likely to be kicked from the match.\n\nAddressed the following issues:\n\n- Some Player Items were incorrectly showing as Loan Items when viewing them in the Season Pass.\n- After editing tactics, the positions of Player Items could have changed unintentionally.\n\n### Career Mode\n\nMade the following changes:\n\n- Non academy players can now earn PlayStyes as they develop.\n- Goalkeeper Youth Prospects now have a chance to develop two PlayStyles+.\n- Updated Tactical Vision presets to account for new Player Roles and Focuses.\n- Added winter weather to Training Drills which can be enabled or disabled through the Weather Effects setting.\n- Updated list of available ICONs in Player Career.\n\nAddressed the following issues:\n\n- In Live Starting Point, edited injuries and suspensions were not always applied to players correctly.\n- When creating a club in Manager Career, the default squad could have had the same facial expressions.\n- Trophies did not always display correctly.\n- In some cases, players could have earned an unlimited amount of PlayStyles through Training Drills.\n\n### Clubs\n\nMade the following changes:\n\n- Winter weather is now present in Drop-In matches. This is a visual update only and does not impact gameplay.\n- Added the VR Room and Passing Drill facilities.\n\nAddressed the following issues:\n\n- Signature celebrations could not be performed in League Matches.\n- Some PlayStyles would not display when viewing Avatar presets with more than six PlayStyles.\n- When playing as a goalkeeper at the Kenilworth Road stadium, the player's view could have been unintentionally limited.\n\n### General, Audio, and Visual\n\nMade the following changes:\n\n- Updated the menus with a new winter theme.\n- The Tactical and Possession views can now be toggled on the Team Tactic screen.\n- Updated some kits, stadium, celebrations, scenes, messages, button callouts, badges, tifos, gloves, balls, banners, flags, boots, ad boards, hair, tattoos, trophies, audio, UI elements, and commentary.\n\nAddressed the following issues:\n\n- Addressed instances of stability issues occurring during co-op online matches.\n- Some lower rated teams were easier to play against than intended on Legendary Difficulty.\n- Addressed instances of placeholder text, incorrect UI elements, incorrect camera angles, and button conflicts.\n- When playing a tournament in Career Mode or Tournament Mode, the trophies for some leagues were not the intended trophy.\n- Addressed instances of various stability issues that could have occurred.\n\nWant to provide us direct feedback about EA SPORTS FC 25? Visit [https://go.ea.com/fc25pf ](https://go.ea.com/fc25pf \"‌\")and let us know what you think, it only takes a few minutes.\n\n‌\n\nThanks to those who’ve provided and continue to provide feedback. Throughout the course of the EA SPORTS FC 25 season we'll provide you with more information and updates if and when they become available. Be sure to follow \\@‌EASFCDIRECT on X and to check out the EA SPORTS FC Tracker for the latest news and updates.\n\n‌\n\n- The EA SPORTS FC Team",
+                    "id": "674f2a3b93dbcadecd052787",
+                    "name": "[PC/PS4/PS5/XB1/XBSX|S/SWITCH] First Frost Update (Title Update #6)",
+                    "idShort": 497,
+                    "shortLink": "yEbJLuE5"
+                },
+                "old": {
+                    "desc": "The First Frost Update (Title Update #6) is now available for all versions of EA SPORTS FC 25, and it will include:\n\n- New Player Roles and Focuses\n- Shorter Rush matches and new Player Items in Ultimate Team\n- Career Mode and Clubs updates\n- A new winter menu theme.\n\nBe sure to check out our [Pitch Notes article for the First Frost Update](http://x.ea.com/82681 \"‌\"), it dives deeper into some of the changes and additions listed here.\n\n### Gameplay\n\nMade the following changes:\n\n- Added the Classic 10 and Wide Half Player Roles, as well as thirteen Focuses.\n- Slightly increased speed and consistency for the Stop And Turn (While Running) Skill Move when performed by 3 Star Skill Move players.\n- Slightly increased speed of Drag Backs.\n- Improved consistency for the Stop And Turn (While Running), Roulette, Heel To Heel, and Feint and Exit Skill Moves when performed by 2 Star Skill Move players.\n- Slightly increased speed and consistency of Jog Fake Shots when performed by 3 Star Skill Move players and above.\n- Slightly decreased the speed of Jog Body Feints.\n- Attacking players can now come back to an onside position quicker than before.\n- Slightly increased the window of time in which a Directed Run can be requested.\n- A Player Switch can now be requested during passes while in Player Lock.\n\nAddressed the following issues:\n\n- Improved defensive logic for tracking runs during Kick Offs.\n- The attacking team’s center backs could have pushed too far up the pitch in some cases.\n- When requested, Secondary Contain was not always being performed by the player with the Next Player Switch Indicator.\n- Sometimes, center backs could have positioned themselves too far apart while their team had possession.\n- Addressed instances of Player Switching not functioning as intended.\n- Addressed instances of the Player Lock Input triggering an unintended Player Switch.\n  - As a knock on effect that we are investigating, goalkeeper movement can trigger an unintended player switch.\n- Addressed an issue that was preventing high tackling Attribute players from being as effective as intended in specific situations.\n- In some instances, deep free kicks resulted in the ball not being passed to any specific receiver.\n- Improved referee logic when determining offside calls in situations involving the goalkeeper.\n- Improved referee logic when determining foul calls in some tackling situations.\n- In rare situations, attacking players could have crowded the center of the pitch unintentionally.\n- In some cases, defenders could have won the ball from behind the ball carrier easier than intended.\n- Addressed an issue in which a requested tackle could have moved the user controlled player towards the ball before starting the tackle animation.\n- Disabled the D Pad Tactics UI in Kick Off 3v3 matches as it had no impact on gameplay.\n\n### Ultimate Team\n\nMade the following changes:\n\n- Reduced Rush match length from 7 minutes to 5 minutes.\n- The Squad Builder Rarity filter can now be used to search for all available rarities, similar to how search is done in the Transfer Market.\n- Players not actively engaging in a Rush match are now more likely to be kicked from the match.\n\nAddressed the following issues:\n\n- Some Player Items were incorrectly showing as Loan Items when viewing them in the Season Pass.\n- After editing tactics, the positions of Player Items could have changed unintentionally.\n\n### Career Mode\n\nMade the following changes:\n\n- Non academy players can now earn PlayStyes as they develop.\n- Goalkeeper Youth Prospects now have a chance to develop two PlayStyles+.\n- Updated Tactical Vision presets to account for new Player Roles and Focuses.\n- Added winter weather to Training Drills which can be enabled or disabled through the Weather Effects setting.\n- Updated list of available ICONs in Player Career.\n\nAddressed the following issues:\n\n- In Live Starting Point, edited injuries and suspensions were not always applied to players correctly.\n- When creating a club in Manager Career, the default squad could have had the same facial expressions.\n- Trophies did not always display correctly.\n- In some cases, players could have earned an unlimited amount of PlayStyles through Training Drills.\n\n### Clubs\n\nMade the following changes:\n\n- Winter weather is now present in Drop-In matches. This is a visual update only and does not impact gameplay.\n- Added the VR Room and Passing Drill facilities.\n\nAddressed the following issues:\n\n- Signature celebrations could not be performed in League Matches.\n- Some PlayStyles would not display when viewing Avatar presets with more than six PlayStyles.\n- When playing as a goalkeeper at the Kenilworth Road stadium, the player's view could have been unintentionally limited.\n\n### General, Audio, and Visual\n\nMade the following changes:\n\n- Updated the menus with a new winter theme.\n- The Tactical and Possession views can now be toggled on the Team Tactic screen.\n- Updated some kits, stadium, celebrations, scenes, messages, button callouts, badges, tifos, gloves, balls, banners, flags, boots, ad boards, hair, tattoos, trophies, audio, UI elements, and commentary.\n\nAddressed the following issues:\n\n- Addressed instances of stability issues occurring during co-op online matches.\n- Some lower rated teams were easier to play against than intended on Legendary Difficulty.\n- Addressed instances of placeholder text, incorrect UI elements, incorrect camera angles, and button conflicts.\n- When playing a tournament in Career Mode or Tournament Mode, the trophies for some leagues were not the intended trophy.\n- Addressed instances of various stability issues that could have occurred.\n\nWant to provide us direct feedback about EA SPORTS FC 25? Visit [https://go.ea.com/fc25pf ](https://go.ea.com/fc25pf \"‌\")and let us know what you think, it only takes a few minutes.\n\n‌\n\nThanks to those who’ve provided and continue to provide feedback. Throughout the course of the EA SPORTS FC 25 season we'll provide you with more information and updates if and when they become available. Be sure to follow \\@‌EASFCDIRECT on X and to check out the EA SPORTS FC Tracker for the latest news and updates.\n\n‌\n\n- The EA SPORTS FC Team"
+                },
+                "board": {
+                    "id": "5f73f7c1b4c1280a7068df5f",
+                    "name": "EA SPORTS FC Tracker",
+                    "shortLink": "keigLn6R"
+                },
+                "list": {
+                    "id": "5f73f7c1b4c1280a7068df61",
+                    "name": "Latest News"
+                }
+            },
+            "appCreator": null,
+            "type": "updateCard",
+            "date": "2024-12-04T18:23:29.498Z",
+            "limits": null,
+            "memberCreator": {
+                "id": "5c48831d226ccb5009c3b830",
+                "activityBlocked": false,
+                "avatarHash": "65b8551dba3917ec1acddcfa24cd1bea",
+                "avatarUrl": "https://trello-members.s3.amazonaws.com/5c48831d226ccb5009c3b830/65b8551dba3917ec1acddcfa24cd1bea",
+                "fullName": "Paul Murphy",
+                "idMemberReferrer": null,
+                "initials": "PM",
+                "nonPublic": {},
+                "nonPublicAvailable": true,
+                "username": "pmurphy_liveops"
+            }
+        },
+        {
+            "id": "6750321c0e1badcf6a7cdcc0",
+            "idMemberCreator": "5c48831d226ccb5009c3b830",
+            "data": {
+                "card": {
+                    "desc": "The First Frost Update (Title Update #6) is now available for all versions of EA SPORTS FC 25, and it will include:\n\n- New Player Roles and Focuses\n- Shorter Rush matches and new Player Items in Ultimate Team\n- Career Mode and Clubs updates\n- A new winter menu theme.\n\nBe sure to check out our [Pitch Notes article for the First Frost Update](http://x.ea.com/82681 \"‌\"), it dives deeper into some of the changes and additions listed here.\n\n### Gameplay\n\nMade the following changes:\n\n- Added the Classic 10 and Wide Half Player Roles, as well as thirteen Focuses.\n- Slightly increased speed and consistency for the Stop And Turn (While Running) Skill Move when performed by 3 Star Skill Move players.\n- Slightly increased speed of Drag Backs.\n- Improved consistency for the Stop And Turn (While Running), Roulette, Heel To Heel, and Feint and Exit Skill Moves when performed by 2 Star Skill Move players.\n- Slightly increased speed and consistency of Jog Fake Shots when performed by 3 Star Skill Move players and above.\n- Slightly decreased the speed of Jog Body Feints.\n- Attacking players can now come back to an onside position quicker than before.\n- Slightly increased the window of time in which a Directed Run can be requested.\n- A Player Switch can now be requested during passes while in Player Lock.\n\nAddressed the following issues:\n\n- Improved defensive logic for tracking runs during Kick Offs.\n- The attacking team’s center backs could have pushed too far up the pitch in some cases.\n- When requested, Secondary Contain was not always being performed by the player with the Next Player Switch Indicator.\n- Sometimes, center backs could have positioned themselves too far apart while their team had possession.\n- Addressed instances of Player Switching not functioning as intended.\n- Addressed instances of the Player Lock Input triggering an unintended Player Switch.\n  - As a knock on effect that we are investigating, goalkeeper movement can trigger an unintended player switch.\n- Addressed an issue that was preventing high tackling Attribute players from being as effective as intended in specific situations.\n- In some instances, deep free kicks resulted in the ball not being passed to any specific receiver.\n- Improved referee logic when determining offside calls in situations involving the goalkeeper.\n- Improved referee logic when determining foul calls in some tackling situations.\n- In rare situations, attacking players could have crowded the center of the pitch unintentionally.\n- In some cases, defenders could have won the ball from behind the ball carrier easier than intended.\n- Addressed an issue in which a requested tackle could have moved the user controlled player towards the ball before starting the tackle animation.\n- Disabled the D Pad Tactics UI in Kick Off 3v3 matches as it had no impact on gameplay.\n\n### Ultimate Team\n\nMade the following changes:\n\n- Reduced Rush match length from 7 minutes to 5 minutes.\n- The Squad Builder Rarity filter can now be used to search for all available rarities, similar to how search is done in the Transfer Market.\n- Players not actively engaging in a Rush match are now more likely to be kicked from the match.\n\nAddressed the following issues:\n\n- Some Player Items were incorrectly showing as Loan Items when viewing them in the Season Pass.\n- After editing tactics, the positions of Player Items could have changed unintentionally.\n\n### Career Mode\n\nMade the following changes:\n\n- Non academy players can now earn PlayStyes as they develop.\n- Goalkeeper Youth Prospects now have a chance to develop two PlayStyles+.\n- Updated Tactical Vision presets to account for new Player Roles and Focuses.\n- Added winter weather to Training Drills which can be enabled or disabled through the Weather Effects setting.\n- Updated list of available ICONs in Player Career.\n\nAddressed the following issues:\n\n- In Live Starting Point, edited injuries and suspensions were not always applied to players correctly.\n- When creating a club in Manager Career, the default squad could have had the same facial expressions.\n- Trophies did not always display correctly.\n- In some cases, players could have earned an unlimited amount of PlayStyles through Training Drills.\n\n### Clubs\n\nMade the following changes:\n\n- Winter weather is now present in Drop-In matches. This is a visual update only and does not impact gameplay.\n- Added the VR Room and Passing Drill facilities.\n\nAddressed the following issues:\n\n- Signature celebrations could not be performed in League Matches.\n- Some PlayStyles would not display when viewing Avatar presets with more than six PlayStyles.\n- When playing as a goalkeeper at the Kenilworth Road stadium, the player's view could have been unintentionally limited.\n\n### General, Audio, and Visual\n\nMade the following changes:\n\n- Updated the menus with a new winter theme.\n- The Tactical and Possession views can now be toggled on the Team Tactic screen.\n- Updated some kits, stadium, celebrations, scenes, messages, button callouts, badges, tifos, gloves, balls, banners, flags, boots, ad boards, hair, tattoos, trophies, audio, UI elements, and commentary.\n\nAddressed the following issues:\n\n- Addressed instances of stability issues occurring during co-op online matches.\n- Some lower rated teams were easier to play against than intended on Legendary Difficulty.\n- Addressed instances of placeholder text, incorrect UI elements, incorrect camera angles, and button conflicts.\n- When playing a tournament in Career Mode or Tournament Mode, the trophies for some leagues were not the intended trophy.\n- Addressed instances of various stability issues that could have occurred.\n\nWant to provide us direct feedback about EA SPORTS FC 25? Visit [https://go.ea.com/fc25pf ](https://go.ea.com/fc25pf \"‌\")and let us know what you think, it only takes a few minutes.\n\n‌\n\nThanks to those who’ve provided and continue to provide feedback. Throughout the course of the EA SPORTS FC 25 season we'll provide you with more information and updates if and when they become available. Be sure to follow \\@‌EASFCDIRECT on X and to check out the EA SPORTS FC Tracker for the latest news and updates.\n\n‌\n\n- The EA SPORTS FC Team",
+                    "id": "674f2a3b93dbcadecd052787",
+                    "name": "[PC/PS4/PS5/XB1/XBSX|S/SWITCH] First Frost Update (Title Update #6)",
+                    "idShort": 497,
+                    "shortLink": "yEbJLuE5"
+                },
+                "old": {
+                    "desc": "The First Frost Update (Title Update #6) will soon be available for all versions of EA SPORTS FC 25, and it will include:\n\n- New Player Roles and Focuses\n- Shorter Rush matches and new Player Items in Ultimate Team\n- Career Mode and Clubs updates\n- A new winter menu theme.\n\n### Gameplay\n\nMade the following changes:\n\n- Added the Classic 10 and Wide Half Player Roles, as well as thirteen Focuses.\n- Slightly increased speed and consistency for the Stop And Turn (While Running) Skill Move when performed by 3 Star Skill Move players.\n- Slightly increased speed of Drag Backs.\n- Improved consistency for the Stop And Turn (While Running), Roulette, Heel To Heel, and Feint and Exit Skill Moves when performed by 2 Star Skill Move players.\n- Slightly increased speed and consistency of Jog Fake Shots when performed by 3 Star Skill Move players and above.\n- Slightly decreased the speed of Jog Body Feints.\n- Attacking players can now come back to an onside position quicker than before.\n- Slightly increased the window of time in which a Directed Run can be requested.\n- A Player Switch can now be requested during passes while in Player Lock.\n\nAddressed the following issues:\n\n- Improved defensive logic for tracking runs during Kick Offs.\n- The attacking team’s center backs could have pushed too far up the pitch in some cases.\n- When requested, Secondary Contain was not always being performed by the player with the Next Player Switch Indicator.\n- Sometimes, center backs could have positioned themselves too far apart while their team had possession.\n- Addressed instances of Player Switching not functioning as intended.\n- Addressed instances of the Player Lock Input triggering an unintended Player Switch.\n  - As a knock on effect that we are investigating, goalkeeper movement can trigger an unintended player switch.\n- Addressed an issue that was preventing high tackling Attribute players from being as effective as intended in specific situations.\n- In some instances, deep free kicks resulted in the ball not being passed to any specific receiver.\n- Improved referee logic when determining offside calls in situations involving the goalkeeper.\n- Improved referee logic when determining foul calls in some tackling situations.\n- In rare situations, attacking players could have crowded the center of the pitch unintentionally.\n- In some cases, defenders could have won the ball from behind the ball carrier easier than intended.\n- Addressed an issue in which a requested tackle could have moved the user controlled player towards the ball before starting the tackle animation.\n- Disabled the D Pad Tactics UI in Kick Off 3v3 matches as it had no impact on gameplay.\n\n### Ultimate Team\n\nMade the following changes:\n\n- Reduced Rush match length from 7 minutes to 5 minutes.\n- The Squad Builder Rarity filter can now be used to search for all available rarities, similar to how search is done in the Transfer Market.\n- Players not actively engaging in a Rush match are now more likely to be kicked from the match.\n\nAddressed the following issues:\n\n- Some Player Items were incorrectly showing as Loan Items when viewing them in the Season Pass.\n- After editing tactics, the positions of Player Items could have changed unintentionally.\n\n### Career Mode\n\nMade the following changes:\n\n- Non academy players can now earn PlayStyes as they develop.\n- Goalkeeper Youth Prospects now have a chance to develop two PlayStyles+.\n- Updated Tactical Vision presets to account for new Player Roles and Focuses.\n- Added winter weather to Training Drills which can be enabled or disabled through the Weather Effects setting.\n- Updated list of available ICONs in Player Career.\n\nAddressed the following issues:\n\n- In Live Starting Point, edited injuries and suspensions were not always applied to players correctly.\n- When creating a club in Manager Career, the default squad could have had the same facial expressions.\n- Trophies did not always display correctly.\n- In some cases, players could have earned an unlimited amount of PlayStyles through Training Drills.\n\n### Clubs\n\nMade the following changes:\n\n- Winter weather is now present in Drop-In matches. This is a visual update only and does not impact gameplay.\n- Added the VR Room and Passing Drill facilities.\n\nAddressed the following issues:\n\n- Signature celebrations could not be performed in League Matches.\n- Some PlayStyles would not display when viewing Avatar presets with more than six PlayStyles.\n- When playing as a goalkeeper at the Kenilworth Road stadium, the player's view could have been unintentionally limited.\n\n### General, Audio, and Visual\n\nMade the following changes:\n\n- Updated the menus with a new winter theme.\n- The Tactical and Possession views can now be toggled on the Team Tactic screen.\n- Updated some kits, stadium, celebrations, scenes, messages, button callouts, badges, tifos, gloves, balls, banners, flags, boots, ad boards, hair, tattoos, trophies, audio, UI elements, and commentary.\n\nAddressed the following issues:\n\n- Addressed instances of stability issues occurring during co-op online matches.\n- Some lower rated teams were easier to play against than intended on Legendary Difficulty.\n- Addressed instances of placeholder text, incorrect UI elements, incorrect camera angles, and button conflicts.\n- When playing a tournament in Career Mode or Tournament Mode, the trophies for some leagues were not the intended trophy.\n- Addressed instances of various stability issues that could have occurred.\n\nWant to provide us direct feedback about EA SPORTS FC 25? Visit [https://go.ea.com/fc25pf ](https://go.ea.com/fc25pf \"‌\")and let us know what you think, it only takes a few minutes.\n\n‌\n\nThanks to those who’ve provided and continue to provide feedback. Throughout the course of the EA SPORTS FC 25 season we'll provide you with more information and updates if and when they become available. Be sure to follow \\@‌EASFCDIRECT on X and to check out the EA SPORTS FC Tracker for the latest news and updates.\n\n‌\n\n- The EA SPORTS FC Team"
+                },
+                "board": {
+                    "id": "5f73f7c1b4c1280a7068df5f",
+                    "name": "EA SPORTS FC Tracker",
+                    "shortLink": "keigLn6R"
+                },
+                "list": {
+                    "id": "5f73f7c1b4c1280a7068df61",
+                    "name": "Latest News"
+                }
+            },
+            "appCreator": null,
+            "type": "updateCard",
+            "date": "2024-12-04T10:42:36.822Z",
+            "limits": null,
+            "memberCreator": {
+                "id": "5c48831d226ccb5009c3b830",
+                "activityBlocked": false,
+                "avatarHash": "65b8551dba3917ec1acddcfa24cd1bea",
+                "avatarUrl": "https://trello-members.s3.amazonaws.com/5c48831d226ccb5009c3b830/65b8551dba3917ec1acddcfa24cd1bea",
+                "fullName": "Paul Murphy",
+                "idMemberReferrer": null,
+                "initials": "PM",
+                "nonPublic": {},
+                "nonPublicAvailable": true,
+                "username": "pmurphy_liveops"
+            }
+        },
+        {
+            "id": "674f7b33de2ded2501faa83e",
+            "idMemberCreator": "5d5b1beea30eaf1b648e6ee7",
+            "data": {
+                "card": {
+                    "desc": "The First Frost Update (Title Update #6) will soon be available for all versions of EA SPORTS FC 25, and it will include:\n\n- New Player Roles and Focuses\n- Shorter Rush matches and new Player Items in Ultimate Team\n- Career Mode and Clubs updates\n- A new winter menu theme.\n\n### Gameplay\n\nMade the following changes:\n\n- Added the Classic 10 and Wide Half Player Roles, as well as thirteen Focuses.\n- Slightly increased speed and consistency for the Stop And Turn (While Running) Skill Move when performed by 3 Star Skill Move players.\n- Slightly increased speed of Drag Backs.\n- Improved consistency for the Stop And Turn (While Running), Roulette, Heel To Heel, and Feint and Exit Skill Moves when performed by 2 Star Skill Move players.\n- Slightly increased speed and consistency of Jog Fake Shots when performed by 3 Star Skill Move players and above.\n- Slightly decreased the speed of Jog Body Feints.\n- Attacking players can now come back to an onside position quicker than before.\n- Slightly increased the window of time in which a Directed Run can be requested.\n- A Player Switch can now be requested during passes while in Player Lock.\n\nAddressed the following issues:\n\n- Improved defensive logic for tracking runs during Kick Offs.\n- The attacking team’s center backs could have pushed too far up the pitch in some cases.\n- When requested, Secondary Contain was not always being performed by the player with the Next Player Switch Indicator.\n- Sometimes, center backs could have positioned themselves too far apart while their team had possession.\n- Addressed instances of Player Switching not functioning as intended.\n- Addressed instances of the Player Lock Input triggering an unintended Player Switch.\n  - As a knock on effect that we are investigating, goalkeeper movement can trigger an unintended player switch.\n- Addressed an issue that was preventing high tackling Attribute players from being as effective as intended in specific situations.\n- In some instances, deep free kicks resulted in the ball not being passed to any specific receiver.\n- Improved referee logic when determining offside calls in situations involving the goalkeeper.\n- Improved referee logic when determining foul calls in some tackling situations.\n- In rare situations, attacking players could have crowded the center of the pitch unintentionally.\n- In some cases, defenders could have won the ball from behind the ball carrier easier than intended.\n- Addressed an issue in which a requested tackle could have moved the user controlled player towards the ball before starting the tackle animation.\n- Disabled the D Pad Tactics UI in Kick Off 3v3 matches as it had no impact on gameplay.\n\n### Ultimate Team\n\nMade the following changes:\n\n- Reduced Rush match length from 7 minutes to 5 minutes.\n- The Squad Builder Rarity filter can now be used to search for all available rarities, similar to how search is done in the Transfer Market.\n- Players not actively engaging in a Rush match are now more likely to be kicked from the match.\n\nAddressed the following issues:\n\n- Some Player Items were incorrectly showing as Loan Items when viewing them in the Season Pass.\n- After editing tactics, the positions of Player Items could have changed unintentionally.\n\n### Career Mode\n\nMade the following changes:\n\n- Non academy players can now earn PlayStyes as they develop.\n- Goalkeeper Youth Prospects now have a chance to develop two PlayStyles+.\n- Updated Tactical Vision presets to account for new Player Roles and Focuses.\n- Added winter weather to Training Drills which can be enabled or disabled through the Weather Effects setting.\n- Updated list of available ICONs in Player Career.\n\nAddressed the following issues:\n\n- In Live Starting Point, edited injuries and suspensions were not always applied to players correctly.\n- When creating a club in Manager Career, the default squad could have had the same facial expressions.\n- Trophies did not always display correctly.\n- In some cases, players could have earned an unlimited amount of PlayStyles through Training Drills.\n\n### Clubs\n\nMade the following changes:\n\n- Winter weather is now present in Drop-In matches. This is a visual update only and does not impact gameplay.\n- Added the VR Room and Passing Drill facilities.\n\nAddressed the following issues:\n\n- Signature celebrations could not be performed in League Matches.\n- Some PlayStyles would not display when viewing Avatar presets with more than six PlayStyles.\n- When playing as a goalkeeper at the Kenilworth Road stadium, the player's view could have been unintentionally limited.\n\n### General, Audio, and Visual\n\nMade the following changes:\n\n- Updated the menus with a new winter theme.\n- The Tactical and Possession views can now be toggled on the Team Tactic screen.\n- Updated some kits, stadium, celebrations, scenes, messages, button callouts, badges, tifos, gloves, balls, banners, flags, boots, ad boards, hair, tattoos, trophies, audio, UI elements, and commentary.\n\nAddressed the following issues:\n\n- Addressed instances of stability issues occurring during co-op online matches.\n- Some lower rated teams were easier to play against than intended on Legendary Difficulty.\n- Addressed instances of placeholder text, incorrect UI elements, incorrect camera angles, and button conflicts.\n- When playing a tournament in Career Mode or Tournament Mode, the trophies for some leagues were not the intended trophy.\n- Addressed instances of various stability issues that could have occurred.\n\nWant to provide us direct feedback about EA SPORTS FC 25? Visit [https://go.ea.com/fc25pf ](https://go.ea.com/fc25pf \"‌\")and let us know what you think, it only takes a few minutes.\n\n‌\n\nThanks to those who’ve provided and continue to provide feedback. Throughout the course of the EA SPORTS FC 25 season we'll provide you with more information and updates if and when they become available. Be sure to follow \\@‌EASFCDIRECT on X and to check out the EA SPORTS FC Tracker for the latest news and updates.\n\n‌\n\n- The EA SPORTS FC Team",
+                    "id": "674f2a3b93dbcadecd052787",
+                    "name": "[PC/PS4/PS5/XB1/XBSX|S/SWITCH] First Frost Update (Title Update #6)",
+                    "idShort": 497,
+                    "shortLink": "yEbJLuE5"
+                },
+                "old": {
+                    "desc": "The First Frost Update (Title Update #6) will soon be available for all versions of EA SPORTS FC 25, and it will include:\n\n‌\n\n- New Player Roles and Focuses\n- Shorter Rush matches and new Player Items in Ultimate Team\n- Career Mode and Clubs updates\n- A new winter menu theme.\n\n### Gameplay\n\nMade the following changes:\n\n- Added the Classic 10 and Wide Half Player Roles, as well as thirteen Focuses.\n- Slightly increased speed and consistency for the Stop And Turn (While Running) Skill Move when performed by 3 Star Skill Move players.\n- Slightly increased speed of Drag Backs.\n- Improved consistency for the Stop And Turn (While Running), Roulette, Heel To Heel, and Feint and Exit Skill Moves when performed by 2 Star Skill Move players.\n- Slightly increased speed and consistency of Jog Fake Shots when performed by 3 Star Skill Move players and above.\n- Slightly decreased the speed of Jog Body Feints.\n- Attacking players can now come back to an onside position quicker than before.\n- Slightly increased the window of time in which a Directed Run can be requested.\n- A Player Switch can now be requested during passes while in Player Lock.\n\nAddressed the following issues:\n\n- Improved defensive logic for tracking runs during Kick Offs.\n- The attacking team’s center backs could have pushed too far up the pitch in some cases.\n- When requested, Secondary Contain was not always being performed by the player with the Next Player Switch Indicator.\n- Sometimes, center backs could have positioned themselves too far apart while their team had possession.\n- Addressed instances of Player Switching not functioning as intended.\n- Addressed instances of the Player Lock Input triggering an unintended Player Switch.\n  - As a knock on effect that we are investigating, goalkeeper movement can trigger an unintended player switch.\n- Addressed an issue that was preventing high tackling Attribute players from being as effective as intended in specific situations.\n- In some instances, deep free kicks resulted in the ball not being passed to any specific receiver.\n- Improved referee logic when determining offside calls in situations involving the goalkeeper.\n- Improved referee logic when determining foul calls in some tackling situations.\n- In rare situations, attacking players could have crowded the center of the pitch unintentionally.\n- In some cases, defenders could have won the ball from behind the ball carrier easier than intended.\n- Addressed an issue in which a requested tackle could have moved the user controlled player towards the ball before starting the tackle animation.\n- Disabled the D Pad Tactics UI in Kick Off 3v3 matches as it had no impact on gameplay.\n\n### Ultimate Team\n\nMade the following changes:\n\n- Reduced Rush match length from 7 minutes to 5 minutes.\n- The Squad Builder Rarity filter can now be used to search for all available rarities, similar to how search is done in the Transfer Market.\n- Players not actively engaging in a Rush match are now more likely to be kicked from the match.\n\nAddressed the following issues:\n\n- Some Player Items were incorrectly showing as Loan Items when viewing them in the Season Pass.\n- After editing tactics, the positions of Player Items could have changed unintentionally.\n\n###\n\n### Career Mode\n\nMade the following changes:\n\n- Non academy players can now earn PlayStyes as they develop.\n- Goalkeeper Youth Prospects now have a chance to develop two PlayStyles+.\n- Updated Tactical Vision presets to account for new Player Roles and Focuses.\n- Added winter weather to Training Drills which can be enabled or disabled through the Weather Effects setting.\n- Updated list of available ICONs in Player Career.\n\nAddressed the following issues:\n\n- In Live Starting Point, edited injuries and suspensions were not always applied to players correctly.\n- When creating a club in Manager Career, the default squad could have had the same facial expressions.\n- Trophies did not always display correctly.\n- In some cases, players could have earned an unlimited amount of PlayStyles through Training Drills.\n\n### Clubs\n\nMade the following changes:\n\n- Winter weather is now present in Drop-In matches. This is a visual update only and does not impact gameplay.\n- Added the VR Room and Passing Drill facilities.\n\nAddressed the following issues:\n\n- Signature celebrations could not be performed in League Matches.\n- Some PlayStyles would not display when viewing Avatar presets with more than six PlayStyles.\n- When playing as a goalkeeper at the Kenilworth Road stadium, the player's view could have been unintentionally limited.\n\n### General, Audio, and Visual\n\nMade the following changes:\n\n- Updated the menus with a new winter theme.\n- The Tactical and Possession views can now be toggled on the Team Tactic screen.\n- Updated some kits, stadium, celebrations, scenes, messages, button callouts, badges, tifos, gloves, balls, banners, flags, boots, ad boards, hair, tattoos, trophies, audio, UI elements, and commentary.\n\nAddressed the following issues:\n\n- Addressed instances of stability issues occurring during co-op online matches.\n- Some lower rated teams were easier to play against than intended on Legendary Difficulty.\n- Addressed instances of placeholder text, incorrect UI elements, incorrect camera angles, and button conflicts.\n- When playing a tournament in Career Mode or Tournament Mode, the trophies for some leagues were not the intended trophy.\n- Addressed instances of various stability issues that could have occurred.\n\nWant to provide us direct feedback about EA SPORTS FC 25? Visit [https://go.ea.com/fc25pf ](https://go.ea.com/fc25pf \"‌\")and let us know what you think, it only takes a few minutes.\n\n‌\n\nThanks to those who’ve provided and continue to provide feedback. Throughout the course of the EA SPORTS FC 25 season we'll provide you with more information and updates if and when they become available. Be sure to follow \\@‌EASFCDIRECT on X and to check out the EA SPORTS FC Tracker for the latest news and updates.\n\n‌\n\n- The EA SPORTS FC Team"
+                },
+                "board": {
+                    "id": "5f73f7c1b4c1280a7068df5f",
+                    "name": "EA SPORTS FC Tracker",
+                    "shortLink": "keigLn6R"
+                },
+                "list": {
+                    "id": "5f73f7c1b4c1280a7068df61",
+                    "name": "Latest News"
+                }
+            },
+            "appCreator": null,
+            "type": "updateCard",
+            "date": "2024-12-03T21:42:11.510Z",
+            "limits": null,
+            "memberCreator": {
+                "id": "5d5b1beea30eaf1b648e6ee7",
+                "activityBlocked": false,
+                "avatarHash": "9b8c2ae64bd8604e7257419fe56df466",
+                "avatarUrl": "https://trello-members.s3.amazonaws.com/5d5b1beea30eaf1b648e6ee7/9b8c2ae64bd8604e7257419fe56df466",
+                "fullName": "Goran",
+                "idMemberReferrer": null,
+                "initials": "G",
+                "nonPublic": {},
+                "nonPublicAvailable": true,
+                "username": "goran_drpoplove"
+            }
+        },
+        {
+            "id": "674f3fe083da14720e058a13",
+            "idMemberCreator": "5d5b1beea30eaf1b648e6ee7",
+            "data": {
+                "card": {
+                    "desc": "The First Frost Update (Title Update #6) will soon be available for all versions of EA SPORTS FC 25, and it will include:\n\n‌\n\n- New Player Roles and Focuses\n- Shorter Rush matches and new Player Items in Ultimate Team\n- Career Mode and Clubs updates\n- A new winter menu theme.\n\n### Gameplay\n\nMade the following changes:\n\n- Added the Classic 10 and Wide Half Player Roles, as well as thirteen Focuses.\n- Slightly increased speed and consistency for the Stop And Turn (While Running) Skill Move when performed by 3 Star Skill Move players.\n- Slightly increased speed of Drag Backs.\n- Improved consistency for the Stop And Turn (While Running), Roulette, Heel To Heel, and Feint and Exit Skill Moves when performed by 2 Star Skill Move players.\n- Slightly increased speed and consistency of Jog Fake Shots when performed by 3 Star Skill Move players and above.\n- Slightly decreased the speed of Jog Body Feints.\n- Attacking players can now come back to an onside position quicker than before.\n- Slightly increased the window of time in which a Directed Run can be requested.\n- A Player Switch can now be requested during passes while in Player Lock.\n\nAddressed the following issues:\n\n- Improved defensive logic for tracking runs during Kick Offs.\n- The attacking team’s center backs could have pushed too far up the pitch in some cases.\n- When requested, Secondary Contain was not always being performed by the player with the Next Player Switch Indicator.\n- Sometimes, center backs could have positioned themselves too far apart while their team had possession.\n- Addressed instances of Player Switching not functioning as intended.\n- Addressed instances of the Player Lock Input triggering an unintended Player Switch.\n  - As a knock on effect that we are investigating, goalkeeper movement can trigger an unintended player switch.\n- Addressed an issue that was preventing high tackling Attribute players from being as effective as intended in specific situations.\n- In some instances, deep free kicks resulted in the ball not being passed to any specific receiver.\n- Improved referee logic when determining offside calls in situations involving the goalkeeper.\n- Improved referee logic when determining foul calls in some tackling situations.\n- In rare situations, attacking players could have crowded the center of the pitch unintentionally.\n- In some cases, defenders could have won the ball from behind the ball carrier easier than intended.\n- Addressed an issue in which a requested tackle could have moved the user controlled player towards the ball before starting the tackle animation.\n- Disabled the D Pad Tactics UI in Kick Off 3v3 matches as it had no impact on gameplay.\n\n### Ultimate Team\n\nMade the following changes:\n\n- Reduced Rush match length from 7 minutes to 5 minutes.\n- The Squad Builder Rarity filter can now be used to search for all available rarities, similar to how search is done in the Transfer Market.\n- Players not actively engaging in a Rush match are now more likely to be kicked from the match.\n\nAddressed the following issues:\n\n- Some Player Items were incorrectly showing as Loan Items when viewing them in the Season Pass.\n- After editing tactics, the positions of Player Items could have changed unintentionally.\n\n###\n\n### Career Mode\n\nMade the following changes:\n\n- Non academy players can now earn PlayStyes as they develop.\n- Goalkeeper Youth Prospects now have a chance to develop two PlayStyles+.\n- Updated Tactical Vision presets to account for new Player Roles and Focuses.\n- Added winter weather to Training Drills which can be enabled or disabled through the Weather Effects setting.\n- Updated list of available ICONs in Player Career.\n\nAddressed the following issues:\n\n- In Live Starting Point, edited injuries and suspensions were not always applied to players correctly.\n- When creating a club in Manager Career, the default squad could have had the same facial expressions.\n- Trophies did not always display correctly.\n- In some cases, players could have earned an unlimited amount of PlayStyles through Training Drills.\n\n### Clubs\n\nMade the following changes:\n\n- Winter weather is now present in Drop-In matches. This is a visual update only and does not impact gameplay.\n- Added the VR Room and Passing Drill facilities.\n\nAddressed the following issues:\n\n- Signature celebrations could not be performed in League Matches.\n- Some PlayStyles would not display when viewing Avatar presets with more than six PlayStyles.\n- When playing as a goalkeeper at the Kenilworth Road stadium, the player's view could have been unintentionally limited.\n\n### General, Audio, and Visual\n\nMade the following changes:\n\n- Updated the menus with a new winter theme.\n- The Tactical and Possession views can now be toggled on the Team Tactic screen.\n- Updated some kits, stadium, celebrations, scenes, messages, button callouts, badges, tifos, gloves, balls, banners, flags, boots, ad boards, hair, tattoos, trophies, audio, UI elements, and commentary.\n\nAddressed the following issues:\n\n- Addressed instances of stability issues occurring during co-op online matches.\n- Some lower rated teams were easier to play against than intended on Legendary Difficulty.\n- Addressed instances of placeholder text, incorrect UI elements, incorrect camera angles, and button conflicts.\n- When playing a tournament in Career Mode or Tournament Mode, the trophies for some leagues were not the intended trophy.\n- Addressed instances of various stability issues that could have occurred.\n\nWant to provide us direct feedback about EA SPORTS FC 25? Visit [https://go.ea.com/fc25pf ](https://go.ea.com/fc25pf \"‌\")and let us know what you think, it only takes a few minutes.\n\n‌\n\nThanks to those who’ve provided and continue to provide feedback. Throughout the course of the EA SPORTS FC 25 season we'll provide you with more information and updates if and when they become available. Be sure to follow \\@‌EASFCDIRECT on X and to check out the EA SPORTS FC Tracker for the latest news and updates.\n\n‌\n\n- The EA SPORTS FC Team",
+                    "id": "674f2a3b93dbcadecd052787",
+                    "name": "[PC/PS4/PS5/XB1/XBSX|S/SWITCH] First Frost Update (Title Update #6)",
+                    "idShort": 497,
+                    "shortLink": "yEbJLuE5"
+                },
+                "old": {
+                    "desc": "The First Frost Update (Title Update #6) will soon be available for all versions of EA SPORTS FC 25, and it will include:\n\n- New Player Roles and Focuses\n- Shorter Rush matches and new Player Items in Ultimate Team\n- Career Mode and Clubs updates\n- A new winter menu theme.\n\n### Gameplay\n\nMade the following changes:\n\n- Added the Classic 10 and Wide Half Player Roles, as well as thirteen Focuses.\n- Slightly increased speed and consistency for the Stop And Turn (While Running) Skill Move when performed by 3 Star Skill Move players.\n- Slightly increased speed of Drag Backs.\n- Improved consistency for the Stop And Turn (While Running), Roulette, Heel To Heel, and Feint and Exit Skill Moves when performed by 2 Star Skill Move players.\n- Slightly increased speed and consistency of Jog Fake Shots when performed by 3 Star Skill Move players and above.\n- Slightly decreased the speed of Jog Body Feints.\n- Attacking players can now come back to an onside position quicker than before.\n- Slightly increased the window of time in which a Directed Run can be requested.\n- A Player Switch can now be requested during passes while in Player Lock.\n\nAddressed the following issues:\n\n- Improved defensive logic for tracking runs during Kick Offs.\n- The attacking team’s center backs could have pushed too far up the pitch in some cases.\n- When requested, Secondary Contain was not always being performed by the player with the Next Player Switch Indicator.\n- Sometimes, center backs could have positioned themselves too far apart while their team had possession.\n- Addressed instances of Player Switching not functioning as intended.\n- Addressed instances of the Player Lock Input triggering an unintended Player Switch.\n  - As a knock on effect that we are investigating, goalkeeper movement can trigger an unintended player switch.\n- Addressed an issue that was preventing high tackling Attribute players from being as effective as intended in specific situations.\n- In some instances, deep free kicks resulted in the ball not being passed to any specific receiver.\n- Improved referee logic when determining offside calls in situations involving the goalkeeper.\n- Improved referee logic when determining foul calls in some tackling situations.\n- In rare situations, attacking players could have crowded the center of the pitch unintentionally.\n- In some cases, defenders could have won the ball from behind the ball carrier easier than intended.\n- Addressed an issue in which a requested tackle could have moved the user controlled player towards the ball before starting the tackle animation.\n- Disabled the D Pad Tactics UI in Kick Off 3v3 matches as it had no impact on gameplay.\n\n### Ultimate Team\n\nMade the following changes:\n\n- Reduced Rush match length from 7 minutes to 5 minutes.\n- The Squad Builder Rarity filter can now be used to search for all available rarities, similar to how search is done in the Transfer Market.\n- Players not actively engaging in a Rush match are now more likely to be kicked from the match.\n\nAddressed the following issues:\n\n- Some Player Items were incorrectly showing as Loan Items when viewing them in the Season Pass.\n- After editing tactics, the positions of Player Items could have changed unintentionally.\n\n###\n\n### Career Mode\n\nMade the following changes:\n\n- Non academy players can now earn PlayStyes as they develop.\n- Goalkeeper Youth Prospects now have a chance to develop two PlayStyles+.\n- Updated Tactical Vision presets to account for new Player Roles and Focuses.\n- Added winter weather to Training Drills which can be enabled or disabled through the Weather Effects setting.\n- Updated list of available ICONs in Player Career.\n\nAddressed the following issues:\n\n- In Live Starting Point, edited injuries and suspensions were not always applied to players correctly.\n- When creating a club in Manager Career, the default squad could have had the same facial expressions.\n- Trophies did not always display correctly.\n- In some cases, players could have earned an unlimited amount of PlayStyles through Training Drills.\n\n### Clubs\n\nMade the following changes:\n\n- Winter weather is now present in Drop-In matches. This is a visual update only and does not impact gameplay.\n- Added the VR Room and Passing Drill facilities.\n\nAddressed the following issues:\n\n- Signature celebrations could not be performed in League Matches.\n- Some PlayStyles would not display when viewing Avatar presets with more than six PlayStyles.\n- When playing as a goalkeeper at the Kenilworth Road stadium, the player's view could have been unintentionally limited.\n\n### General, Audio, and Visual\n\nMade the following changes:\n\n- Updated the menus with a new winter theme.\n- The Tactical and Possession views can now be toggled on the Team Tactic screen.\n- Updated some kits, stadium, celebrations, scenes, messages, button callouts, badges, tifos, gloves, balls, banners, flags, boots, ad boards, hair, tattoos, trophies, audio, UI elements, and commentary.\n\nAddressed the following issues:\n\n- Addressed instances of stability issues occurring during co-op online matches.\n- Some lower rated teams were easier to play against than intended on Legendary Difficulty.\n- Addressed instances of placeholder text, incorrect UI elements, incorrect camera angles, and button conflicts.\n- When playing a tournament in Career Mode or Tournament Mode, the trophies for some leagues were not the intended trophy.\n- Addressed instances of various stability issues that could have occurred.\n\nWant to provide us direct feedback about EA SPORTS FC 25? Visit [https://go.ea.com/fc25pf ](https://go.ea.com/fc25pf \"‌\")and let us know what you think, it only takes a few minutes.\n\n‌\n\nThanks to those who’ve provided and continue to provide feedback. Throughout the course of the EA SPORTS FC 25 season we'll provide you with more information and updates if and when they become available. Be sure to follow \\@‌EASFCDIRECT on X and to check out the EA SPORTS FC Tracker for the latest news and updates.\n\n‌\n\n- The EA SPORTS FC Team"
+                },
+                "board": {
+                    "id": "5f73f7c1b4c1280a7068df5f",
+                    "name": "EA SPORTS FC Tracker",
+                    "shortLink": "keigLn6R"
+                },
+                "list": {
+                    "id": "5f73f7c1b4c1280a7068df61",
+                    "name": "Latest News"
+                }
+            },
+            "appCreator": null,
+            "type": "updateCard",
+            "date": "2024-12-03T17:29:04.963Z",
+            "limits": null,
+            "memberCreator": {
+                "id": "5d5b1beea30eaf1b648e6ee7",
+                "activityBlocked": false,
+                "avatarHash": "9b8c2ae64bd8604e7257419fe56df466",
+                "avatarUrl": "https://trello-members.s3.amazonaws.com/5d5b1beea30eaf1b648e6ee7/9b8c2ae64bd8604e7257419fe56df466",
+                "fullName": "Goran",
+                "idMemberReferrer": null,
+                "initials": "G",
+                "nonPublic": {},
+                "nonPublicAvailable": true,
+                "username": "goran_drpoplove"
+            }
+        },
+        {
+            "id": "674f3da70c5c88d996301b7c",
+            "idMemberCreator": "5d5b1beea30eaf1b648e6ee7",
+            "data": {
+                "card": {
+                    "desc": "The First Frost Update (Title Update #6) will soon be available for all versions of EA SPORTS FC 25, and it will include:\n\n- New Player Roles and Focuses\n- Shorter Rush matches and new Player Items in Ultimate Team\n- Career Mode and Clubs updates\n- A new winter menu theme.\n\n### Gameplay\n\nMade the following changes:\n\n- Added the Classic 10 and Wide Half Player Roles, as well as thirteen Focuses.\n- Slightly increased speed and consistency for the Stop And Turn (While Running) Skill Move when performed by 3 Star Skill Move players.\n- Slightly increased speed of Drag Backs.\n- Improved consistency for the Stop And Turn (While Running), Roulette, Heel To Heel, and Feint and Exit Skill Moves when performed by 2 Star Skill Move players.\n- Slightly increased speed and consistency of Jog Fake Shots when performed by 3 Star Skill Move players and above.\n- Slightly decreased the speed of Jog Body Feints.\n- Attacking players can now come back to an onside position quicker than before.\n- Slightly increased the window of time in which a Directed Run can be requested.\n- A Player Switch can now be requested during passes while in Player Lock.\n\nAddressed the following issues:\n\n- Improved defensive logic for tracking runs during Kick Offs.\n- The attacking team’s center backs could have pushed too far up the pitch in some cases.\n- When requested, Secondary Contain was not always being performed by the player with the Next Player Switch Indicator.\n- Sometimes, center backs could have positioned themselves too far apart while their team had possession.\n- Addressed instances of Player Switching not functioning as intended.\n- Addressed instances of the Player Lock Input triggering an unintended Player Switch.\n  - As a knock on effect that we are investigating, goalkeeper movement can trigger an unintended player switch.\n- Addressed an issue that was preventing high tackling Attribute players from being as effective as intended in specific situations.\n- In some instances, deep free kicks resulted in the ball not being passed to any specific receiver.\n- Improved referee logic when determining offside calls in situations involving the goalkeeper.\n- Improved referee logic when determining foul calls in some tackling situations.\n- In rare situations, attacking players could have crowded the center of the pitch unintentionally.\n- In some cases, defenders could have won the ball from behind the ball carrier easier than intended.\n- Addressed an issue in which a requested tackle could have moved the user controlled player towards the ball before starting the tackle animation.\n- Disabled the D Pad Tactics UI in Kick Off 3v3 matches as it had no impact on gameplay.\n\n### Ultimate Team\n\nMade the following changes:\n\n- Reduced Rush match length from 7 minutes to 5 minutes.\n- The Squad Builder Rarity filter can now be used to search for all available rarities, similar to how search is done in the Transfer Market.\n- Players not actively engaging in a Rush match are now more likely to be kicked from the match.\n\nAddressed the following issues:\n\n- Some Player Items were incorrectly showing as Loan Items when viewing them in the Season Pass.\n- After editing tactics, the positions of Player Items could have changed unintentionally.\n\n###\n\n### Career Mode\n\nMade the following changes:\n\n- Non academy players can now earn PlayStyes as they develop.\n- Goalkeeper Youth Prospects now have a chance to develop two PlayStyles+.\n- Updated Tactical Vision presets to account for new Player Roles and Focuses.\n- Added winter weather to Training Drills which can be enabled or disabled through the Weather Effects setting.\n- Updated list of available ICONs in Player Career.\n\nAddressed the following issues:\n\n- In Live Starting Point, edited injuries and suspensions were not always applied to players correctly.\n- When creating a club in Manager Career, the default squad could have had the same facial expressions.\n- Trophies did not always display correctly.\n- In some cases, players could have earned an unlimited amount of PlayStyles through Training Drills.\n\n### Clubs\n\nMade the following changes:\n\n- Winter weather is now present in Drop-In matches. This is a visual update only and does not impact gameplay.\n- Added the VR Room and Passing Drill facilities.\n\nAddressed the following issues:\n\n- Signature celebrations could not be performed in League Matches.\n- Some PlayStyles would not display when viewing Avatar presets with more than six PlayStyles.\n- When playing as a goalkeeper at the Kenilworth Road stadium, the player's view could have been unintentionally limited.\n\n### General, Audio, and Visual\n\nMade the following changes:\n\n- Updated the menus with a new winter theme.\n- The Tactical and Possession views can now be toggled on the Team Tactic screen.\n- Updated some kits, stadium, celebrations, scenes, messages, button callouts, badges, tifos, gloves, balls, banners, flags, boots, ad boards, hair, tattoos, trophies, audio, UI elements, and commentary.\n\nAddressed the following issues:\n\n- Addressed instances of stability issues occurring during co-op online matches.\n- Some lower rated teams were easier to play against than intended on Legendary Difficulty.\n- Addressed instances of placeholder text, incorrect UI elements, incorrect camera angles, and button conflicts.\n- When playing a tournament in Career Mode or Tournament Mode, the trophies for some leagues were not the intended trophy.\n- Addressed instances of various stability issues that could have occurred.\n\nWant to provide us direct feedback about EA SPORTS FC 25? Visit [https://go.ea.com/fc25pf ](https://go.ea.com/fc25pf \"‌\")and let us know what you think, it only takes a few minutes.\n\n‌\n\nThanks to those who’ve provided and continue to provide feedback. Throughout the course of the EA SPORTS FC 25 season we'll provide you with more information and updates if and when they become available. Be sure to follow \\@‌EASFCDIRECT on X and to check out the EA SPORTS FC Tracker for the latest news and updates.\n\n‌\n\n- The EA SPORTS FC Team",
+                    "id": "674f2a3b93dbcadecd052787",
+                    "name": "[PC/PS4/PS5/XB1/XBSX|S/SWITCH] First Frost Update (Title Update #6)",
+                    "idShort": 497,
+                    "shortLink": "yEbJLuE5"
+                },
+                "old": {
+                    "desc": "The First Frost Update (Title Update #6) will soon be available for all versions of EA SPORTS FC 25, and it will include:\n\n- New Player Roles and Focuses\n- Shorter Rush matches and new Player Items in Ultimate Team\n- Career Mode and Clubs updates\n- A new winter menu theme.\n\n### Gameplay\n\nMade the following changes:\n\n- Added the Classic 10 and Wide Half Player Roles, as well as thirteen Focuses.\n  - To learn more about these Player Roles and Focuses, check out our [First Frost Update Pitch Notes article](http://x.ea.com/82681 \"‌\").\n- Slightly increased speed and consistency for the Stop And Turn (While Running) Skill Move when performed by 3 Star Skill Move players.\n- Slightly increased speed of Drag Backs.\n- Improved consistency for the Stop And Turn (While Running), Roulette, Heel To Heel, and Feint and Exit Skill Moves when performed by 2 Star Skill Move players.\n- Slightly increased speed and consistency of Jog Fake Shots when performed by 3 Star Skill Move players and above.\n- Slightly decreased the speed of Jog Body Feints.\n- Attacking players can now come back to an onside position quicker than before.\n- Slightly increased the window of time in which a Directed Run can be requested.\n- A Player Switch can now be requested during passes while in Player Lock.\n\nAddressed the following issues:\n\n- Improved defensive logic for tracking runs during Kick Offs.\n- The attacking team’s center backs could have pushed too far up the pitch in some cases.\n- When requested, Secondary Contain was not always being performed by the player with the Next Player Switch Indicator.\n- Sometimes, center backs could have positioned themselves too far apart while their team had possession.\n- Addressed instances of Player Switching not functioning as intended.\n- Addressed instances of the Player Lock Input triggering an unintended Player Switch.\n  - As a knock on effect that we are investigating, goalkeeper movement can trigger an unintended player switch.\n- Addressed an issue that was preventing high tackling Attribute players from being as effective as intended in specific situations.\n- In some instances, deep free kicks resulted in the ball not being passed to any specific receiver.\n- Improved referee logic when determining offside calls in situations involving the goalkeeper.\n- Improved referee logic when determining foul calls in some tackling situations.\n- In rare situations, attacking players could have crowded the center of the pitch unintentionally.\n- In some cases, defenders could have won the ball from behind the ball carrier easier than intended.\n- Addressed an issue in which a requested tackle could have moved the user controlled player towards the ball before starting the tackle animation.\n- Disabled the D Pad Tactics UI in Kick Off 3v3 matches as it had no impact on gameplay.\n\n### Ultimate Team\n\nMade the following changes:\n\n- Reduced Rush match length from 7 minutes to 5 minutes.\n- The Squad Builder Rarity filter can now be used to search for all available rarities, similar to how search is done in the Transfer Market.\n- Players not actively engaging in a Rush match are now more likely to be kicked from the match.\n\nAddressed the following issues:\n\n- Some Player Items were incorrectly showing as Loan Items when viewing them in the Season Pass.\n- After editing tactics, the positions of Player Items could have changed unintentionally.\n\n###\n\n### Career Mode\n\nMade the following changes:\n\n- Non academy players can now earn PlayStyes as they develop.\n- Goalkeeper Youth Prospects now have a chance to develop two PlayStyles+.\n- Updated Tactical Vision presets to account for new Player Roles and Focuses.\n- Added winter weather to Training Drills which can be enabled or disabled through the Weather Effects setting.\n- Updated list of available ICONs in Player Career.\n\nAddressed the following issues:\n\n- In Live Starting Point, edited injuries and suspensions were not always applied to players correctly.\n- When creating a club in Manager Career, the default squad could have had the same facial expressions.\n- Trophies did not always display correctly.\n- In some cases, players could have earned an unlimited amount of PlayStyles through Training Drills.\n\n### Clubs\n\nMade the following changes:\n\n- Winter weather is now present in Drop-In matches. This is a visual update only and does not impact gameplay.\n- Added the VR Room and Passing Drill facilities.\n  - To learn more about them, check out our [First Frost Update Pitch Notes article](http://x.ea.com/82681 \"‌\").\n\nAddressed the following issues:\n\n- Signature celebrations could not be performed in League Matches.\n- Some PlayStyles would not display when viewing Avatar presets with more than six PlayStyles.\n- When playing as a goalkeeper at the Kenilworth Road stadium, the player's view could have been unintentionally limited.\n\n### General, Audio, and Visual\n\nMade the following changes:\n\n- Updated the menus with a new winter theme.\n- The Tactical and Possession views can now be toggled on the Team Tactic screen.\n- Updated some kits, stadium, celebrations, scenes, messages, button callouts, badges, tifos, gloves, balls, banners, flags, boots, ad boards, hair, tattoos, trophies, audio, UI elements, and commentary.\n\nAddressed the following issues:\n\n- Addressed instances of stability issues occurring during co-op online matches.\n- Some lower rated teams were easier to play against than intended on Legendary Difficulty.\n- Addressed instances of placeholder text, incorrect UI elements, incorrect camera angles, and button conflicts.\n- When playing a tournament in Career Mode or Tournament Mode, the trophies for some leagues were not the intended trophy.\n- Addressed instances of various stability issues that could have occurred.\n\nWant to provide us direct feedback about EA SPORTS FC 25? Visit [https://go.ea.com/fc25pf ](https://go.ea.com/fc25pf \"‌\")and let us know what you think, it only takes a few minutes.\n\n‌\n\nThanks to those who’ve provided and continue to provide feedback. Throughout the course of the EA SPORTS FC 25 season we'll provide you with more information and updates if and when they become available. Be sure to follow \\@‌EASFCDIRECT on X and to check out the EA SPORTS FC Tracker for the latest news and updates.\n\n‌\n\n- The EA SPORTS FC Team"
+                },
+                "board": {
+                    "id": "5f73f7c1b4c1280a7068df5f",
+                    "name": "EA SPORTS FC Tracker",
+                    "shortLink": "keigLn6R"
+                },
+                "list": {
+                    "id": "5f73f7c1b4c1280a7068df61",
+                    "name": "Latest News"
+                }
+            },
+            "appCreator": null,
+            "type": "updateCard",
+            "date": "2024-12-03T17:19:35.377Z",
+            "limits": null,
+            "memberCreator": {
+                "id": "5d5b1beea30eaf1b648e6ee7",
+                "activityBlocked": false,
+                "avatarHash": "9b8c2ae64bd8604e7257419fe56df466",
+                "avatarUrl": "https://trello-members.s3.amazonaws.com/5d5b1beea30eaf1b648e6ee7/9b8c2ae64bd8604e7257419fe56df466",
+                "fullName": "Goran",
+                "idMemberReferrer": null,
+                "initials": "G",
+                "nonPublic": {},
+                "nonPublicAvailable": true,
+                "username": "goran_drpoplove"
+            }
+        },
+        {
+            "id": "674f3bed430185d17723ec4f",
+            "idMemberCreator": "5d5b1beea30eaf1b648e6ee7",
+            "data": {
+                "card": {
+                    "desc": "The First Frost Update (Title Update #6) will soon be available for all versions of EA SPORTS FC 25, and it will include:\n\n- New Player Roles and Focuses\n- Shorter Rush matches and new Player Items in Ultimate Team\n- Career Mode and Clubs updates\n- A new winter menu theme.\n\n### Gameplay\n\nMade the following changes:\n\n- Added the Classic 10 and Wide Half Player Roles, as well as thirteen Focuses.\n  - To learn more about these Player Roles and Focuses, check out our [First Frost Update Pitch Notes article](http://x.ea.com/82681 \"‌\").\n- Slightly increased speed and consistency for the Stop And Turn (While Running) Skill Move when performed by 3 Star Skill Move players.\n- Slightly increased speed of Drag Backs.\n- Improved consistency for the Stop And Turn (While Running), Roulette, Heel To Heel, and Feint and Exit Skill Moves when performed by 2 Star Skill Move players.\n- Slightly increased speed and consistency of Jog Fake Shots when performed by 3 Star Skill Move players and above.\n- Slightly decreased the speed of Jog Body Feints.\n- Attacking players can now come back to an onside position quicker than before.\n- Slightly increased the window of time in which a Directed Run can be requested.\n- A Player Switch can now be requested during passes while in Player Lock.\n\nAddressed the following issues:\n\n- Improved defensive logic for tracking runs during Kick Offs.\n- The attacking team’s center backs could have pushed too far up the pitch in some cases.\n- When requested, Secondary Contain was not always being performed by the player with the Next Player Switch Indicator.\n- Sometimes, center backs could have positioned themselves too far apart while their team had possession.\n- Addressed instances of Player Switching not functioning as intended.\n- Addressed instances of the Player Lock Input triggering an unintended Player Switch.\n  - As a knock on effect that we are investigating, goalkeeper movement can trigger an unintended player switch.\n- Addressed an issue that was preventing high tackling Attribute players from being as effective as intended in specific situations.\n- In some instances, deep free kicks resulted in the ball not being passed to any specific receiver.\n- Improved referee logic when determining offside calls in situations involving the goalkeeper.\n- Improved referee logic when determining foul calls in some tackling situations.\n- In rare situations, attacking players could have crowded the center of the pitch unintentionally.\n- In some cases, defenders could have won the ball from behind the ball carrier easier than intended.\n- Addressed an issue in which a requested tackle could have moved the user controlled player towards the ball before starting the tackle animation.\n- Disabled the D Pad Tactics UI in Kick Off 3v3 matches as it had no impact on gameplay.\n\n### Ultimate Team\n\nMade the following changes:\n\n- Reduced Rush match length from 7 minutes to 5 minutes.\n- The Squad Builder Rarity filter can now be used to search for all available rarities, similar to how search is done in the Transfer Market.\n- Players not actively engaging in a Rush match are now more likely to be kicked from the match.\n\nAddressed the following issues:\n\n- Some Player Items were incorrectly showing as Loan Items when viewing them in the Season Pass.\n- After editing tactics, the positions of Player Items could have changed unintentionally.\n\n###\n\n### Career Mode\n\nMade the following changes:\n\n- Non academy players can now earn PlayStyes as they develop.\n- Goalkeeper Youth Prospects now have a chance to develop two PlayStyles+.\n- Updated Tactical Vision presets to account for new Player Roles and Focuses.\n- Added winter weather to Training Drills which can be enabled or disabled through the Weather Effects setting.\n- Updated list of available ICONs in Player Career.\n\nAddressed the following issues:\n\n- In Live Starting Point, edited injuries and suspensions were not always applied to players correctly.\n- When creating a club in Manager Career, the default squad could have had the same facial expressions.\n- Trophies did not always display correctly.\n- In some cases, players could have earned an unlimited amount of PlayStyles through Training Drills.\n\n### Clubs\n\nMade the following changes:\n\n- Winter weather is now present in Drop-In matches. This is a visual update only and does not impact gameplay.\n- Added the VR Room and Passing Drill facilities.\n  - To learn more about them, check out our [First Frost Update Pitch Notes article](http://x.ea.com/82681 \"‌\").\n\nAddressed the following issues:\n\n- Signature celebrations could not be performed in League Matches.\n- Some PlayStyles would not display when viewing Avatar presets with more than six PlayStyles.\n- When playing as a goalkeeper at the Kenilworth Road stadium, the player's view could have been unintentionally limited.\n\n### General, Audio, and Visual\n\nMade the following changes:\n\n- Updated the menus with a new winter theme.\n- The Tactical and Possession views can now be toggled on the Team Tactic screen.\n- Updated some kits, stadium, celebrations, scenes, messages, button callouts, badges, tifos, gloves, balls, banners, flags, boots, ad boards, hair, tattoos, trophies, audio, UI elements, and commentary.\n\nAddressed the following issues:\n\n- Addressed instances of stability issues occurring during co-op online matches.\n- Some lower rated teams were easier to play against than intended on Legendary Difficulty.\n- Addressed instances of placeholder text, incorrect UI elements, incorrect camera angles, and button conflicts.\n- When playing a tournament in Career Mode or Tournament Mode, the trophies for some leagues were not the intended trophy.\n- Addressed instances of various stability issues that could have occurred.\n\nWant to provide us direct feedback about EA SPORTS FC 25? Visit [https://go.ea.com/fc25pf ](https://go.ea.com/fc25pf \"‌\")and let us know what you think, it only takes a few minutes.\n\n‌\n\nThanks to those who’ve provided and continue to provide feedback. Throughout the course of the EA SPORTS FC 25 season we'll provide you with more information and updates if and when they become available. Be sure to follow \\@‌EASFCDIRECT on X and to check out the EA SPORTS FC Tracker for the latest news and updates.\n\n‌\n\n- The EA SPORTS FC Team",
+                    "id": "674f2a3b93dbcadecd052787",
+                    "name": "[PC/PS4/PS5/XB1/XBSX|S/SWITCH] First Frost Update (Title Update #6)",
+                    "idShort": 497,
+                    "shortLink": "yEbJLuE5"
+                },
+                "old": {
+                    "desc": "The First Frost Update (Title Update #6) will soon be available for all versions of EA SPORTS FC 25, and it will include:\n\n- New Player Roles and Focuses\n- Shorter Rush matches and new Player Items in Ultimate Team\n- Career Mode and Clubs updates\n- A new winter menu theme\n\nBe sure to check out our [Pitch Notes article for the First Frost Update](http://x.ea.com/82681 \"‌\"), it dives deeper into some of the changes and additions listed here.\n\n### Gameplay\n\nMade the following changes:\n\n- Added the Classic 10 and Wide Half Player Roles, as well as thirteen Focuses.\n  - To learn more about these Player Roles and Focuses, check out our [First Frost Update Pitch Notes article](http://x.ea.com/82681 \"‌\").\n- Slightly increased speed and consistency for the Stop And Turn (While Running) Skill Move when performed by 3 Star Skill Move players.\n- Slightly increased speed of Drag Backs.\n- Improved consistency for the Stop And Turn (While Running), Roulette, Heel To Heel, and Feint and Exit Skill Moves when performed by 2 Star Skill Move players.\n- Slightly increased speed and consistency of Jog Fake Shots when performed by 3 Star Skill Move players and above.\n- Slightly decreased the speed of Jog Body Feints.\n- Attacking players can now come back to an onside position quicker than before.\n- Slightly increased the window of time in which a Directed Run can be requested.\n- A Player Switch can now be requested during passes while in Player Lock.\n\nAddressed the following issues:\n\n- Improved defensive logic for tracking runs during Kick Offs.\n- The attacking team’s center backs could have pushed too far up the pitch in some cases.\n- When requested, Secondary Contain was not always being performed by the player with the Next Player Switch Indicator.\n- Sometimes, center backs could have positioned themselves too far apart while their team had possession.\n- Addressed instances of Player Switching not functioning as intended.\n- Addressed instances of the Player Lock Input triggering an unintended Player Switch.\n  - As a knock on effect that we are investigating, goalkeeper movement can trigger an unintended player switch.\n- Addressed an issue that was preventing high tackling Attribute players from being as effective as intended in specific situations.\n- In some instances, deep free kicks resulted in the ball not being passed to any specific receiver.\n- Improved referee logic when determining offside calls in situations involving the goalkeeper.\n- Improved referee logic when determining foul calls in some tackling situations.\n- In rare situations, attacking players could have crowded the center of the pitch unintentionally.\n- In some cases, defenders could have won the ball from behind the ball carrier easier than intended.\n- Addressed an issue in which a requested tackle could have moved the user controlled player towards the ball before starting the tackle animation.\n- Disabled the D Pad Tactics UI in Kick Off 3v3 matches as it had no impact on gameplay.\n\n### Ultimate Team\n\nMade the following changes:\n\n- Reduced Rush match length from 7 minutes to 5 minutes.\n- The Squad Builder Rarity filter can now be used to search for all available rarities, similar to how search is done in the Transfer Market.\n- Players not actively engaging in a Rush match are now more likely to be kicked from the match.\n\nAddressed the following issues:\n\n- Some Player Items were incorrectly showing as Loan Items when viewing them in the Season Pass.\n- After editing tactics, the positions of Player Items could have changed unintentionally.\n\n###\n\n### Career Mode\n\nMade the following changes:\n\n- Non academy players can now earn PlayStyes as they develop.\n- Goalkeeper Youth Prospects now have a chance to develop two PlayStyles+.\n- Updated Tactical Vision presets to account for new Player Roles and Focuses.\n- Added winter weather to Training Drills which can be enabled or disabled through the Weather Effects setting.\n- Updated list of available ICONs in Player Career.\n\nAddressed the following issues:\n\n- In Live Starting Point, edited injuries and suspensions were not always applied to players correctly.\n- When creating a club in Manager Career, the default squad could have had the same facial expressions.\n- Trophies did not always display correctly.\n- In some cases, players could have earned an unlimited amount of PlayStyles through Training Drills.\n\n### Clubs\n\nMade the following changes:\n\n- Winter weather is now present in Drop-In matches. This is a visual update only and does not impact gameplay.\n- Added the VR Room and Passing Drill facilities.\n  - To learn more about them, check out our [First Frost Update Pitch Notes article](http://x.ea.com/82681 \"‌\").\n\nAddressed the following issues:\n\n- Signature celebrations could not be performed in League Matches.\n- Some PlayStyles would not display when viewing Avatar presets with more than six PlayStyles.\n- When playing as a goalkeeper at the Kenilworth Road stadium, the player's view could have been unintentionally limited.\n\n### General, Audio, and Visual\n\nMade the following changes:\n\n- Updated the menus with a new winter theme.\n- The Tactical and Possession views can now be toggled on the Team Tactic screen.\n- Updated some kits, stadium, celebrations, scenes, messages, button callouts, badges, tifos, gloves, balls, banners, flags, boots, ad boards, hair, tattoos, trophies, audio, UI elements, and commentary.\n\nAddressed the following issues:\n\n- Addressed instances of stability issues occurring during co-op online matches.\n- Some lower rated teams were easier to play against than intended on Legendary Difficulty.\n- Addressed instances of placeholder text, incorrect UI elements, incorrect camera angles, and button conflicts.\n- When playing a tournament in Career Mode or Tournament Mode, the trophies for some leagues were not the intended trophy.\n- Addressed instances of various stability issues that could have occurred.\n\nWant to provide us direct feedback about EA SPORTS FC 25? Visit [https://go.ea.com/fc25pf ](https://go.ea.com/fc25pf \"‌\")and let us know what you think, it only takes a few minutes.\n\n‌\n\nThanks to those who’ve provided and continue to provide feedback. Throughout the course of the EA SPORTS FC 25 season we'll provide you with more information and updates if and when they become available. Be sure to follow \\@‌EASFCDIRECT on X and to check out the EA SPORTS FC Tracker for the latest news and updates.\n\n‌\n\n- The EA SPORTS FC Team"
+                },
+                "board": {
+                    "id": "5f73f7c1b4c1280a7068df5f",
+                    "name": "EA SPORTS FC Tracker",
+                    "shortLink": "keigLn6R"
+                },
+                "list": {
+                    "id": "5f73f7c1b4c1280a7068df61",
+                    "name": "Latest News"
+                }
+            },
+            "appCreator": null,
+            "type": "updateCard",
+            "date": "2024-12-03T17:12:13.414Z",
+            "limits": null,
+            "memberCreator": {
+                "id": "5d5b1beea30eaf1b648e6ee7",
+                "activityBlocked": false,
+                "avatarHash": "9b8c2ae64bd8604e7257419fe56df466",
+                "avatarUrl": "https://trello-members.s3.amazonaws.com/5d5b1beea30eaf1b648e6ee7/9b8c2ae64bd8604e7257419fe56df466",
+                "fullName": "Goran",
+                "idMemberReferrer": null,
+                "initials": "G",
+                "nonPublic": {},
+                "nonPublicAvailable": true,
+                "username": "goran_drpoplove"
+            }
+        },
+        {
+            "id": "674f2ab45b4a3aafc0c2d360",
+            "idMemberCreator": "5c48831d226ccb5009c3b830",
+            "data": {
+                "card": {
+                    "pos": 1279.98046875,
+                    "id": "674f2a3b93dbcadecd052787",
+                    "name": "[PC/PS4/PS5/XB1/XBSX|S/SWITCH] First Frost Update (Title Update #6)",
+                    "idShort": 497,
+                    "shortLink": "yEbJLuE5"
+                },
+                "old": {
+                    "pos": 18431.96875
+                },
+                "board": {
+                    "id": "5f73f7c1b4c1280a7068df5f",
+                    "name": "EA SPORTS FC Tracker",
+                    "shortLink": "keigLn6R"
+                },
+                "list": {
+                    "id": "5f73f7c1b4c1280a7068df61",
+                    "name": "Latest News"
+                }
+            },
+            "appCreator": null,
+            "type": "updateCard",
+            "date": "2024-12-03T15:58:44.120Z",
+            "limits": null,
+            "memberCreator": {
+                "id": "5c48831d226ccb5009c3b830",
+                "activityBlocked": false,
+                "avatarHash": "65b8551dba3917ec1acddcfa24cd1bea",
+                "avatarUrl": "https://trello-members.s3.amazonaws.com/5c48831d226ccb5009c3b830/65b8551dba3917ec1acddcfa24cd1bea",
+                "fullName": "Paul Murphy",
+                "idMemberReferrer": null,
+                "initials": "PM",
+                "nonPublic": {},
+                "nonPublicAvailable": true,
+                "username": "pmurphy_liveops"
+            }
+        },
+        {
+            "id": "674f2aaf16cff4bd884367b0",
+            "idMemberCreator": "5c48831d226ccb5009c3b830",
+            "data": {
+                "card": {
+                    "idLabels": [
+                        "5f73f7c1b4c1280a7068dfeb",
+                        "66b64c66fe2b82a1a0bd8245"
+                    ],
+                    "id": "674f2a3b93dbcadecd052787",
+                    "name": "[PC/PS4/PS5/XB1/XBSX|S/SWITCH] First Frost Update (Title Update #6)",
+                    "idShort": 497,
+                    "shortLink": "yEbJLuE5"
+                },
+                "old": {
+                    "idLabels": [
+                        "5f73f7c1b4c1280a7068dfeb"
+                    ]
+                },
+                "board": {
+                    "id": "5f73f7c1b4c1280a7068df5f",
+                    "name": "EA SPORTS FC Tracker",
+                    "shortLink": "keigLn6R"
+                },
+                "list": {
+                    "id": "5f73f7c1b4c1280a7068df61",
+                    "name": "Latest News"
+                }
+            },
+            "appCreator": null,
+            "type": "updateCard",
+            "date": "2024-12-03T15:58:39.757Z",
+            "limits": null,
+            "memberCreator": {
+                "id": "5c48831d226ccb5009c3b830",
+                "activityBlocked": false,
+                "avatarHash": "65b8551dba3917ec1acddcfa24cd1bea",
+                "avatarUrl": "https://trello-members.s3.amazonaws.com/5c48831d226ccb5009c3b830/65b8551dba3917ec1acddcfa24cd1bea",
+                "fullName": "Paul Murphy",
+                "idMemberReferrer": null,
+                "initials": "PM",
+                "nonPublic": {},
+                "nonPublicAvailable": true,
+                "username": "pmurphy_liveops"
+            }
+        },
+        {
+            "id": "674f2aaab6c40d55db377acb",
+            "idMemberCreator": "5c48831d226ccb5009c3b830",
+            "data": {
+                "card": {
+                    "idLabels": [
+                        "5f73f7c1b4c1280a7068dfeb"
+                    ],
+                    "id": "674f2a3b93dbcadecd052787",
+                    "name": "[PC/PS4/PS5/XB1/XBSX|S/SWITCH] First Frost Update (Title Update #6)",
+                    "idShort": 497,
+                    "shortLink": "yEbJLuE5"
+                },
+                "old": {
+                    "idLabels": []
+                },
+                "board": {
+                    "id": "5f73f7c1b4c1280a7068df5f",
+                    "name": "EA SPORTS FC Tracker",
+                    "shortLink": "keigLn6R"
+                },
+                "list": {
+                    "id": "5f73f7c1b4c1280a7068df61",
+                    "name": "Latest News"
+                }
+            },
+            "appCreator": null,
+            "type": "updateCard",
+            "date": "2024-12-03T15:58:34.733Z",
+            "limits": null,
+            "memberCreator": {
+                "id": "5c48831d226ccb5009c3b830",
+                "activityBlocked": false,
+                "avatarHash": "65b8551dba3917ec1acddcfa24cd1bea",
+                "avatarUrl": "https://trello-members.s3.amazonaws.com/5c48831d226ccb5009c3b830/65b8551dba3917ec1acddcfa24cd1bea",
+                "fullName": "Paul Murphy",
+                "idMemberReferrer": null,
+                "initials": "PM",
+                "nonPublic": {},
+                "nonPublicAvailable": true,
+                "username": "pmurphy_liveops"
+            }
+        },
+        {
+            "id": "674f2a966dc367a9b77b96f4",
+            "idMemberCreator": "5c48831d226ccb5009c3b830",
+            "data": {
+                "card": {
+                    "name": "[PC/PS4/PS5/XB1/XBSX|S/SWITCH] First Frost Update (Title Update #6)",
+                    "id": "674f2a3b93dbcadecd052787",
+                    "idShort": 497,
+                    "shortLink": "yEbJLuE5"
+                },
+                "old": {
+                    "name": "[PC/PS4/PS5/XB1/XBSX|S/SWITCH] First Frost Update (Title Update 6)"
+                },
+                "board": {
+                    "id": "5f73f7c1b4c1280a7068df5f",
+                    "name": "EA SPORTS FC Tracker",
+                    "shortLink": "keigLn6R"
+                },
+                "list": {
+                    "id": "5f73f7c1b4c1280a7068df61",
+                    "name": "Latest News"
+                }
+            },
+            "appCreator": null,
+            "type": "updateCard",
+            "date": "2024-12-03T15:58:14.005Z",
+            "limits": null,
+            "memberCreator": {
+                "id": "5c48831d226ccb5009c3b830",
+                "activityBlocked": false,
+                "avatarHash": "65b8551dba3917ec1acddcfa24cd1bea",
+                "avatarUrl": "https://trello-members.s3.amazonaws.com/5c48831d226ccb5009c3b830/65b8551dba3917ec1acddcfa24cd1bea",
+                "fullName": "Paul Murphy",
+                "idMemberReferrer": null,
+                "initials": "PM",
+                "nonPublic": {},
+                "nonPublicAvailable": true,
+                "username": "pmurphy_liveops"
+            }
+        },
+        {
+            "id": "674f2a82804330dafec526c1",
+            "idMemberCreator": "5c48831d226ccb5009c3b830",
+            "data": {
+                "attachment": {
+                    "id": "674f2a81804330dafec526a6",
+                    "name": "First Frost Update.png",
+                    "url": "https://trello.com/1/cards/674f2a3b93dbcadecd052787/attachments/674f2a81804330dafec526a6/download/First_Frost_Update.png",
+                    "previewUrl": "https://trello.com/1/cards/674f2a3b93dbcadecd052787/attachments/674f2a81804330dafec526a6/previews/preview/download/First_Frost_Update.webp",
+                    "previewUrl2x": "https://trello.com/1/cards/674f2a3b93dbcadecd052787/attachments/674f2a81804330dafec526a6/previews/preview2x/download/First_Frost_Update.webp"
+                },
+                "card": {
+                    "id": "674f2a3b93dbcadecd052787",
+                    "name": "[PC/PS4/PS5/XB1/XBSX|S/SWITCH] First Frost Update (Title Update 6)",
+                    "idShort": 497,
+                    "shortLink": "yEbJLuE5"
+                },
+                "list": {
+                    "id": "5f73f7c1b4c1280a7068df61",
+                    "name": "Latest News"
+                },
+                "board": {
+                    "id": "5f73f7c1b4c1280a7068df5f",
+                    "name": "EA SPORTS FC Tracker",
+                    "shortLink": "keigLn6R"
+                }
+            },
+            "appCreator": null,
+            "type": "addAttachmentToCard",
+            "date": "2024-12-03T15:57:54.192Z",
+            "limits": null,
+            "memberCreator": {
+                "id": "5c48831d226ccb5009c3b830",
+                "activityBlocked": false,
+                "avatarHash": "65b8551dba3917ec1acddcfa24cd1bea",
+                "avatarUrl": "https://trello-members.s3.amazonaws.com/5c48831d226ccb5009c3b830/65b8551dba3917ec1acddcfa24cd1bea",
+                "fullName": "Paul Murphy",
+                "idMemberReferrer": null,
+                "initials": "PM",
+                "nonPublic": {},
+                "nonPublicAvailable": true,
+                "username": "pmurphy_liveops"
+            }
+        },
+        {
+            "id": "674f2a61bdc2b2158f1e2704",
+            "idMemberCreator": "5c48831d226ccb5009c3b830",
+            "data": {
+                "card": {
+                    "desc": "The First Frost Update (Title Update #6) will soon be available for all versions of EA SPORTS FC 25, and it will include:\n\n- New Player Roles and Focuses\n- Shorter Rush matches and new Player Items in Ultimate Team\n- Career Mode and Clubs updates\n- A new winter menu theme\n\nBe sure to check out our [Pitch Notes article for the First Frost Update](http://x.ea.com/82681 \"‌\"), it dives deeper into some of the changes and additions listed here.\n\n### Gameplay\n\nMade the following changes:\n\n- Added the Classic 10 and Wide Half Player Roles, as well as thirteen Focuses.\n  - To learn more about these Player Roles and Focuses, check out our [First Frost Update Pitch Notes article](http://x.ea.com/82681 \"‌\").\n- Slightly increased speed and consistency for the Stop And Turn (While Running) Skill Move when performed by 3 Star Skill Move players.\n- Slightly increased speed of Drag Backs.\n- Improved consistency for the Stop And Turn (While Running), Roulette, Heel To Heel, and Feint and Exit Skill Moves when performed by 2 Star Skill Move players.\n- Slightly increased speed and consistency of Jog Fake Shots when performed by 3 Star Skill Move players and above.\n- Slightly decreased the speed of Jog Body Feints.\n- Attacking players can now come back to an onside position quicker than before.\n- Slightly increased the window of time in which a Directed Run can be requested.\n- A Player Switch can now be requested during passes while in Player Lock.\n\nAddressed the following issues:\n\n- Improved defensive logic for tracking runs during Kick Offs.\n- The attacking team’s center backs could have pushed too far up the pitch in some cases.\n- When requested, Secondary Contain was not always being performed by the player with the Next Player Switch Indicator.\n- Sometimes, center backs could have positioned themselves too far apart while their team had possession.\n- Addressed instances of Player Switching not functioning as intended.\n- Addressed instances of the Player Lock Input triggering an unintended Player Switch.\n  - As a knock on effect that we are investigating, goalkeeper movement can trigger an unintended player switch.\n- Addressed an issue that was preventing high tackling Attribute players from being as effective as intended in specific situations.\n- In some instances, deep free kicks resulted in the ball not being passed to any specific receiver.\n- Improved referee logic when determining offside calls in situations involving the goalkeeper.\n- Improved referee logic when determining foul calls in some tackling situations.\n- In rare situations, attacking players could have crowded the center of the pitch unintentionally.\n- In some cases, defenders could have won the ball from behind the ball carrier easier than intended.\n- Addressed an issue in which a requested tackle could have moved the user controlled player towards the ball before starting the tackle animation.\n- Disabled the D Pad Tactics UI in Kick Off 3v3 matches as it had no impact on gameplay.\n\n### Ultimate Team\n\nMade the following changes:\n\n- Reduced Rush match length from 7 minutes to 5 minutes.\n- The Squad Builder Rarity filter can now be used to search for all available rarities, similar to how search is done in the Transfer Market.\n- Players not actively engaging in a Rush match are now more likely to be kicked from the match.\n\nAddressed the following issues:\n\n- Some Player Items were incorrectly showing as Loan Items when viewing them in the Season Pass.\n- After editing tactics, the positions of Player Items could have changed unintentionally.\n\n###\n\n### Career Mode\n\nMade the following changes:\n\n- Non academy players can now earn PlayStyes as they develop.\n- Goalkeeper Youth Prospects now have a chance to develop two PlayStyles+.\n- Updated Tactical Vision presets to account for new Player Roles and Focuses.\n- Added winter weather to Training Drills which can be enabled or disabled through the Weather Effects setting.\n- Updated list of available ICONs in Player Career.\n\nAddressed the following issues:\n\n- In Live Starting Point, edited injuries and suspensions were not always applied to players correctly.\n- When creating a club in Manager Career, the default squad could have had the same facial expressions.\n- Trophies did not always display correctly.\n- In some cases, players could have earned an unlimited amount of PlayStyles through Training Drills.\n\n### Clubs\n\nMade the following changes:\n\n- Winter weather is now present in Drop-In matches. This is a visual update only and does not impact gameplay.\n- Added the VR Room and Passing Drill facilities.\n  - To learn more about them, check out our [First Frost Update Pitch Notes article](http://x.ea.com/82681 \"‌\").\n\nAddressed the following issues:\n\n- Signature celebrations could not be performed in League Matches.\n- Some PlayStyles would not display when viewing Avatar presets with more than six PlayStyles.\n- When playing as a goalkeeper at the Kenilworth Road stadium, the player's view could have been unintentionally limited.\n\n### General, Audio, and Visual\n\nMade the following changes:\n\n- Updated the menus with a new winter theme.\n- The Tactical and Possession views can now be toggled on the Team Tactic screen.\n- Updated some kits, stadium, celebrations, scenes, messages, button callouts, badges, tifos, gloves, balls, banners, flags, boots, ad boards, hair, tattoos, trophies, audio, UI elements, and commentary.\n\nAddressed the following issues:\n\n- Addressed instances of stability issues occurring during co-op online matches.\n- Some lower rated teams were easier to play against than intended on Legendary Difficulty.\n- Addressed instances of placeholder text, incorrect UI elements, incorrect camera angles, and button conflicts.\n- When playing a tournament in Career Mode or Tournament Mode, the trophies for some leagues were not the intended trophy.\n- Addressed instances of various stability issues that could have occurred.\n\nWant to provide us direct feedback about EA SPORTS FC 25? Visit [https://go.ea.com/fc25pf ](https://go.ea.com/fc25pf \"‌\")and let us know what you think, it only takes a few minutes.\n\n‌\n\nThanks to those who’ve provided and continue to provide feedback. Throughout the course of the EA SPORTS FC 25 season we'll provide you with more information and updates if and when they become available. Be sure to follow \\@‌EASFCDIRECT on X and to check out the EA SPORTS FC Tracker for the latest news and updates.\n\n‌\n\n- The EA SPORTS FC Team",
+                    "id": "674f2a3b93dbcadecd052787",
+                    "name": "[PC/PS4/PS5/XB1/XBSX|S/SWITCH] First Frost Update (Title Update 6)",
+                    "idShort": 497,
+                    "shortLink": "yEbJLuE5"
+                },
+                "old": {
+                    "desc": ""
+                },
+                "board": {
+                    "id": "5f73f7c1b4c1280a7068df5f",
+                    "name": "EA SPORTS FC Tracker",
+                    "shortLink": "keigLn6R"
+                },
+                "list": {
+                    "id": "5f73f7c1b4c1280a7068df61",
+                    "name": "Latest News"
+                }
+            },
+            "appCreator": null,
+            "type": "updateCard",
+            "date": "2024-12-03T15:57:21.641Z",
+            "limits": null,
+            "memberCreator": {
+                "id": "5c48831d226ccb5009c3b830",
+                "activityBlocked": false,
+                "avatarHash": "65b8551dba3917ec1acddcfa24cd1bea",
+                "avatarUrl": "https://trello-members.s3.amazonaws.com/5c48831d226ccb5009c3b830/65b8551dba3917ec1acddcfa24cd1bea",
+                "fullName": "Paul Murphy",
+                "idMemberReferrer": null,
+                "initials": "PM",
+                "nonPublic": {},
+                "nonPublicAvailable": true,
+                "username": "pmurphy_liveops"
+            }
+        },
+        {
+            "id": "674f2a3b93dbcadecd0527c3",
+            "idMemberCreator": "5c48831d226ccb5009c3b830",
+            "data": {
+                "card": {
+                    "id": "674f2a3b93dbcadecd052787",
+                    "name": "[PC/PS4/PS5/XB1/XBSX|S/SWITCH] First Frost Update (Title Update 6)",
+                    "idShort": 497,
+                    "shortLink": "yEbJLuE5"
+                },
+                "list": {
+                    "id": "5f73f7c1b4c1280a7068df61",
+                    "name": "Latest News"
+                },
+                "board": {
+                    "id": "5f73f7c1b4c1280a7068df5f",
+                    "name": "EA SPORTS FC Tracker",
+                    "shortLink": "keigLn6R"
+                }
+            },
+            "appCreator": null,
+            "type": "createCard",
+            "date": "2024-12-03T15:56:43.405Z",
+            "limits": null,
+            "memberCreator": {
+                "id": "5c48831d226ccb5009c3b830",
+                "activityBlocked": false,
+                "avatarHash": "65b8551dba3917ec1acddcfa24cd1bea",
+                "avatarUrl": "https://trello-members.s3.amazonaws.com/5c48831d226ccb5009c3b830/65b8551dba3917ec1acddcfa24cd1bea",
+                "fullName": "Paul Murphy",
+                "idMemberReferrer": null,
+                "initials": "PM",
+                "nonPublic": {},
+                "nonPublicAvailable": true,
+                "username": "pmurphy_liveops"
+            }
+        }
+    ]
+}
