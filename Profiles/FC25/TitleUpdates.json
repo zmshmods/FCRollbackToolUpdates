@@ -6,18 +6,6 @@
     "eng_usDepotID": "2669322",
     "TitleUpdates": [
         {
-            "Name": "FC25 - Title Update 18",
-            "SemVer": "",
-            "PatchID": "",
-            "Size": "",
-            "ReleasedDate": "Jul 17, 2025",
-            "DownloadURL": "",
-            "SHA1": "",
-            "PatchNotes": "https://trello.com/c/A8PAB5lA/534-ps5-ps4-pc-xbsxs-xb1-switch-title-update-18",
-            "MainManifestID": "",
-            "eng_usManifestID": ""
-        },
-        {
             "Name": "FC25 - Title Update 17",
             "SemVer": "1.0.124.55145",
             "PatchID": "2502566",
