@@ -6,6 +6,18 @@
     "eng_usDepotID": "2669322",
     "TitleUpdates": [
         {
+            "Name": "FC25 - Title Update 19",
+            "SemVer": "",
+            "PatchID": "",
+            "Size": "",
+            "ReleasedDate": "Jul 29, 2025",
+            "DownloadURL": "",
+            "SHA1": "",
+            "PatchNotes": "https://github.com/zmshmods/FCRollbackToolUpdates/raw/main/Profiles/FC25/TitleUpdatesPatchNotes/19.json",
+            "MainManifestID": "",
+            "eng_usManifestID": ""
+        },
+        {
             "Name": "FC25 - Title Update 18",
             "SemVer": "1.0.125.50743",
             "PatchID": "2502668",
