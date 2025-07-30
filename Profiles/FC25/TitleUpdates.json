@@ -1,21 +1,21 @@
 {
-    "ContentVersion": "25.18",
-    "ContentVersionDate": "Jul 17, 2025",
+    "ContentVersion": "25.19",
+    "ContentVersionDate": "Jul 30, 2025",
     "AppID": "2669320",
     "MainDepotID": "2669321",
     "eng_usDepotID": "2669322",
     "TitleUpdates": [
         {
             "Name": "FC25 - Title Update 19",
-            "SemVer": "",
-            "PatchID": "",
-            "Size": "",
+            "SemVer": "1.0.126.34552",
+            "PatchID": "2502680",
+            "Size": "6.94GB",
             "ReleasedDate": "Jul 30, 2025",
-            "DownloadURL": "",
-            "SHA1": "",
+            "DownloadURL": "https://www.mediafire.com/file/ryhxnol5hgido05/FC25+-+Title+Update+19.rar/file",
+            "SHA1": "5a6b67a3ca9f1b3de8d980d7fa96cb1bea1a15b4",
             "PatchNotes": "https://trello.com/c/W7XXDab8/536-ps5-ps4-pc-xbsxs-xb1-title-update-19",
-            "MainManifestID": "",
-            "eng_usManifestID": ""
+            "MainManifestID": "4511160335891734828",
+            "eng_usManifestID": "4954016495247163569"
         },
         {
             "Name": "FC25 - Title Update 18",
