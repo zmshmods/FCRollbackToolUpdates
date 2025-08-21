@@ -1,21 +1,21 @@
 {
-    "ContentVersion": "25.20",
-    "ContentVersionDate": "Aug 12, 2025",
+    "ContentVersion": "25.21",
+    "ContentVersionDate": "Aug 21, 2025",
     "AppID": "2669320",
     "MainDepotID": "2669321",
     "eng_usDepotID": "2669322",
     "TitleUpdates": [
         {
             "Name": "FC25 - Title Update 21",
-            "SemVer": "",
-            "PatchID": "",
-            "Size": "",
+            "SemVer": "1.0.127.15348",
+            "PatchID": "2502680",
+            "Size": "6.91GB",
             "ReleasedDate": "Aug 21, 2025",
-            "DownloadURL": "",
-            "SHA1": "",
+            "DownloadURL": "https://www.mediafire.com/file/mkczyqxyspih6gp/FC25+-+Title+Update+21.rar/file",
+            "SHA1": "6c63577af3ecf28bdc0df4e07dceb70d6408083a", 
             "PatchNotes": "https://trello.com/c/S10FjEin/538-pc-title-update-21",
-            "MainManifestID": "",
-            "eng_usManifestID": ""
+            "MainManifestID": "6209528222614290632",
+            "eng_usManifestID": "365303843520188778"
         },
         {
             "Name": "FC25 - Title Update 20",
