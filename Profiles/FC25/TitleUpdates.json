@@ -289,7 +289,7 @@
             "ReleasedDate": "Sep 25, 2024",
             "DownloadURL": "https://www.mediafire.com/file/zrl2qm5dz2pwpdq/FC25+-+Title+Update+1.rar/file",
             "SHA1": "6054faca9420f1ee7ce7f9e10f4c9e8730aff3e2",
-            "PatchNotes": "https://trello.com/c/7DiunlzA/480-ps5-ps4-pc-xbsxs-xb1-switch-title-update-1",
+            "PatchNotes": "https://raw.githubusercontent.com/zmshmods/FCRollbackToolUpdates/main/Profiles/FC25/TitleUpdatesPatchNotes/1.json",
             "MainManifestID": "5224896166469101626",
             "eng_usManifestID": "1395172654207726004"
         }
