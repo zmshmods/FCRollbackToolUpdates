@@ -12,8 +12,8 @@
             "Size": "6.91GB",
             "ReleasedDate": "Aug 21, 2025",
             "DownloadURL": "https://www.mediafire.com/file/mkczyqxyspih6gp/FC25+-+Title+Update+21.rar/file",
-            "SHA1": "6c63577af3ecf28bdc0df4e07dceb70d6408083a", 
-            "PatchNotes": "https://trello.com/c/S10FjEin/538-pc-title-update-21",
+            "SHA1": "6c63577af3ecf28bdc0df4e07dceb70d6408083a",
+            "PatchNotes": "https://raw.githubusercontent.com/zmshmods/FCRollbackToolUpdates/main/Profiles/FC25/TitleUpdatesPatchNotes/21.json",
             "MainManifestID": "6209528222614290632",
             "eng_usManifestID": "365303843520188778"
         },
@@ -25,7 +25,7 @@
             "ReleasedDate": "Aug 12, 2025",
             "DownloadURL": "https://www.mediafire.com/file/kurztnz6ilpj7dj/FC25+-+Title+Update+20.rar/file",
             "SHA1": "75a26851eb2d171ac638d8413f14b3dfcf4845a9",
-            "PatchNotes": "https://trello.com/c/BGmvoOsL/537-ps5-ps4-pc-xbsxs-xb1-title-update-20",
+            "PatchNotes": "https://raw.githubusercontent.com/zmshmods/FCRollbackToolUpdates/main/Profiles/FC25/TitleUpdatesPatchNotes/20.json",
             "MainManifestID": "990908391955283414",
             "eng_usManifestID": "1150196076016801207"
         },
@@ -37,7 +37,7 @@
             "ReleasedDate": "Jul 30, 2025",
             "DownloadURL": "https://www.mediafire.com/file/ryhxnol5hgido05/FC25+-+Title+Update+19.rar/file",
             "SHA1": "5a6b67a3ca9f1b3de8d980d7fa96cb1bea1a15b4",
-            "PatchNotes": "https://trello.com/c/W7XXDab8/536-ps5-ps4-pc-xbsxs-xb1-title-update-19",
+            "PatchNotes": "https://raw.githubusercontent.com/zmshmods/FCRollbackToolUpdates/main/Profiles/FC25/TitleUpdatesPatchNotes/19.json",
             "MainManifestID": "4511160335891734828",
             "eng_usManifestID": "4954016495247163569"
         },
@@ -49,7 +49,7 @@
             "ReleasedDate": "Jul 17, 2025",
             "DownloadURL": "https://www.mediafire.com/file/i7mqkw5hsx9rrae/FC25+-+Title+Update+18.rar/file",
             "SHA1": "bf0ec6911b026577f0fc245456ed42363b175f23",
-            "PatchNotes": "https://trello.com/c/A8PAB5lA/534-ps5-ps4-pc-xbsxs-xb1-switch-title-update-18",
+            "PatchNotes": "https://raw.githubusercontent.com/zmshmods/FCRollbackToolUpdates/main/Profiles/FC25/TitleUpdatesPatchNotes/18.json",
             "MainManifestID": "6062126115671176041",
             "eng_usManifestID": "1531203532580848174"
         },
@@ -61,19 +61,19 @@
             "ReleasedDate": "Jul 2, 2025",
             "DownloadURL": "https://www.mediafire.com/file/8rejuyt5wu9zyrb/FC25+-+Title+Update+17.rar/file",
             "SHA1": "265626eb53418ab5cb19a545d25516702b4db79f",
-            "PatchNotes": "https://trello.com/c/gA9fpAe5/533-ps5-ps4-pc-xbsxs-xb1-switch-title-update-17",
+            "PatchNotes": "https://raw.githubusercontent.com/zmshmods/FCRollbackToolUpdates/main/Profiles/FC25/TitleUpdatesPatchNotes/17.json",
             "MainManifestID": "7209126871482502705",
             "eng_usManifestID": "7507771834188246941"
         },
         {
             "Name": "FC25 - Title Update 16",
             "SemVer": "1.0.124.14362",
-            "PatchID": "2502489",
+            "PatchID": "2499576",
             "Size": "6.91GB",
             "ReleasedDate": "Jun 19, 2025",
             "DownloadURL": "https://www.mediafire.com/file/qe6mrng8x882u8b/FC25+-+Title+Update+16.rar/file",
             "SHA1": "9734fb6890c3d160ecebae8d2c6b79362f880d00",
-            "PatchNotes": "https://trello.com/c/Bx7S5E7S/532-ps5-ps4-pc-xbsxs-xb1-switch-title-update-16",
+            "PatchNotes": "https://raw.githubusercontent.com/zmshmods/FCRollbackToolUpdates/main/Profiles/FC25/TitleUpdatesPatchNotes/16.json",
             "MainManifestID": "5695476236698295539",
             "eng_usManifestID": "2149623526913816106"
         },
@@ -85,7 +85,7 @@
             "ReleasedDate": "Jun 3, 2025",
             "DownloadURL": "https://www.mediafire.com/file/9zxo903vthtskl5/FC25+-+Title+Update+15.rar/file",
             "SHA1": "fb35af2b9c09ff9fc6fbd5511498ab613a2f6024",
-            "PatchNotes": "https://trello.com/c/zKlxaTnI/530-ps5-ps4-pc-xbsxs-xb1-switch-title-update-15",
+            "PatchNotes": "https://raw.githubusercontent.com/zmshmods/FCRollbackToolUpdates/main/Profiles/FC25/TitleUpdatesPatchNotes/15.json",
             "MainManifestID": "6079682258845983424",
             "eng_usManifestID": "2004911726471594164"
         },
@@ -97,7 +97,7 @@
             "ReleasedDate": "May 8, 2025",
             "DownloadURL": "https://www.mediafire.com/file/c0kjcyz7dla5cip/FC25+-+Title+Update+14.1.rar/file",
             "SHA1": "6091c8454d4bc3f35cd400a97db8eb7d2928dca1",
-            "PatchNotes": "https://trello.com/c/7shrkQeK/528-ps5-ps4-pc-xbsxs-xb1-title-update-141",
+            "PatchNotes": "https://raw.githubusercontent.com/zmshmods/FCRollbackToolUpdates/main/Profiles/FC25/TitleUpdatesPatchNotes/14.1.json",
             "MainManifestID": "7441965202645799867",
             "eng_usManifestID": "6569801375360127502"
         },
@@ -109,7 +109,7 @@
             "ReleasedDate": "Apr 30, 2025",
             "DownloadURL": "https://www.mediafire.com/file/ly5w9hsrnqpcx1q/FC25+-+Title+Update+14.rar/file",
             "SHA1": "a7a92f04f792f7cb3b2cc655a3c2e0bd224381c3",
-            "PatchNotes": "https://trello.com/c/Xb2ZOJHt/527-pc-ps4-ps5-xb1-xbsxs-switch-title-update-14",
+            "PatchNotes": "https://raw.githubusercontent.com/zmshmods/FCRollbackToolUpdates/main/Profiles/FC25/TitleUpdatesPatchNotes/14.json",
             "MainManifestID": "3006376903760407776",
             "eng_usManifestID": "7456103688240308073"
         },
@@ -121,7 +121,7 @@
             "ReleasedDate": "Apr 16, 2025",
             "DownloadURL": "https://www.mediafire.com/file/cdtghqgtgznbo67/FC25+-+Title+Update+13.rar/file",
             "SHA1": "5df31800ce91d6ef83fe0cfa39b2466b15be787b",
-            "PatchNotes": "https://trello.com/c/emVsehtM/525-pc-ps4-ps5-xb1-xbsxs-switch-title-update-13",
+            "PatchNotes": "https://raw.githubusercontent.com/zmshmods/FCRollbackToolUpdates/main/Profiles/FC25/TitleUpdatesPatchNotes/13.json",
             "MainManifestID": "2326838125008917846",
             "eng_usManifestID": "830577855948525405"
         },
@@ -133,7 +133,7 @@
             "ReleasedDate": "Apr 1, 2025",
             "DownloadURL": "https://www.mediafire.com/file/6rkkbec25saxe9i/FC25+-+Title+Update+12.rar/file",
             "SHA1": "12f1d2f69fe9105aeb9d24fbf7e4b337ffe4cdfb",
-            "PatchNotes": "https://trello.com/c/AaxSyr7P/522-ps5-ps4-pc-xbsxs-xb1-switch-title-update-12",
+            "PatchNotes": "https://raw.githubusercontent.com/zmshmods/FCRollbackToolUpdates/main/Profiles/FC25/TitleUpdatesPatchNotes/12.json",
             "MainManifestID": "9202271071347019804",
             "eng_usManifestID": "8442747806353216785"
         },
@@ -145,7 +145,7 @@
             "ReleasedDate": "Mar 17, 2025",
             "DownloadURL": "https://www.mediafire.com/file/yntxvdzse3owfjm/FC25+-+Title+Update+11.rar/file",
             "SHA1": "4d2d4dc57125d7ca01c1f761ef5d0f596f7378e0",
-            "PatchNotes": "https://trello.com/c/Rmno0eJx/521-pc-ps4-ps5-xb1-xbsxs-title-update-11",
+            "PatchNotes": "https://raw.githubusercontent.com/zmshmods/FCRollbackToolUpdates/main/Profiles/FC25/TitleUpdatesPatchNotes/11.json",
             "MainManifestID": "3667579916029951840",
             "eng_usManifestID": "4316415037341982898"
         },
@@ -157,7 +157,7 @@
             "ReleasedDate": "Mar 11, 2025",
             "DownloadURL": "https://www.mediafire.com/file/riaji3lrh7xt8lu/FC25+-+Title+Update+10.rar/file",
             "SHA1": "bd0d14e4446b4998175b75877bd1ebefbb039503",
-            "PatchNotes": "https://trello.com/c/UBP0Nllq/519-ps5-ps4-pc-xbsxs-xb1-switch-the-legends-return-update-title-update-10",
+            "PatchNotes": "https://raw.githubusercontent.com/zmshmods/FCRollbackToolUpdates/main/Profiles/FC25/TitleUpdatesPatchNotes/10.json",
             "MainManifestID": "6242256178243432926",
             "eng_usManifestID": "8093377747385667550"
         },
@@ -169,7 +169,7 @@
             "ReleasedDate": "Feb 11, 2025",
             "DownloadURL": "https://www.mediafire.com/file/fakr3nctu5z8zv5/FC25+-+Title+Update+9.1.rar/file",
             "SHA1": "bcbc4d64c4778e13984206bb9d5ccfd932f8adcf",
-            "PatchNotes": "https://trello.com/c/sRIGoai0/511-ps5-ps4-pc-xbsxs-xb1-title-update-91",
+            "PatchNotes": "https://raw.githubusercontent.com/zmshmods/FCRollbackToolUpdates/main/Profiles/FC25/TitleUpdatesPatchNotes/9.1.json",
             "MainManifestID": "8309038101505513609",
             "eng_usManifestID": "1596946292704356182"
         },
@@ -181,7 +181,7 @@
             "ReleasedDate": "Feb 4, 2025",
             "DownloadURL": "https://www.mediafire.com/file/v7zc5r3rxn87wag/FC25+-+Title+Update+9.rar/file",
             "SHA1": "ea630935be7d5bb1757c6c8acce23c21ca6bb295",
-            "PatchNotes": "https://trello.com/c/OS2RHIJH/508-pc-ps4-ps5-xb1-xbsxs-switch-features-update-title-update-9",
+            "PatchNotes": "https://raw.githubusercontent.com/zmshmods/FCRollbackToolUpdates/main/Profiles/FC25/TitleUpdatesPatchNotes/9.json",
             "MainManifestID": "3779462925394158600",
             "eng_usManifestID": "3151472919894526475"
         },
@@ -193,7 +193,7 @@
             "ReleasedDate": "Jan 16, 2025",
             "DownloadURL": "https://www.mediafire.com/file/ybv39od4of65j35/FC25+-+Title+Update+8.rar/file",
             "SHA1": "8b7fe766d44cd6f307dcd06047e591e38fabdfda",
-            "PatchNotes": "https://trello.com/c/FxyoFSLf/506-pc-ps4-ps5-xb1-xbsxs-switch-gameplay-refresh-update",
+            "PatchNotes": "https://raw.githubusercontent.com/zmshmods/FCRollbackToolUpdates/main/Profiles/FC25/TitleUpdatesPatchNotes/8.json",
             "MainManifestID": "4676266760364372559",
             "eng_usManifestID": "6039505674097352231"
         },
@@ -205,7 +205,7 @@
             "ReleasedDate": "Jan 8, 2025",
             "DownloadURL": "https://www.mediafire.com/file/l59kwwg9reoneog/FC25+-+Title+Update+7.rar/file",
             "SHA1": "8fc2f7d5300905913040f1239189e56e0f90a9ff",
-            "PatchNotes": "https://trello.com/c/oX1Swaph/505-pc-ps4-ps5-xb1-xbsxs-switch-title-update-7",
+            "PatchNotes": "https://raw.githubusercontent.com/zmshmods/FCRollbackToolUpdates/main/Profiles/FC25/TitleUpdatesPatchNotes/7.json",
             "MainManifestID": "3858313898950151490",
             "eng_usManifestID": "4629062469131199224"
         },
@@ -217,7 +217,7 @@
             "ReleasedDate": "Dec 5, 2024",
             "DownloadURL": "https://www.mediafire.com/file/8nymktbxwam2121/FC25+-+Title+Update+6.1.rar/file",
             "SHA1": "d40102860aee50a847bbb34eda051cfe2bc1baa2",
-            "PatchNotes": "https://trello.com/c/YJaH9xd0/498-pc-title-update-61",
+            "PatchNotes": "https://raw.githubusercontent.com/zmshmods/FCRollbackToolUpdates/main/Profiles/FC25/TitleUpdatesPatchNotes/6.1.json",
             "MainManifestID": "6173980764739088926",
             "eng_usManifestID": "5507843308393006913"
         },
@@ -229,7 +229,7 @@
             "ReleasedDate": "Dec 4, 2024",
             "DownloadURL": "https://www.mediafire.com/file/hgvkdzfptfypt5u/FC25+-+Title+Update+6.rar/file",
             "SHA1": "b3943d4dbb30bd21c1ee28a1b6a5354fe8af58b0",
-            "PatchNotes": "https://trello.com/c/yEbJLuE5/497-pc-ps4-ps5-xb1-xbsxs-switch-first-frost-update-title-update-6",
+            "PatchNotes": "https://raw.githubusercontent.com/zmshmods/FCRollbackToolUpdates/main/Profiles/FC25/TitleUpdatesPatchNotes/6.json",
             "MainManifestID": "2179412656556492771",
             "eng_usManifestID": "295850980009730515"
         },
@@ -241,7 +241,7 @@
             "ReleasedDate": "Nov 19, 2024",
             "DownloadURL": "https://www.mediafire.com/file/yq5zc3qk8twbqwr/FC25+-+Title+Update+5.rar/file",
             "SHA1": "b24bb7e7b33642ca3a44100b598ad7293add6005",
-            "PatchNotes": "https://trello.com/c/Hm5m8nNI/493-pc-ps4-ps5-xb1-xbsxs-switch-title-update-5",
+            "PatchNotes": "https://raw.githubusercontent.com/zmshmods/FCRollbackToolUpdates/main/Profiles/FC25/TitleUpdatesPatchNotes/5.json",
             "MainManifestID": "297599281150591563",
             "eng_usManifestID": "3792476110045627250"
         },
@@ -253,7 +253,7 @@
             "ReleasedDate": "Nov 5, 2024",
             "DownloadURL": "https://www.mediafire.com/file/n9f0ml1dv6p8i0u/FC25+-+Title+Update+4.rar/file",
             "SHA1": "21235cc173e30f0345d42f603d39895a09f652b0",
-            "PatchNotes": "https://trello.com/c/PzI33ebb/492-pc-ps4-ps5-xb1-xbsxs-switch-title-update-4",
+            "PatchNotes": "https://raw.githubusercontent.com/zmshmods/FCRollbackToolUpdates/main/Profiles/FC25/TitleUpdatesPatchNotes/4.json",
             "MainManifestID": "3309320999921613732",
             "eng_usManifestID": "5255920184958404897"
         },
@@ -265,7 +265,7 @@
             "ReleasedDate": "Oct 17, 2024",
             "DownloadURL": "https://www.mediafire.com/file/icyqfdhg2yafol2/FC25+-+Title+Update+3.rar/file",
             "SHA1": "6428cab55ba20bfd0c6652aeaf580646177b3bb1",
-            "PatchNotes": "https://trello.com/c/hK1PJgJ9/490-ps5-ps4-pc-xbsxs-xb1-switch-title-update-3",
+            "PatchNotes": "https://raw.githubusercontent.com/zmshmods/FCRollbackToolUpdates/main/Profiles/FC25/TitleUpdatesPatchNotes/3.json",
             "MainManifestID": "2467853629134508460",
             "eng_usManifestID": "5869321011251005021"
         },
@@ -277,7 +277,7 @@
             "ReleasedDate": "Oct 1, 2024",
             "DownloadURL": "https://www.mediafire.com/file/3sms23eqg0zjsrl/FC25+-+Title+Update+2.rar/file",
             "SHA1": "9127b2b67668e53849585229919e2948f238fd31",
-            "PatchNotes": "https://trello.com/c/rnBPpdJN/482-ps5-ps4-pc-xbsxs-xb1-switch-title-update-2",
+            "PatchNotes": "https://raw.githubusercontent.com/zmshmods/FCRollbackToolUpdates/main/Profiles/FC25/TitleUpdatesPatchNotes/2.json",
             "MainManifestID": "6193511805058868888",
             "eng_usManifestID": "516247942350646961"
         },
