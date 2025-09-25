@@ -1,0 +1,622 @@
+{
+    "id": "66608cb49a3a0a899b6b6b34",
+    "address": null,
+    "badges": {
+        "attachments": 1,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "description": true,
+        "due": null,
+        "dueComplete": false,
+        "lastUpdatedByAi": false,
+        "start": null,
+        "attachmentsByType": {
+            "trello": {
+                "board": 0,
+                "card": 0
+            }
+        },
+        "externalSource": null,
+        "location": false,
+        "votes": 0,
+        "maliciousAttachments": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false
+    },
+    "checkItemStates": [],
+    "closed": false,
+    "coordinates": null,
+    "creationMethod": null,
+    "creationMethodError": null,
+    "creationMethodLoadingStartedAt": null,
+    "dueComplete": false,
+    "dateClosed": null,
+    "dateLastActivity": "2024-07-02T09:43:16.961Z",
+    "dateCompleted": null,
+    "dateViewedByCreator": "2024-06-05T16:05:16.631Z",
+    "desc": "The EA SPORTS FC 24 Festival of Football Update (Title Update #15) is now available for all platforms and includes a number of changes and additions, including:\n\n- Added The UEFA EURO 2024™ experience.\n- Added a new Skill Move and celebration.\n- 27 new Star Heads.\n\nIn addition to these TU notes, be sure to check out our [Festival of Football Update Pitch Notes](https://www.ea.com/games/ea-sports-fc/pitch-notes/news/festival-of-football \"‌\") article which dives deep into some of the changes and additions through videos and screenshots.\n\n‌\n\n**Ultimate Team**\n\nAddressed the following issues:\n\n- Addressed instances of Loan Player matches exceeding 99 when combined with a duplicate Loan Player.\n\n### Gameplay\n\nMade the following change:\n\n- Added the new Double Touch Lane Change Skill Move which can be performed while standing or jogging.\n- Check out our Pitch Notes to learn more about this Skill Move.\n\n‌\n\nAddressed the following issues:\n\n- In certain situations where the Goalkeeper was rushing out, CPU AI controlled players would attempt to perform a chip shot and miss the net unintentionally.\n- In some stadiums, ball kids could miss their throws to the intended player.\n\n### Career Mode\n\nMade the following changes:\n\n- Added Double-PlayStyles+ Player Items in the Youth Academy.\n- Check out our Pitch Notes to learn more about this Youth Academy update.\n\n‌\n\nAddressed the following issues:\n\n- In Manager Career, Player Items on International Duty could not be removed from the Starting 11 or Substitutions.\n\n### General, Audio, and Visual\n\nMade the following changes:\n\n- Added a new signature celebration.\n- Updated some ad boards, kits, and UI elements.\n\n‌\n\nAddressed the following issues:\n\n- Addressed instances of players being able to Matchmake with different Matchmaking settings.\n- Addressed instances of instability issues that could have occurred.\n- Addressed instances of placeholder images.\n- Addressed instances of incorrect or placeholder text.\n\n‌\n\nThanks to those who’ve provided and continue to provide feedback. Throughout the course of the EA SPORTS FC 24 season, we'll provide you with more information and updates if and when they become available. Be sure to follow \\@‌EASFCDIRECT on X and to check out the EA SPORTS FC Tracker for the latest news and updates.\n\n‌\n\n- The EA SPORTS FC Team",
+    "descData": {
+        "emoji": {}
+    },
+    "due": null,
+    "dueReminder": null,
+    "email": null,
+    "externalSource": null,
+    "idBoard": "5f73f7c1b4c1280a7068df5f",
+    "idChecklists": [],
+    "idLabels": [
+        "5f73f7c1b4c1280a7068dfeb",
+        "64a6d93136e6c63d5556ac6f"
+    ],
+    "idList": "65106b33b85885896f15d616",
+    "idMemberCreator": "55fab97406891939fbe4cb5e",
+    "idMembers": [],
+    "idMembersVoted": [],
+    "idOrganization": "6137a564cb8f6432c89f8977",
+    "idShort": 440,
+    "idAttachmentCover": "66608cc4f99b5efcfa1a11d5",
+    "labels": [
+        {
+            "id": "5f73f7c1b4c1280a7068dfeb",
+            "idBoard": "5f73f7c1b4c1280a7068df5f",
+            "idOrganization": "6137a564cb8f6432c89f8977",
+            "name": "Title Update",
+            "nodeId": "ari:cloud:trello::label/workspace/6137a564cb8f6432c89f8977/5f73f7c1b4c1280a7068dfeb",
+            "color": "green",
+            "uses": 182
+        },
+        {
+            "id": "64a6d93136e6c63d5556ac6f",
+            "idBoard": "5f73f7c1b4c1280a7068df5f",
+            "idOrganization": "6137a564cb8f6432c89f8977",
+            "name": "EA SPORTS FC 24",
+            "nodeId": "ari:cloud:trello::label/workspace/6137a564cb8f6432c89f8977/64a6d93136e6c63d5556ac6f",
+            "color": "green_dark",
+            "uses": 87
+        }
+    ],
+    "limits": {
+        "attachments": {
+            "perCard": {
+                "status": "ok",
+                "disableAt": 1000,
+                "warnAt": 800
+            }
+        },
+        "checklists": {
+            "perCard": {
+                "status": "ok",
+                "disableAt": 500,
+                "warnAt": 400
+            }
+        },
+        "stickers": {
+            "perCard": {
+                "status": "ok",
+                "disableAt": 70,
+                "warnAt": 56
+            }
+        }
+    },
+    "locationName": null,
+    "manualCoverAttachment": false,
+    "name": "[PC/PS4/PS5/XB1/XBSX|S/SWITCH] Title Update #15",
+    "nodeId": "ari:cloud:trello::card/workspace/6137a564cb8f6432c89f8977/66608cb49a3a0a899b6b6b34",
+    "pinned": false,
+    "pos": 65537,
+    "shortLink": "k08tcq7b",
+    "shortUrl": "https://trello.com/c/k08tcq7b",
+    "singleInstrumentationId": null,
+    "sourceEmail": null,
+    "staticMapUrl": null,
+    "start": null,
+    "subscribed": null,
+    "url": "https://trello.com/c/k08tcq7b/440-pc-ps4-ps5-xb1-xbsxs-switch-title-update-15",
+    "cover": {
+        "idAttachment": "66608cc4f99b5efcfa1a11d5",
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "dark",
+        "scaled": [
+            {
+                "id": "66608cc5f99b5efcfa1a1208",
+                "_id": "66608cc5f99b5efcfa1a1208",
+                "scaled": false,
+                "url": "https://trello.com/1/cards/66608cb49a3a0a899b6b6b34/attachments/66608cc4f99b5efcfa1a11d5/previews/66608cc5f99b5efcfa1a1208/download/EA_SPORTS_FC_24_TU_15.png",
+                "bytes": 2000,
+                "height": 50,
+                "width": 70
+            },
+            {
+                "id": "66608cc5f99b5efcfa1a120a",
+                "_id": "66608cc5f99b5efcfa1a120a",
+                "scaled": true,
+                "url": "https://trello.com/1/cards/66608cb49a3a0a899b6b6b34/attachments/66608cc4f99b5efcfa1a11d5/previews/66608cc5f99b5efcfa1a120a/download/EA_SPORTS_FC_24_TU_15.png",
+                "bytes": 6033,
+                "height": 26,
+                "width": 150
+            },
+            {
+                "id": "66608cc5f99b5efcfa1a1209",
+                "_id": "66608cc5f99b5efcfa1a1209",
+                "scaled": false,
+                "url": "https://trello.com/1/cards/66608cb49a3a0a899b6b6b34/attachments/66608cc4f99b5efcfa1a11d5/previews/66608cc5f99b5efcfa1a1209/download/EA_SPORTS_FC_24_TU_15.png",
+                "bytes": 13326,
+                "height": 150,
+                "width": 250
+            },
+            {
+                "id": "66608cc5f99b5efcfa1a120b",
+                "_id": "66608cc5f99b5efcfa1a120b",
+                "scaled": true,
+                "url": "https://trello.com/1/cards/66608cb49a3a0a899b6b6b34/attachments/66608cc4f99b5efcfa1a11d5/previews/66608cc5f99b5efcfa1a120b/download/EA_SPORTS_FC_24_TU_15.png",
+                "bytes": 16747,
+                "height": 51,
+                "width": 298
+            },
+            {
+                "id": "66608cc5f99b5efcfa1a120c",
+                "_id": "66608cc5f99b5efcfa1a120c",
+                "scaled": true,
+                "url": "https://trello.com/1/cards/66608cb49a3a0a899b6b6b34/attachments/66608cc4f99b5efcfa1a11d5/previews/66608cc5f99b5efcfa1a120c/download/EA_SPORTS_FC_24_TU_15.png",
+                "bytes": 57623,
+                "height": 103,
+                "width": 600
+            },
+            {
+                "id": "66608cc5f99b5efcfa1a120d",
+                "_id": "66608cc5f99b5efcfa1a120d",
+                "scaled": true,
+                "url": "https://trello.com/1/cards/66608cb49a3a0a899b6b6b34/attachments/66608cc4f99b5efcfa1a11d5/previews/66608cc5f99b5efcfa1a120d/download/EA_SPORTS_FC_24_TU_15.png",
+                "bytes": 209523,
+                "height": 206,
+                "width": 1200
+            },
+            {
+                "id": "66608cc5f99b5efcfa1a120e",
+                "_id": "66608cc5f99b5efcfa1a120e",
+                "scaled": true,
+                "url": "https://trello.com/1/cards/66608cb49a3a0a899b6b6b34/attachments/66608cc4f99b5efcfa1a11d5/previews/66608cc5f99b5efcfa1a120e/download/EA_SPORTS_FC_24_TU_15.png",
+                "bytes": 462411,
+                "height": 329,
+                "width": 1920
+            }
+        ],
+        "edgeColor": "#1f221a",
+        "idPlugin": null
+    },
+    "isTemplate": false,
+    "cardRole": null,
+    "mirrorSourceId": null,
+    "mirrorSourceNodeId": null,
+    "checklists": [],
+    "customFieldItems": [],
+    "members": [],
+    "pluginData": [],
+    "actions": [
+        {
+            "id": "6683cbb465fa0842da3c77ca",
+            "idMemberCreator": "55fab97406891939fbe4cb5e",
+            "data": {
+                "card": {
+                    "pos": 65537,
+                    "id": "66608cb49a3a0a899b6b6b34",
+                    "name": "[PC/PS4/PS5/XB1/XBSX|S/SWITCH] Title Update #15",
+                    "idShort": 440,
+                    "shortLink": "k08tcq7b"
+                },
+                "old": {
+                    "pos": 36863.9375
+                },
+                "board": {
+                    "id": "5f73f7c1b4c1280a7068df5f",
+                    "name": "EA SPORTS FC Tracker",
+                    "shortLink": "keigLn6R"
+                },
+                "list": {
+                    "id": "65106b33b85885896f15d616",
+                    "name": "Game Updates Archive"
+                }
+            },
+            "appCreator": null,
+            "type": "updateCard",
+            "date": "2024-07-02T09:43:16.977Z",
+            "limits": null,
+            "memberCreator": {
+                "id": "55fab97406891939fbe4cb5e",
+                "activityBlocked": false,
+                "avatarHash": "12acb16aff4d994e1b6cf238d7522e59",
+                "avatarUrl": "https://trello-members.s3.amazonaws.com/55fab97406891939fbe4cb5e/12acb16aff4d994e1b6cf238d7522e59",
+                "fullName": "D-Maks",
+                "idMemberReferrer": null,
+                "initials": "D",
+                "nonPublic": {},
+                "nonPublicAvailable": true,
+                "username": "denissmaksimovs"
+            }
+        },
+        {
+            "id": "6683cbb465fa0842da3c74ce",
+            "idMemberCreator": "55fab97406891939fbe4cb5e",
+            "data": {
+                "card": {
+                    "idList": "65106b33b85885896f15d616",
+                    "id": "66608cb49a3a0a899b6b6b34",
+                    "name": "[PC/PS4/PS5/XB1/XBSX|S/SWITCH] Title Update #15",
+                    "idShort": 440,
+                    "shortLink": "k08tcq7b"
+                },
+                "old": {
+                    "idList": "5f73f7c1b4c1280a7068df61"
+                },
+                "board": {
+                    "id": "5f73f7c1b4c1280a7068df5f",
+                    "name": "EA SPORTS FC Tracker",
+                    "shortLink": "keigLn6R"
+                },
+                "listBefore": {
+                    "id": "5f73f7c1b4c1280a7068df61",
+                    "name": "Latest News"
+                },
+                "listAfter": {
+                    "id": "65106b33b85885896f15d616",
+                    "name": "Game Updates Archive"
+                }
+            },
+            "appCreator": null,
+            "type": "updateCard",
+            "date": "2024-07-02T09:43:16.129Z",
+            "limits": null,
+            "memberCreator": {
+                "id": "55fab97406891939fbe4cb5e",
+                "activityBlocked": false,
+                "avatarHash": "12acb16aff4d994e1b6cf238d7522e59",
+                "avatarUrl": "https://trello-members.s3.amazonaws.com/55fab97406891939fbe4cb5e/12acb16aff4d994e1b6cf238d7522e59",
+                "fullName": "D-Maks",
+                "idMemberReferrer": null,
+                "initials": "D",
+                "nonPublic": {},
+                "nonPublicAvailable": true,
+                "username": "denissmaksimovs"
+            }
+        },
+        {
+            "id": "6661872300ea38b799c36988",
+            "idMemberCreator": "55fab97406891939fbe4cb5e",
+            "data": {
+                "card": {
+                    "desc": "The EA SPORTS FC 24 Festival of Football Update (Title Update #15) is now available for all platforms and includes a number of changes and additions, including:\n\n- Added The UEFA EURO 2024™ experience.\n- Added a new Skill Move and celebration.\n- 27 new Star Heads.\n\nIn addition to these TU notes, be sure to check out our [Festival of Football Update Pitch Notes](https://www.ea.com/games/ea-sports-fc/pitch-notes/news/festival-of-football \"‌\") article which dives deep into some of the changes and additions through videos and screenshots.\n\n‌\n\n**Ultimate Team**\n\nAddressed the following issues:\n\n- Addressed instances of Loan Player matches exceeding 99 when combined with a duplicate Loan Player.\n\n### Gameplay\n\nMade the following change:\n\n- Added the new Double Touch Lane Change Skill Move which can be performed while standing or jogging.\n- Check out our Pitch Notes to learn more about this Skill Move.\n\n‌\n\nAddressed the following issues:\n\n- In certain situations where the Goalkeeper was rushing out, CPU AI controlled players would attempt to perform a chip shot and miss the net unintentionally.\n- In some stadiums, ball kids could miss their throws to the intended player.\n\n### Career Mode\n\nMade the following changes:\n\n- Added Double-PlayStyles+ Player Items in the Youth Academy.\n- Check out our Pitch Notes to learn more about this Youth Academy update.\n\n‌\n\nAddressed the following issues:\n\n- In Manager Career, Player Items on International Duty could not be removed from the Starting 11 or Substitutions.\n\n### General, Audio, and Visual\n\nMade the following changes:\n\n- Added a new signature celebration.\n- Updated some ad boards, kits, and UI elements.\n\n‌\n\nAddressed the following issues:\n\n- Addressed instances of players being able to Matchmake with different Matchmaking settings.\n- Addressed instances of instability issues that could have occurred.\n- Addressed instances of placeholder images.\n- Addressed instances of incorrect or placeholder text.\n\n‌\n\nThanks to those who’ve provided and continue to provide feedback. Throughout the course of the EA SPORTS FC 24 season, we'll provide you with more information and updates if and when they become available. Be sure to follow \\@‌EASFCDIRECT on X and to check out the EA SPORTS FC Tracker for the latest news and updates.\n\n‌\n\n- The EA SPORTS FC Team",
+                    "id": "66608cb49a3a0a899b6b6b34",
+                    "name": "[PC/PS4/PS5/XB1/XBSX|S/SWITCH] Title Update #15",
+                    "idShort": 440,
+                    "shortLink": "k08tcq7b"
+                },
+                "old": {
+                    "desc": "The EA SPORTS FC 24 Festival of Football Update (Title Update #15) will soon be available for all platforms and includes a number of changes and additions, including:\n\n- Added The UEFA EURO 2024™ experience.\n- Added a new Skill Move and celebration.\n- 27 new Star Heads.\n\nIn addition to these TU notes, be sure to check out our [Festival of Football Update Pitch Notes](https://www.ea.com/games/ea-sports-fc/pitch-notes/news/festival-of-football \"‌\") article which dives deep into some of the changes and additions through videos and screenshots.\n\n‌\n\n**Ultimate Team**\n\nAddressed the following issues:\n\n- Addressed instances of Loan Player matches exceeding 99 when combined with a duplicate Loan Player.\n\n### Gameplay\n\nMade the following change:\n\n- Added the new Double Touch Lane Change Skill Move which can be performed while standing or jogging.\n- Check out our Pitch Notes to learn more about this Skill Move.\n\n‌\n\nAddressed the following issues:\n\n- In certain situations where the Goalkeeper was rushing out, CPU AI controlled players would attempt to perform a chip shot and miss the net unintentionally.\n- In some stadiums, ball kids could miss their throws to the intended player.\n\n### Career Mode\n\nMade the following changes:\n\n- Added Double-PlayStyles+ Player Items in the Youth Academy.\n- Check out our Pitch Notes to learn more about this Youth Academy update.\n\n‌\n\nAddressed the following issues:\n\n- In Manager Career, Player Items on International Duty could not be removed from the Starting 11 or Substitutions.\n\n### General, Audio, and Visual\n\nMade the following changes:\n\n- Added a new signature celebration.\n- Updated some ad boards, kits, and UI elements.\n\n‌\n\nAddressed the following issues:\n\n- Addressed instances of players being able to Matchmake with different Matchmaking settings.\n- Addressed instances of instability issues that could have occurred.\n- Addressed instances of placeholder images.\n- Addressed instances of incorrect or placeholder text.\n\n‌\n\nThanks to those who’ve provided and continue to provide feedback. Throughout the course of the EA SPORTS FC 24 season, we'll provide you with more information and updates if and when they become available. Be sure to follow \\@‌EASFCDIRECT on X and to check out the EA SPORTS FC Tracker for the latest news and updates.\n\n‌\n\n- The EA SPORTS FC Team"
+                },
+                "board": {
+                    "id": "5f73f7c1b4c1280a7068df5f",
+                    "name": "EA SPORTS FC Tracker",
+                    "shortLink": "keigLn6R"
+                },
+                "list": {
+                    "id": "5f73f7c1b4c1280a7068df61",
+                    "name": "Latest News"
+                }
+            },
+            "appCreator": null,
+            "type": "updateCard",
+            "date": "2024-06-06T09:53:39.181Z",
+            "limits": null,
+            "memberCreator": {
+                "id": "55fab97406891939fbe4cb5e",
+                "activityBlocked": false,
+                "avatarHash": "12acb16aff4d994e1b6cf238d7522e59",
+                "avatarUrl": "https://trello-members.s3.amazonaws.com/55fab97406891939fbe4cb5e/12acb16aff4d994e1b6cf238d7522e59",
+                "fullName": "D-Maks",
+                "idMemberReferrer": null,
+                "initials": "D",
+                "nonPublic": {},
+                "nonPublicAvailable": true,
+                "username": "denissmaksimovs"
+            }
+        },
+        {
+            "id": "66608cdbad64e79c24814b22",
+            "idMemberCreator": "55fab97406891939fbe4cb5e",
+            "data": {
+                "card": {
+                    "pos": 4096.187496185303,
+                    "id": "66608cb49a3a0a899b6b6b34",
+                    "name": "[PC/PS4/PS5/XB1/XBSX|S/SWITCH] Title Update #15",
+                    "idShort": 440,
+                    "shortLink": "k08tcq7b"
+                },
+                "old": {
+                    "pos": 69633.93746948242
+                },
+                "board": {
+                    "id": "5f73f7c1b4c1280a7068df5f",
+                    "name": "EA SPORTS FC Tracker",
+                    "shortLink": "keigLn6R"
+                },
+                "list": {
+                    "id": "5f73f7c1b4c1280a7068df61",
+                    "name": "Latest News"
+                }
+            },
+            "appCreator": null,
+            "type": "updateCard",
+            "date": "2024-06-05T16:05:47.805Z",
+            "limits": null,
+            "memberCreator": {
+                "id": "55fab97406891939fbe4cb5e",
+                "activityBlocked": false,
+                "avatarHash": "12acb16aff4d994e1b6cf238d7522e59",
+                "avatarUrl": "https://trello-members.s3.amazonaws.com/55fab97406891939fbe4cb5e/12acb16aff4d994e1b6cf238d7522e59",
+                "fullName": "D-Maks",
+                "idMemberReferrer": null,
+                "initials": "D",
+                "nonPublic": {},
+                "nonPublicAvailable": true,
+                "username": "denissmaksimovs"
+            }
+        },
+        {
+            "id": "66608cd24a994c4202b462d7",
+            "idMemberCreator": "55fab97406891939fbe4cb5e",
+            "data": {
+                "card": {
+                    "idLabels": [
+                        "5f73f7c1b4c1280a7068dfeb",
+                        "64a6d93136e6c63d5556ac6f"
+                    ],
+                    "id": "66608cb49a3a0a899b6b6b34",
+                    "name": "[PC/PS4/PS5/XB1/XBSX|S/SWITCH] Title Update #15",
+                    "idShort": 440,
+                    "shortLink": "k08tcq7b"
+                },
+                "old": {
+                    "idLabels": [
+                        "5f73f7c1b4c1280a7068dfeb"
+                    ]
+                },
+                "board": {
+                    "id": "5f73f7c1b4c1280a7068df5f",
+                    "name": "EA SPORTS FC Tracker",
+                    "shortLink": "keigLn6R"
+                },
+                "list": {
+                    "id": "5f73f7c1b4c1280a7068df61",
+                    "name": "Latest News"
+                }
+            },
+            "appCreator": null,
+            "type": "updateCard",
+            "date": "2024-06-05T16:05:38.881Z",
+            "limits": null,
+            "memberCreator": {
+                "id": "55fab97406891939fbe4cb5e",
+                "activityBlocked": false,
+                "avatarHash": "12acb16aff4d994e1b6cf238d7522e59",
+                "avatarUrl": "https://trello-members.s3.amazonaws.com/55fab97406891939fbe4cb5e/12acb16aff4d994e1b6cf238d7522e59",
+                "fullName": "D-Maks",
+                "idMemberReferrer": null,
+                "initials": "D",
+                "nonPublic": {},
+                "nonPublicAvailable": true,
+                "username": "denissmaksimovs"
+            }
+        },
+        {
+            "id": "66608cd28d03d9649fe72375",
+            "idMemberCreator": "55fab97406891939fbe4cb5e",
+            "data": {
+                "card": {
+                    "idLabels": [
+                        "5f73f7c1b4c1280a7068dfeb"
+                    ],
+                    "id": "66608cb49a3a0a899b6b6b34",
+                    "name": "[PC/PS4/PS5/XB1/XBSX|S/SWITCH] Title Update #15",
+                    "idShort": 440,
+                    "shortLink": "k08tcq7b"
+                },
+                "old": {
+                    "idLabels": []
+                },
+                "board": {
+                    "id": "5f73f7c1b4c1280a7068df5f",
+                    "name": "EA SPORTS FC Tracker",
+                    "shortLink": "keigLn6R"
+                },
+                "list": {
+                    "id": "5f73f7c1b4c1280a7068df61",
+                    "name": "Latest News"
+                }
+            },
+            "appCreator": null,
+            "type": "updateCard",
+            "date": "2024-06-05T16:05:38.520Z",
+            "limits": null,
+            "memberCreator": {
+                "id": "55fab97406891939fbe4cb5e",
+                "activityBlocked": false,
+                "avatarHash": "12acb16aff4d994e1b6cf238d7522e59",
+                "avatarUrl": "https://trello-members.s3.amazonaws.com/55fab97406891939fbe4cb5e/12acb16aff4d994e1b6cf238d7522e59",
+                "fullName": "D-Maks",
+                "idMemberReferrer": null,
+                "initials": "D",
+                "nonPublic": {},
+                "nonPublicAvailable": true,
+                "username": "denissmaksimovs"
+            }
+        },
+        {
+            "id": "66608ccfa765998539c6c9ac",
+            "idMemberCreator": "55fab97406891939fbe4cb5e",
+            "data": {
+                "card": {
+                    "desc": "The EA SPORTS FC 24 Festival of Football Update (Title Update #15) will soon be available for all platforms and includes a number of changes and additions, including:\n\n- Added The UEFA EURO 2024™ experience.\n- Added a new Skill Move and celebration.\n- 27 new Star Heads.\n\nIn addition to these TU notes, be sure to check out our [Festival of Football Update Pitch Notes](https://www.ea.com/games/ea-sports-fc/pitch-notes/news/festival-of-football \"‌\") article which dives deep into some of the changes and additions through videos and screenshots.\n\n‌\n\n**Ultimate Team**\n\nAddressed the following issues:\n\n- Addressed instances of Loan Player matches exceeding 99 when combined with a duplicate Loan Player.\n\n### Gameplay\n\nMade the following change:\n\n- Added the new Double Touch Lane Change Skill Move which can be performed while standing or jogging.\n- Check out our Pitch Notes to learn more about this Skill Move.\n\n‌\n\nAddressed the following issues:\n\n- In certain situations where the Goalkeeper was rushing out, CPU AI controlled players would attempt to perform a chip shot and miss the net unintentionally.\n- In some stadiums, ball kids could miss their throws to the intended player.\n\n### Career Mode\n\nMade the following changes:\n\n- Added Double-PlayStyles+ Player Items in the Youth Academy.\n- Check out our Pitch Notes to learn more about this Youth Academy update.\n\n‌\n\nAddressed the following issues:\n\n- In Manager Career, Player Items on International Duty could not be removed from the Starting 11 or Substitutions.\n\n### General, Audio, and Visual\n\nMade the following changes:\n\n- Added a new signature celebration.\n- Updated some ad boards, kits, and UI elements.\n\n‌\n\nAddressed the following issues:\n\n- Addressed instances of players being able to Matchmake with different Matchmaking settings.\n- Addressed instances of instability issues that could have occurred.\n- Addressed instances of placeholder images.\n- Addressed instances of incorrect or placeholder text.\n\n‌\n\nThanks to those who’ve provided and continue to provide feedback. Throughout the course of the EA SPORTS FC 24 season, we'll provide you with more information and updates if and when they become available. Be sure to follow \\@‌EASFCDIRECT on X and to check out the EA SPORTS FC Tracker for the latest news and updates.\n\n‌\n\n- The EA SPORTS FC Team",
+                    "id": "66608cb49a3a0a899b6b6b34",
+                    "name": "[PC/PS4/PS5/XB1/XBSX|S/SWITCH] Title Update #15",
+                    "idShort": 440,
+                    "shortLink": "k08tcq7b"
+                },
+                "old": {
+                    "desc": ""
+                },
+                "board": {
+                    "id": "5f73f7c1b4c1280a7068df5f",
+                    "name": "EA SPORTS FC Tracker",
+                    "shortLink": "keigLn6R"
+                },
+                "list": {
+                    "id": "5f73f7c1b4c1280a7068df61",
+                    "name": "Latest News"
+                }
+            },
+            "appCreator": null,
+            "type": "updateCard",
+            "date": "2024-06-05T16:05:35.791Z",
+            "limits": null,
+            "memberCreator": {
+                "id": "55fab97406891939fbe4cb5e",
+                "activityBlocked": false,
+                "avatarHash": "12acb16aff4d994e1b6cf238d7522e59",
+                "avatarUrl": "https://trello-members.s3.amazonaws.com/55fab97406891939fbe4cb5e/12acb16aff4d994e1b6cf238d7522e59",
+                "fullName": "D-Maks",
+                "idMemberReferrer": null,
+                "initials": "D",
+                "nonPublic": {},
+                "nonPublicAvailable": true,
+                "username": "denissmaksimovs"
+            }
+        },
+        {
+            "id": "66608cc5f99b5efcfa1a121c",
+            "idMemberCreator": "55fab97406891939fbe4cb5e",
+            "data": {
+                "attachment": {
+                    "id": "66608cc4f99b5efcfa1a11d5",
+                    "name": "EA SPORTS FC 24 TU 15.png",
+                    "url": "https://trello.com/1/cards/66608cb49a3a0a899b6b6b34/attachments/66608cc4f99b5efcfa1a11d5/download/EA_SPORTS_FC_24_TU_15.png",
+                    "previewUrl": "https://trello.com/1/cards/66608cb49a3a0a899b6b6b34/attachments/66608cc4f99b5efcfa1a11d5/previews/preview/download/EA_SPORTS_FC_24_TU_15.png",
+                    "previewUrl2x": "https://trello.com/1/cards/66608cb49a3a0a899b6b6b34/attachments/66608cc4f99b5efcfa1a11d5/previews/preview2x/download/EA_SPORTS_FC_24_TU_15.png"
+                },
+                "card": {
+                    "id": "66608cb49a3a0a899b6b6b34",
+                    "name": "[PC/PS4/PS5/XB1/XBSX|S/SWITCH] Title Update #15",
+                    "idShort": 440,
+                    "shortLink": "k08tcq7b"
+                },
+                "list": {
+                    "id": "5f73f7c1b4c1280a7068df61",
+                    "name": "Latest News"
+                },
+                "board": {
+                    "id": "5f73f7c1b4c1280a7068df5f",
+                    "name": "EA SPORTS FC Tracker",
+                    "shortLink": "keigLn6R"
+                }
+            },
+            "appCreator": null,
+            "type": "addAttachmentToCard",
+            "date": "2024-06-05T16:05:25.369Z",
+            "limits": null,
+            "memberCreator": {
+                "id": "55fab97406891939fbe4cb5e",
+                "activityBlocked": false,
+                "avatarHash": "12acb16aff4d994e1b6cf238d7522e59",
+                "avatarUrl": "https://trello-members.s3.amazonaws.com/55fab97406891939fbe4cb5e/12acb16aff4d994e1b6cf238d7522e59",
+                "fullName": "D-Maks",
+                "idMemberReferrer": null,
+                "initials": "D",
+                "nonPublic": {},
+                "nonPublicAvailable": true,
+                "username": "denissmaksimovs"
+            }
+        },
+        {
+            "id": "66608cbcf23158cba6d228e5",
+            "idMemberCreator": "55fab97406891939fbe4cb5e",
+            "data": {
+                "card": {
+                    "dateViewedByCreator": "2024-06-05T16:05:16.631Z",
+                    "id": "66608cb49a3a0a899b6b6b34",
+                    "name": "[PC/PS4/PS5/XB1/XBSX|S/SWITCH] Title Update #15",
+                    "idShort": 440,
+                    "shortLink": "k08tcq7b"
+                },
+                "old": {
+                    "dateViewedByCreator": null
+                },
+                "board": {
+                    "id": "5f73f7c1b4c1280a7068df5f",
+                    "name": "EA SPORTS FC Tracker",
+                    "shortLink": "keigLn6R"
+                },
+                "list": {
+                    "id": "5f73f7c1b4c1280a7068df61",
+                    "name": "Latest News"
+                }
+            },
+            "appCreator": null,
+            "type": "updateCard",
+            "date": "2024-06-05T16:05:16.721Z",
+            "limits": null,
+            "memberCreator": {
+                "id": "55fab97406891939fbe4cb5e",
+                "activityBlocked": false,
+                "avatarHash": "12acb16aff4d994e1b6cf238d7522e59",
+                "avatarUrl": "https://trello-members.s3.amazonaws.com/55fab97406891939fbe4cb5e/12acb16aff4d994e1b6cf238d7522e59",
+                "fullName": "D-Maks",
+                "idMemberReferrer": null,
+                "initials": "D",
+                "nonPublic": {},
+                "nonPublicAvailable": true,
+                "username": "denissmaksimovs"
+            }
+        },
+        {
+            "id": "66608cb49a3a0a899b6b6b5d",
+            "idMemberCreator": "55fab97406891939fbe4cb5e",
+            "data": {
+                "card": {
+                    "id": "66608cb49a3a0a899b6b6b34",
+                    "name": "[PC/PS4/PS5/XB1/XBSX|S/SWITCH] Title Update #15",
+                    "idShort": 440,
+                    "shortLink": "k08tcq7b"
+                },
+                "list": {
+                    "id": "5f73f7c1b4c1280a7068df61",
+                    "name": "Latest News"
+                },
+                "board": {
+                    "id": "5f73f7c1b4c1280a7068df5f",
+                    "name": "EA SPORTS FC Tracker",
+                    "shortLink": "keigLn6R"
+                }
+            },
+            "appCreator": null,
+            "type": "createCard",
+            "date": "2024-06-05T16:05:08.717Z",
+            "limits": null,
+            "memberCreator": {
+                "id": "55fab97406891939fbe4cb5e",
+                "activityBlocked": false,
+                "avatarHash": "12acb16aff4d994e1b6cf238d7522e59",
+                "avatarUrl": "https://trello-members.s3.amazonaws.com/55fab97406891939fbe4cb5e/12acb16aff4d994e1b6cf238d7522e59",
+                "fullName": "D-Maks",
+                "idMemberReferrer": null,
+                "initials": "D",
+                "nonPublic": {},
+                "nonPublicAvailable": true,
+                "username": "denissmaksimovs"
+            }
+        }
+    ]
+}

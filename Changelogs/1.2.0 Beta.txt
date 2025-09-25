@@ -1,0 +1,20 @@
+- Fixed update list retrieval issue causing the "N/A Content Version".
+- Fixed cannot move the downloaded file to a different disk drive.
+- Added Squads/FutSquads updates profiles for FC25 and FC24, based on xAranaktu's script.
+- Added a fetcher for Squads/FutSquads file tables.
+- Added a fetcher for Squads/FutSquads file changelog (Tables, Players, Managers, Kits, Teams).
+- Added RelativeDate Column.
+- Added Patch Notes for title updates.
+- Added main settings for the tool.
+- Added new installation/download options.
+- Added an option to automatically download using an installed internet download manager.
+- Added Title Updates compatibility info with Live Editor tool versions.
+- Added FAQs
+- Added guides
+- Removed administrator privileges request.
+- Updated FC24 and FC25 Title Updates profile.
+- Minor UI updates.
+- Moved the config file to appdata
+- General fixes and improvements.
+- *(Title Updates archives are now password-protected, and can only be installed/extracted from the tool.)
+- *(We no longer use the one file compiling method, so you will now see the libraries in the same folder as the executable.)

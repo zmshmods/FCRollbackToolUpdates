@@ -1,0 +1,262 @@
+{
+    "ContentVersion": "24.19",
+    "ContentVersionDate": "Mar 18, 2025",
+    "AppID": "2195250",
+    "MainDepotID": "2195251",
+    "eng_usDepotID": "2195252",
+    "TitleUpdates": [
+        {
+            "Name": "FC24 - Title Update 19",
+            "SemVer": "1.0.120.18322",
+            "PatchID": "2285117",
+            "Size": "7.69GB",
+            "ReleasedDate": "Mar 18, 2025",
+            "DownloadURL": "https://www.mediafire.com/file/xv8qeb755rv2hjy/FC24+-+Title+Update+19.rar/file",
+            "SHA1": "ba94113da80847d308839ecd84bb2ba5d395d649",
+            "PatchNotes": "",
+            "MainManifestID": "7672999823056687052"
+        },
+        {
+            "Name": "FC24 - Title Update 18.2",
+            "SemVer": "1.0.90.31158",
+            "PatchID": "2285220",
+            "Size": "7.31GB",
+            "ReleasedDate": "Jul 29, 2024",
+            "DownloadURL": "https://www.mediafire.com/file/6awxlgjtd6dnuka/FC24+-+Title+Update+18.2.rar/file",
+            "SHA1": "7329d658bcc21dd38549c03a8859379f8343d545",
+            "PatchNotes": "https://raw.githubusercontent.com/zmshmods/FCRollbackToolUpdates/main/Profiles/FC24/TitleUpdatesPatchNotes/18.2.json",
+            "MainManifestID": "7179615260312921543"
+        },
+        {
+            "Name": "FC24 - Title Update 18",
+            "SemVer": "1.0.90.3389",
+            "PatchID": "2285131",
+            "Size": "7.29GB",
+            "ReleasedDate": "Jul 23, 2024",
+            "DownloadURL": "https://www.mediafire.com/file/p06iijysqsp5jo0/FC24+-+Title+Update+18.rar/file",
+            "SHA1": "31e998b3bf0cc3b9d01dbdf318d06fa73ab03dfc",
+            "PatchNotes": "https://raw.githubusercontent.com/zmshmods/FCRollbackToolUpdates/main/Profiles/FC24/TitleUpdatesPatchNotes/18.json",
+            "MainManifestID": "500917563687469778"
+        },
+        {
+            "Name": "FC24 - Title Update 17",
+            "SemVer": "1.0.89.28334",
+            "PatchID": "2285045",
+            "Size": "7.28GB",
+            "ReleasedDate": "Jul 3, 2024",
+            "DownloadURL": "https://www.mediafire.com/file/0wbd7dojip90ie4/FC24+-+Title+Update+17.rar/file",
+            "SHA1": "fa84076f6b9187f4cda4b18f84784256fbaae80d",
+            "PatchNotes": "https://raw.githubusercontent.com/zmshmods/FCRollbackToolUpdates/main/Profiles/FC24/TitleUpdatesPatchNotes/17.json",
+            "MainManifestID": "2868647733444346946"
+        },
+        {
+            "Name": "FC24 - Title Update 16",
+            "SemVer": "1.0.89.16451",
+            "PatchID": "2284899",
+            "Size": "7.26GB",
+            "ReleasedDate": "Jun 19, 2024",
+            "DownloadURL": "https://www.mediafire.com/file/fr487v57sveh6v5/FC24+-+Title+Update+16.rar/file",
+            "SHA1": "9723cfa6bbf00234d922242b4055229b8eeaa925",
+            "PatchNotes": "https://raw.githubusercontent.com/zmshmods/FCRollbackToolUpdates/main/Profiles/FC24/TitleUpdatesPatchNotes/16.json",
+            "MainManifestID": "3593277136298056823"
+        },
+        {
+            "Name": "FC24 - Title Update 15.1",
+            "SemVer": "1.0.89.6557",
+            "PatchID": "2282701",
+            "Size": "7.20GB",
+            "ReleasedDate": "Jun 10, 2024",
+            "DownloadURL": "https://www.mediafire.com/file/3e72kbttcoa8ovn/FC24+-+Title+Update+15.1.rar/file",
+            "SHA1": "f61bf0a6277bf4de442184012011272fa8839945",
+            "PatchNotes": "https://raw.githubusercontent.com/zmshmods/FCRollbackToolUpdates/main/Profiles/FC24/TitleUpdatesPatchNotes/15.1.json",
+            "MainManifestID": "5348451281013954290"
+        },
+        {
+            "Name": "FC24 - Title Update 15",
+            "SemVer": "1.0.88.42253",
+            "PatchID": "2282761",
+            "Size": "7.21GB",
+            "ReleasedDate": "Jun 6, 2024",
+            "DownloadURL": "https://www.mediafire.com/file/p0il0tbrl5yb0zg/FC24+-+Title+Update+15.rar/file",
+            "SHA1": "2ee69aef8eac63736ca8e6ebb0b57038af1a1d22",
+            "PatchNotes": "https://raw.githubusercontent.com/zmshmods/FCRollbackToolUpdates/main/Profiles/FC24/TitleUpdatesPatchNotes/15.json",
+            "MainManifestID": "9104727870232512777"
+        },
+        {
+            "Name": "FC24 - Title Update 14",
+            "SemVer": "1.0.87.55322",
+            "PatchID": "2265259",
+            "Size": "6.19GB",
+            "ReleasedDate": "May 7, 2024",
+            "DownloadURL": "https://www.mediafire.com/file/20vmoedb4rknbqy/FC24+-+Title+Update+14.rar/file",
+            "SHA1": "bf56e3df4f6f0ef937e2aaa44e44d59e7f24f85c",
+            "PatchNotes": "https://raw.githubusercontent.com/zmshmods/FCRollbackToolUpdates/main/Profiles/FC24/TitleUpdatesPatchNotes/14.json",
+            "MainManifestID": "6095518601779259869"
+        },
+        {
+            "Name": "FC24 - Title Update 13",
+            "SemVer": "1.0.87.30122",
+            "PatchID": "2263202",
+            "Size": "6.12GB",
+            "ReleasedDate": "Apr 23, 2024",
+            "DownloadURL": "https://www.mediafire.com/file/gvd0mtdsicokq5b/FC24+-+Title+Update+13.rar/file",
+            "SHA1": "462cd24a47daa01330d01be65743d7eb063b1cf1",
+            "PatchNotes": "https://raw.githubusercontent.com/zmshmods/FCRollbackToolUpdates/main/Profiles/FC24/TitleUpdatesPatchNotes/13.json",
+            "MainManifestID": "7629223927663874304"
+        },
+        {
+            "Name": "FC24 - Title Update 12",
+            "SemVer": "1.0.87.7970",
+            "PatchID": "2260116",
+            "Size": "6.05GB",
+            "ReleasedDate": "Apr 9, 2024",
+            "DownloadURL": "https://www.mediafire.com/file/j6a8yba18y38ksh/FC24+-+Title+Update+12.rar/file",
+            "SHA1": "b197f2fbf691c221887ad99afb89f77c04b0051d",
+            "PatchNotes": "https://raw.githubusercontent.com/zmshmods/FCRollbackToolUpdates/main/Profiles/FC24/TitleUpdatesPatchNotes/12.json",
+            "MainManifestID": "5440356553804755180"
+        },
+        {
+            "Name": "FC24 - Title Update 11.1",
+            "SemVer": "1.0.86.54938",
+            "PatchID": "2249211",
+            "Size": "5.90GB",
+            "ReleasedDate": "Mar 28, 2024",
+            "DownloadURL": "https://www.mediafire.com/file/9pgfx82nr4is9za/FC24+-+Title+Update+11.1.rar/file",
+            "SHA1": "4d756443bfd58e96594c4adda37ab4810fc9c496",
+            "PatchNotes": "https://raw.githubusercontent.com/zmshmods/FCRollbackToolUpdates/main/Profiles/FC24/TitleUpdatesPatchNotes/11.1.json",
+            "MainManifestID": "2263342600945509775"
+        },
+        {
+            "Name": "FC24 - Title Update 11",
+            "SemVer": "1.0.86.43378",
+            "PatchID": "2249164",
+            "Size": "5.89GB",
+            "ReleasedDate": "Mar 13, 2024",
+            "DownloadURL": "https://www.mediafire.com/file/i1ixavf8hvttr01/FC24+-+Title+Update+11.rar/file",
+            "SHA1": "34f7c981129f6bccb201986e603822ba88f2bac3",
+            "PatchNotes": "https://raw.githubusercontent.com/zmshmods/FCRollbackToolUpdates/main/Profiles/FC24/TitleUpdatesPatchNotes/11.json",
+            "MainManifestID": "656944846414129301"
+        },
+        {
+            "Name": "FC24 - Title Update 10",
+            "SemVer": "1.0.86.18082",
+            "PatchID": "2242449",
+            "Size": "5.60GB",
+            "ReleasedDate": "Mar 5, 2024",
+            "DownloadURL": "https://www.mediafire.com/file/wi0685bapbrjbcs/FC24+-+Title+Update+10.rar/file",
+            "SHA1": "edf50cdd0e246d80e4b3ce86a6344b94291fc8dc",
+            "PatchNotes": "https://raw.githubusercontent.com/zmshmods/FCRollbackToolUpdates/main/Profiles/FC24/TitleUpdatesPatchNotes/10.json",
+            "MainManifestID": "5559112505409196726"
+        },
+        {
+            "Name": "FC24 - Title Update 9",
+            "SemVer": "1.0.85.48150",
+            "PatchID": "2239088",
+            "Size": "5.50GB",
+            "ReleasedDate": "Feb 13, 2024",
+            "DownloadURL": "https://www.mediafire.com/file/95d2esaxhf1adci/FC24+-+Title+Update+9.rar/file",
+            "SHA1": "8f858166882265bd46f3521171220398a3c689cf",
+            "PatchNotes": "https://raw.githubusercontent.com/zmshmods/FCRollbackToolUpdates/main/Profiles/FC24/TitleUpdatesPatchNotes/9.json",
+            "MainManifestID": "291040100665846987"
+        },
+        {
+            "Name": "FC24 - Title Update 8",
+            "SemVer": "1.0.85.33923",
+            "PatchID": "2232856",
+            "Size": "4.48GB",
+            "ReleasedDate": "Jan 30, 2024",
+            "DownloadURL": "https://www.mediafire.com/file/z29yktxmckh9dcs/FC24+-+Title+Update+8.rar/file",
+            "SHA1": "1befe7ad1d4d0bab28cb703481a64b42d9d3fc87",
+            "PatchNotes": "https://raw.githubusercontent.com/zmshmods/FCRollbackToolUpdates/main/Profiles/FC24/TitleUpdatesPatchNotes/8.json",
+            "MainManifestID": "4858108661156487264"
+        },
+        {
+            "Name": "FC24 - Title Update 7",
+            "SemVer": "1.0.85.25441",
+            "PatchID": "2232636",
+            "Size": "4.48GB",
+            "ReleasedDate": "Jan 17, 2024",
+            "DownloadURL": "https://www.mediafire.com/file/z019vs5tn1pj518/FC24+-+Title+Update+7.rar/file",
+            "SHA1": "7a588316028b4b0d822d0bd37b1c83226186bb99",
+            "PatchNotes": "https://raw.githubusercontent.com/zmshmods/FCRollbackToolUpdates/main/Profiles/FC24/TitleUpdatesPatchNotes/7.json",
+            "MainManifestID": "5157628911572200293"
+        },
+        {
+            "Name": "FC24 - Title Update 6",
+            "SemVer": "1.0.84.58490",
+            "PatchID": "2218369",
+            "Size": "4.05GB",
+            "ReleasedDate": "Dec 6, 2023",
+            "DownloadURL": "https://www.mediafire.com/file/pt17msuclspq127/FC24+-+Title+Update+6.rar/file",
+            "SHA1": "b8184dae4daf2660a951e35678bae374a4d6df3a",
+            "PatchNotes": "https://raw.githubusercontent.com/zmshmods/FCRollbackToolUpdates/main/Profiles/FC24/TitleUpdatesPatchNotes/6.json",
+            "MainManifestID": "7370829040952015582"
+        },
+        {
+            "Name": "FC24 - Title Update 5",
+            "SemVer": "1.0.84.34605",
+            "PatchID": "2210311",
+            "Size": "3.55GB",
+            "ReleasedDate": "Nov 9, 2023",
+            "DownloadURL": "https://www.mediafire.com/file/h4q3hv38lg6gfus/FC24+-+Title+Update+5.rar/file",
+            "SHA1": "5fb5f393723793fbd9a6e33cd0bd3d3f5eb5f517",
+            "PatchNotes": "https://raw.githubusercontent.com/zmshmods/FCRollbackToolUpdates/main/Profiles/FC24/TitleUpdatesPatchNotes/5.json",
+            "MainManifestID": "4396436430594944831"
+        },
+        {
+            "Name": "FC24 - Title Update 4",
+            "SemVer": "1.0.84.28561",
+            "PatchID": "2195970",
+            "Size": "3.12GB",
+            "ReleasedDate": "Oct 26, 2023",
+            "DownloadURL": "https://www.mediafire.com/file/2u0f1yl9ylono8j/FC24+-+Title+Update+4.rar/file",
+            "SHA1": "038cb3670d4c4477dde659a78026ad35fb213500",
+            "PatchNotes": "https://raw.githubusercontent.com/zmshmods/FCRollbackToolUpdates/main/Profiles/FC24/TitleUpdatesPatchNotes/4.json",
+            "MainManifestID": "5380961293255939216"
+        },
+        {
+            "Name": "FC24 - Title Update 3",
+            "SemVer": "1.0.84.10708",
+            "PatchID": "2193333",
+            "Size": "3.07GB",
+            "ReleasedDate": "Oct 12, 2023",
+            "DownloadURL": "https://www.mediafire.com/file/kw6vqqudro71ujk/FC24+-+Title+Update+3.rar/file",
+            "SHA1": "08f4637691e683920fc343cc4893e887890e6938",
+            "PatchNotes": "https://raw.githubusercontent.com/zmshmods/FCRollbackToolUpdates/main/Profiles/FC24/TitleUpdatesPatchNotes/3.json",
+            "MainManifestID": "8407007393507410031"
+        },
+        {
+            "Name": "FC24 - Title Update 2",
+            "SemVer": "1.0.84.7390",
+            "PatchID": "2183206",
+            "Size": "2.31GB",
+            "ReleasedDate": "Oct 2, 2023",
+            "DownloadURL": "https://www.mediafire.com/file/lbg2x5b769gcql2/FC24+-+Title+Update+2.rar/file",
+            "SHA1": "dd6cae11d94d49117c4d004777ce715d2520533d",
+            "PatchNotes": "https://raw.githubusercontent.com/zmshmods/FCRollbackToolUpdates/main/Profiles/FC24/TitleUpdatesPatchNotes/2.json",
+            "MainManifestID": "2686475769366658710"
+        },
+        {
+            "Name": "FC24 - Title Update 1",
+            "SemVer": "1.0.84.4417",
+            "PatchID": "2183119",
+            "Size": "2.35GB",
+            "ReleasedDate": "Sep 25, 2023",
+            "DownloadURL": "https://www.mediafire.com/file/3vk3tj6kxzy6yts/FC24+-+Title+Update+1.rar/file",
+            "SHA1": "9171ac0b7b84e68d39e9ca4fa2660cd1a6cc5bba",
+            "PatchNotes": "https://raw.githubusercontent.com/zmshmods/FCRollbackToolUpdates/main/Profiles/FC24/TitleUpdatesPatchNotes/1.json",
+            "MainManifestID": "8149824371950157447"
+        },
+        {
+            "Name": "FC24 - Vanilla",
+            "SemVer": "1.0.83.56686",
+            "PatchID": "2183097",
+            "Size": "2.32GB",
+            "ReleasedDate": "Sep 14, 2023",
+            "DownloadURL": "https://www.mediafire.com/file/ww71eh09g3ed0vc/FC24+-+Vanilla.rar/file",
+            "SHA1": "15beff0f5edc4274e1e1ae9ecb9a891bb9cef6f6",
+            "PatchNotes": "",
+            "MainManifestID": "430004340097024177"
+        }
+    ]
+}

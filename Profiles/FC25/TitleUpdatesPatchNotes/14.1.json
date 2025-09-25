@@ -1,0 +1,706 @@
+{
+    "id": "681bd1e128cb409448471a20",
+    "address": null,
+    "badges": {
+        "attachments": 1,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "description": true,
+        "due": null,
+        "dueComplete": false,
+        "lastUpdatedByAi": false,
+        "start": null,
+        "externalSource": null,
+        "attachmentsByType": {
+            "trello": {
+                "board": 0,
+                "card": 0
+            }
+        },
+        "location": false,
+        "votes": 0,
+        "maliciousAttachments": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false
+    },
+    "checkItemStates": [],
+    "closed": false,
+    "coordinates": null,
+    "creationMethod": null,
+    "creationMethodError": null,
+    "creationMethodLoadingStartedAt": null,
+    "dueComplete": false,
+    "dateClosed": null,
+    "dateLastActivity": "2025-07-01T09:04:59.346Z",
+    "dateCompleted": null,
+    "dateViewedByCreator": null,
+    "desc": "Title Update #14.1 is now available for all versions of EA SPORTS FC 25. It contains the changes below.\n\nAddressed the following issues:\n\n- [PS5/XBSX|S Only] The Spotify widget did not appear in Manager and Tournament modes.\n- [PS5/XBSX|S Only] Addressed instances of music not playing correctly.\n\nFor other platforms, this TU maintains cross-play compatibility.\n\nAs a reminder, Spotify integration in EA SPORTS FC 25 is part of an initial test available to players in Australia and Saudi Arabia on PlayStation 5 and Xbox Series X|S. [Click here](https://newsroom.spotify.com/2025-04-30/spotify-and-ea-sports-team-up-to-pilot-a-new-kind-of-audio-experience/ \"‌\") to learn more about our partnership with Spotify.\n\nThanks to those who’ve provided and continue to provide feedback. Throughout the course of the EA SPORTS FC 25 season we'll provide you with more information and updates if and when they become available. Be sure to follow \\@‌EASFCDIRECT on X and WhatsApp, and to check out the EA SPORTS FC Tracker for the latest news and updates.\n\n‌\n\n- The EA SPORTS FC Team",
+    "descData": {
+        "emoji": {}
+    },
+    "due": null,
+    "dueReminder": null,
+    "email": null,
+    "externalSource": null,
+    "idBoard": "5f73f7c1b4c1280a7068df5f",
+    "idChecklists": [],
+    "idLabels": [
+        "5f73f7c1b4c1280a7068dfeb",
+        "66b64c66fe2b82a1a0bd8245"
+    ],
+    "idList": "66e9a32579095e09d37ffc55",
+    "idMemberCreator": "5d5b1beea30eaf1b648e6ee7",
+    "idMembers": [],
+    "idMembersVoted": [],
+    "idOrganization": "6137a564cb8f6432c89f8977",
+    "idShort": 528,
+    "idAttachmentCover": "681bd22820911bee6a90d430",
+    "labels": [
+        {
+            "id": "5f73f7c1b4c1280a7068dfeb",
+            "idBoard": "5f73f7c1b4c1280a7068df5f",
+            "idOrganization": "6137a564cb8f6432c89f8977",
+            "name": "Title Update",
+            "nodeId": "ari:cloud:trello::label/workspace/6137a564cb8f6432c89f8977/5f73f7c1b4c1280a7068dfeb",
+            "color": "green",
+            "uses": 181
+        },
+        {
+            "id": "66b64c66fe2b82a1a0bd8245",
+            "idBoard": "5f73f7c1b4c1280a7068df5f",
+            "idOrganization": "6137a564cb8f6432c89f8977",
+            "name": "EA SPORTS FC 25",
+            "nodeId": "ari:cloud:trello::label/workspace/6137a564cb8f6432c89f8977/66b64c66fe2b82a1a0bd8245",
+            "color": "black_dark",
+            "uses": 76
+        }
+    ],
+    "limits": {
+        "attachments": {
+            "perCard": {
+                "status": "ok",
+                "disableAt": 1000,
+                "warnAt": 800
+            }
+        },
+        "checklists": {
+            "perCard": {
+                "status": "ok",
+                "disableAt": 500,
+                "warnAt": 400
+            }
+        },
+        "stickers": {
+            "perCard": {
+                "status": "ok",
+                "disableAt": 70,
+                "warnAt": 56
+            }
+        }
+    },
+    "locationName": null,
+    "manualCoverAttachment": true,
+    "name": "[PS5/PS4/PC/XBSX|S/XB1/SWITCH] Title Update #14.1",
+    "nodeId": "ari:cloud:trello::card/workspace/6137a564cb8f6432c89f8977/681bd1e128cb409448471a20",
+    "pinned": false,
+    "pos": 5120,
+    "shortLink": "7shrkQeK",
+    "shortUrl": "https://trello.com/c/7shrkQeK",
+    "singleInstrumentationId": null,
+    "sourceEmail": null,
+    "staticMapUrl": null,
+    "start": null,
+    "subscribed": null,
+    "url": "https://trello.com/c/7shrkQeK/528-ps5-ps4-pc-xbsxs-xb1-switch-title-update-141",
+    "cover": {
+        "idAttachment": "681bd22820911bee6a90d430",
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "dark",
+        "scaled": [
+            {
+                "id": "681bd22a20911bee6a90d435",
+                "_id": "681bd22a20911bee6a90d435",
+                "scaled": false,
+                "url": "https://trello.com/1/cards/681bd1e128cb409448471a20/attachments/681bd22820911bee6a90d430/previews/681bd22a20911bee6a90d435/download/EASFC_25_TU_14.1.webp",
+                "bytes": 632,
+                "height": 50,
+                "width": 70
+            },
+            {
+                "id": "681bd22a20911bee6a90d437",
+                "_id": "681bd22a20911bee6a90d437",
+                "scaled": true,
+                "url": "https://trello.com/1/cards/681bd1e128cb409448471a20/attachments/681bd22820911bee6a90d430/previews/681bd22a20911bee6a90d437/download/EASFC_25_TU_14.1.webp",
+                "bytes": 1592,
+                "height": 26,
+                "width": 150
+            },
+            {
+                "id": "681bd22a20911bee6a90d436",
+                "_id": "681bd22a20911bee6a90d436",
+                "scaled": false,
+                "url": "https://trello.com/1/cards/681bd1e128cb409448471a20/attachments/681bd22820911bee6a90d430/previews/681bd22a20911bee6a90d436/download/EASFC_25_TU_14.1.webp",
+                "bytes": 3218,
+                "height": 150,
+                "width": 250
+            },
+            {
+                "id": "681bd22a20911bee6a90d438",
+                "_id": "681bd22a20911bee6a90d438",
+                "scaled": true,
+                "url": "https://trello.com/1/cards/681bd1e128cb409448471a20/attachments/681bd22820911bee6a90d430/previews/681bd22a20911bee6a90d438/download/EASFC_25_TU_14.1.webp",
+                "bytes": 4008,
+                "height": 51,
+                "width": 298
+            },
+            {
+                "id": "681bd22a20911bee6a90d439",
+                "_id": "681bd22a20911bee6a90d439",
+                "scaled": true,
+                "url": "https://trello.com/1/cards/681bd1e128cb409448471a20/attachments/681bd22820911bee6a90d430/previews/681bd22a20911bee6a90d439/download/EASFC_25_TU_14.1.webp",
+                "bytes": 12050,
+                "height": 103,
+                "width": 600
+            },
+            {
+                "id": "681bd22a20911bee6a90d43a",
+                "_id": "681bd22a20911bee6a90d43a",
+                "scaled": true,
+                "url": "https://trello.com/1/cards/681bd1e128cb409448471a20/attachments/681bd22820911bee6a90d430/previews/681bd22a20911bee6a90d43a/download/EASFC_25_TU_14.1.webp",
+                "bytes": 37740,
+                "height": 206,
+                "width": 1200
+            },
+            {
+                "id": "681bd22a20911bee6a90d43b",
+                "_id": "681bd22a20911bee6a90d43b",
+                "scaled": true,
+                "url": "https://trello.com/1/cards/681bd1e128cb409448471a20/attachments/681bd22820911bee6a90d430/previews/681bd22a20911bee6a90d43b/download/EASFC_25_TU_14.1.webp",
+                "bytes": 80684,
+                "height": 329,
+                "width": 1920
+            }
+        ],
+        "edgeColor": "#283119",
+        "idPlugin": null
+    },
+    "isTemplate": false,
+    "cardRole": null,
+    "mirrorSourceId": null,
+    "mirrorSourceNodeId": null,
+    "checklists": [],
+    "customFieldItems": [],
+    "members": [],
+    "pluginData": [],
+    "actions": [
+        {
+            "id": "6863a4bbec865ae2c041e5a3",
+            "idMemberCreator": "55fab97406891939fbe4cb5e",
+            "data": {
+                "old": {
+                    "pos": 9215.984375
+                },
+                "card": {
+                    "pos": 5120,
+                    "id": "681bd1e128cb409448471a20",
+                    "name": "[PS5/PS4/PC/XBSX|S/XB1/SWITCH] Title Update #14.1",
+                    "idShort": 528,
+                    "shortLink": "7shrkQeK"
+                },
+                "board": {
+                    "id": "5f73f7c1b4c1280a7068df5f",
+                    "name": "EA SPORTS FC Tracker",
+                    "shortLink": "keigLn6R"
+                },
+                "list": {
+                    "id": "66e9a32579095e09d37ffc55",
+                    "name": "Game Updates"
+                }
+            },
+            "appCreator": null,
+            "type": "updateCard",
+            "date": "2025-07-01T09:04:59.358Z",
+            "limits": null,
+            "memberCreator": {
+                "id": "55fab97406891939fbe4cb5e",
+                "activityBlocked": false,
+                "avatarHash": "12acb16aff4d994e1b6cf238d7522e59",
+                "avatarUrl": "https://trello-members.s3.amazonaws.com/55fab97406891939fbe4cb5e/12acb16aff4d994e1b6cf238d7522e59",
+                "fullName": "D-Maks",
+                "idMemberReferrer": null,
+                "initials": "D",
+                "nonPublic": {},
+                "nonPublicAvailable": true,
+                "username": "denissmaksimovs"
+            }
+        },
+        {
+            "id": "6863a4baec865ae2c041df76",
+            "idMemberCreator": "55fab97406891939fbe4cb5e",
+            "data": {
+                "old": {
+                    "idList": "5f73f7c1b4c1280a7068df61"
+                },
+                "card": {
+                    "idList": "66e9a32579095e09d37ffc55",
+                    "id": "681bd1e128cb409448471a20",
+                    "name": "[PS5/PS4/PC/XBSX|S/XB1/SWITCH] Title Update #14.1",
+                    "idShort": 528,
+                    "shortLink": "7shrkQeK"
+                },
+                "board": {
+                    "id": "5f73f7c1b4c1280a7068df5f",
+                    "name": "EA SPORTS FC Tracker",
+                    "shortLink": "keigLn6R"
+                },
+                "listBefore": {
+                    "id": "5f73f7c1b4c1280a7068df61",
+                    "name": "Latest News"
+                },
+                "listAfter": {
+                    "id": "66e9a32579095e09d37ffc55",
+                    "name": "Game Updates"
+                }
+            },
+            "appCreator": null,
+            "type": "updateCard",
+            "date": "2025-07-01T09:04:58.879Z",
+            "limits": null,
+            "memberCreator": {
+                "id": "55fab97406891939fbe4cb5e",
+                "activityBlocked": false,
+                "avatarHash": "12acb16aff4d994e1b6cf238d7522e59",
+                "avatarUrl": "https://trello-members.s3.amazonaws.com/55fab97406891939fbe4cb5e/12acb16aff4d994e1b6cf238d7522e59",
+                "fullName": "D-Maks",
+                "idMemberReferrer": null,
+                "initials": "D",
+                "nonPublic": {},
+                "nonPublicAvailable": true,
+                "username": "denissmaksimovs"
+            }
+        },
+        {
+            "id": "6823125e1de9320bf72406b3",
+            "idMemberCreator": "55fab97406891939fbe4cb5e",
+            "data": {
+                "old": {
+                    "desc": "Title Update #14.1 is now available for the PS5, XBSX|S, PC, PS4, XB1 and soon will be available for the SWITCH versions of EA SPORTS FC 25. It contains the changes below.\n\nAddressed the following issues:\n\n- [PS5/XBSX|S Only] The Spotify widget did not appear in Manager and Tournament modes.\n- [PS5/XBSX|S Only] Addressed instances of music not playing correctly.\n\nFor other platforms, this TU maintains cross-play compatibility.\n\nAs a reminder, Spotify integration in EA SPORTS FC 25 is part of an initial test available to players in Australia and Saudi Arabia on PlayStation 5 and Xbox Series X|S. [Click here](https://newsroom.spotify.com/2025-04-30/spotify-and-ea-sports-team-up-to-pilot-a-new-kind-of-audio-experience/ \"‌\") to learn more about our partnership with Spotify.\n\nThanks to those who’ve provided and continue to provide feedback. Throughout the course of the EA SPORTS FC 25 season we'll provide you with more information and updates if and when they become available. Be sure to follow \\@‌EASFCDIRECT on X and WhatsApp, and to check out the EA SPORTS FC Tracker for the latest news and updates.\n\n‌\n\n- The EA SPORTS FC Team"
+                },
+                "card": {
+                    "desc": "Title Update #14.1 is now available for all versions of EA SPORTS FC 25. It contains the changes below.\n\nAddressed the following issues:\n\n- [PS5/XBSX|S Only] The Spotify widget did not appear in Manager and Tournament modes.\n- [PS5/XBSX|S Only] Addressed instances of music not playing correctly.\n\nFor other platforms, this TU maintains cross-play compatibility.\n\nAs a reminder, Spotify integration in EA SPORTS FC 25 is part of an initial test available to players in Australia and Saudi Arabia on PlayStation 5 and Xbox Series X|S. [Click here](https://newsroom.spotify.com/2025-04-30/spotify-and-ea-sports-team-up-to-pilot-a-new-kind-of-audio-experience/ \"‌\") to learn more about our partnership with Spotify.\n\nThanks to those who’ve provided and continue to provide feedback. Throughout the course of the EA SPORTS FC 25 season we'll provide you with more information and updates if and when they become available. Be sure to follow \\@‌EASFCDIRECT on X and WhatsApp, and to check out the EA SPORTS FC Tracker for the latest news and updates.\n\n‌\n\n- The EA SPORTS FC Team",
+                    "id": "681bd1e128cb409448471a20",
+                    "name": "[PS5/PS4/PC/XBSX|S/XB1/SWITCH] Title Update #14.1",
+                    "idShort": 528,
+                    "shortLink": "7shrkQeK"
+                },
+                "board": {
+                    "id": "5f73f7c1b4c1280a7068df5f",
+                    "name": "EA SPORTS FC Tracker",
+                    "shortLink": "keigLn6R"
+                },
+                "list": {
+                    "id": "5f73f7c1b4c1280a7068df61",
+                    "name": "Latest News"
+                }
+            },
+            "appCreator": null,
+            "type": "updateCard",
+            "date": "2025-05-13T09:35:26.608Z",
+            "limits": null,
+            "memberCreator": {
+                "id": "55fab97406891939fbe4cb5e",
+                "activityBlocked": false,
+                "avatarHash": "12acb16aff4d994e1b6cf238d7522e59",
+                "avatarUrl": "https://trello-members.s3.amazonaws.com/55fab97406891939fbe4cb5e/12acb16aff4d994e1b6cf238d7522e59",
+                "fullName": "D-Maks",
+                "idMemberReferrer": null,
+                "initials": "D",
+                "nonPublic": {},
+                "nonPublicAvailable": true,
+                "username": "denissmaksimovs"
+            }
+        },
+        {
+            "id": "6822fd6f02a88e2dba67f802",
+            "idMemberCreator": "55fab97406891939fbe4cb5e",
+            "data": {
+                "old": {
+                    "desc": "Title Update #14.1 is now available for the PS5, XBSX|S, PC, PS4, and XB1 versions of EA SPORTS FC 25. It contains the changes below.\n\nAddressed the following issues:\n\n- [PS5/XBSX|S Only] The Spotify widget did not appear in Manager and Tournament modes.\n- [PS5/XBSX|S Only] Addressed instances of music not playing correctly.\n\nFor other platforms, this TU maintains cross-play compatibility.\n\nAs a reminder, Spotify integration in EA SPORTS FC 25 is part of an initial test available to players in Australia and Saudi Arabia on PlayStation 5 and Xbox Series X|S. [Click here](https://newsroom.spotify.com/2025-04-30/spotify-and-ea-sports-team-up-to-pilot-a-new-kind-of-audio-experience/ \"‌\") to learn more about our partnership with Spotify.\n\nThanks to those who’ve provided and continue to provide feedback. Throughout the course of the EA SPORTS FC 25 season we'll provide you with more information and updates if and when they become available. Be sure to follow \\@‌EASFCDIRECT on X and WhatsApp, and to check out the EA SPORTS FC Tracker for the latest news and updates.\n\n‌\n\n- The EA SPORTS FC Team"
+                },
+                "card": {
+                    "desc": "Title Update #14.1 is now available for the PS5, XBSX|S, PC, PS4, XB1 and soon will be available for the SWITCH versions of EA SPORTS FC 25. It contains the changes below.\n\nAddressed the following issues:\n\n- [PS5/XBSX|S Only] The Spotify widget did not appear in Manager and Tournament modes.\n- [PS5/XBSX|S Only] Addressed instances of music not playing correctly.\n\nFor other platforms, this TU maintains cross-play compatibility.\n\nAs a reminder, Spotify integration in EA SPORTS FC 25 is part of an initial test available to players in Australia and Saudi Arabia on PlayStation 5 and Xbox Series X|S. [Click here](https://newsroom.spotify.com/2025-04-30/spotify-and-ea-sports-team-up-to-pilot-a-new-kind-of-audio-experience/ \"‌\") to learn more about our partnership with Spotify.\n\nThanks to those who’ve provided and continue to provide feedback. Throughout the course of the EA SPORTS FC 25 season we'll provide you with more information and updates if and when they become available. Be sure to follow \\@‌EASFCDIRECT on X and WhatsApp, and to check out the EA SPORTS FC Tracker for the latest news and updates.\n\n‌\n\n- The EA SPORTS FC Team",
+                    "id": "681bd1e128cb409448471a20",
+                    "name": "[PS5/PS4/PC/XBSX|S/XB1/SWITCH] Title Update #14.1",
+                    "idShort": 528,
+                    "shortLink": "7shrkQeK"
+                },
+                "board": {
+                    "id": "5f73f7c1b4c1280a7068df5f",
+                    "name": "EA SPORTS FC Tracker",
+                    "shortLink": "keigLn6R"
+                },
+                "list": {
+                    "id": "5f73f7c1b4c1280a7068df61",
+                    "name": "Latest News"
+                }
+            },
+            "appCreator": null,
+            "type": "updateCard",
+            "date": "2025-05-13T08:06:07.296Z",
+            "limits": null,
+            "memberCreator": {
+                "id": "55fab97406891939fbe4cb5e",
+                "activityBlocked": false,
+                "avatarHash": "12acb16aff4d994e1b6cf238d7522e59",
+                "avatarUrl": "https://trello-members.s3.amazonaws.com/55fab97406891939fbe4cb5e/12acb16aff4d994e1b6cf238d7522e59",
+                "fullName": "D-Maks",
+                "idMemberReferrer": null,
+                "initials": "D",
+                "nonPublic": {},
+                "nonPublicAvailable": true,
+                "username": "denissmaksimovs"
+            }
+        },
+        {
+            "id": "6822fd46526bba055add98b5",
+            "idMemberCreator": "55fab97406891939fbe4cb5e",
+            "data": {
+                "old": {
+                    "name": "[PS5/PS4/PC/XBSX|S/XB1] Title Update #14.1"
+                },
+                "card": {
+                    "name": "[PS5/PS4/PC/XBSX|S/XB1/SWITCH] Title Update #14.1",
+                    "id": "681bd1e128cb409448471a20",
+                    "idShort": 528,
+                    "shortLink": "7shrkQeK"
+                },
+                "board": {
+                    "id": "5f73f7c1b4c1280a7068df5f",
+                    "name": "EA SPORTS FC Tracker",
+                    "shortLink": "keigLn6R"
+                },
+                "list": {
+                    "id": "5f73f7c1b4c1280a7068df61",
+                    "name": "Latest News"
+                }
+            },
+            "appCreator": null,
+            "type": "updateCard",
+            "date": "2025-05-13T08:05:26.868Z",
+            "limits": null,
+            "memberCreator": {
+                "id": "55fab97406891939fbe4cb5e",
+                "activityBlocked": false,
+                "avatarHash": "12acb16aff4d994e1b6cf238d7522e59",
+                "avatarUrl": "https://trello-members.s3.amazonaws.com/55fab97406891939fbe4cb5e/12acb16aff4d994e1b6cf238d7522e59",
+                "fullName": "D-Maks",
+                "idMemberReferrer": null,
+                "initials": "D",
+                "nonPublic": {},
+                "nonPublicAvailable": true,
+                "username": "denissmaksimovs"
+            }
+        },
+        {
+            "id": "681c8e25ed3e5e83c4ada9d2",
+            "idMemberCreator": "55fab97406891939fbe4cb5e",
+            "data": {
+                "old": {
+                    "desc": "Title Update #14.1 will soon be available for the PS5, XBSX|S, PC, PS4, and XB1 versions of EA SPORTS FC 25. It contains the changes below.\n\nAddressed the following issues:\n\n- [PS5/XBSX|S Only] The Spotify widget did not appear in Manager and Tournament modes.\n\n- [PS5/XBSX|S Only] Addressed instances of music not playing correctly.\n\nFor other platforms, this TU maintains cross-play compatibility.\n\nAs a reminder, Spotify integration in EA SPORTS FC 25 is part of an initial test available to players in Australia and Saudi Arabia on PlayStation 5 and Xbox Series X|S. [Click here](https://newsroom.spotify.com/2025-04-30/spotify-and-ea-sports-team-up-to-pilot-a-new-kind-of-audio-experience/ \"‌\") to learn more about our partnership with Spotify.\n\nThanks to those who’ve provided and continue to provide feedback. Throughout the course of the EA SPORTS FC 25 season we'll provide you with more information and updates if and when they become available. Be sure to follow \\@‌EASFCDIRECT on X and WhatsApp, and to check out the EA SPORTS FC Tracker for the latest news and updates.\n\n‌\n\n- The EA SPORTS FC Team"
+                },
+                "card": {
+                    "desc": "Title Update #14.1 is now available for the PS5, XBSX|S, PC, PS4, and XB1 versions of EA SPORTS FC 25. It contains the changes below.\n\nAddressed the following issues:\n\n- [PS5/XBSX|S Only] The Spotify widget did not appear in Manager and Tournament modes.\n- [PS5/XBSX|S Only] Addressed instances of music not playing correctly.\n\nFor other platforms, this TU maintains cross-play compatibility.\n\nAs a reminder, Spotify integration in EA SPORTS FC 25 is part of an initial test available to players in Australia and Saudi Arabia on PlayStation 5 and Xbox Series X|S. [Click here](https://newsroom.spotify.com/2025-04-30/spotify-and-ea-sports-team-up-to-pilot-a-new-kind-of-audio-experience/ \"‌\") to learn more about our partnership with Spotify.\n\nThanks to those who’ve provided and continue to provide feedback. Throughout the course of the EA SPORTS FC 25 season we'll provide you with more information and updates if and when they become available. Be sure to follow \\@‌EASFCDIRECT on X and WhatsApp, and to check out the EA SPORTS FC Tracker for the latest news and updates.\n\n‌\n\n- The EA SPORTS FC Team",
+                    "id": "681bd1e128cb409448471a20",
+                    "name": "[PS5/PS4/PC/XBSX|S/XB1] Title Update #14.1",
+                    "idShort": 528,
+                    "shortLink": "7shrkQeK"
+                },
+                "board": {
+                    "id": "5f73f7c1b4c1280a7068df5f",
+                    "name": "EA SPORTS FC Tracker",
+                    "shortLink": "keigLn6R"
+                },
+                "list": {
+                    "id": "5f73f7c1b4c1280a7068df61",
+                    "name": "Latest News"
+                }
+            },
+            "appCreator": null,
+            "type": "updateCard",
+            "date": "2025-05-08T10:57:41.113Z",
+            "limits": null,
+            "memberCreator": {
+                "id": "55fab97406891939fbe4cb5e",
+                "activityBlocked": false,
+                "avatarHash": "12acb16aff4d994e1b6cf238d7522e59",
+                "avatarUrl": "https://trello-members.s3.amazonaws.com/55fab97406891939fbe4cb5e/12acb16aff4d994e1b6cf238d7522e59",
+                "fullName": "D-Maks",
+                "idMemberReferrer": null,
+                "initials": "D",
+                "nonPublic": {},
+                "nonPublicAvailable": true,
+                "username": "denissmaksimovs"
+            }
+        },
+        {
+            "id": "681bd2419688fecc355c39db",
+            "idMemberCreator": "5d5b1beea30eaf1b648e6ee7",
+            "data": {
+                "card": {
+                    "pos": 9215.984375,
+                    "id": "681bd1e128cb409448471a20",
+                    "name": "[PS5/PS4/PC/XBSX|S/XB1] Title Update #14.1",
+                    "idShort": 528,
+                    "shortLink": "7shrkQeK"
+                },
+                "old": {
+                    "pos": 66559.984375
+                },
+                "board": {
+                    "id": "5f73f7c1b4c1280a7068df5f",
+                    "name": "EA SPORTS FC Tracker",
+                    "shortLink": "keigLn6R"
+                },
+                "list": {
+                    "id": "5f73f7c1b4c1280a7068df61",
+                    "name": "Latest News"
+                }
+            },
+            "appCreator": null,
+            "type": "updateCard",
+            "date": "2025-05-07T21:36:01.396Z",
+            "limits": null,
+            "memberCreator": {
+                "id": "5d5b1beea30eaf1b648e6ee7",
+                "activityBlocked": false,
+                "avatarHash": "9b8c2ae64bd8604e7257419fe56df466",
+                "avatarUrl": "https://trello-members.s3.amazonaws.com/5d5b1beea30eaf1b648e6ee7/9b8c2ae64bd8604e7257419fe56df466",
+                "fullName": "Goran",
+                "idMemberReferrer": null,
+                "initials": "G",
+                "nonPublic": {},
+                "nonPublicAvailable": true,
+                "username": "goran_drpoplove"
+            }
+        },
+        {
+            "id": "681bd22a20911bee6a90d447",
+            "idMemberCreator": "5d5b1beea30eaf1b648e6ee7",
+            "data": {
+                "attachment": {
+                    "id": "681bd22820911bee6a90d430",
+                    "name": "EASFC 25 TU 14.1.png",
+                    "url": "https://trello.com/1/cards/681bd1e128cb409448471a20/attachments/681bd22820911bee6a90d430/download/EASFC_25_TU_14.1.png",
+                    "previewUrl": "https://trello.com/1/cards/681bd1e128cb409448471a20/attachments/681bd22820911bee6a90d430/previews/preview/download/EASFC_25_TU_14.1.webp",
+                    "previewUrl2x": "https://trello.com/1/cards/681bd1e128cb409448471a20/attachments/681bd22820911bee6a90d430/previews/preview2x/download/EASFC_25_TU_14.1.webp"
+                },
+                "card": {
+                    "id": "681bd1e128cb409448471a20",
+                    "name": "[PS5/PS4/PC/XBSX|S/XB1] Title Update #14.1",
+                    "idShort": 528,
+                    "shortLink": "7shrkQeK"
+                },
+                "list": {
+                    "id": "5f73f7c1b4c1280a7068df61",
+                    "name": "Latest News"
+                },
+                "board": {
+                    "id": "5f73f7c1b4c1280a7068df5f",
+                    "name": "EA SPORTS FC Tracker",
+                    "shortLink": "keigLn6R"
+                }
+            },
+            "appCreator": null,
+            "type": "addAttachmentToCard",
+            "date": "2025-05-07T21:35:38.066Z",
+            "limits": null,
+            "memberCreator": {
+                "id": "5d5b1beea30eaf1b648e6ee7",
+                "activityBlocked": false,
+                "avatarHash": "9b8c2ae64bd8604e7257419fe56df466",
+                "avatarUrl": "https://trello-members.s3.amazonaws.com/5d5b1beea30eaf1b648e6ee7/9b8c2ae64bd8604e7257419fe56df466",
+                "fullName": "Goran",
+                "idMemberReferrer": null,
+                "initials": "G",
+                "nonPublic": {},
+                "nonPublicAvailable": true,
+                "username": "goran_drpoplove"
+            }
+        },
+        {
+            "id": "681bd21a2fbfdc8d923fe458",
+            "idMemberCreator": "5d5b1beea30eaf1b648e6ee7",
+            "data": {
+                "card": {
+                    "idLabels": [
+                        "5f73f7c1b4c1280a7068dfeb",
+                        "66b64c66fe2b82a1a0bd8245"
+                    ],
+                    "id": "681bd1e128cb409448471a20",
+                    "name": "[PS5/PS4/PC/XBSX|S/XB1] Title Update #14.1",
+                    "idShort": 528,
+                    "shortLink": "7shrkQeK"
+                },
+                "old": {
+                    "idLabels": [
+                        "5f73f7c1b4c1280a7068dfeb",
+                        "66b64c66fe2b82a1a0bd8245"
+                    ]
+                },
+                "board": {
+                    "id": "5f73f7c1b4c1280a7068df5f",
+                    "name": "EA SPORTS FC Tracker",
+                    "shortLink": "keigLn6R"
+                },
+                "list": {
+                    "id": "5f73f7c1b4c1280a7068df61",
+                    "name": "Latest News"
+                }
+            },
+            "appCreator": null,
+            "type": "updateCard",
+            "date": "2025-05-07T21:35:22.125Z",
+            "limits": null,
+            "memberCreator": {
+                "id": "5d5b1beea30eaf1b648e6ee7",
+                "activityBlocked": false,
+                "avatarHash": "9b8c2ae64bd8604e7257419fe56df466",
+                "avatarUrl": "https://trello-members.s3.amazonaws.com/5d5b1beea30eaf1b648e6ee7/9b8c2ae64bd8604e7257419fe56df466",
+                "fullName": "Goran",
+                "idMemberReferrer": null,
+                "initials": "G",
+                "nonPublic": {},
+                "nonPublicAvailable": true,
+                "username": "goran_drpoplove"
+            }
+        },
+        {
+            "id": "681bd21554c1aef24e6d7aae",
+            "idMemberCreator": "5d5b1beea30eaf1b648e6ee7",
+            "data": {
+                "card": {
+                    "idLabels": [
+                        "5f73f7c1b4c1280a7068dfeb"
+                    ],
+                    "id": "681bd1e128cb409448471a20",
+                    "name": "[PS5/PS4/PC/XBSX|S/XB1] Title Update #14.1",
+                    "idShort": 528,
+                    "shortLink": "7shrkQeK"
+                },
+                "old": {
+                    "idLabels": [
+                        "5f73f7c1b4c1280a7068dfeb"
+                    ]
+                },
+                "board": {
+                    "id": "5f73f7c1b4c1280a7068df5f",
+                    "name": "EA SPORTS FC Tracker",
+                    "shortLink": "keigLn6R"
+                },
+                "list": {
+                    "id": "5f73f7c1b4c1280a7068df61",
+                    "name": "Latest News"
+                }
+            },
+            "appCreator": null,
+            "type": "updateCard",
+            "date": "2025-05-07T21:35:17.318Z",
+            "limits": null,
+            "memberCreator": {
+                "id": "5d5b1beea30eaf1b648e6ee7",
+                "activityBlocked": false,
+                "avatarHash": "9b8c2ae64bd8604e7257419fe56df466",
+                "avatarUrl": "https://trello-members.s3.amazonaws.com/5d5b1beea30eaf1b648e6ee7/9b8c2ae64bd8604e7257419fe56df466",
+                "fullName": "Goran",
+                "idMemberReferrer": null,
+                "initials": "G",
+                "nonPublic": {},
+                "nonPublicAvailable": true,
+                "username": "goran_drpoplove"
+            }
+        },
+        {
+            "id": "681bd2064fae5e1cf8efe2d9",
+            "idMemberCreator": "5d5b1beea30eaf1b648e6ee7",
+            "data": {
+                "old": {
+                    "desc": ""
+                },
+                "card": {
+                    "desc": "Title Update #14.1 will soon be available for the PS5, XBSX|S, PC, PS4, and XB1 versions of EA SPORTS FC 25. It contains the changes below.\n\nAddressed the following issues:\n\n- [PS5/XBSX|S Only] The Spotify widget did not appear in Manager and Tournament modes.\n\n- [PS5/XBSX|S Only] Addressed instances of music not playing correctly.\n\nFor other platforms, this TU maintains cross-play compatibility.\n\nAs a reminder, Spotify integration in EA SPORTS FC 25 is part of an initial test available to players in Australia and Saudi Arabia on PlayStation 5 and Xbox Series X|S. [Click here](https://newsroom.spotify.com/2025-04-30/spotify-and-ea-sports-team-up-to-pilot-a-new-kind-of-audio-experience/ \"‌\") to learn more about our partnership with Spotify.\n\nThanks to those who’ve provided and continue to provide feedback. Throughout the course of the EA SPORTS FC 25 season we'll provide you with more information and updates if and when they become available. Be sure to follow \\@‌EASFCDIRECT on X and WhatsApp, and to check out the EA SPORTS FC Tracker for the latest news and updates.\n\n‌\n\n- The EA SPORTS FC Team",
+                    "id": "681bd1e128cb409448471a20",
+                    "name": "[PS5/PS4/PC/XBSX|S/XB1] Title Update #14.1",
+                    "idShort": 528,
+                    "shortLink": "7shrkQeK"
+                },
+                "board": {
+                    "id": "5f73f7c1b4c1280a7068df5f",
+                    "name": "EA SPORTS FC Tracker",
+                    "shortLink": "keigLn6R"
+                },
+                "list": {
+                    "id": "5f73f7c1b4c1280a7068df61",
+                    "name": "Latest News"
+                }
+            },
+            "appCreator": null,
+            "type": "updateCard",
+            "date": "2025-05-07T21:35:02.463Z",
+            "limits": null,
+            "memberCreator": {
+                "id": "5d5b1beea30eaf1b648e6ee7",
+                "activityBlocked": false,
+                "avatarHash": "9b8c2ae64bd8604e7257419fe56df466",
+                "avatarUrl": "https://trello-members.s3.amazonaws.com/5d5b1beea30eaf1b648e6ee7/9b8c2ae64bd8604e7257419fe56df466",
+                "fullName": "Goran",
+                "idMemberReferrer": null,
+                "initials": "G",
+                "nonPublic": {},
+                "nonPublicAvailable": true,
+                "username": "goran_drpoplove"
+            }
+        },
+        {
+            "id": "681bd1e128cb409448471a5a",
+            "idMemberCreator": "5d5b1beea30eaf1b648e6ee7",
+            "data": {
+                "card": {
+                    "id": "681bd1e128cb409448471a20",
+                    "name": "[PS5/PS4/PC/XBSX|S/XB1] Title Update #14.1",
+                    "idShort": 528,
+                    "shortLink": "7shrkQeK"
+                },
+                "list": {
+                    "id": "5f73f7c1b4c1280a7068df61",
+                    "name": "Latest News"
+                },
+                "board": {
+                    "id": "5f73f7c1b4c1280a7068df5f",
+                    "name": "EA SPORTS FC Tracker",
+                    "shortLink": "keigLn6R"
+                }
+            },
+            "appCreator": null,
+            "type": "createCard",
+            "date": "2025-05-07T21:34:25.963Z",
+            "limits": null,
+            "memberCreator": {
+                "id": "5d5b1beea30eaf1b648e6ee7",
+                "activityBlocked": false,
+                "avatarHash": "9b8c2ae64bd8604e7257419fe56df466",
+                "avatarUrl": "https://trello-members.s3.amazonaws.com/5d5b1beea30eaf1b648e6ee7/9b8c2ae64bd8604e7257419fe56df466",
+                "fullName": "Goran",
+                "idMemberReferrer": null,
+                "initials": "G",
+                "nonPublic": {},
+                "nonPublicAvailable": true,
+                "username": "goran_drpoplove"
+            }
+        }
+    ]
+}

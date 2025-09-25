@@ -1,0 +1,663 @@
+{
+    "id": "667199f5e75a89eae02017af",
+    "address": null,
+    "badges": {
+        "attachments": 1,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "description": true,
+        "due": null,
+        "dueComplete": false,
+        "lastUpdatedByAi": false,
+        "start": null,
+        "attachmentsByType": {
+            "trello": {
+                "board": 0,
+                "card": 0
+            }
+        },
+        "externalSource": null,
+        "location": false,
+        "votes": 0,
+        "maliciousAttachments": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false
+    },
+    "checkItemStates": [],
+    "closed": false,
+    "coordinates": null,
+    "creationMethod": null,
+    "creationMethodError": null,
+    "creationMethodLoadingStartedAt": null,
+    "dueComplete": false,
+    "dateClosed": null,
+    "dateLastActivity": "2024-07-29T08:33:24.924Z",
+    "dateCompleted": null,
+    "dateViewedByCreator": "2024-06-18T14:30:27.608Z",
+    "desc": "The Title Update #16 is now available for all versions of EA SPORTS FC 24, and includes the changes below.\n\n### Ultimate Team\n\nAddressed the following issues:\n\n- Contracts could not have been applied to UEFA EURO 2024 Path To Glory Timed Loan Player Items when they have zero contracts.\n- Loan Player Item rewards incorrectly displayed zero contracts.\n- SBCs with multiple rewards did not always display the entire list of rewards.\n- When two of the same Player Items were on the pitch, PlayStyle UI indicators did not display.\n- This was a visual issue only.\n- Some Club Anthems were playing incorrect songs.\n- Sometimes, the Player Performance screen for the opponents team displayed a base version of a Player Item.\n- Added a pause function for an active Evolution.\n- [Switch Only] Addressed instances of substituted Player Item models becoming invisible.\n\n‌\n\n**Clubs**\n\nAddressed the following issues:\n\n- Addressed a button conflict that could have occurred while Clubs Chat was open.\n- The crowd was not present in Drop-In matches.\n\n‌\n\n**Career Mode**\n\n- Sometimes, an incorrect Player of The Match Trophy was displayed.\n\n### General, Audio, and Visual\n\nAddressed the following issues:\n\n- Addressed instances of instability issues that could have occurred.\n- Addressed instances of placeholder images.\n- Addressed instances of misaligned text and images.\n- Addressed several UI elements and button callouts not displaying and functioning as intended.\n\n‌\n\nMade the following changes:\n\n- Updated some kits, balls, boots, crests, VIP Areas, tifos, stadium themes, pitch trophies, face accessories, tattoos, and star heads,\n- Updated favourite club list.\n\n‌\n\nThanks to those who’ve provided and continue to provide feedback. Throughout the course of the EA SPORTS FC 24 season, we'll provide you with more information and updates if and when they become available. Be sure to follow [\\@‌EASFCDIRECT](https://twitter.com/EASFCDirect \"‌\") on X and to check out the [EA SPORTS FC Tracker](https://trello.com/b/keigLn6R/ea-sports-fifa-tracker \"‌\") for the latest news and updates.\n\n‌\n\n- The EA SPORTS FC Team",
+    "descData": {
+        "emoji": {}
+    },
+    "due": null,
+    "dueReminder": null,
+    "email": null,
+    "externalSource": null,
+    "idBoard": "5f73f7c1b4c1280a7068df5f",
+    "idChecklists": [],
+    "idLabels": [
+        "5f73f7c1b4c1280a7068dfeb",
+        "64a6d93136e6c63d5556ac6f"
+    ],
+    "idList": "65106b33b85885896f15d616",
+    "idMemberCreator": "5c48831d226ccb5009c3b830",
+    "idMembers": [],
+    "idMembersVoted": [],
+    "idOrganization": "6137a564cb8f6432c89f8977",
+    "idShort": 445,
+    "idAttachmentCover": "6671a3804c190ad6d42eef34",
+    "labels": [
+        {
+            "id": "5f73f7c1b4c1280a7068dfeb",
+            "idBoard": "5f73f7c1b4c1280a7068df5f",
+            "idOrganization": "6137a564cb8f6432c89f8977",
+            "name": "Title Update",
+            "nodeId": "ari:cloud:trello::label/workspace/6137a564cb8f6432c89f8977/5f73f7c1b4c1280a7068dfeb",
+            "color": "green",
+            "uses": 182
+        },
+        {
+            "id": "64a6d93136e6c63d5556ac6f",
+            "idBoard": "5f73f7c1b4c1280a7068df5f",
+            "idOrganization": "6137a564cb8f6432c89f8977",
+            "name": "EA SPORTS FC 24",
+            "nodeId": "ari:cloud:trello::label/workspace/6137a564cb8f6432c89f8977/64a6d93136e6c63d5556ac6f",
+            "color": "green_dark",
+            "uses": 87
+        }
+    ],
+    "limits": {
+        "attachments": {
+            "perCard": {
+                "status": "ok",
+                "disableAt": 1000,
+                "warnAt": 800
+            }
+        },
+        "checklists": {
+            "perCard": {
+                "status": "ok",
+                "disableAt": 500,
+                "warnAt": 400
+            }
+        },
+        "stickers": {
+            "perCard": {
+                "status": "ok",
+                "disableAt": 70,
+                "warnAt": 56
+            }
+        }
+    },
+    "locationName": null,
+    "manualCoverAttachment": true,
+    "name": "[PC/PS4/PS5/XB1/XBSX|S/SWITCH] Title Update #16",
+    "nodeId": "ari:cloud:trello::card/workspace/6137a564cb8f6432c89f8977/667199f5e75a89eae02017af",
+    "pinned": false,
+    "pos": 65535.5,
+    "shortLink": "TyDLRfIl",
+    "shortUrl": "https://trello.com/c/TyDLRfIl",
+    "singleInstrumentationId": null,
+    "sourceEmail": null,
+    "staticMapUrl": null,
+    "start": null,
+    "subscribed": null,
+    "url": "https://trello.com/c/TyDLRfIl/445-pc-ps4-ps5-xb1-xbsxs-switch-title-update-16",
+    "cover": {
+        "idAttachment": "6671a3804c190ad6d42eef34",
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "dark",
+        "scaled": [
+            {
+                "id": "6671a3824c190ad6d42ef03f",
+                "_id": "6671a3824c190ad6d42ef03f",
+                "scaled": false,
+                "url": "https://trello.com/1/cards/667199f5e75a89eae02017af/attachments/6671a3804c190ad6d42eef34/previews/6671a3824c190ad6d42ef03f/download/EA_SPORTS_FC_24_TU_16.png",
+                "bytes": 1978,
+                "height": 50,
+                "width": 70
+            },
+            {
+                "id": "6671a3824c190ad6d42ef041",
+                "_id": "6671a3824c190ad6d42ef041",
+                "scaled": true,
+                "url": "https://trello.com/1/cards/667199f5e75a89eae02017af/attachments/6671a3804c190ad6d42eef34/previews/6671a3824c190ad6d42ef041/download/EA_SPORTS_FC_24_TU_16.png",
+                "bytes": 6074,
+                "height": 26,
+                "width": 150
+            },
+            {
+                "id": "6671a3824c190ad6d42ef040",
+                "_id": "6671a3824c190ad6d42ef040",
+                "scaled": false,
+                "url": "https://trello.com/1/cards/667199f5e75a89eae02017af/attachments/6671a3804c190ad6d42eef34/previews/6671a3824c190ad6d42ef040/download/EA_SPORTS_FC_24_TU_16.png",
+                "bytes": 13343,
+                "height": 150,
+                "width": 250
+            },
+            {
+                "id": "6671a3824c190ad6d42ef042",
+                "_id": "6671a3824c190ad6d42ef042",
+                "scaled": true,
+                "url": "https://trello.com/1/cards/667199f5e75a89eae02017af/attachments/6671a3804c190ad6d42eef34/previews/6671a3824c190ad6d42ef042/download/EA_SPORTS_FC_24_TU_16.png",
+                "bytes": 17012,
+                "height": 51,
+                "width": 298
+            },
+            {
+                "id": "6671a3824c190ad6d42ef043",
+                "_id": "6671a3824c190ad6d42ef043",
+                "scaled": true,
+                "url": "https://trello.com/1/cards/667199f5e75a89eae02017af/attachments/6671a3804c190ad6d42eef34/previews/6671a3824c190ad6d42ef043/download/EA_SPORTS_FC_24_TU_16.png",
+                "bytes": 57746,
+                "height": 103,
+                "width": 600
+            },
+            {
+                "id": "6671a3824c190ad6d42ef044",
+                "_id": "6671a3824c190ad6d42ef044",
+                "scaled": true,
+                "url": "https://trello.com/1/cards/667199f5e75a89eae02017af/attachments/6671a3804c190ad6d42eef34/previews/6671a3824c190ad6d42ef044/download/EA_SPORTS_FC_24_TU_16.png",
+                "bytes": 210266,
+                "height": 206,
+                "width": 1200
+            },
+            {
+                "id": "6671a3824c190ad6d42ef045",
+                "_id": "6671a3824c190ad6d42ef045",
+                "scaled": true,
+                "url": "https://trello.com/1/cards/667199f5e75a89eae02017af/attachments/6671a3804c190ad6d42eef34/previews/6671a3824c190ad6d42ef045/download/EA_SPORTS_FC_24_TU_16.png",
+                "bytes": 462654,
+                "height": 329,
+                "width": 1920
+            }
+        ],
+        "edgeColor": "#1e211a",
+        "idPlugin": null
+    },
+    "isTemplate": false,
+    "cardRole": null,
+    "mirrorSourceId": null,
+    "mirrorSourceNodeId": null,
+    "checklists": [],
+    "customFieldItems": [],
+    "members": [],
+    "pluginData": [],
+    "actions": [
+        {
+            "id": "66a753d4208282f4b3e0fb36",
+            "idMemberCreator": "55fab97406891939fbe4cb5e",
+            "data": {
+                "card": {
+                    "pos": 65535.5,
+                    "id": "667199f5e75a89eae02017af",
+                    "name": "[PC/PS4/PS5/XB1/XBSX|S/SWITCH] Title Update #16",
+                    "idShort": 445,
+                    "shortLink": "TyDLRfIl"
+                },
+                "old": {
+                    "pos": 12287.9375
+                },
+                "board": {
+                    "id": "5f73f7c1b4c1280a7068df5f",
+                    "name": "EA SPORTS FC Tracker",
+                    "shortLink": "keigLn6R"
+                },
+                "list": {
+                    "id": "65106b33b85885896f15d616",
+                    "name": "Game Updates Archive"
+                }
+            },
+            "appCreator": null,
+            "type": "updateCard",
+            "date": "2024-07-29T08:33:24.954Z",
+            "limits": null,
+            "memberCreator": {
+                "id": "55fab97406891939fbe4cb5e",
+                "activityBlocked": false,
+                "avatarHash": "12acb16aff4d994e1b6cf238d7522e59",
+                "avatarUrl": "https://trello-members.s3.amazonaws.com/55fab97406891939fbe4cb5e/12acb16aff4d994e1b6cf238d7522e59",
+                "fullName": "D-Maks",
+                "idMemberReferrer": null,
+                "initials": "D",
+                "nonPublic": {},
+                "nonPublicAvailable": true,
+                "username": "denissmaksimovs"
+            }
+        },
+        {
+            "id": "66a753d3208282f4b3e0f6af",
+            "idMemberCreator": "55fab97406891939fbe4cb5e",
+            "data": {
+                "card": {
+                    "idList": "65106b33b85885896f15d616",
+                    "id": "667199f5e75a89eae02017af",
+                    "name": "[PC/PS4/PS5/XB1/XBSX|S/SWITCH] Title Update #16",
+                    "idShort": 445,
+                    "shortLink": "TyDLRfIl"
+                },
+                "old": {
+                    "idList": "5f73f7c1b4c1280a7068df61"
+                },
+                "board": {
+                    "id": "5f73f7c1b4c1280a7068df5f",
+                    "name": "EA SPORTS FC Tracker",
+                    "shortLink": "keigLn6R"
+                },
+                "listBefore": {
+                    "id": "5f73f7c1b4c1280a7068df61",
+                    "name": "Latest News"
+                },
+                "listAfter": {
+                    "id": "65106b33b85885896f15d616",
+                    "name": "Game Updates Archive"
+                }
+            },
+            "appCreator": null,
+            "type": "updateCard",
+            "date": "2024-07-29T08:33:23.686Z",
+            "limits": null,
+            "memberCreator": {
+                "id": "55fab97406891939fbe4cb5e",
+                "activityBlocked": false,
+                "avatarHash": "12acb16aff4d994e1b6cf238d7522e59",
+                "avatarUrl": "https://trello-members.s3.amazonaws.com/55fab97406891939fbe4cb5e/12acb16aff4d994e1b6cf238d7522e59",
+                "fullName": "D-Maks",
+                "idMemberReferrer": null,
+                "initials": "D",
+                "nonPublic": {},
+                "nonPublicAvailable": true,
+                "username": "denissmaksimovs"
+            }
+        },
+        {
+            "id": "6683ca026f7db8a63eaa1549",
+            "idMemberCreator": "55fab97406891939fbe4cb5e",
+            "data": {
+                "card": {
+                    "desc": "The Title Update #16 is now available for all versions of EA SPORTS FC 24, and includes the changes below.\n\n### Ultimate Team\n\nAddressed the following issues:\n\n- Contracts could not have been applied to UEFA EURO 2024 Path To Glory Timed Loan Player Items when they have zero contracts.\n- Loan Player Item rewards incorrectly displayed zero contracts.\n- SBCs with multiple rewards did not always display the entire list of rewards.\n- When two of the same Player Items were on the pitch, PlayStyle UI indicators did not display.\n- This was a visual issue only.\n- Some Club Anthems were playing incorrect songs.\n- Sometimes, the Player Performance screen for the opponents team displayed a base version of a Player Item.\n- Added a pause function for an active Evolution.\n- [Switch Only] Addressed instances of substituted Player Item models becoming invisible.\n\n‌\n\n**Clubs**\n\nAddressed the following issues:\n\n- Addressed a button conflict that could have occurred while Clubs Chat was open.\n- The crowd was not present in Drop-In matches.\n\n‌\n\n**Career Mode**\n\n- Sometimes, an incorrect Player of The Match Trophy was displayed.\n\n### General, Audio, and Visual\n\nAddressed the following issues:\n\n- Addressed instances of instability issues that could have occurred.\n- Addressed instances of placeholder images.\n- Addressed instances of misaligned text and images.\n- Addressed several UI elements and button callouts not displaying and functioning as intended.\n\n‌\n\nMade the following changes:\n\n- Updated some kits, balls, boots, crests, VIP Areas, tifos, stadium themes, pitch trophies, face accessories, tattoos, and star heads,\n- Updated favourite club list.\n\n‌\n\nThanks to those who’ve provided and continue to provide feedback. Throughout the course of the EA SPORTS FC 24 season, we'll provide you with more information and updates if and when they become available. Be sure to follow [\\@‌EASFCDIRECT](https://twitter.com/EASFCDirect \"‌\") on X and to check out the [EA SPORTS FC Tracker](https://trello.com/b/keigLn6R/ea-sports-fifa-tracker \"‌\") for the latest news and updates.\n\n‌\n\n- The EA SPORTS FC Team",
+                    "id": "667199f5e75a89eae02017af",
+                    "name": "[PC/PS4/PS5/XB1/XBSX|S/SWITCH] Title Update #16",
+                    "idShort": 445,
+                    "shortLink": "TyDLRfIl"
+                },
+                "old": {
+                    "desc": "The Title Update #16 will soon be available for all versions of EA SPORTS FC 24, and includes the changes below.\n\n### Ultimate Team\n\nAddressed the following issues:\n\n- Contracts could not have been applied to UEFA EURO 2024 Path To Glory Timed Loan Player Items when they have zero contracts.\n- Loan Player Item rewards incorrectly displayed zero contracts.\n- SBCs with multiple rewards did not always display the entire list of rewards.\n- When two of the same Player Items were on the pitch, PlayStyle UI indicators did not display.\n- This was a visual issue only.\n- Some Club Anthems were playing incorrect songs.\n- Sometimes, the Player Performance screen for the opponents team displayed a base version of a Player Item.\n- Added a pause function for an active Evolution.\n- [Switch Only] Addressed instances of substituted Player Item models becoming invisible.\n\n‌\n\n**Clubs**\n\nAddressed the following issues:\n\n- Addressed a button conflict that could have occurred while Clubs Chat was open.\n- The crowd was not present in Drop-In matches.\n\n‌\n\n**Career Mode**\n\n- Sometimes, an incorrect Player of The Match Trophy was displayed.\n\n### General, Audio, and Visual\n\nAddressed the following issues:\n\n- Addressed instances of instability issues that could have occurred.\n- Addressed instances of placeholder images.\n- Addressed instances of misaligned text and images.\n- Addressed several UI elements and button callouts not displaying and functioning as intended.\n\n‌\n\nMade the following changes:\n\n- Updated some kits, balls, boots, crests, VIP Areas, tifos, stadium themes, pitch trophies, face accessories, tattoos, and star heads,\n- Updated favourite club list.\n\n‌\n\nThanks to those who’ve provided and continue to provide feedback. Throughout the course of the EA SPORTS FC 24 season, we'll provide you with more information and updates if and when they become available. Be sure to follow [\\@‌EASFCDIRECT](https://twitter.com/EASFCDirect \"‌\") on X and to check out the [EA SPORTS FC Tracker](https://trello.com/b/keigLn6R/ea-sports-fifa-tracker \"‌\") for the latest news and updates.\n\n‌\n\n- The EA SPORTS FC Team"
+                },
+                "board": {
+                    "id": "5f73f7c1b4c1280a7068df5f",
+                    "name": "EA SPORTS FC Tracker",
+                    "shortLink": "keigLn6R"
+                },
+                "list": {
+                    "id": "5f73f7c1b4c1280a7068df61",
+                    "name": "Latest News"
+                }
+            },
+            "appCreator": null,
+            "type": "updateCard",
+            "date": "2024-07-02T09:36:02.197Z",
+            "limits": null,
+            "memberCreator": {
+                "id": "55fab97406891939fbe4cb5e",
+                "activityBlocked": false,
+                "avatarHash": "12acb16aff4d994e1b6cf238d7522e59",
+                "avatarUrl": "https://trello-members.s3.amazonaws.com/55fab97406891939fbe4cb5e/12acb16aff4d994e1b6cf238d7522e59",
+                "fullName": "D-Maks",
+                "idMemberReferrer": null,
+                "initials": "D",
+                "nonPublic": {},
+                "nonPublicAvailable": true,
+                "username": "denissmaksimovs"
+            }
+        },
+        {
+            "id": "667312b047579b7fa9d2583c",
+            "idMemberCreator": "5d5b1beea30eaf1b648e6ee7",
+            "data": {
+                "card": {
+                    "desc": "The Title Update #16 will soon be available for all versions of EA SPORTS FC 24, and includes the changes below.\n\n### Ultimate Team\n\nAddressed the following issues:\n\n- Contracts could not have been applied to UEFA EURO 2024 Path To Glory Timed Loan Player Items when they have zero contracts.\n- Loan Player Item rewards incorrectly displayed zero contracts.\n- SBCs with multiple rewards did not always display the entire list of rewards.\n- When two of the same Player Items were on the pitch, PlayStyle UI indicators did not display.\n- This was a visual issue only.\n- Some Club Anthems were playing incorrect songs.\n- Sometimes, the Player Performance screen for the opponents team displayed a base version of a Player Item.\n- Added a pause function for an active Evolution.\n- [Switch Only] Addressed instances of substituted Player Item models becoming invisible.\n\n‌\n\n**Clubs**\n\nAddressed the following issues:\n\n- Addressed a button conflict that could have occurred while Clubs Chat was open.\n- The crowd was not present in Drop-In matches.\n\n‌\n\n**Career Mode**\n\n- Sometimes, an incorrect Player of The Match Trophy was displayed.\n\n### General, Audio, and Visual\n\nAddressed the following issues:\n\n- Addressed instances of instability issues that could have occurred.\n- Addressed instances of placeholder images.\n- Addressed instances of misaligned text and images.\n- Addressed several UI elements and button callouts not displaying and functioning as intended.\n\n‌\n\nMade the following changes:\n\n- Updated some kits, balls, boots, crests, VIP Areas, tifos, stadium themes, pitch trophies, face accessories, tattoos, and star heads,\n- Updated favourite club list.\n\n‌\n\nThanks to those who’ve provided and continue to provide feedback. Throughout the course of the EA SPORTS FC 24 season, we'll provide you with more information and updates if and when they become available. Be sure to follow [\\@‌EASFCDIRECT](https://twitter.com/EASFCDirect \"‌\") on X and to check out the [EA SPORTS FC Tracker](https://trello.com/b/keigLn6R/ea-sports-fifa-tracker \"‌\") for the latest news and updates.\n\n‌\n\n- The EA SPORTS FC Team",
+                    "id": "667199f5e75a89eae02017af",
+                    "name": "[PC/PS4/PS5/XB1/XBSX|S/SWITCH] Title Update #16",
+                    "idShort": 445,
+                    "shortLink": "TyDLRfIl"
+                },
+                "old": {
+                    "desc": "The Title Update #16 will soon be available for all versions of EA SPORTS FC 24, and includes the changes below.\n\n### Ultimate Team\n\nAddressed the following issues:\n\n- [SWITCH] Addressed instances of substituted Player Item models becoming invisible.\n- Contracts could not have been applied to UEFA EURO 2024 Path To Glory Timed Loan Player Items when they have zero contracts.\n- Loan Player Item rewards incorrectly displayed zero contracts.\n- SBCs with multiple rewards did not always display the entire list of rewards.\n- When two of the same Player Items were on the pitch, PlayStyle UI indicators did not display.\n- This was a visual issue only.\n- Some Club Anthems were playing incorrect songs.\n- Sometimes, the Player Performance screen for the opponents team displayed a base version of a Player Item.\n- Added a pause function for an active Evolution.\n\n‌\n\n**Clubs**\n\nAddressed the following issues:\n\n- Addressed a button conflict that could have occurred while Clubs Chat was open.\n- The crowd was not present in Drop-In matches.\n\n‌\n\n**Career Mode**\n\n- Sometimes, an incorrect Player of The Match Trophy was displayed.\n\n### General, Audio, and Visual\n\nAddressed the following issues:\n\n- Addressed instances of instability issues that could have occurred.\n- Addressed instances of placeholder images.\n- Addressed instances of misaligned text and images.\n- Addressed several UI elements and button callouts not displaying and functioning as intended.\n\n‌\n\nMade the following changes:\n\n- Updated some kits, balls, boots, crests, VIP Areas, tifos, stadium themes, pitch trophies, face accessories, tattoos, and star heads,\n- Updated favourite club list.\n\n‌\n\nThanks to those who’ve provided and continue to provide feedback. Throughout the course of the EA SPORTS FC 24 season, we'll provide you with more information and updates if and when they become available. Be sure to follow [\\@‌EASFCDIRECT](https://twitter.com/EASFCDirect \"‌\") on X and to check out the [EA SPORTS FC Tracker](https://trello.com/b/keigLn6R/ea-sports-fifa-tracker \"‌\") for the latest news and updates.\n\n‌\n\n- The EA SPORTS FC Team"
+                },
+                "board": {
+                    "id": "5f73f7c1b4c1280a7068df5f",
+                    "name": "EA SPORTS FC Tracker",
+                    "shortLink": "keigLn6R"
+                },
+                "list": {
+                    "id": "5f73f7c1b4c1280a7068df61",
+                    "name": "Latest News"
+                }
+            },
+            "appCreator": null,
+            "type": "updateCard",
+            "date": "2024-06-19T17:17:36.177Z",
+            "limits": null,
+            "memberCreator": {
+                "id": "5d5b1beea30eaf1b648e6ee7",
+                "activityBlocked": false,
+                "avatarHash": "9b8c2ae64bd8604e7257419fe56df466",
+                "avatarUrl": "https://trello-members.s3.amazonaws.com/5d5b1beea30eaf1b648e6ee7/9b8c2ae64bd8604e7257419fe56df466",
+                "fullName": "Goran",
+                "idMemberReferrer": null,
+                "initials": "G",
+                "nonPublic": {},
+                "nonPublicAvailable": true,
+                "username": "goran_drpoplove"
+            }
+        },
+        {
+            "id": "6671a3824c190ad6d42ef058",
+            "idMemberCreator": "5c48831d226ccb5009c3b830",
+            "data": {
+                "attachment": {
+                    "id": "6671a3804c190ad6d42eef34",
+                    "name": "EA SPORTS FC 24 TU 16.png",
+                    "url": "https://trello.com/1/cards/667199f5e75a89eae02017af/attachments/6671a3804c190ad6d42eef34/download/EA_SPORTS_FC_24_TU_16.png",
+                    "previewUrl": "https://trello.com/1/cards/667199f5e75a89eae02017af/attachments/6671a3804c190ad6d42eef34/previews/preview/download/EA_SPORTS_FC_24_TU_16.png",
+                    "previewUrl2x": "https://trello.com/1/cards/667199f5e75a89eae02017af/attachments/6671a3804c190ad6d42eef34/previews/preview2x/download/EA_SPORTS_FC_24_TU_16.png"
+                },
+                "card": {
+                    "id": "667199f5e75a89eae02017af",
+                    "name": "[PC/PS4/PS5/XB1/XBSX|S/SWITCH] Title Update #16",
+                    "idShort": 445,
+                    "shortLink": "TyDLRfIl"
+                },
+                "list": {
+                    "id": "5f73f7c1b4c1280a7068df61",
+                    "name": "Latest News"
+                },
+                "board": {
+                    "id": "5f73f7c1b4c1280a7068df5f",
+                    "name": "EA SPORTS FC Tracker",
+                    "shortLink": "keigLn6R"
+                }
+            },
+            "appCreator": null,
+            "type": "addAttachmentToCard",
+            "date": "2024-06-18T15:10:58.292Z",
+            "limits": null,
+            "memberCreator": {
+                "id": "5c48831d226ccb5009c3b830",
+                "activityBlocked": false,
+                "avatarHash": "65b8551dba3917ec1acddcfa24cd1bea",
+                "avatarUrl": "https://trello-members.s3.amazonaws.com/5c48831d226ccb5009c3b830/65b8551dba3917ec1acddcfa24cd1bea",
+                "fullName": "Paul Murphy",
+                "idMemberReferrer": null,
+                "initials": "PM",
+                "nonPublic": {},
+                "nonPublicAvailable": true,
+                "username": "pmurphy_liveops"
+            }
+        },
+        {
+            "id": "66719a63fb95769f46f67e55",
+            "idMemberCreator": "5c48831d226ccb5009c3b830",
+            "data": {
+                "card": {
+                    "pos": 12287.9375,
+                    "id": "667199f5e75a89eae02017af",
+                    "name": "[PC/PS4/PS5/XB1/XBSX|S/SWITCH] Title Update #16",
+                    "idShort": 445,
+                    "shortLink": "TyDLRfIl"
+                },
+                "old": {
+                    "pos": 102399.9375
+                },
+                "board": {
+                    "id": "5f73f7c1b4c1280a7068df5f",
+                    "name": "EA SPORTS FC Tracker",
+                    "shortLink": "keigLn6R"
+                },
+                "list": {
+                    "id": "5f73f7c1b4c1280a7068df61",
+                    "name": "Latest News"
+                }
+            },
+            "appCreator": null,
+            "type": "updateCard",
+            "date": "2024-06-18T14:32:03.403Z",
+            "limits": null,
+            "memberCreator": {
+                "id": "5c48831d226ccb5009c3b830",
+                "activityBlocked": false,
+                "avatarHash": "65b8551dba3917ec1acddcfa24cd1bea",
+                "avatarUrl": "https://trello-members.s3.amazonaws.com/5c48831d226ccb5009c3b830/65b8551dba3917ec1acddcfa24cd1bea",
+                "fullName": "Paul Murphy",
+                "idMemberReferrer": null,
+                "initials": "PM",
+                "nonPublic": {},
+                "nonPublicAvailable": true,
+                "username": "pmurphy_liveops"
+            }
+        },
+        {
+            "id": "66719a5d0c1afc6095a0077b",
+            "idMemberCreator": "5c48831d226ccb5009c3b830",
+            "data": {
+                "card": {
+                    "idLabels": [
+                        "5f73f7c1b4c1280a7068dfeb",
+                        "64a6d93136e6c63d5556ac6f"
+                    ],
+                    "id": "667199f5e75a89eae02017af",
+                    "name": "[PC/PS4/PS5/XB1/XBSX|S/SWITCH] Title Update #16",
+                    "idShort": 445,
+                    "shortLink": "TyDLRfIl"
+                },
+                "old": {
+                    "idLabels": [
+                        "5f73f7c1b4c1280a7068dfeb"
+                    ]
+                },
+                "board": {
+                    "id": "5f73f7c1b4c1280a7068df5f",
+                    "name": "EA SPORTS FC Tracker",
+                    "shortLink": "keigLn6R"
+                },
+                "list": {
+                    "id": "5f73f7c1b4c1280a7068df61",
+                    "name": "Latest News"
+                }
+            },
+            "appCreator": null,
+            "type": "updateCard",
+            "date": "2024-06-18T14:31:57.196Z",
+            "limits": null,
+            "memberCreator": {
+                "id": "5c48831d226ccb5009c3b830",
+                "activityBlocked": false,
+                "avatarHash": "65b8551dba3917ec1acddcfa24cd1bea",
+                "avatarUrl": "https://trello-members.s3.amazonaws.com/5c48831d226ccb5009c3b830/65b8551dba3917ec1acddcfa24cd1bea",
+                "fullName": "Paul Murphy",
+                "idMemberReferrer": null,
+                "initials": "PM",
+                "nonPublic": {},
+                "nonPublicAvailable": true,
+                "username": "pmurphy_liveops"
+            }
+        },
+        {
+            "id": "66719a5c1883a6834671e96d",
+            "idMemberCreator": "5c48831d226ccb5009c3b830",
+            "data": {
+                "card": {
+                    "idLabels": [
+                        "5f73f7c1b4c1280a7068dfeb"
+                    ],
+                    "id": "667199f5e75a89eae02017af",
+                    "name": "[PC/PS4/PS5/XB1/XBSX|S/SWITCH] Title Update #16",
+                    "idShort": 445,
+                    "shortLink": "TyDLRfIl"
+                },
+                "old": {
+                    "idLabels": []
+                },
+                "board": {
+                    "id": "5f73f7c1b4c1280a7068df5f",
+                    "name": "EA SPORTS FC Tracker",
+                    "shortLink": "keigLn6R"
+                },
+                "list": {
+                    "id": "5f73f7c1b4c1280a7068df61",
+                    "name": "Latest News"
+                }
+            },
+            "appCreator": null,
+            "type": "updateCard",
+            "date": "2024-06-18T14:31:56.417Z",
+            "limits": null,
+            "memberCreator": {
+                "id": "5c48831d226ccb5009c3b830",
+                "activityBlocked": false,
+                "avatarHash": "65b8551dba3917ec1acddcfa24cd1bea",
+                "avatarUrl": "https://trello-members.s3.amazonaws.com/5c48831d226ccb5009c3b830/65b8551dba3917ec1acddcfa24cd1bea",
+                "fullName": "Paul Murphy",
+                "idMemberReferrer": null,
+                "initials": "PM",
+                "nonPublic": {},
+                "nonPublicAvailable": true,
+                "username": "pmurphy_liveops"
+            }
+        },
+        {
+            "id": "66719a16036b7d86f9719952",
+            "idMemberCreator": "5c48831d226ccb5009c3b830",
+            "data": {
+                "card": {
+                    "desc": "The Title Update #16 will soon be available for all versions of EA SPORTS FC 24, and includes the changes below.\n\n### Ultimate Team\n\nAddressed the following issues:\n\n- [SWITCH] Addressed instances of substituted Player Item models becoming invisible.\n- Contracts could not have been applied to UEFA EURO 2024 Path To Glory Timed Loan Player Items when they have zero contracts.\n- Loan Player Item rewards incorrectly displayed zero contracts.\n- SBCs with multiple rewards did not always display the entire list of rewards.\n- When two of the same Player Items were on the pitch, PlayStyle UI indicators did not display.\n- This was a visual issue only.\n- Some Club Anthems were playing incorrect songs.\n- Sometimes, the Player Performance screen for the opponents team displayed a base version of a Player Item.\n- Added a pause function for an active Evolution.\n\n‌\n\n**Clubs**\n\nAddressed the following issues:\n\n- Addressed a button conflict that could have occurred while Clubs Chat was open.\n- The crowd was not present in Drop-In matches.\n\n‌\n\n**Career Mode**\n\n- Sometimes, an incorrect Player of The Match Trophy was displayed.\n\n### General, Audio, and Visual\n\nAddressed the following issues:\n\n- Addressed instances of instability issues that could have occurred.\n- Addressed instances of placeholder images.\n- Addressed instances of misaligned text and images.\n- Addressed several UI elements and button callouts not displaying and functioning as intended.\n\n‌\n\nMade the following changes:\n\n- Updated some kits, balls, boots, crests, VIP Areas, tifos, stadium themes, pitch trophies, face accessories, tattoos, and star heads,\n- Updated favourite club list.\n\n‌\n\nThanks to those who’ve provided and continue to provide feedback. Throughout the course of the EA SPORTS FC 24 season, we'll provide you with more information and updates if and when they become available. Be sure to follow [\\@‌EASFCDIRECT](https://twitter.com/EASFCDirect \"‌\") on X and to check out the [EA SPORTS FC Tracker](https://trello.com/b/keigLn6R/ea-sports-fifa-tracker \"‌\") for the latest news and updates.\n\n‌\n\n- The EA SPORTS FC Team",
+                    "id": "667199f5e75a89eae02017af",
+                    "name": "[PC/PS4/PS5/XB1/XBSX|S/SWITCH] Title Update #16",
+                    "idShort": 445,
+                    "shortLink": "TyDLRfIl"
+                },
+                "old": {
+                    "desc": ""
+                },
+                "board": {
+                    "id": "5f73f7c1b4c1280a7068df5f",
+                    "name": "EA SPORTS FC Tracker",
+                    "shortLink": "keigLn6R"
+                },
+                "list": {
+                    "id": "5f73f7c1b4c1280a7068df61",
+                    "name": "Latest News"
+                }
+            },
+            "appCreator": null,
+            "type": "updateCard",
+            "date": "2024-06-18T14:30:46.841Z",
+            "limits": null,
+            "memberCreator": {
+                "id": "5c48831d226ccb5009c3b830",
+                "activityBlocked": false,
+                "avatarHash": "65b8551dba3917ec1acddcfa24cd1bea",
+                "avatarUrl": "https://trello-members.s3.amazonaws.com/5c48831d226ccb5009c3b830/65b8551dba3917ec1acddcfa24cd1bea",
+                "fullName": "Paul Murphy",
+                "idMemberReferrer": null,
+                "initials": "PM",
+                "nonPublic": {},
+                "nonPublicAvailable": true,
+                "username": "pmurphy_liveops"
+            }
+        },
+        {
+            "id": "66719a03693367449022625e",
+            "idMemberCreator": "5c48831d226ccb5009c3b830",
+            "data": {
+                "card": {
+                    "dateViewedByCreator": "2024-06-18T14:30:27.608Z",
+                    "id": "667199f5e75a89eae02017af",
+                    "name": "[PC/PS4/PS5/XB1/XBSX|S/SWITCH] Title Update #16",
+                    "idShort": 445,
+                    "shortLink": "TyDLRfIl"
+                },
+                "old": {
+                    "dateViewedByCreator": null
+                },
+                "board": {
+                    "id": "5f73f7c1b4c1280a7068df5f",
+                    "name": "EA SPORTS FC Tracker",
+                    "shortLink": "keigLn6R"
+                },
+                "list": {
+                    "id": "5f73f7c1b4c1280a7068df61",
+                    "name": "Latest News"
+                }
+            },
+            "appCreator": null,
+            "type": "updateCard",
+            "date": "2024-06-18T14:30:27.832Z",
+            "limits": null,
+            "memberCreator": {
+                "id": "5c48831d226ccb5009c3b830",
+                "activityBlocked": false,
+                "avatarHash": "65b8551dba3917ec1acddcfa24cd1bea",
+                "avatarUrl": "https://trello-members.s3.amazonaws.com/5c48831d226ccb5009c3b830/65b8551dba3917ec1acddcfa24cd1bea",
+                "fullName": "Paul Murphy",
+                "idMemberReferrer": null,
+                "initials": "PM",
+                "nonPublic": {},
+                "nonPublicAvailable": true,
+                "username": "pmurphy_liveops"
+            }
+        },
+        {
+            "id": "667199f5e75a89eae02017b8",
+            "idMemberCreator": "5c48831d226ccb5009c3b830",
+            "data": {
+                "card": {
+                    "id": "667199f5e75a89eae02017af",
+                    "name": "[PC/PS4/PS5/XB1/XBSX|S/SWITCH] Title Update #16",
+                    "idShort": 445,
+                    "shortLink": "TyDLRfIl"
+                },
+                "list": {
+                    "id": "5f73f7c1b4c1280a7068df61",
+                    "name": "Latest News"
+                },
+                "board": {
+                    "id": "5f73f7c1b4c1280a7068df5f",
+                    "name": "EA SPORTS FC Tracker",
+                    "shortLink": "keigLn6R"
+                }
+            },
+            "appCreator": null,
+            "type": "createCard",
+            "date": "2024-06-18T14:30:13.947Z",
+            "limits": null,
+            "memberCreator": {
+                "id": "5c48831d226ccb5009c3b830",
+                "activityBlocked": false,
+                "avatarHash": "65b8551dba3917ec1acddcfa24cd1bea",
+                "avatarUrl": "https://trello-members.s3.amazonaws.com/5c48831d226ccb5009c3b830/65b8551dba3917ec1acddcfa24cd1bea",
+                "fullName": "Paul Murphy",
+                "idMemberReferrer": null,
+                "initials": "PM",
+                "nonPublic": {},
+                "nonPublicAvailable": true,
+                "username": "pmurphy_liveops"
+            }
+        }
+    ]
+}

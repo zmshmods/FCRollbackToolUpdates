@@ -1,0 +1,825 @@
+{
+    "id": "65c20c7ee5c66e3672c6a417",
+    "address": null,
+    "badges": {
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "attachments": 1,
+        "description": true,
+        "due": null,
+        "dueComplete": false,
+        "start": null,
+        "lastUpdatedByAi": false,
+        "attachmentsByType": {
+            "trello": {
+                "board": 0,
+                "card": 0
+            }
+        },
+        "externalSource": null,
+        "location": false,
+        "votes": 0,
+        "maliciousAttachments": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false
+    },
+    "checkItemStates": [],
+    "closed": false,
+    "coordinates": null,
+    "creationMethod": null,
+    "creationMethodError": null,
+    "creationMethodLoadingStartedAt": null,
+    "dueComplete": false,
+    "dateClosed": null,
+    "dateLastActivity": "2024-03-12T15:58:33.721Z",
+    "dateCompleted": null,
+    "dateViewedByCreator": null,
+    "desc": "Title Update #9 is now available for all versions of EA SPORTS FC 24 and it will include the changes below.\n\n### Ultimate Team\n\nAddressed the following issues:\n\n- Some Player Item rarities could have displayed incorrectly.\n- The News menu video player did not expand to full screen.\n- On rare occasions, pyrotechnics could have appeared in the center of the pitch.\n\n### Career Mode\n\nAddressed the following issues:\n\n- In Player career, duplicate requests could have appeared in the Decisions tab.\n- Youth Players could have had the Chip Shot PlayStyles without meeting its requirements.\n- In Player Career, some Training Drills did not use the player’s created Pro.\n\n### Gameplay\n\nMade the following changes:\n\n- [PS5/XBSX|S/PC Only] Improved AI teammate positioning and marking decision making in cutback scenarios.\n\n- Reduced effectiveness of Outside Foot Shots for players with or without the Trivela PlayStyle and PlayStyle+.\n- Moderately reduced Outside Foot Shot accuracy.\n- Reduced the maximum potential amount of top spin the ball can have from an Outside Foot Shot.\n- Updated player selection logic when using Secondary Contain.\n\n‌\n\nAddressed the following issues:\n\n- Improved referee foul calling logic inside the box following a clearance attempt.\n- Sometimes, the attacking player could have unintentionally stumbled over a slide tackling defender’s arms when attempting to avoid them.\n- In some situations, the goalkeeper could have incorrectly picked up the ball after it was passed by a teammate’s foot.\n\n### General, Audio, and Visual\n\nMade the following changes:\n\n- Updated some ad boards,  player models, trophies, crown chants, kits, hair, sleeve sponsors and badges, boots, balls, star heads, stadium themes, VIP Areas, match scenes, and tifos.\n\n‌\n\nAddressed the following issues:\n\n- In some set piece Skill Games, the defensive wall was not always positioned as intended.\n- In some set piece Practice Arena situations, the defending side did not always position their wall as intended.\n- Addressed instances of the UI not displaying correctly during some Skill Games.\n- Addressed instances of stability issues that could have occurred.\n- Addressed instances of placeholder text and images.\n\nThanks to those who’ve provided and continue to provide feedback. Throughout the course of the EA SPORTS FC 24 season, we'll provide you with more information and updates if and when they become available. Be sure to follow [\\@‌EASFCDIRECT](https://twitter.com/EASFCDirect \"‌\") on X and to check out the EA SPORTS FC Tracker for the latest news and updates.\n\n‌\n\n- The EA SPORTS FC Team",
+    "descData": {
+        "emoji": {}
+    },
+    "due": null,
+    "dueReminder": null,
+    "email": null,
+    "externalSource": null,
+    "idBoard": "5f73f7c1b4c1280a7068df5f",
+    "idChecklists": [],
+    "idLabels": [
+        "5f73f7c1b4c1280a7068dfeb",
+        "64a6d93136e6c63d5556ac6f"
+    ],
+    "idList": "65106b33b85885896f15d616",
+    "idMemberCreator": null,
+    "idMembers": [],
+    "idMembersVoted": [],
+    "idOrganization": "6137a564cb8f6432c89f8977",
+    "idShort": 421,
+    "idAttachmentCover": "65c252fcc9bef74de9235082",
+    "labels": [
+        {
+            "id": "5f73f7c1b4c1280a7068dfeb",
+            "idBoard": "5f73f7c1b4c1280a7068df5f",
+            "idOrganization": "6137a564cb8f6432c89f8977",
+            "name": "Title Update",
+            "nodeId": "ari:cloud:trello::label/workspace/6137a564cb8f6432c89f8977/5f73f7c1b4c1280a7068dfeb",
+            "color": "green",
+            "uses": 182
+        },
+        {
+            "id": "64a6d93136e6c63d5556ac6f",
+            "idBoard": "5f73f7c1b4c1280a7068df5f",
+            "idOrganization": "6137a564cb8f6432c89f8977",
+            "name": "EA SPORTS FC 24",
+            "nodeId": "ari:cloud:trello::label/workspace/6137a564cb8f6432c89f8977/64a6d93136e6c63d5556ac6f",
+            "color": "green_dark",
+            "uses": 87
+        }
+    ],
+    "limits": {
+        "attachments": {
+            "perCard": {
+                "status": "ok",
+                "disableAt": 1000,
+                "warnAt": 800
+            }
+        },
+        "checklists": {
+            "perCard": {
+                "status": "ok",
+                "disableAt": 500,
+                "warnAt": 400
+            }
+        },
+        "stickers": {
+            "perCard": {
+                "status": "ok",
+                "disableAt": 70,
+                "warnAt": 56
+            }
+        }
+    },
+    "locationName": null,
+    "manualCoverAttachment": true,
+    "name": "[PC/PS4/PS5/XB1/XBSX|S/SWITCH] Title Update #9",
+    "nodeId": "ari:cloud:trello::card/workspace/6137a564cb8f6432c89f8977/65c20c7ee5c66e3672c6a417",
+    "pinned": false,
+    "pos": 66047,
+    "shortLink": "qS9R75Ij",
+    "shortUrl": "https://trello.com/c/qS9R75Ij",
+    "singleInstrumentationId": null,
+    "sourceEmail": null,
+    "staticMapUrl": null,
+    "start": null,
+    "subscribed": null,
+    "url": "https://trello.com/c/qS9R75Ij/421-pc-ps4-ps5-xb1-xbsxs-switch-title-update-9",
+    "cover": {
+        "idAttachment": "65c252fcc9bef74de9235082",
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "dark",
+        "scaled": [
+            {
+                "id": "65c252fdc9bef74de9235622",
+                "_id": "65c252fdc9bef74de9235622",
+                "scaled": false,
+                "url": "https://trello.com/1/cards/65c20c7ee5c66e3672c6a417/attachments/65c252fcc9bef74de9235082/previews/65c252fdc9bef74de9235622/download/EA_SPORTS_FC_24_TU_9.png",
+                "bytes": 2035,
+                "height": 50,
+                "width": 70
+            },
+            {
+                "id": "65c252fdc9bef74de9235624",
+                "_id": "65c252fdc9bef74de9235624",
+                "scaled": true,
+                "url": "https://trello.com/1/cards/65c20c7ee5c66e3672c6a417/attachments/65c252fcc9bef74de9235082/previews/65c252fdc9bef74de9235624/download/EA_SPORTS_FC_24_TU_9.png",
+                "bytes": 6186,
+                "height": 26,
+                "width": 150
+            },
+            {
+                "id": "65c252fdc9bef74de9235623",
+                "_id": "65c252fdc9bef74de9235623",
+                "scaled": false,
+                "url": "https://trello.com/1/cards/65c20c7ee5c66e3672c6a417/attachments/65c252fcc9bef74de9235082/previews/65c252fdc9bef74de9235623/download/EA_SPORTS_FC_24_TU_9.png",
+                "bytes": 13591,
+                "height": 150,
+                "width": 250
+            },
+            {
+                "id": "65c252fdc9bef74de9235625",
+                "_id": "65c252fdc9bef74de9235625",
+                "scaled": true,
+                "url": "https://trello.com/1/cards/65c20c7ee5c66e3672c6a417/attachments/65c252fcc9bef74de9235082/previews/65c252fdc9bef74de9235625/download/EA_SPORTS_FC_24_TU_9.png",
+                "bytes": 17131,
+                "height": 51,
+                "width": 298
+            },
+            {
+                "id": "65c252fdc9bef74de9235626",
+                "_id": "65c252fdc9bef74de9235626",
+                "scaled": true,
+                "url": "https://trello.com/1/cards/65c20c7ee5c66e3672c6a417/attachments/65c252fcc9bef74de9235082/previews/65c252fdc9bef74de9235626/download/EA_SPORTS_FC_24_TU_9.png",
+                "bytes": 58690,
+                "height": 103,
+                "width": 600
+            },
+            {
+                "id": "65c252fdc9bef74de9235627",
+                "_id": "65c252fdc9bef74de9235627",
+                "scaled": true,
+                "url": "https://trello.com/1/cards/65c20c7ee5c66e3672c6a417/attachments/65c252fcc9bef74de9235082/previews/65c252fdc9bef74de9235627/download/EA_SPORTS_FC_24_TU_9.png",
+                "bytes": 212760,
+                "height": 206,
+                "width": 1200
+            },
+            {
+                "id": "65c252fdc9bef74de9235628",
+                "_id": "65c252fdc9bef74de9235628",
+                "scaled": true,
+                "url": "https://trello.com/1/cards/65c20c7ee5c66e3672c6a417/attachments/65c252fcc9bef74de9235082/previews/65c252fdc9bef74de9235628/download/EA_SPORTS_FC_24_TU_9.png",
+                "bytes": 468813,
+                "height": 329,
+                "width": 1920
+            }
+        ],
+        "edgeColor": "#1d2019",
+        "idPlugin": null
+    },
+    "isTemplate": false,
+    "cardRole": null,
+    "mirrorSourceId": null,
+    "mirrorSourceNodeId": null,
+    "checklists": [],
+    "customFieldItems": [],
+    "members": [],
+    "pluginData": [],
+    "actions": [
+        {
+            "id": "65f07ba9a25830dca8587287",
+            "idMemberCreator": "5c48831d226ccb5009c3b830",
+            "data": {
+                "card": {
+                    "pos": 66047,
+                    "id": "65c20c7ee5c66e3672c6a417",
+                    "name": "[PC/PS4/PS5/XB1/XBSX|S/SWITCH] Title Update #9",
+                    "idShort": 421,
+                    "shortLink": "qS9R75Ij"
+                },
+                "old": {
+                    "pos": 4159.9365234375
+                },
+                "board": {
+                    "id": "5f73f7c1b4c1280a7068df5f",
+                    "name": "EA SPORTS FC Tracker",
+                    "shortLink": "keigLn6R"
+                },
+                "list": {
+                    "id": "65106b33b85885896f15d616",
+                    "name": "Game Updates Archive"
+                }
+            },
+            "appCreator": null,
+            "type": "updateCard",
+            "date": "2024-03-12T15:58:33.749Z",
+            "limits": null,
+            "memberCreator": {
+                "id": "5c48831d226ccb5009c3b830",
+                "activityBlocked": false,
+                "avatarHash": "65b8551dba3917ec1acddcfa24cd1bea",
+                "avatarUrl": "https://trello-members.s3.amazonaws.com/5c48831d226ccb5009c3b830/65b8551dba3917ec1acddcfa24cd1bea",
+                "fullName": "Paul Murphy",
+                "idMemberReferrer": null,
+                "initials": "PM",
+                "nonPublic": {},
+                "nonPublicAvailable": true,
+                "username": "pmurphy_liveops"
+            }
+        },
+        {
+            "id": "65f07ba8a25830dca8586674",
+            "idMemberCreator": "5c48831d226ccb5009c3b830",
+            "data": {
+                "card": {
+                    "idList": "65106b33b85885896f15d616",
+                    "id": "65c20c7ee5c66e3672c6a417",
+                    "name": "[PC/PS4/PS5/XB1/XBSX|S/SWITCH] Title Update #9",
+                    "idShort": 421,
+                    "shortLink": "qS9R75Ij"
+                },
+                "old": {
+                    "idList": "5f73f7c1b4c1280a7068df61"
+                },
+                "board": {
+                    "id": "5f73f7c1b4c1280a7068df5f",
+                    "name": "EA SPORTS FC Tracker",
+                    "shortLink": "keigLn6R"
+                },
+                "listBefore": {
+                    "id": "5f73f7c1b4c1280a7068df61",
+                    "name": "Latest News"
+                },
+                "listAfter": {
+                    "id": "65106b33b85885896f15d616",
+                    "name": "Game Updates Archive"
+                }
+            },
+            "appCreator": null,
+            "type": "updateCard",
+            "date": "2024-03-12T15:58:32.617Z",
+            "limits": null,
+            "memberCreator": {
+                "id": "5c48831d226ccb5009c3b830",
+                "activityBlocked": false,
+                "avatarHash": "65b8551dba3917ec1acddcfa24cd1bea",
+                "avatarUrl": "https://trello-members.s3.amazonaws.com/5c48831d226ccb5009c3b830/65b8551dba3917ec1acddcfa24cd1bea",
+                "fullName": "Paul Murphy",
+                "idMemberReferrer": null,
+                "initials": "PM",
+                "nonPublic": {},
+                "nonPublicAvailable": true,
+                "username": "pmurphy_liveops"
+            }
+        },
+        {
+            "id": "65ccf3e6ef2b01f4f2a04bb1",
+            "idMemberCreator": "5d5b1beea30eaf1b648e6ee7",
+            "data": {
+                "card": {
+                    "desc": "Title Update #9 is now available for all versions of EA SPORTS FC 24 and it will include the changes below.\n\n### Ultimate Team\n\nAddressed the following issues:\n\n- Some Player Item rarities could have displayed incorrectly.\n- The News menu video player did not expand to full screen.\n- On rare occasions, pyrotechnics could have appeared in the center of the pitch.\n\n### Career Mode\n\nAddressed the following issues:\n\n- In Player career, duplicate requests could have appeared in the Decisions tab.\n- Youth Players could have had the Chip Shot PlayStyles without meeting its requirements.\n- In Player Career, some Training Drills did not use the player’s created Pro.\n\n### Gameplay\n\nMade the following changes:\n\n- [PS5/XBSX|S/PC Only] Improved AI teammate positioning and marking decision making in cutback scenarios.\n\n- Reduced effectiveness of Outside Foot Shots for players with or without the Trivela PlayStyle and PlayStyle+.\n- Moderately reduced Outside Foot Shot accuracy.\n- Reduced the maximum potential amount of top spin the ball can have from an Outside Foot Shot.\n- Updated player selection logic when using Secondary Contain.\n\n‌\n\nAddressed the following issues:\n\n- Improved referee foul calling logic inside the box following a clearance attempt.\n- Sometimes, the attacking player could have unintentionally stumbled over a slide tackling defender’s arms when attempting to avoid them.\n- In some situations, the goalkeeper could have incorrectly picked up the ball after it was passed by a teammate’s foot.\n\n### General, Audio, and Visual\n\nMade the following changes:\n\n- Updated some ad boards,  player models, trophies, crown chants, kits, hair, sleeve sponsors and badges, boots, balls, star heads, stadium themes, VIP Areas, match scenes, and tifos.\n\n‌\n\nAddressed the following issues:\n\n- In some set piece Skill Games, the defensive wall was not always positioned as intended.\n- In some set piece Practice Arena situations, the defending side did not always position their wall as intended.\n- Addressed instances of the UI not displaying correctly during some Skill Games.\n- Addressed instances of stability issues that could have occurred.\n- Addressed instances of placeholder text and images.\n\nThanks to those who’ve provided and continue to provide feedback. Throughout the course of the EA SPORTS FC 24 season, we'll provide you with more information and updates if and when they become available. Be sure to follow [\\@‌EASFCDIRECT](https://twitter.com/EASFCDirect \"‌\") on X and to check out the EA SPORTS FC Tracker for the latest news and updates.\n\n‌\n\n- The EA SPORTS FC Team",
+                    "id": "65c20c7ee5c66e3672c6a417",
+                    "name": "[PC/PS4/PS5/XB1/XBSX|S/SWITCH] Title Update #9",
+                    "idShort": 421,
+                    "shortLink": "qS9R75Ij"
+                },
+                "old": {
+                    "desc": "Title Update #9 is now available for all versions of EA SPORTS FC 24 and it will include the changes below.\n\n### Ultimate Team\n\nAddressed the following issues:\n\n- Some Player Item rarities could have displayed incorrectly.\n- The News menu video player did not expand to full screen.\n- On rare occasions, pyrotechnics could have appeared in the center of the pitch.\n\n### Career Mode\n\nAddressed the following issues:\n\n- In Player career, duplicate requests could have appeared in the Decisions tab.\n- Youth Players could have had the Chip Shot PlayStyles without meeting its requirements.\n- In Player Career, some Training Drills did not use the player’s created Pro.\n\n### Gameplay\n\nMade the following changes:\n\n- Reduced effectiveness of Outside Foot Shots for players with or without the Trivela PlayStyle and PlayStyle+.\n- Moderately reduced Outside Foot Shot accuracy.\n- Reduced the maximum potential amount of top spin the ball can have from an Outside Foot Shot.\n- Updated player selection logic when using Secondary Contain.\n\n‌\n\nAddressed the following issues:\n\n- Improved referee foul calling logic inside the box following a clearance attempt.\n- Sometimes, the attacking player could have unintentionally stumbled over a slide tackling defender’s arms when attempting to avoid them.\n- In some situations, the goalkeeper could have incorrectly picked up the ball after it was passed by a teammate’s foot.\n\n### General, Audio, and Visual\n\nMade the following changes:\n\n- Updated some ad boards,  player models, trophies, crown chants, kits, hair, sleeve sponsors and badges, boots, balls, star heads, stadium themes, VIP Areas, match scenes, and tifos.\n\n‌\n\nAddressed the following issues:\n\n- In some set piece Skill Games, the defensive wall was not always positioned as intended.\n- In some set piece Practice Arena situations, the defending side did not always position their wall as intended.\n- Addressed instances of the UI not displaying correctly during some Skill Games.\n- Addressed instances of stability issues that could have occurred.\n- Addressed instances of placeholder text and images.\n\nThanks to those who’ve provided and continue to provide feedback. Throughout the course of the EA SPORTS FC 24 season, we'll provide you with more information and updates if and when they become available. Be sure to follow [\\@‌EASFCDIRECT](https://twitter.com/EASFCDirect \"‌\") on X and to check out the EA SPORTS FC Tracker for the latest news and updates.\n\n‌\n\n- The EA SPORTS FC Team"
+                },
+                "board": {
+                    "id": "5f73f7c1b4c1280a7068df5f",
+                    "name": "EA SPORTS FC Tracker",
+                    "shortLink": "keigLn6R"
+                },
+                "list": {
+                    "id": "5f73f7c1b4c1280a7068df61",
+                    "name": "Latest News"
+                }
+            },
+            "appCreator": null,
+            "type": "updateCard",
+            "date": "2024-02-14T17:09:58.152Z",
+            "limits": null,
+            "memberCreator": {
+                "id": "5d5b1beea30eaf1b648e6ee7",
+                "activityBlocked": false,
+                "avatarHash": "9b8c2ae64bd8604e7257419fe56df466",
+                "avatarUrl": "https://trello-members.s3.amazonaws.com/5d5b1beea30eaf1b648e6ee7/9b8c2ae64bd8604e7257419fe56df466",
+                "fullName": "Goran",
+                "idMemberReferrer": null,
+                "initials": "G",
+                "nonPublic": {},
+                "nonPublicAvailable": true,
+                "username": "goran_drpoplove"
+            }
+        },
+        {
+            "id": "65cb3fa131b7b390253c1387",
+            "idMemberCreator": "55fab97406891939fbe4cb5e",
+            "data": {
+                "card": {
+                    "desc": "Title Update #9 is now available for all versions of EA SPORTS FC 24 and it will include the changes below.\n\n### Ultimate Team\n\nAddressed the following issues:\n\n- Some Player Item rarities could have displayed incorrectly.\n- The News menu video player did not expand to full screen.\n- On rare occasions, pyrotechnics could have appeared in the center of the pitch.\n\n### Career Mode\n\nAddressed the following issues:\n\n- In Player career, duplicate requests could have appeared in the Decisions tab.\n- Youth Players could have had the Chip Shot PlayStyles without meeting its requirements.\n- In Player Career, some Training Drills did not use the player’s created Pro.\n\n### Gameplay\n\nMade the following changes:\n\n- Reduced effectiveness of Outside Foot Shots for players with or without the Trivela PlayStyle and PlayStyle+.\n- Moderately reduced Outside Foot Shot accuracy.\n- Reduced the maximum potential amount of top spin the ball can have from an Outside Foot Shot.\n- Updated player selection logic when using Secondary Contain.\n\n‌\n\nAddressed the following issues:\n\n- Improved referee foul calling logic inside the box following a clearance attempt.\n- Sometimes, the attacking player could have unintentionally stumbled over a slide tackling defender’s arms when attempting to avoid them.\n- In some situations, the goalkeeper could have incorrectly picked up the ball after it was passed by a teammate’s foot.\n\n### General, Audio, and Visual\n\nMade the following changes:\n\n- Updated some ad boards,  player models, trophies, crown chants, kits, hair, sleeve sponsors and badges, boots, balls, star heads, stadium themes, VIP Areas, match scenes, and tifos.\n\n‌\n\nAddressed the following issues:\n\n- In some set piece Skill Games, the defensive wall was not always positioned as intended.\n- In some set piece Practice Arena situations, the defending side did not always position their wall as intended.\n- Addressed instances of the UI not displaying correctly during some Skill Games.\n- Addressed instances of stability issues that could have occurred.\n- Addressed instances of placeholder text and images.\n\nThanks to those who’ve provided and continue to provide feedback. Throughout the course of the EA SPORTS FC 24 season, we'll provide you with more information and updates if and when they become available. Be sure to follow [\\@‌EASFCDIRECT](https://twitter.com/EASFCDirect \"‌\") on X and to check out the EA SPORTS FC Tracker for the latest news and updates.\n\n‌\n\n- The EA SPORTS FC Team",
+                    "id": "65c20c7ee5c66e3672c6a417",
+                    "name": "[PC/PS4/PS5/XB1/XBSX|S/SWITCH] Title Update #9",
+                    "idShort": 421,
+                    "shortLink": "qS9R75Ij"
+                },
+                "old": {
+                    "desc": "Title Update #9 is now available for the PlayStation 4 and Xbox One versions of EA SPORTS FC 24 and includes the changes below. Title Update #9 will be released on other platforms in the near future.\n\n### Ultimate Team\n\nAddressed the following issues:\n\n- Some Player Item rarities could have displayed incorrectly.\n- The News menu video player did not expand to full screen.\n- On rare occasions, pyrotechnics could have appeared in the center of the pitch.\n\n### Career Mode\n\nAddressed the following issues:\n\n- In Player career, duplicate requests could have appeared in the Decisions tab.\n- Youth Players could have had the Chip Shot PlayStyles without meeting its requirements.\n- In Player Career, some Training Drills did not use the player’s created Pro.\n\n### Gameplay\n\nMade the following changes:\n\n- Reduced effectiveness of Outside Foot Shots for players with or without the Trivela PlayStyle and PlayStyle+.\n- Moderately reduced Outside Foot Shot accuracy.\n- Reduced the maximum potential amount of top spin the ball can have from an Outside Foot Shot.\n- Updated player selection logic when using Secondary Contain.\n\n‌\n\nAddressed the following issues:\n\n- Improved referee foul calling logic inside the box following a clearance attempt.\n- Sometimes, the attacking player could have unintentionally stumbled over a slide tackling defender’s arms when attempting to avoid them.\n- In some situations, the goalkeeper could have incorrectly picked up the ball after it was passed by a teammate’s foot.\n\n### General, Audio, and Visual\n\nMade the following changes:\n\n- Updated some ad boards,  player models, trophies, crown chants, kits, hair, sleeve sponsors and badges, boots, balls, star heads, stadium themes, VIP Areas, match scenes, and tifos.\n\n‌\n\nAddressed the following issues:\n\n- In some set piece Skill Games, the defensive wall was not always positioned as intended.\n- In some set piece Practice Arena situations, the defending side did not always position their wall as intended.\n- Addressed instances of the UI not displaying correctly during some Skill Games.\n- Addressed instances of stability issues that could have occurred.\n- Addressed instances of placeholder text and images.\n\nThanks to those who’ve provided and continue to provide feedback. Throughout the course of the EA SPORTS FC 24 season, we'll provide you with more information and updates if and when they become available. Be sure to follow [\\@‌EASFCDIRECT](https://twitter.com/EASFCDirect \"‌\") on X and to check out the EA SPORTS FC Tracker for the latest news and updates.\n\n‌\n\n- The EA SPORTS FC Team"
+                },
+                "board": {
+                    "id": "5f73f7c1b4c1280a7068df5f",
+                    "name": "EA SPORTS FC Tracker",
+                    "shortLink": "keigLn6R"
+                },
+                "list": {
+                    "id": "5f73f7c1b4c1280a7068df61",
+                    "name": "Latest News"
+                }
+            },
+            "appCreator": null,
+            "type": "updateCard",
+            "date": "2024-02-13T10:08:33.643Z",
+            "limits": null,
+            "memberCreator": {
+                "id": "55fab97406891939fbe4cb5e",
+                "activityBlocked": false,
+                "avatarHash": "12acb16aff4d994e1b6cf238d7522e59",
+                "avatarUrl": "https://trello-members.s3.amazonaws.com/55fab97406891939fbe4cb5e/12acb16aff4d994e1b6cf238d7522e59",
+                "fullName": "D-Maks",
+                "idMemberReferrer": null,
+                "initials": "D",
+                "nonPublic": {},
+                "nonPublicAvailable": true,
+                "username": "denissmaksimovs"
+            }
+        },
+        {
+            "id": "65cb3f906361cc6d4af88537",
+            "idMemberCreator": "55fab97406891939fbe4cb5e",
+            "data": {
+                "card": {
+                    "name": "[PC/PS4/PS5/XB1/XBSX|S/SWITCH] Title Update #9",
+                    "id": "65c20c7ee5c66e3672c6a417",
+                    "idShort": 421,
+                    "shortLink": "qS9R75Ij"
+                },
+                "old": {
+                    "name": "[PS4/XB1] Title Update #9"
+                },
+                "board": {
+                    "id": "5f73f7c1b4c1280a7068df5f",
+                    "name": "EA SPORTS FC Tracker",
+                    "shortLink": "keigLn6R"
+                },
+                "list": {
+                    "id": "5f73f7c1b4c1280a7068df61",
+                    "name": "Latest News"
+                }
+            },
+            "appCreator": null,
+            "type": "updateCard",
+            "date": "2024-02-13T10:08:16.528Z",
+            "limits": null,
+            "memberCreator": {
+                "id": "55fab97406891939fbe4cb5e",
+                "activityBlocked": false,
+                "avatarHash": "12acb16aff4d994e1b6cf238d7522e59",
+                "avatarUrl": "https://trello-members.s3.amazonaws.com/55fab97406891939fbe4cb5e/12acb16aff4d994e1b6cf238d7522e59",
+                "fullName": "D-Maks",
+                "idMemberReferrer": null,
+                "initials": "D",
+                "nonPublic": {},
+                "nonPublicAvailable": true,
+                "username": "denissmaksimovs"
+            }
+        },
+        {
+            "id": "65ca411d64aeae9cb8909096",
+            "idMemberCreator": "5d5b1beea30eaf1b648e6ee7",
+            "data": {
+                "card": {
+                    "desc": "Title Update #9 is now available for the PlayStation 4 and Xbox One versions of EA SPORTS FC 24 and includes the changes below. Title Update #9 will be released on other platforms in the near future.\n\n### Ultimate Team\n\nAddressed the following issues:\n\n- Some Player Item rarities could have displayed incorrectly.\n- The News menu video player did not expand to full screen.\n- On rare occasions, pyrotechnics could have appeared in the center of the pitch.\n\n### Career Mode\n\nAddressed the following issues:\n\n- In Player career, duplicate requests could have appeared in the Decisions tab.\n- Youth Players could have had the Chip Shot PlayStyles without meeting its requirements.\n- In Player Career, some Training Drills did not use the player’s created Pro.\n\n### Gameplay\n\nMade the following changes:\n\n- Reduced effectiveness of Outside Foot Shots for players with or without the Trivela PlayStyle and PlayStyle+.\n- Moderately reduced Outside Foot Shot accuracy.\n- Reduced the maximum potential amount of top spin the ball can have from an Outside Foot Shot.\n- Updated player selection logic when using Secondary Contain.\n\n‌\n\nAddressed the following issues:\n\n- Improved referee foul calling logic inside the box following a clearance attempt.\n- Sometimes, the attacking player could have unintentionally stumbled over a slide tackling defender’s arms when attempting to avoid them.\n- In some situations, the goalkeeper could have incorrectly picked up the ball after it was passed by a teammate’s foot.\n\n### General, Audio, and Visual\n\nMade the following changes:\n\n- Updated some ad boards,  player models, trophies, crown chants, kits, hair, sleeve sponsors and badges, boots, balls, star heads, stadium themes, VIP Areas, match scenes, and tifos.\n\n‌\n\nAddressed the following issues:\n\n- In some set piece Skill Games, the defensive wall was not always positioned as intended.\n- In some set piece Practice Arena situations, the defending side did not always position their wall as intended.\n- Addressed instances of the UI not displaying correctly during some Skill Games.\n- Addressed instances of stability issues that could have occurred.\n- Addressed instances of placeholder text and images.\n\nThanks to those who’ve provided and continue to provide feedback. Throughout the course of the EA SPORTS FC 24 season, we'll provide you with more information and updates if and when they become available. Be sure to follow [\\@‌EASFCDIRECT](https://twitter.com/EASFCDirect \"‌\") on X and to check out the EA SPORTS FC Tracker for the latest news and updates.\n\n‌\n\n- The EA SPORTS FC Team",
+                    "id": "65c20c7ee5c66e3672c6a417",
+                    "name": "[PS4/XB1] Title Update #9",
+                    "idShort": 421,
+                    "shortLink": "qS9R75Ij"
+                },
+                "old": {
+                    "desc": "Title Update #9 is now available for the PlayStation 4 and Xbox One versions of EA SPORTS FC 24 and includes the changes below. Title Update #9 will be released on other platforms in the near future.\n\n### Ultimate Team\n\nAddressed the following issues:\n\n- A stability issue could have occurred when placing a previously Evolved Player Item in an Evolution slot.\n- Some Player Item rarities could have displayed incorrectly.\n- The News menu video player did not expand to full screen.\n- On rare occasions, pyrotechnics could have appeared in the center of the pitch.\n\n### Career Mode\n\nAddressed the following issues:\n\n- In Player career, duplicate requests could have appeared in the Decisions tab.\n- Youth Players could have had the Chip Shot PlayStyles without meeting its requirements.\n- In Player Career, some Training Drills did not use the player’s created Pro.\n\n### Gameplay\n\nMade the following changes:\n\n- Reduced effectiveness of Outside Foot Shots for players with or without the Trivela PlayStyle and PlayStyle+.\n- Moderately reduced Outside Foot Shot accuracy.\n- Reduced the maximum potential amount of top spin the ball can have from an Outside Foot Shot.\n- Updated player selection logic when using Secondary Contain.\n\n‌\n\nAddressed the following issues:\n\n- Improved referee foul calling logic inside the box following a clearance attempt.\n- Sometimes, the attacking player could have unintentionally stumbled over a slide tackling defender’s arms when attempting to avoid them.\n- In some situations, the goalkeeper could have incorrectly picked up the ball after it was passed by a teammate’s foot.\n\n### General, Audio, and Visual\n\nMade the following changes:\n\n- Updated some ad boards,  player models, trophies, crown chants, kits, hair, sleeve sponsors and badges, boots, balls, star heads, stadium themes, VIP Areas, match scenes, and tifos.\n\n‌\n\nAddressed the following issues:\n\n- In some set piece Skill Games, the defensive wall was not always positioned as intended.\n- In some set piece Practice Arena situations, the defending side did not always position their wall as intended.\n- Addressed instances of the UI not displaying correctly during some Skill Games.\n- Addressed instances of stability issues that could have occurred.\n- Addressed instances of placeholder text and images.\n\nThanks to those who’ve provided and continue to provide feedback. Throughout the course of the EA SPORTS FC 24 season, we'll provide you with more information and updates if and when they become available. Be sure to follow [\\@‌EASFCDIRECT](https://twitter.com/EASFCDirect \"‌\") on X and to check out the EA SPORTS FC Tracker for the latest news and updates.\n\n‌\n\n- The EA SPORTS FC Team"
+                },
+                "board": {
+                    "id": "5f73f7c1b4c1280a7068df5f",
+                    "name": "EA SPORTS FC Tracker",
+                    "shortLink": "keigLn6R"
+                },
+                "list": {
+                    "id": "5f73f7c1b4c1280a7068df61",
+                    "name": "Latest News"
+                }
+            },
+            "appCreator": null,
+            "type": "updateCard",
+            "date": "2024-02-12T16:02:37.080Z",
+            "limits": null,
+            "memberCreator": {
+                "id": "5d5b1beea30eaf1b648e6ee7",
+                "activityBlocked": false,
+                "avatarHash": "9b8c2ae64bd8604e7257419fe56df466",
+                "avatarUrl": "https://trello-members.s3.amazonaws.com/5d5b1beea30eaf1b648e6ee7/9b8c2ae64bd8604e7257419fe56df466",
+                "fullName": "Goran",
+                "idMemberReferrer": null,
+                "initials": "G",
+                "nonPublic": {},
+                "nonPublicAvailable": true,
+                "username": "goran_drpoplove"
+            }
+        },
+        {
+            "id": "65c34d986b64afdadb5c4f22",
+            "idMemberCreator": "5c48831d226ccb5009c3b830",
+            "data": {
+                "card": {
+                    "desc": "Title Update #9 is now available for the PlayStation 4 and Xbox One versions of EA SPORTS FC 24 and includes the changes below. Title Update #9 will be released on other platforms in the near future.\n\n### Ultimate Team\n\nAddressed the following issues:\n\n- A stability issue could have occurred when placing a previously Evolved Player Item in an Evolution slot.\n- Some Player Item rarities could have displayed incorrectly.\n- The News menu video player did not expand to full screen.\n- On rare occasions, pyrotechnics could have appeared in the center of the pitch.\n\n### Career Mode\n\nAddressed the following issues:\n\n- In Player career, duplicate requests could have appeared in the Decisions tab.\n- Youth Players could have had the Chip Shot PlayStyles without meeting its requirements.\n- In Player Career, some Training Drills did not use the player’s created Pro.\n\n### Gameplay\n\nMade the following changes:\n\n- Reduced effectiveness of Outside Foot Shots for players with or without the Trivela PlayStyle and PlayStyle+.\n- Moderately reduced Outside Foot Shot accuracy.\n- Reduced the maximum potential amount of top spin the ball can have from an Outside Foot Shot.\n- Updated player selection logic when using Secondary Contain.\n\n‌\n\nAddressed the following issues:\n\n- Improved referee foul calling logic inside the box following a clearance attempt.\n- Sometimes, the attacking player could have unintentionally stumbled over a slide tackling defender’s arms when attempting to avoid them.\n- In some situations, the goalkeeper could have incorrectly picked up the ball after it was passed by a teammate’s foot.\n\n### General, Audio, and Visual\n\nMade the following changes:\n\n- Updated some ad boards,  player models, trophies, crown chants, kits, hair, sleeve sponsors and badges, boots, balls, star heads, stadium themes, VIP Areas, match scenes, and tifos.\n\n‌\n\nAddressed the following issues:\n\n- In some set piece Skill Games, the defensive wall was not always positioned as intended.\n- In some set piece Practice Arena situations, the defending side did not always position their wall as intended.\n- Addressed instances of the UI not displaying correctly during some Skill Games.\n- Addressed instances of stability issues that could have occurred.\n- Addressed instances of placeholder text and images.\n\nThanks to those who’ve provided and continue to provide feedback. Throughout the course of the EA SPORTS FC 24 season, we'll provide you with more information and updates if and when they become available. Be sure to follow [\\@‌EASFCDIRECT](https://twitter.com/EASFCDirect \"‌\") on X and to check out the EA SPORTS FC Tracker for the latest news and updates.\n\n‌\n\n- The EA SPORTS FC Team",
+                    "id": "65c20c7ee5c66e3672c6a417",
+                    "name": "[PS4/XB1] Title Update #9",
+                    "idShort": 421,
+                    "shortLink": "qS9R75Ij"
+                },
+                "old": {
+                    "desc": "Title Update #9 will soon be available for the PlayStation 4 and Xbox One versions of EA SPORTS FC 24 and includes the changes below. Title Update #9 will be released on other platforms in the near future.\n\n### Ultimate Team\n\nAddressed the following issues:\n\n- A stability issue could have occurred when placing a previously Evolved Player Item in an Evolution slot.\n- Some Player Item rarities could have displayed incorrectly.\n- The News menu video player did not expand to full screen.\n- On rare occasions, pyrotechnics could have appeared in the center of the pitch.\n\n### Career Mode\n\nAddressed the following issues:\n\n- In Player career, duplicate requests could have appeared in the Decisions tab.\n- Youth Players could have had the Chip Shot PlayStyles without meeting its requirements.\n- In Player Career, some Training Drills did not use the player’s created Pro.\n\n### Gameplay\n\nMade the following changes:\n\n- Reduced effectiveness of Outside Foot Shots for players with or without the Trivela PlayStyle and PlayStyle+.\n- Moderately reduced Outside Foot Shot accuracy.\n- Reduced the maximum potential amount of top spin the ball can have from an Outside Foot Shot.\n- Updated player selection logic when using Secondary Contain.\n\n‌\n\nAddressed the following issues:\n\n- Improved referee foul calling logic inside the box following a clearance attempt.\n- Sometimes, the attacking player could have unintentionally stumbled over a slide tackling defender’s arms when attempting to avoid them.\n- In some situations, the goalkeeper could have incorrectly picked up the ball after it was passed by a teammate’s foot.\n\n### General, Audio, and Visual\n\nMade the following changes:\n\n- Updated some ad boards,  player models, trophies, crown chants, kits, hair, sleeve sponsors and badges, boots, balls, star heads, stadium themes, VIP Areas, match scenes, and tifos.\n\n‌\n\nAddressed the following issues:\n\n- In some set piece Skill Games, the defensive wall was not always positioned as intended.\n- In some set piece Practice Arena situations, the defending side did not always position their wall as intended.\n- Addressed instances of the UI not displaying correctly during some Skill Games.\n- Addressed instances of stability issues that could have occurred.\n- Addressed instances of placeholder text and images.\n\nThanks to those who’ve provided and continue to provide feedback. Throughout the course of the EA SPORTS FC 24 season, we'll provide you with more information and updates if and when they become available. Be sure to follow [\\@‌EASFCDIRECT](https://twitter.com/EASFCDirect \"‌\") on X and to check out the EA SPORTS FC Tracker for the latest news and updates.\n\n‌\n\n- The EA SPORTS FC Team"
+                },
+                "board": {
+                    "id": "5f73f7c1b4c1280a7068df5f",
+                    "name": "EA SPORTS FC Tracker",
+                    "shortLink": "keigLn6R"
+                },
+                "list": {
+                    "id": "5f73f7c1b4c1280a7068df61",
+                    "name": "Latest News"
+                }
+            },
+            "appCreator": null,
+            "type": "updateCard",
+            "date": "2024-02-07T09:30:00.651Z",
+            "limits": null,
+            "memberCreator": {
+                "id": "5c48831d226ccb5009c3b830",
+                "activityBlocked": false,
+                "avatarHash": "65b8551dba3917ec1acddcfa24cd1bea",
+                "avatarUrl": "https://trello-members.s3.amazonaws.com/5c48831d226ccb5009c3b830/65b8551dba3917ec1acddcfa24cd1bea",
+                "fullName": "Paul Murphy",
+                "idMemberReferrer": null,
+                "initials": "PM",
+                "nonPublic": {},
+                "nonPublicAvailable": true,
+                "username": "pmurphy_liveops"
+            }
+        },
+        {
+            "id": "65c297176374746df9776a24",
+            "idMemberCreator": "5d5b1beea30eaf1b648e6ee7",
+            "data": {
+                "card": {
+                    "desc": "Title Update #9 will soon be available for the PlayStation 4 and Xbox One versions of EA SPORTS FC 24 and includes the changes below. Title Update #9 will be released on other platforms in the near future.\n\n### Ultimate Team\n\nAddressed the following issues:\n\n- A stability issue could have occurred when placing a previously Evolved Player Item in an Evolution slot.\n- Some Player Item rarities could have displayed incorrectly.\n- The News menu video player did not expand to full screen.\n- On rare occasions, pyrotechnics could have appeared in the center of the pitch.\n\n### Career Mode\n\nAddressed the following issues:\n\n- In Player career, duplicate requests could have appeared in the Decisions tab.\n- Youth Players could have had the Chip Shot PlayStyles without meeting its requirements.\n- In Player Career, some Training Drills did not use the player’s created Pro.\n\n### Gameplay\n\nMade the following changes:\n\n- Reduced effectiveness of Outside Foot Shots for players with or without the Trivela PlayStyle and PlayStyle+.\n- Moderately reduced Outside Foot Shot accuracy.\n- Reduced the maximum potential amount of top spin the ball can have from an Outside Foot Shot.\n- Updated player selection logic when using Secondary Contain.\n\n‌\n\nAddressed the following issues:\n\n- Improved referee foul calling logic inside the box following a clearance attempt.\n- Sometimes, the attacking player could have unintentionally stumbled over a slide tackling defender’s arms when attempting to avoid them.\n- In some situations, the goalkeeper could have incorrectly picked up the ball after it was passed by a teammate’s foot.\n\n### General, Audio, and Visual\n\nMade the following changes:\n\n- Updated some ad boards,  player models, trophies, crown chants, kits, hair, sleeve sponsors and badges, boots, balls, star heads, stadium themes, VIP Areas, match scenes, and tifos.\n\n‌\n\nAddressed the following issues:\n\n- In some set piece Skill Games, the defensive wall was not always positioned as intended.\n- In some set piece Practice Arena situations, the defending side did not always position their wall as intended.\n- Addressed instances of the UI not displaying correctly during some Skill Games.\n- Addressed instances of stability issues that could have occurred.\n- Addressed instances of placeholder text and images.\n\nThanks to those who’ve provided and continue to provide feedback. Throughout the course of the EA SPORTS FC 24 season, we'll provide you with more information and updates if and when they become available. Be sure to follow [\\@‌EASFCDIRECT](https://twitter.com/EASFCDirect \"‌\") on X and to check out the EA SPORTS FC Tracker for the latest news and updates.\n\n‌\n\n- The EA SPORTS FC Team",
+                    "id": "65c20c7ee5c66e3672c6a417",
+                    "name": "[PS4/XB1] Title Update #9",
+                    "idShort": 421,
+                    "shortLink": "qS9R75Ij"
+                },
+                "old": {
+                    "desc": "Title Update #9 will soon be available for the PlayStation 4 and Xbox One versions of EA SPORTS FC 24 and includes the changes below. Title Update #9 will be released on other platforms in the near future.\n\n### Ultimate Team\n\nAddressed the following issues:\n\n- A stability issue could have occurred when placing a previously Evolved Player Item in an Evolution slot.\n- Some Player Item rarities could have displayed incorrectly.\n- The News menu video player did not expand to full screen.\n- On rare occasions, pyrotechnics could have appeared in the center of the pitch.\n\n### Career Mode\n\nAddressed the following issues:\n\n- In Player career, duplicate requests could have appeared in the Decisions tab.\n- Youth Players could have had the Chip Shot PlayStyles without meeting its requirements.\n- In Player Career, some Training Drills did not use the player’s created Pro.\n\n### Gameplay\n\nMade the following changes:\n\n- Improved AI teammate positioning and marking decision making in cutback scenarios.\n- Reduced effectiveness of Outside Foot Shots for players with or without the Trivela PlayStyle and PlayStyle+.\n- Moderately reduced Outside Foot Shot accuracy.\n- Reduced the maximum potential amount of top spin the ball can have from an Outside Foot Shot.\n- Updated player selection logic when using Secondary Contain.\n\n‌\n\nAddressed the following issues:\n\n- Improved referee foul calling logic inside the box following a clearance attempt.\n- Sometimes, the attacking player could have unintentionally stumbled over a slide tackling defender’s arms when attempting to avoid them.\n- In some situations, the goalkeeper could have incorrectly picked up the ball after it was passed by a teammate’s foot.\n\n### General, Audio, and Visual\n\nMade the following changes:\n\n- Updated some ad boards,  player models, trophies, crown chants, kits, hair, sleeve sponsors and badges, boots, balls, star heads, stadium themes, VIP Areas, match scenes, and tifos.\n\n‌\n\nAddressed the following issues:\n\n- In some set piece Skill Games, the defensive wall was not always positioned as intended.\n- In some set piece Practice Arena situations, the defending side did not always position their wall as intended.\n- Addressed instances of the UI not displaying correctly during some Skill Games.\n- Addressed instances of stability issues that could have occurred.\n- Addressed instances of placeholder text and images.\n\nThanks to those who’ve provided and continue to provide feedback. Throughout the course of the EA SPORTS FC 24 season, we'll provide you with more information and updates if and when they become available. Be sure to follow [\\@‌EASFCDIRECT](https://twitter.com/EASFCDirect \"‌\") on X and to check out the EA SPORTS FC Tracker for the latest news and updates.\n\n‌\n\n- The EA SPORTS FC Team"
+                },
+                "board": {
+                    "id": "5f73f7c1b4c1280a7068df5f",
+                    "name": "EA SPORTS FC Tracker",
+                    "shortLink": "keigLn6R"
+                },
+                "list": {
+                    "id": "5f73f7c1b4c1280a7068df61",
+                    "name": "Latest News"
+                }
+            },
+            "appCreator": null,
+            "type": "updateCard",
+            "date": "2024-02-06T20:31:19.528Z",
+            "limits": null,
+            "memberCreator": {
+                "id": "5d5b1beea30eaf1b648e6ee7",
+                "activityBlocked": false,
+                "avatarHash": "9b8c2ae64bd8604e7257419fe56df466",
+                "avatarUrl": "https://trello-members.s3.amazonaws.com/5d5b1beea30eaf1b648e6ee7/9b8c2ae64bd8604e7257419fe56df466",
+                "fullName": "Goran",
+                "idMemberReferrer": null,
+                "initials": "G",
+                "nonPublic": {},
+                "nonPublicAvailable": true,
+                "username": "goran_drpoplove"
+            }
+        },
+        {
+            "id": "65c252fdc9bef74de9235636",
+            "idMemberCreator": "5c48831d226ccb5009c3b830",
+            "data": {
+                "attachment": {
+                    "id": "65c252fcc9bef74de9235082",
+                    "name": "EA SPORTS FC 24 TU 9.png",
+                    "url": "https://trello.com/1/cards/65c20c7ee5c66e3672c6a417/attachments/65c252fcc9bef74de9235082/download/EA_SPORTS_FC_24_TU_9.png",
+                    "previewUrl": "https://trello.com/1/cards/65c20c7ee5c66e3672c6a417/attachments/65c252fcc9bef74de9235082/previews/preview/download/EA_SPORTS_FC_24_TU_9.png",
+                    "previewUrl2x": "https://trello.com/1/cards/65c20c7ee5c66e3672c6a417/attachments/65c252fcc9bef74de9235082/previews/preview2x/download/EA_SPORTS_FC_24_TU_9.png"
+                },
+                "card": {
+                    "id": "65c20c7ee5c66e3672c6a417",
+                    "name": "[PS4/XB1] Title Update #9",
+                    "idShort": 421,
+                    "shortLink": "qS9R75Ij"
+                },
+                "list": {
+                    "id": "5f73f7c1b4c1280a7068df61",
+                    "name": "Latest News"
+                },
+                "board": {
+                    "id": "5f73f7c1b4c1280a7068df5f",
+                    "name": "EA SPORTS FC Tracker",
+                    "shortLink": "keigLn6R"
+                }
+            },
+            "appCreator": null,
+            "type": "addAttachmentToCard",
+            "date": "2024-02-06T15:40:45.836Z",
+            "limits": null,
+            "memberCreator": {
+                "id": "5c48831d226ccb5009c3b830",
+                "activityBlocked": false,
+                "avatarHash": "65b8551dba3917ec1acddcfa24cd1bea",
+                "avatarUrl": "https://trello-members.s3.amazonaws.com/5c48831d226ccb5009c3b830/65b8551dba3917ec1acddcfa24cd1bea",
+                "fullName": "Paul Murphy",
+                "idMemberReferrer": null,
+                "initials": "PM",
+                "nonPublic": {},
+                "nonPublicAvailable": true,
+                "username": "pmurphy_liveops"
+            }
+        },
+        {
+            "id": "65c2100946da12fc9d810301",
+            "idMemberCreator": "5c48831d226ccb5009c3b830",
+            "data": {
+                "card": {
+                    "idLabels": [
+                        "5f73f7c1b4c1280a7068dfeb",
+                        "64a6d93136e6c63d5556ac6f"
+                    ],
+                    "id": "65c20c7ee5c66e3672c6a417",
+                    "name": "[PS4/XB1] Title Update #9",
+                    "idShort": 421,
+                    "shortLink": "qS9R75Ij"
+                },
+                "old": {
+                    "idLabels": [
+                        "5f73f7c1b4c1280a7068dfeb"
+                    ]
+                },
+                "board": {
+                    "id": "5f73f7c1b4c1280a7068df5f",
+                    "name": "EA SPORTS FC Tracker",
+                    "shortLink": "keigLn6R"
+                },
+                "list": {
+                    "id": "5f73f7c1b4c1280a7068df61",
+                    "name": "Latest News"
+                }
+            },
+            "appCreator": null,
+            "type": "updateCard",
+            "date": "2024-02-06T10:55:05.272Z",
+            "limits": null,
+            "memberCreator": {
+                "id": "5c48831d226ccb5009c3b830",
+                "activityBlocked": false,
+                "avatarHash": "65b8551dba3917ec1acddcfa24cd1bea",
+                "avatarUrl": "https://trello-members.s3.amazonaws.com/5c48831d226ccb5009c3b830/65b8551dba3917ec1acddcfa24cd1bea",
+                "fullName": "Paul Murphy",
+                "idMemberReferrer": null,
+                "initials": "PM",
+                "nonPublic": {},
+                "nonPublicAvailable": true,
+                "username": "pmurphy_liveops"
+            }
+        },
+        {
+            "id": "65c21008dedbd3449bb79e71",
+            "idMemberCreator": "5c48831d226ccb5009c3b830",
+            "data": {
+                "card": {
+                    "idLabels": [
+                        "5f73f7c1b4c1280a7068dfeb"
+                    ],
+                    "id": "65c20c7ee5c66e3672c6a417",
+                    "name": "[PS4/XB1] Title Update #9",
+                    "idShort": 421,
+                    "shortLink": "qS9R75Ij"
+                },
+                "old": {
+                    "idLabels": []
+                },
+                "board": {
+                    "id": "5f73f7c1b4c1280a7068df5f",
+                    "name": "EA SPORTS FC Tracker",
+                    "shortLink": "keigLn6R"
+                },
+                "list": {
+                    "id": "5f73f7c1b4c1280a7068df61",
+                    "name": "Latest News"
+                }
+            },
+            "appCreator": null,
+            "type": "updateCard",
+            "date": "2024-02-06T10:55:04.488Z",
+            "limits": null,
+            "memberCreator": {
+                "id": "5c48831d226ccb5009c3b830",
+                "activityBlocked": false,
+                "avatarHash": "65b8551dba3917ec1acddcfa24cd1bea",
+                "avatarUrl": "https://trello-members.s3.amazonaws.com/5c48831d226ccb5009c3b830/65b8551dba3917ec1acddcfa24cd1bea",
+                "fullName": "Paul Murphy",
+                "idMemberReferrer": null,
+                "initials": "PM",
+                "nonPublic": {},
+                "nonPublicAvailable": true,
+                "username": "pmurphy_liveops"
+            }
+        },
+        {
+            "id": "65c20ffec11c993dbb367af3",
+            "idMemberCreator": "5c48831d226ccb5009c3b830",
+            "data": {
+                "card": {
+                    "pos": 4159.9365234375,
+                    "id": "65c20c7ee5c66e3672c6a417",
+                    "name": "[PS4/XB1] Title Update #9",
+                    "idShort": 421,
+                    "shortLink": "qS9R75Ij"
+                },
+                "old": {
+                    "pos": 70143.9296875
+                },
+                "board": {
+                    "id": "5f73f7c1b4c1280a7068df5f",
+                    "name": "EA SPORTS FC Tracker",
+                    "shortLink": "keigLn6R"
+                },
+                "list": {
+                    "id": "5f73f7c1b4c1280a7068df61",
+                    "name": "Latest News"
+                }
+            },
+            "appCreator": null,
+            "type": "updateCard",
+            "date": "2024-02-06T10:54:54.240Z",
+            "limits": null,
+            "memberCreator": {
+                "id": "5c48831d226ccb5009c3b830",
+                "activityBlocked": false,
+                "avatarHash": "65b8551dba3917ec1acddcfa24cd1bea",
+                "avatarUrl": "https://trello-members.s3.amazonaws.com/5c48831d226ccb5009c3b830/65b8551dba3917ec1acddcfa24cd1bea",
+                "fullName": "Paul Murphy",
+                "idMemberReferrer": null,
+                "initials": "PM",
+                "nonPublic": {},
+                "nonPublicAvailable": true,
+                "username": "pmurphy_liveops"
+            }
+        },
+        {
+            "id": "65c20c99c0eab7aee0451fc1",
+            "idMemberCreator": "5c48831d226ccb5009c3b830",
+            "data": {
+                "card": {
+                    "desc": "Title Update #9 will soon be available for the PlayStation 4 and Xbox One versions of EA SPORTS FC 24 and includes the changes below. Title Update #9 will be released on other platforms in the near future.\n\n### Ultimate Team\n\nAddressed the following issues:\n\n- A stability issue could have occurred when placing a previously Evolved Player Item in an Evolution slot.\n- Some Player Item rarities could have displayed incorrectly.\n- The News menu video player did not expand to full screen.\n- On rare occasions, pyrotechnics could have appeared in the center of the pitch.\n\n### Career Mode\n\nAddressed the following issues:\n\n- In Player career, duplicate requests could have appeared in the Decisions tab.\n- Youth Players could have had the Chip Shot PlayStyles without meeting its requirements.\n- In Player Career, some Training Drills did not use the player’s created Pro.\n\n### Gameplay\n\nMade the following changes:\n\n- Improved AI teammate positioning and marking decision making in cutback scenarios.\n- Reduced effectiveness of Outside Foot Shots for players with or without the Trivela PlayStyle and PlayStyle+.\n- Moderately reduced Outside Foot Shot accuracy.\n- Reduced the maximum potential amount of top spin the ball can have from an Outside Foot Shot.\n- Updated player selection logic when using Secondary Contain.\n\n‌\n\nAddressed the following issues:\n\n- Improved referee foul calling logic inside the box following a clearance attempt.\n- Sometimes, the attacking player could have unintentionally stumbled over a slide tackling defender’s arms when attempting to avoid them.\n- In some situations, the goalkeeper could have incorrectly picked up the ball after it was passed by a teammate’s foot.\n\n### General, Audio, and Visual\n\nMade the following changes:\n\n- Updated some ad boards,  player models, trophies, crown chants, kits, hair, sleeve sponsors and badges, boots, balls, star heads, stadium themes, VIP Areas, match scenes, and tifos.\n\n‌\n\nAddressed the following issues:\n\n- In some set piece Skill Games, the defensive wall was not always positioned as intended.\n- In some set piece Practice Arena situations, the defending side did not always position their wall as intended.\n- Addressed instances of the UI not displaying correctly during some Skill Games.\n- Addressed instances of stability issues that could have occurred.\n- Addressed instances of placeholder text and images.\n\nThanks to those who’ve provided and continue to provide feedback. Throughout the course of the EA SPORTS FC 24 season, we'll provide you with more information and updates if and when they become available. Be sure to follow [\\@‌EASFCDIRECT](https://twitter.com/EASFCDirect \"‌\") on X and to check out the EA SPORTS FC Tracker for the latest news and updates.\n\n‌\n\n- The EA SPORTS FC Team",
+                    "id": "65c20c7ee5c66e3672c6a417",
+                    "name": "[PS4/XB1] Title Update #9",
+                    "idShort": 421,
+                    "shortLink": "qS9R75Ij"
+                },
+                "old": {
+                    "desc": ""
+                },
+                "board": {
+                    "id": "5f73f7c1b4c1280a7068df5f",
+                    "name": "EA SPORTS FC Tracker",
+                    "shortLink": "keigLn6R"
+                },
+                "list": {
+                    "id": "5f73f7c1b4c1280a7068df61",
+                    "name": "Latest News"
+                }
+            },
+            "appCreator": null,
+            "type": "updateCard",
+            "date": "2024-02-06T10:40:25.129Z",
+            "limits": null,
+            "memberCreator": {
+                "id": "5c48831d226ccb5009c3b830",
+                "activityBlocked": false,
+                "avatarHash": "65b8551dba3917ec1acddcfa24cd1bea",
+                "avatarUrl": "https://trello-members.s3.amazonaws.com/5c48831d226ccb5009c3b830/65b8551dba3917ec1acddcfa24cd1bea",
+                "fullName": "Paul Murphy",
+                "idMemberReferrer": null,
+                "initials": "PM",
+                "nonPublic": {},
+                "nonPublicAvailable": true,
+                "username": "pmurphy_liveops"
+            }
+        },
+        {
+            "id": "65c20c98979ba9736cef39fe",
+            "idMemberCreator": "5c48831d226ccb5009c3b830",
+            "data": {
+                "card": {
+                    "name": "[PS4/XB1] Title Update #9",
+                    "id": "65c20c7ee5c66e3672c6a417",
+                    "idShort": 421,
+                    "shortLink": "qS9R75Ij"
+                },
+                "old": {
+                    "name": "["
+                },
+                "board": {
+                    "id": "5f73f7c1b4c1280a7068df5f",
+                    "name": "EA SPORTS FC Tracker",
+                    "shortLink": "keigLn6R"
+                },
+                "list": {
+                    "id": "5f73f7c1b4c1280a7068df61",
+                    "name": "Latest News"
+                }
+            },
+            "appCreator": null,
+            "type": "updateCard",
+            "date": "2024-02-06T10:40:24.817Z",
+            "limits": null,
+            "memberCreator": {
+                "id": "5c48831d226ccb5009c3b830",
+                "activityBlocked": false,
+                "avatarHash": "65b8551dba3917ec1acddcfa24cd1bea",
+                "avatarUrl": "https://trello-members.s3.amazonaws.com/5c48831d226ccb5009c3b830/65b8551dba3917ec1acddcfa24cd1bea",
+                "fullName": "Paul Murphy",
+                "idMemberReferrer": null,
+                "initials": "PM",
+                "nonPublic": {},
+                "nonPublicAvailable": true,
+                "username": "pmurphy_liveops"
+            }
+        },
+        {
+            "id": "65c20c7fe5c66e3672c6a420",
+            "idMemberCreator": "5c48831d226ccb5009c3b830",
+            "data": {
+                "card": {
+                    "id": "65c20c7ee5c66e3672c6a417",
+                    "name": "[",
+                    "idShort": 421,
+                    "shortLink": "qS9R75Ij"
+                },
+                "list": {
+                    "id": "5f73f7c1b4c1280a7068df61",
+                    "name": "Latest News"
+                },
+                "board": {
+                    "id": "5f73f7c1b4c1280a7068df5f",
+                    "name": "EA SPORTS FC Tracker",
+                    "shortLink": "keigLn6R"
+                }
+            },
+            "appCreator": null,
+            "type": "createCard",
+            "date": "2024-02-06T10:39:59.016Z",
+            "limits": null,
+            "memberCreator": {
+                "id": "5c48831d226ccb5009c3b830",
+                "activityBlocked": false,
+                "avatarHash": "65b8551dba3917ec1acddcfa24cd1bea",
+                "avatarUrl": "https://trello-members.s3.amazonaws.com/5c48831d226ccb5009c3b830/65b8551dba3917ec1acddcfa24cd1bea",
+                "fullName": "Paul Murphy",
+                "idMemberReferrer": null,
+                "initials": "PM",
+                "nonPublic": {},
+                "nonPublicAvailable": true,
+                "username": "pmurphy_liveops"
+            }
+        }
+    ]
+}

@@ -1,0 +1,949 @@
+{
+    "id": "66f344bc59313a2c523ad9da",
+    "address": null,
+    "badges": {
+        "attachments": 1,
+        "fogbugz": "",
+        "checkItems": 0,
+        "checkItemsChecked": 0,
+        "checkItemsEarliestDue": null,
+        "comments": 0,
+        "description": true,
+        "due": null,
+        "dueComplete": false,
+        "lastUpdatedByAi": false,
+        "start": null,
+        "attachmentsByType": {
+            "trello": {
+                "board": 0,
+                "card": 0
+            }
+        },
+        "externalSource": null,
+        "location": false,
+        "votes": 0,
+        "maliciousAttachments": 0,
+        "viewingMemberVoted": false,
+        "subscribed": false
+    },
+    "checkItemStates": [],
+    "closed": false,
+    "coordinates": null,
+    "creationMethod": null,
+    "creationMethodError": null,
+    "creationMethodLoadingStartedAt": null,
+    "dueComplete": false,
+    "dateClosed": null,
+    "dateLastActivity": "2024-10-04T21:43:02.734Z",
+    "dateCompleted": null,
+    "dateViewedByCreator": null,
+    "desc": "The latest EA SPORTS FC 25 Title Update in now available for all versions of EA SPORTS FC 25, and includes the changes below.\n\n### Ultimate Team\n\nAddressed the following issues:\n\n- Players could have gotten stuck on the Objectives screen after shortcut switching from the Store.\n- Addressed instances of a stability issue that could have occurred following a penalty shootout.\n\n### General, Audio, and Visual\n\nAddressed the following issues:\n\n- Addressed several instances of stability issues that could have occurred in match highlights and tournaments.\n\nThanks to those who’ve provided and continue to provide feedback. Throughout the course of the EA SPORTS FC 25 season, we'll provide you with more information and updates if and when they become available. Be sure to follow \\@‌EASFCDIRECT on X and to check out the EA SPORTS FC Tracker for the latest news and updates.\n\n- The EA SPORTS FC Team",
+    "descData": {
+        "emoji": {}
+    },
+    "due": null,
+    "dueReminder": null,
+    "email": null,
+    "externalSource": null,
+    "idBoard": "5f73f7c1b4c1280a7068df5f",
+    "idChecklists": [],
+    "idLabels": [
+        "5f73f7c1b4c1280a7068dfeb",
+        "66b64c66fe2b82a1a0bd8245"
+    ],
+    "idList": "66e9a32579095e09d37ffc55",
+    "idMemberCreator": "5d5b1beea30eaf1b648e6ee7",
+    "idMembers": [],
+    "idMembersVoted": [],
+    "idOrganization": "6137a564cb8f6432c89f8977",
+    "idShort": 480,
+    "idAttachmentCover": "66f346b671b3a6a71416b0df",
+    "labels": [
+        {
+            "id": "5f73f7c1b4c1280a7068dfeb",
+            "idBoard": "5f73f7c1b4c1280a7068df5f",
+            "idOrganization": "6137a564cb8f6432c89f8977",
+            "name": "Title Update",
+            "nodeId": "ari:cloud:trello::label/workspace/6137a564cb8f6432c89f8977/5f73f7c1b4c1280a7068dfeb",
+            "color": "green",
+            "uses": 181
+        },
+        {
+            "id": "66b64c66fe2b82a1a0bd8245",
+            "idBoard": "5f73f7c1b4c1280a7068df5f",
+            "idOrganization": "6137a564cb8f6432c89f8977",
+            "name": "EA SPORTS FC 25",
+            "nodeId": "ari:cloud:trello::label/workspace/6137a564cb8f6432c89f8977/66b64c66fe2b82a1a0bd8245",
+            "color": "black_dark",
+            "uses": 76
+        }
+    ],
+    "limits": {
+        "attachments": {
+            "perCard": {
+                "status": "ok",
+                "disableAt": 1000,
+                "warnAt": 800
+            }
+        },
+        "checklists": {
+            "perCard": {
+                "status": "ok",
+                "disableAt": 500,
+                "warnAt": 400
+            }
+        },
+        "stickers": {
+            "perCard": {
+                "status": "ok",
+                "disableAt": 70,
+                "warnAt": 56
+            }
+        }
+    },
+    "locationName": null,
+    "manualCoverAttachment": true,
+    "name": "[PS5/PS4/PC/XBSX|S/XB1/SWITCH] Title Update #1",
+    "nodeId": "ari:cloud:trello::card/workspace/6137a564cb8f6432c89f8977/66f344bc59313a2c523ad9da",
+    "pinned": false,
+    "pos": 327680,
+    "shortLink": "7DiunlzA",
+    "shortUrl": "https://trello.com/c/7DiunlzA",
+    "singleInstrumentationId": null,
+    "sourceEmail": null,
+    "staticMapUrl": null,
+    "start": null,
+    "subscribed": null,
+    "url": "https://trello.com/c/7DiunlzA/480-ps5-ps4-pc-xbsxs-xb1-switch-title-update-1",
+    "cover": {
+        "idAttachment": "66f346b671b3a6a71416b0df",
+        "color": null,
+        "idUploadedBackground": null,
+        "size": "normal",
+        "brightness": "dark",
+        "scaled": [
+            {
+                "id": "66f346b771b3a6a71416ba2c",
+                "_id": "66f346b771b3a6a71416ba2c",
+                "scaled": false,
+                "url": "https://trello.com/1/cards/66f344bc59313a2c523ad9da/attachments/66f346b671b3a6a71416b0df/previews/66f346b771b3a6a71416ba2c/download/EAS_FC_25_TITLE_UPDATE_1.png",
+                "bytes": 1969,
+                "height": 50,
+                "width": 70
+            },
+            {
+                "id": "66f346b771b3a6a71416ba2e",
+                "_id": "66f346b771b3a6a71416ba2e",
+                "scaled": true,
+                "url": "https://trello.com/1/cards/66f344bc59313a2c523ad9da/attachments/66f346b671b3a6a71416b0df/previews/66f346b771b3a6a71416ba2e/download/EAS_FC_25_TITLE_UPDATE_1.png",
+                "bytes": 5898,
+                "height": 26,
+                "width": 150
+            },
+            {
+                "id": "66f346b771b3a6a71416ba2d",
+                "_id": "66f346b771b3a6a71416ba2d",
+                "scaled": false,
+                "url": "https://trello.com/1/cards/66f344bc59313a2c523ad9da/attachments/66f346b671b3a6a71416b0df/previews/66f346b771b3a6a71416ba2d/download/EAS_FC_25_TITLE_UPDATE_1.png",
+                "bytes": 13452,
+                "height": 150,
+                "width": 250
+            },
+            {
+                "id": "66f346b771b3a6a71416ba2f",
+                "_id": "66f346b771b3a6a71416ba2f",
+                "scaled": true,
+                "url": "https://trello.com/1/cards/66f344bc59313a2c523ad9da/attachments/66f346b671b3a6a71416b0df/previews/66f346b771b3a6a71416ba2f/download/EAS_FC_25_TITLE_UPDATE_1.png",
+                "bytes": 17030,
+                "height": 51,
+                "width": 298
+            },
+            {
+                "id": "66f346b771b3a6a71416ba30",
+                "_id": "66f346b771b3a6a71416ba30",
+                "scaled": true,
+                "url": "https://trello.com/1/cards/66f344bc59313a2c523ad9da/attachments/66f346b671b3a6a71416b0df/previews/66f346b771b3a6a71416ba30/download/EAS_FC_25_TITLE_UPDATE_1.png",
+                "bytes": 60261,
+                "height": 103,
+                "width": 600
+            },
+            {
+                "id": "66f346b771b3a6a71416ba31",
+                "_id": "66f346b771b3a6a71416ba31",
+                "scaled": true,
+                "url": "https://trello.com/1/cards/66f344bc59313a2c523ad9da/attachments/66f346b671b3a6a71416b0df/previews/66f346b771b3a6a71416ba31/download/EAS_FC_25_TITLE_UPDATE_1.png",
+                "bytes": 222361,
+                "height": 206,
+                "width": 1200
+            },
+            {
+                "id": "66f346b771b3a6a71416ba32",
+                "_id": "66f346b771b3a6a71416ba32",
+                "scaled": true,
+                "url": "https://trello.com/1/cards/66f344bc59313a2c523ad9da/attachments/66f346b671b3a6a71416b0df/previews/66f346b771b3a6a71416ba32/download/EAS_FC_25_TITLE_UPDATE_1.png",
+                "bytes": 512375,
+                "height": 329,
+                "width": 1920
+            }
+        ],
+        "edgeColor": "#2b341b",
+        "idPlugin": null
+    },
+    "isTemplate": false,
+    "cardRole": null,
+    "mirrorSourceId": null,
+    "mirrorSourceNodeId": null,
+    "checklists": [],
+    "customFieldItems": [],
+    "members": [],
+    "pluginData": [],
+    "actions": [
+        {
+            "id": "670061662d73167417b2321a",
+            "idMemberCreator": "5d5b1beea30eaf1b648e6ee7",
+            "data": {
+                "card": {
+                    "pos": 32768,
+                    "id": "66f344bc59313a2c523ad9da",
+                    "name": "[PS5/PS4/PC/XBSX|S/XB1/SWITCH] Title Update #1",
+                    "idShort": 480,
+                    "shortLink": "7DiunlzA"
+                },
+                "old": {
+                    "pos": 2047.96875
+                },
+                "board": {
+                    "id": "5f73f7c1b4c1280a7068df5f",
+                    "name": "EA SPORTS FC Tracker",
+                    "shortLink": "keigLn6R"
+                },
+                "list": {
+                    "id": "66e9a32579095e09d37ffc55",
+                    "name": "Game Updates"
+                }
+            },
+            "appCreator": null,
+            "type": "updateCard",
+            "date": "2024-10-04T21:43:02.750Z",
+            "limits": null,
+            "memberCreator": {
+                "id": "5d5b1beea30eaf1b648e6ee7",
+                "activityBlocked": false,
+                "avatarHash": "9b8c2ae64bd8604e7257419fe56df466",
+                "avatarUrl": "https://trello-members.s3.amazonaws.com/5d5b1beea30eaf1b648e6ee7/9b8c2ae64bd8604e7257419fe56df466",
+                "fullName": "Goran",
+                "idMemberReferrer": null,
+                "initials": "G",
+                "nonPublic": {},
+                "nonPublicAvailable": true,
+                "username": "goran_drpoplove"
+            }
+        },
+        {
+            "id": "670061652d73167417b22d1f",
+            "idMemberCreator": "5d5b1beea30eaf1b648e6ee7",
+            "data": {
+                "card": {
+                    "idList": "66e9a32579095e09d37ffc55",
+                    "id": "66f344bc59313a2c523ad9da",
+                    "name": "[PS5/PS4/PC/XBSX|S/XB1/SWITCH] Title Update #1",
+                    "idShort": 480,
+                    "shortLink": "7DiunlzA"
+                },
+                "old": {
+                    "idList": "5f73f7c1b4c1280a7068df61"
+                },
+                "board": {
+                    "id": "5f73f7c1b4c1280a7068df5f",
+                    "name": "EA SPORTS FC Tracker",
+                    "shortLink": "keigLn6R"
+                },
+                "listBefore": {
+                    "id": "5f73f7c1b4c1280a7068df61",
+                    "name": "Latest News"
+                },
+                "listAfter": {
+                    "id": "66e9a32579095e09d37ffc55",
+                    "name": "Game Updates"
+                }
+            },
+            "appCreator": null,
+            "type": "updateCard",
+            "date": "2024-10-04T21:43:01.546Z",
+            "limits": null,
+            "memberCreator": {
+                "id": "5d5b1beea30eaf1b648e6ee7",
+                "activityBlocked": false,
+                "avatarHash": "9b8c2ae64bd8604e7257419fe56df466",
+                "avatarUrl": "https://trello-members.s3.amazonaws.com/5d5b1beea30eaf1b648e6ee7/9b8c2ae64bd8604e7257419fe56df466",
+                "fullName": "Goran",
+                "idMemberReferrer": null,
+                "initials": "G",
+                "nonPublic": {},
+                "nonPublicAvailable": true,
+                "username": "goran_drpoplove"
+            }
+        },
+        {
+            "id": "6700615e5279ac9a8c867249",
+            "idMemberCreator": "5d5b1beea30eaf1b648e6ee7",
+            "data": {
+                "card": {
+                    "pos": 2047.96875,
+                    "id": "66f344bc59313a2c523ad9da",
+                    "name": "[PS5/PS4/PC/XBSX|S/XB1/SWITCH] Title Update #1",
+                    "idShort": 480,
+                    "shortLink": "7DiunlzA"
+                },
+                "old": {
+                    "pos": 20479.9375
+                },
+                "board": {
+                    "id": "5f73f7c1b4c1280a7068df5f",
+                    "name": "EA SPORTS FC Tracker",
+                    "shortLink": "keigLn6R"
+                },
+                "list": {
+                    "id": "5f73f7c1b4c1280a7068df61",
+                    "name": "Latest News"
+                }
+            },
+            "appCreator": null,
+            "type": "updateCard",
+            "date": "2024-10-04T21:42:54.986Z",
+            "limits": null,
+            "memberCreator": {
+                "id": "5d5b1beea30eaf1b648e6ee7",
+                "activityBlocked": false,
+                "avatarHash": "9b8c2ae64bd8604e7257419fe56df466",
+                "avatarUrl": "https://trello-members.s3.amazonaws.com/5d5b1beea30eaf1b648e6ee7/9b8c2ae64bd8604e7257419fe56df466",
+                "fullName": "Goran",
+                "idMemberReferrer": null,
+                "initials": "G",
+                "nonPublic": {},
+                "nonPublicAvailable": true,
+                "username": "goran_drpoplove"
+            }
+        },
+        {
+            "id": "6700615e5279ac9a8c866ee1",
+            "idMemberCreator": "5d5b1beea30eaf1b648e6ee7",
+            "data": {
+                "card": {
+                    "idList": "5f73f7c1b4c1280a7068df61",
+                    "id": "66f344bc59313a2c523ad9da",
+                    "name": "[PS5/PS4/PC/XBSX|S/XB1/SWITCH] Title Update #1",
+                    "idShort": 480,
+                    "shortLink": "7DiunlzA"
+                },
+                "old": {
+                    "idList": "66e9a32579095e09d37ffc55"
+                },
+                "board": {
+                    "id": "5f73f7c1b4c1280a7068df5f",
+                    "name": "EA SPORTS FC Tracker",
+                    "shortLink": "keigLn6R"
+                },
+                "listBefore": {
+                    "id": "66e9a32579095e09d37ffc55",
+                    "name": "Game Updates"
+                },
+                "listAfter": {
+                    "id": "5f73f7c1b4c1280a7068df61",
+                    "name": "Latest News"
+                }
+            },
+            "appCreator": null,
+            "type": "updateCard",
+            "date": "2024-10-04T21:42:54.635Z",
+            "limits": null,
+            "memberCreator": {
+                "id": "5d5b1beea30eaf1b648e6ee7",
+                "activityBlocked": false,
+                "avatarHash": "9b8c2ae64bd8604e7257419fe56df466",
+                "avatarUrl": "https://trello-members.s3.amazonaws.com/5d5b1beea30eaf1b648e6ee7/9b8c2ae64bd8604e7257419fe56df466",
+                "fullName": "Goran",
+                "idMemberReferrer": null,
+                "initials": "G",
+                "nonPublic": {},
+                "nonPublicAvailable": true,
+                "username": "goran_drpoplove"
+            }
+        },
+        {
+            "id": "66fb14652bcac439b1df28bf",
+            "idMemberCreator": "5d5b1beea30eaf1b648e6ee7",
+            "data": {
+                "card": {
+                    "idList": "66e9a32579095e09d37ffc55",
+                    "id": "66f344bc59313a2c523ad9da",
+                    "name": "[PS5/PS4/PC/XBSX|S/XB1/SWITCH] Title Update #1",
+                    "idShort": 480,
+                    "shortLink": "7DiunlzA"
+                },
+                "old": {
+                    "idList": "5f73f7c1b4c1280a7068df61"
+                },
+                "board": {
+                    "id": "5f73f7c1b4c1280a7068df5f",
+                    "name": "EA SPORTS FC Tracker",
+                    "shortLink": "keigLn6R"
+                },
+                "listBefore": {
+                    "id": "5f73f7c1b4c1280a7068df61",
+                    "name": "Latest News"
+                },
+                "listAfter": {
+                    "id": "66e9a32579095e09d37ffc55",
+                    "name": "Game Updates"
+                }
+            },
+            "appCreator": null,
+            "type": "updateCard",
+            "date": "2024-09-30T21:13:09.684Z",
+            "limits": null,
+            "memberCreator": {
+                "id": "5d5b1beea30eaf1b648e6ee7",
+                "activityBlocked": false,
+                "avatarHash": "9b8c2ae64bd8604e7257419fe56df466",
+                "avatarUrl": "https://trello-members.s3.amazonaws.com/5d5b1beea30eaf1b648e6ee7/9b8c2ae64bd8604e7257419fe56df466",
+                "fullName": "Goran",
+                "idMemberReferrer": null,
+                "initials": "G",
+                "nonPublic": {},
+                "nonPublicAvailable": true,
+                "username": "goran_drpoplove"
+            }
+        },
+        {
+            "id": "66f5221e1b67830f1aa51c60",
+            "idMemberCreator": "5c48831d226ccb5009c3b830",
+            "data": {
+                "card": {
+                    "desc": "The latest EA SPORTS FC 25 Title Update in now available for all versions of EA SPORTS FC 25, and includes the changes below.\n\n### Ultimate Team\n\nAddressed the following issues:\n\n- Players could have gotten stuck on the Objectives screen after shortcut switching from the Store.\n- Addressed instances of a stability issue that could have occurred following a penalty shootout.\n\n### General, Audio, and Visual\n\nAddressed the following issues:\n\n- Addressed several instances of stability issues that could have occurred in match highlights and tournaments.\n\nThanks to those who’ve provided and continue to provide feedback. Throughout the course of the EA SPORTS FC 25 season, we'll provide you with more information and updates if and when they become available. Be sure to follow \\@‌EASFCDIRECT on X and to check out the EA SPORTS FC Tracker for the latest news and updates.\n\n- The EA SPORTS FC Team",
+                    "id": "66f344bc59313a2c523ad9da",
+                    "name": "[PS5/PS4/PC/XBSX|S/XB1/SWITCH] Title Update #1",
+                    "idShort": 480,
+                    "shortLink": "7DiunlzA"
+                },
+                "old": {
+                    "desc": "The latest EA SPORTS FC 25 Title Update in now available for PS5/PS4/PC/XBSX|S/XB, and will soon be available for Switch, and includes the changes below.\n\n### Ultimate Team\n\nAddressed the following issues:\n\n- Players could have gotten stuck on the Objectives screen after shortcut switching from the Store.\n- Addressed instances of a stability issue that could have occurred following a penalty shootout.\n\n### General, Audio, and Visual\n\nAddressed the following issues:\n\n- Addressed several instances of stability issues that could have occurred in match highlights and tournaments.\n\nThanks to those who’ve provided and continue to provide feedback. Throughout the course of the EA SPORTS FC 25 season, we'll provide you with more information and updates if and when they become available. Be sure to follow \\@‌EASFCDIRECT on X and to check out the EA SPORTS FC Tracker for the latest news and updates.\n\n- The EA SPORTS FC Team"
+                },
+                "board": {
+                    "id": "5f73f7c1b4c1280a7068df5f",
+                    "name": "EA SPORTS FC Tracker",
+                    "shortLink": "keigLn6R"
+                },
+                "list": {
+                    "id": "5f73f7c1b4c1280a7068df61",
+                    "name": "Latest News"
+                }
+            },
+            "appCreator": null,
+            "type": "updateCard",
+            "date": "2024-09-26T08:58:06.808Z",
+            "limits": null,
+            "memberCreator": {
+                "id": "5c48831d226ccb5009c3b830",
+                "activityBlocked": false,
+                "avatarHash": "65b8551dba3917ec1acddcfa24cd1bea",
+                "avatarUrl": "https://trello-members.s3.amazonaws.com/5c48831d226ccb5009c3b830/65b8551dba3917ec1acddcfa24cd1bea",
+                "fullName": "Paul Murphy",
+                "idMemberReferrer": null,
+                "initials": "PM",
+                "nonPublic": {},
+                "nonPublicAvailable": true,
+                "username": "pmurphy_liveops"
+            }
+        },
+        {
+            "id": "66f3e9d5b07484b0916afe48",
+            "idMemberCreator": "55fab97406891939fbe4cb5e",
+            "data": {
+                "card": {
+                    "desc": "The latest EA SPORTS FC 25 Title Update in now available for PS5/PS4/PC/XBSX|S/XB, and will soon be available for Switch, and includes the changes below.\n\n### Ultimate Team\n\nAddressed the following issues:\n\n- Players could have gotten stuck on the Objectives screen after shortcut switching from the Store.\n- Addressed instances of a stability issue that could have occurred following a penalty shootout.\n\n### General, Audio, and Visual\n\nAddressed the following issues:\n\n- Addressed several instances of stability issues that could have occurred in match highlights and tournaments.\n\nThanks to those who’ve provided and continue to provide feedback. Throughout the course of the EA SPORTS FC 25 season, we'll provide you with more information and updates if and when they become available. Be sure to follow \\@‌EASFCDIRECT on X and to check out the EA SPORTS FC Tracker for the latest news and updates.\n\n- The EA SPORTS FC Team",
+                    "id": "66f344bc59313a2c523ad9da",
+                    "name": "[PS5/PS4/PC/XBSX|S/XB1/SWITCH] Title Update #1",
+                    "idShort": 480,
+                    "shortLink": "7DiunlzA"
+                },
+                "old": {
+                    "desc": "The latest EA SPORTS FC 25 Title Update will soon be available for PS5/PS4/PC/XBSX|S/XB1 and includes the changes below.\n\n### Ultimate Team\n\nAddressed the following issues:\n\n- Players could have gotten stuck on the Objectives screen after shortcut switching from the Store.\n- Addressed instances of a stability issue that could have occurred following a penalty shootout.\n\n### General, Audio, and Visual\n\nAddressed the following issues:\n\n- Addressed several instances of stability issues that could have occurred in match highlights and tournaments.\n\nThanks to those who’ve provided and continue to provide feedback. Throughout the course of the EA SPORTS FC 25 season, we'll provide you with more information and updates if and when they become available. Be sure to follow \\@‌EASFCDIRECT on X and to check out the EA SPORTS FC Tracker for the latest news and updates.\n\n- The EA SPORTS FC Team"
+                },
+                "board": {
+                    "id": "5f73f7c1b4c1280a7068df5f",
+                    "name": "EA SPORTS FC Tracker",
+                    "shortLink": "keigLn6R"
+                },
+                "list": {
+                    "id": "5f73f7c1b4c1280a7068df61",
+                    "name": "Latest News"
+                }
+            },
+            "appCreator": null,
+            "type": "updateCard",
+            "date": "2024-09-25T10:45:41.399Z",
+            "limits": null,
+            "memberCreator": {
+                "id": "55fab97406891939fbe4cb5e",
+                "activityBlocked": false,
+                "avatarHash": "12acb16aff4d994e1b6cf238d7522e59",
+                "avatarUrl": "https://trello-members.s3.amazonaws.com/55fab97406891939fbe4cb5e/12acb16aff4d994e1b6cf238d7522e59",
+                "fullName": "D-Maks",
+                "idMemberReferrer": null,
+                "initials": "D",
+                "nonPublic": {},
+                "nonPublicAvailable": true,
+                "username": "denissmaksimovs"
+            }
+        },
+        {
+            "id": "66f3e978933bf9a6f0f2c37c",
+            "idMemberCreator": "55fab97406891939fbe4cb5e",
+            "data": {
+                "card": {
+                    "name": "[PS5/PS4/PC/XBSX|S/XB1/SWITCH] Title Update #1",
+                    "id": "66f344bc59313a2c523ad9da",
+                    "idShort": 480,
+                    "shortLink": "7DiunlzA"
+                },
+                "old": {
+                    "name": "[PS5/PS4/PC/XBSX|S/XB1] Title Update #1"
+                },
+                "board": {
+                    "id": "5f73f7c1b4c1280a7068df5f",
+                    "name": "EA SPORTS FC Tracker",
+                    "shortLink": "keigLn6R"
+                },
+                "list": {
+                    "id": "5f73f7c1b4c1280a7068df61",
+                    "name": "Latest News"
+                }
+            },
+            "appCreator": null,
+            "type": "updateCard",
+            "date": "2024-09-25T10:44:08.426Z",
+            "limits": null,
+            "memberCreator": {
+                "id": "55fab97406891939fbe4cb5e",
+                "activityBlocked": false,
+                "avatarHash": "12acb16aff4d994e1b6cf238d7522e59",
+                "avatarUrl": "https://trello-members.s3.amazonaws.com/55fab97406891939fbe4cb5e/12acb16aff4d994e1b6cf238d7522e59",
+                "fullName": "D-Maks",
+                "idMemberReferrer": null,
+                "initials": "D",
+                "nonPublic": {},
+                "nonPublicAvailable": true,
+                "username": "denissmaksimovs"
+            }
+        },
+        {
+            "id": "66f347bc402fc700195f03b6",
+            "idMemberCreator": "5d5b1beea30eaf1b648e6ee7",
+            "data": {
+                "attachment": {
+                    "name": "EAS FC 25 TITLE UPDATE 1.png",
+                    "id": "66f345703a00d5b7da9f8bb8"
+                },
+                "card": {
+                    "id": "66f344bc59313a2c523ad9da",
+                    "name": "[PS5/PS4/PC/XBSX|S/XB1] Title Update #1",
+                    "idShort": 480,
+                    "shortLink": "7DiunlzA"
+                },
+                "board": {
+                    "id": "5f73f7c1b4c1280a7068df5f",
+                    "name": "EA SPORTS FC Tracker",
+                    "shortLink": "keigLn6R"
+                }
+            },
+            "appCreator": null,
+            "type": "deleteAttachmentFromCard",
+            "date": "2024-09-24T23:14:04.516Z",
+            "limits": null,
+            "memberCreator": {
+                "id": "5d5b1beea30eaf1b648e6ee7",
+                "activityBlocked": false,
+                "avatarHash": "9b8c2ae64bd8604e7257419fe56df466",
+                "avatarUrl": "https://trello-members.s3.amazonaws.com/5d5b1beea30eaf1b648e6ee7/9b8c2ae64bd8604e7257419fe56df466",
+                "fullName": "Goran",
+                "idMemberReferrer": null,
+                "initials": "G",
+                "nonPublic": {},
+                "nonPublicAvailable": true,
+                "username": "goran_drpoplove"
+            }
+        },
+        {
+            "id": "66f346b771b3a6a71416ba70",
+            "idMemberCreator": "5d5b1beea30eaf1b648e6ee7",
+            "data": {
+                "attachment": {
+                    "id": "66f346b671b3a6a71416b0df",
+                    "name": "EAS FC 25 TITLE UPDATE 1.png",
+                    "url": "https://trello.com/1/cards/66f344bc59313a2c523ad9da/attachments/66f346b671b3a6a71416b0df/download/EAS_FC_25_TITLE_UPDATE_1.png",
+                    "previewUrl": "https://trello.com/1/cards/66f344bc59313a2c523ad9da/attachments/66f346b671b3a6a71416b0df/previews/preview/download/EAS_FC_25_TITLE_UPDATE_1.png",
+                    "previewUrl2x": "https://trello.com/1/cards/66f344bc59313a2c523ad9da/attachments/66f346b671b3a6a71416b0df/previews/preview2x/download/EAS_FC_25_TITLE_UPDATE_1.png"
+                },
+                "card": {
+                    "id": "66f344bc59313a2c523ad9da",
+                    "name": "[PS5/PS4/PC/XBSX|S/XB1] Title Update #1",
+                    "idShort": 480,
+                    "shortLink": "7DiunlzA"
+                },
+                "list": {
+                    "id": "5f73f7c1b4c1280a7068df61",
+                    "name": "Latest News"
+                },
+                "board": {
+                    "id": "5f73f7c1b4c1280a7068df5f",
+                    "name": "EA SPORTS FC Tracker",
+                    "shortLink": "keigLn6R"
+                }
+            },
+            "appCreator": null,
+            "type": "addAttachmentToCard",
+            "date": "2024-09-24T23:09:43.230Z",
+            "limits": null,
+            "memberCreator": {
+                "id": "5d5b1beea30eaf1b648e6ee7",
+                "activityBlocked": false,
+                "avatarHash": "9b8c2ae64bd8604e7257419fe56df466",
+                "avatarUrl": "https://trello-members.s3.amazonaws.com/5d5b1beea30eaf1b648e6ee7/9b8c2ae64bd8604e7257419fe56df466",
+                "fullName": "Goran",
+                "idMemberReferrer": null,
+                "initials": "G",
+                "nonPublic": {},
+                "nonPublicAvailable": true,
+                "username": "goran_drpoplove"
+            }
+        },
+        {
+            "id": "66f345a62052b684a17d1bf4",
+            "idMemberCreator": "5d5b1beea30eaf1b648e6ee7",
+            "data": {
+                "card": {
+                    "pos": 20479.9375,
+                    "id": "66f344bc59313a2c523ad9da",
+                    "name": "[PS5/PS4/PC/XBSX|S/XB1] Title Update #1",
+                    "idShort": 480,
+                    "shortLink": "7DiunlzA"
+                },
+                "old": {
+                    "pos": 67583.9375
+                },
+                "board": {
+                    "id": "5f73f7c1b4c1280a7068df5f",
+                    "name": "EA SPORTS FC Tracker",
+                    "shortLink": "keigLn6R"
+                },
+                "list": {
+                    "id": "5f73f7c1b4c1280a7068df61",
+                    "name": "Latest News"
+                }
+            },
+            "appCreator": null,
+            "type": "updateCard",
+            "date": "2024-09-24T23:05:10.284Z",
+            "limits": null,
+            "memberCreator": {
+                "id": "5d5b1beea30eaf1b648e6ee7",
+                "activityBlocked": false,
+                "avatarHash": "9b8c2ae64bd8604e7257419fe56df466",
+                "avatarUrl": "https://trello-members.s3.amazonaws.com/5d5b1beea30eaf1b648e6ee7/9b8c2ae64bd8604e7257419fe56df466",
+                "fullName": "Goran",
+                "idMemberReferrer": null,
+                "initials": "G",
+                "nonPublic": {},
+                "nonPublicAvailable": true,
+                "username": "goran_drpoplove"
+            }
+        },
+        {
+            "id": "66f34590f1a16e55ded0fa98",
+            "idMemberCreator": "5d5b1beea30eaf1b648e6ee7",
+            "data": {
+                "card": {
+                    "pos": 67583.9375,
+                    "id": "66f344bc59313a2c523ad9da",
+                    "name": "[PS5/PS4/PC/XBSX|S/XB1] Title Update #1",
+                    "idShort": 480,
+                    "shortLink": "7DiunlzA"
+                },
+                "old": {
+                    "pos": 86015.9375
+                },
+                "board": {
+                    "id": "5f73f7c1b4c1280a7068df5f",
+                    "name": "EA SPORTS FC Tracker",
+                    "shortLink": "keigLn6R"
+                },
+                "list": {
+                    "id": "5f73f7c1b4c1280a7068df61",
+                    "name": "Latest News"
+                }
+            },
+            "appCreator": null,
+            "type": "updateCard",
+            "date": "2024-09-24T23:04:48.698Z",
+            "limits": null,
+            "memberCreator": {
+                "id": "5d5b1beea30eaf1b648e6ee7",
+                "activityBlocked": false,
+                "avatarHash": "9b8c2ae64bd8604e7257419fe56df466",
+                "avatarUrl": "https://trello-members.s3.amazonaws.com/5d5b1beea30eaf1b648e6ee7/9b8c2ae64bd8604e7257419fe56df466",
+                "fullName": "Goran",
+                "idMemberReferrer": null,
+                "initials": "G",
+                "nonPublic": {},
+                "nonPublicAvailable": true,
+                "username": "goran_drpoplove"
+            }
+        },
+        {
+            "id": "66f345713a00d5b7da9f8bd5",
+            "idMemberCreator": "5d5b1beea30eaf1b648e6ee7",
+            "data": {
+                "attachment": {
+                    "name": "EAS FC 25 TITLE UPDATE 1.png",
+                    "id": "66f345703a00d5b7da9f8bb8"
+                },
+                "card": {
+                    "id": "66f344bc59313a2c523ad9da",
+                    "name": "[PS5/PS4/PC/XBSX|S/XB1] Title Update #1",
+                    "idShort": 480,
+                    "shortLink": "7DiunlzA"
+                },
+                "board": {
+                    "id": "5f73f7c1b4c1280a7068df5f",
+                    "name": "EA SPORTS FC Tracker",
+                    "shortLink": "keigLn6R"
+                }
+            },
+            "appCreator": null,
+            "type": "addAttachmentToCard",
+            "date": "2024-09-24T23:04:17.513Z",
+            "limits": null,
+            "memberCreator": {
+                "id": "5d5b1beea30eaf1b648e6ee7",
+                "activityBlocked": false,
+                "avatarHash": "9b8c2ae64bd8604e7257419fe56df466",
+                "avatarUrl": "https://trello-members.s3.amazonaws.com/5d5b1beea30eaf1b648e6ee7/9b8c2ae64bd8604e7257419fe56df466",
+                "fullName": "Goran",
+                "idMemberReferrer": null,
+                "initials": "G",
+                "nonPublic": {},
+                "nonPublicAvailable": true,
+                "username": "goran_drpoplove"
+            }
+        },
+        {
+            "id": "66f345672ae4d9a3e1cb9331",
+            "idMemberCreator": "5d5b1beea30eaf1b648e6ee7",
+            "data": {
+                "card": {
+                    "desc": "The latest EA SPORTS FC 25 Title Update will soon be available for PS5/PS4/PC/XBSX|S/XB1 and includes the changes below.\n\n### Ultimate Team\n\nAddressed the following issues:\n\n- Players could have gotten stuck on the Objectives screen after shortcut switching from the Store.\n- Addressed instances of a stability issue that could have occurred following a penalty shootout.\n\n### General, Audio, and Visual\n\nAddressed the following issues:\n\n- Addressed several instances of stability issues that could have occurred in match highlights and tournaments.\n\nThanks to those who’ve provided and continue to provide feedback. Throughout the course of the EA SPORTS FC 25 season, we'll provide you with more information and updates if and when they become available. Be sure to follow \\@‌EASFCDIRECT on X and to check out the EA SPORTS FC Tracker for the latest news and updates.\n\n- The EA SPORTS FC Team",
+                    "id": "66f344bc59313a2c523ad9da",
+                    "name": "[PS5/PS4/PC/XBSX|S/XB1] Title Update #1",
+                    "idShort": 480,
+                    "shortLink": "7DiunlzA"
+                },
+                "old": {
+                    "desc": "The latest EA SPORTS FC 25 Title Update will soon be available for PS5/PS4/PC/XBSX|S/XB1 and includes the changes below.\n\n### Ultimate Team\n\nAddressed the following issues:\n\n- Players could have gotten stuck on the Objectives screen after shortcut switching from the Store.\n\n- Addressed instances of a stability issue that could have occurred following a penalty shootout.\n\n### General, Audio, and Visual \n\nAddressed the following issues: \n\n- Addressed several instances of stability issues that could have occurred in match highlights and tournaments.\n\nThanks to those who’ve provided and continue to provide feedback. Throughout the course of the EA SPORTS FC 25 season, we'll provide you with more information and updates if and when they become available. Be sure to follow \\@‌EASFCDIRECT on X and to check out the EA SPORTS FC Tracker for the latest news and updates.\n\n- The EA SPORTS FC Team"
+                },
+                "board": {
+                    "id": "5f73f7c1b4c1280a7068df5f",
+                    "name": "EA SPORTS FC Tracker",
+                    "shortLink": "keigLn6R"
+                },
+                "list": {
+                    "id": "5f73f7c1b4c1280a7068df61",
+                    "name": "Latest News"
+                }
+            },
+            "appCreator": null,
+            "type": "updateCard",
+            "date": "2024-09-24T23:04:07.967Z",
+            "limits": null,
+            "memberCreator": {
+                "id": "5d5b1beea30eaf1b648e6ee7",
+                "activityBlocked": false,
+                "avatarHash": "9b8c2ae64bd8604e7257419fe56df466",
+                "avatarUrl": "https://trello-members.s3.amazonaws.com/5d5b1beea30eaf1b648e6ee7/9b8c2ae64bd8604e7257419fe56df466",
+                "fullName": "Goran",
+                "idMemberReferrer": null,
+                "initials": "G",
+                "nonPublic": {},
+                "nonPublicAvailable": true,
+                "username": "goran_drpoplove"
+            }
+        },
+        {
+            "id": "66f345642d65e3588b78ce70",
+            "idMemberCreator": "5d5b1beea30eaf1b648e6ee7",
+            "data": {
+                "card": {
+                    "idLabels": [
+                        "5f73f7c1b4c1280a7068dfeb",
+                        "66b64c66fe2b82a1a0bd8245"
+                    ],
+                    "id": "66f344bc59313a2c523ad9da",
+                    "name": "[PS5/PS4/PC/XBSX|S/XB1] Title Update #1",
+                    "idShort": 480,
+                    "shortLink": "7DiunlzA"
+                },
+                "old": {
+                    "idLabels": [
+                        "5f73f7c1b4c1280a7068dfeb"
+                    ]
+                },
+                "board": {
+                    "id": "5f73f7c1b4c1280a7068df5f",
+                    "name": "EA SPORTS FC Tracker",
+                    "shortLink": "keigLn6R"
+                },
+                "list": {
+                    "id": "5f73f7c1b4c1280a7068df61",
+                    "name": "Latest News"
+                }
+            },
+            "appCreator": null,
+            "type": "updateCard",
+            "date": "2024-09-24T23:04:04.454Z",
+            "limits": null,
+            "memberCreator": {
+                "id": "5d5b1beea30eaf1b648e6ee7",
+                "activityBlocked": false,
+                "avatarHash": "9b8c2ae64bd8604e7257419fe56df466",
+                "avatarUrl": "https://trello-members.s3.amazonaws.com/5d5b1beea30eaf1b648e6ee7/9b8c2ae64bd8604e7257419fe56df466",
+                "fullName": "Goran",
+                "idMemberReferrer": null,
+                "initials": "G",
+                "nonPublic": {},
+                "nonPublicAvailable": true,
+                "username": "goran_drpoplove"
+            }
+        },
+        {
+            "id": "66f3455b74457eb5a711d8fe",
+            "idMemberCreator": "5d5b1beea30eaf1b648e6ee7",
+            "data": {
+                "card": {
+                    "idLabels": [
+                        "5f73f7c1b4c1280a7068dfeb"
+                    ],
+                    "id": "66f344bc59313a2c523ad9da",
+                    "name": "[PS5/PS4/PC/XBSX|S/XB1] Title Update #1",
+                    "idShort": 480,
+                    "shortLink": "7DiunlzA"
+                },
+                "old": {
+                    "idLabels": []
+                },
+                "board": {
+                    "id": "5f73f7c1b4c1280a7068df5f",
+                    "name": "EA SPORTS FC Tracker",
+                    "shortLink": "keigLn6R"
+                },
+                "list": {
+                    "id": "5f73f7c1b4c1280a7068df61",
+                    "name": "Latest News"
+                }
+            },
+            "appCreator": null,
+            "type": "updateCard",
+            "date": "2024-09-24T23:03:55.121Z",
+            "limits": null,
+            "memberCreator": {
+                "id": "5d5b1beea30eaf1b648e6ee7",
+                "activityBlocked": false,
+                "avatarHash": "9b8c2ae64bd8604e7257419fe56df466",
+                "avatarUrl": "https://trello-members.s3.amazonaws.com/5d5b1beea30eaf1b648e6ee7/9b8c2ae64bd8604e7257419fe56df466",
+                "fullName": "Goran",
+                "idMemberReferrer": null,
+                "initials": "G",
+                "nonPublic": {},
+                "nonPublicAvailable": true,
+                "username": "goran_drpoplove"
+            }
+        },
+        {
+            "id": "66f34522e062fc06a7c0632a",
+            "idMemberCreator": "5d5b1beea30eaf1b648e6ee7",
+            "data": {
+                "card": {
+                    "desc": "The latest EA SPORTS FC 25 Title Update will soon be available for PS5/PS4/PC/XBSX|S/XB1 and includes the changes below.\n\n### Ultimate Team\n\nAddressed the following issues:\n\n- Players could have gotten stuck on the Objectives screen after shortcut switching from the Store.\n\n- Addressed instances of a stability issue that could have occurred following a penalty shootout.\n\n### General, Audio, and Visual \n\nAddressed the following issues: \n\n- Addressed several instances of stability issues that could have occurred in match highlights and tournaments.\n\nThanks to those who’ve provided and continue to provide feedback. Throughout the course of the EA SPORTS FC 25 season, we'll provide you with more information and updates if and when they become available. Be sure to follow \\@‌EASFCDIRECT on X and to check out the EA SPORTS FC Tracker for the latest news and updates.\n\n- The EA SPORTS FC Team",
+                    "id": "66f344bc59313a2c523ad9da",
+                    "name": "[PS5/PS4/PC/XBSX|S/XB1] Title Update #1",
+                    "idShort": 480,
+                    "shortLink": "7DiunlzA"
+                },
+                "old": {
+                    "desc": ""
+                },
+                "board": {
+                    "id": "5f73f7c1b4c1280a7068df5f",
+                    "name": "EA SPORTS FC Tracker",
+                    "shortLink": "keigLn6R"
+                },
+                "list": {
+                    "id": "5f73f7c1b4c1280a7068df61",
+                    "name": "Latest News"
+                }
+            },
+            "appCreator": null,
+            "type": "updateCard",
+            "date": "2024-09-24T23:02:58.781Z",
+            "limits": null,
+            "memberCreator": {
+                "id": "5d5b1beea30eaf1b648e6ee7",
+                "activityBlocked": false,
+                "avatarHash": "9b8c2ae64bd8604e7257419fe56df466",
+                "avatarUrl": "https://trello-members.s3.amazonaws.com/5d5b1beea30eaf1b648e6ee7/9b8c2ae64bd8604e7257419fe56df466",
+                "fullName": "Goran",
+                "idMemberReferrer": null,
+                "initials": "G",
+                "nonPublic": {},
+                "nonPublicAvailable": true,
+                "username": "goran_drpoplove"
+            }
+        },
+        {
+            "id": "66f344bc59313a2c523ad9e3",
+            "idMemberCreator": "5d5b1beea30eaf1b648e6ee7",
+            "data": {
+                "card": {
+                    "id": "66f344bc59313a2c523ad9da",
+                    "name": "[PS5/PS4/PC/XBSX|S/XB1] Title Update #1",
+                    "idShort": 480,
+                    "shortLink": "7DiunlzA"
+                },
+                "list": {
+                    "id": "5f73f7c1b4c1280a7068df61",
+                    "name": "Latest News"
+                },
+                "board": {
+                    "id": "5f73f7c1b4c1280a7068df5f",
+                    "name": "EA SPORTS FC Tracker",
+                    "shortLink": "keigLn6R"
+                }
+            },
+            "appCreator": null,
+            "type": "createCard",
+            "date": "2024-09-24T23:01:16.607Z",
+            "limits": null,
+            "memberCreator": {
+                "id": "5d5b1beea30eaf1b648e6ee7",
+                "activityBlocked": false,
+                "avatarHash": "9b8c2ae64bd8604e7257419fe56df466",
+                "avatarUrl": "https://trello-members.s3.amazonaws.com/5d5b1beea30eaf1b648e6ee7/9b8c2ae64bd8604e7257419fe56df466",
+                "fullName": "Goran",
+                "idMemberReferrer": null,
+                "initials": "G",
+                "nonPublic": {},
+                "nonPublicAvailable": true,
+                "username": "goran_drpoplove"
+            }
+        }
+    ]
+}

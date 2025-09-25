@@ -1,0 +1,3 @@
+- Fixed cannot download title updates.
+- Fixed minor bugs.
+- Added PatchID Column for title updates.
