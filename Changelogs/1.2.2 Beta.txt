@@ -1,0 +1,4 @@
+- Added FC26 Profile for Title Updates & Squads.
+- Added viewer for patch notes.
+- Added Mods compatibility info tool.
+- Fixed minor bugs.
