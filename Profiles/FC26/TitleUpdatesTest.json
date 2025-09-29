@@ -7,15 +7,15 @@
     "TitleUpdates": [
         {
             "Name": "FC26 - Version 1.0.2",
-            "SemVer": "1.0.128.4697",
-            "PatchID": "2698119",
-            "Size": "2.22GB",
-            "ReleasedDate": "2025-09-24T22:59:10Z",
-            "DownloadURL": "https://www.mediafire.com/file/muh742dr9x9appm/FC26+-+Version+1.0.2.rar/file",
-            "SHA1": "ee75f54cb3bf22b788f2aa0fe68966d6119fdcdb",
+            "SemVer": "",
+            "PatchID": "",
+            "Size": "",
+            "ReleasedDate": "",
+            "DownloadURL": "",
+            "SHA1": "",
             "PatchNotes": "https://raw.githubusercontent.com/zmshmods/FCRollbackToolUpdates/main/Profiles/FC26/TitleUpdatesPatchNotes/1.0.2.json",
-            "MainManifestID": "1358130637000565162",
-            "eng_usManifestID": "9046385668221693085"
+            "MainManifestID": "",
+            "eng_usManifestID": ""
         },
         {
             "Name": "FC26 - Version 1.0.1",
