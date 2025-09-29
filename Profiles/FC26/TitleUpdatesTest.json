@@ -1,12 +1,12 @@
 {
-    "ContentVersion": "26.1.0.2",
+    "ContentVersion": "26.7.1",
     "ContentVersionDate": "Sep 24, 2025",
     "AppID": "3405690",
     "MainDepotID": "3405691",
     "eng_usDepotID": "3405692",
     "TitleUpdates": [
         {
-            "Name": "FC26 - Version 1.0.2",
+            "Name": "FC26 - Title Update 7.1",
             "SemVer": "",
             "PatchID": "",
             "Size": "",
