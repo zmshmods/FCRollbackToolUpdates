@@ -1,22 +1,10 @@
 {
     "ContentVersion": "26.7.1",
-    "ContentVersionDate": "Sep 24, 2025",
+    "ContentVersionDate": "Sep 7, 2025",
     "AppID": "3405690",
     "MainDepotID": "3405691",
     "eng_usDepotID": "3405692",
     "TitleUpdates": [
-        {
-            "Name": "FC26 - Title Update 7.1",
-            "SemVer": "",
-            "PatchID": "",
-            "Size": "",
-            "ReleasedDate": "",
-            "DownloadURL": "",
-            "SHA1": "",
-            "PatchNotes": "https://raw.githubusercontent.com/zmshmods/FCRollbackToolUpdates/main/Profiles/FC26/TitleUpdatesPatchNotes/1.0.2.json",
-            "MainManifestID": "",
-            "eng_usManifestID": ""
-        },
         {
             "Name": "FC26 - Version 1.0.1",
             "SemVer": "1.0.127.59053",
