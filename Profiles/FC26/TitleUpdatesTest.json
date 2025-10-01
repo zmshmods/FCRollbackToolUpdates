@@ -1,10 +1,22 @@
 {
-    "ContentVersion": "26.2",
+    "ContentVersion": "26.3",
     "ContentVersionDate": "Oct 1, 2025",
     "AppID": "3405690",
     "MainDepotID": "3405691",
     "eng_usDepotID": "3405692",
     "TitleUpdates": [
+        {
+            "Name": "FC26 - Title Update 3",
+            "SemVer": "1.0.128.4697",
+            "PatchID": "2698119",
+            "Size": "2.22GB",
+            "ReleasedDate": "Oct 1, 2025",
+            "DownloadURL": "https://www.mediafire.com/file/b33cbn783tu4yh7/FC26+-+Title+Update+3.rar/file",
+            "SHA1": "ee75f54cb3bf22b788f2aa0fe68966d6119fdcdb",
+            "PatchNotes": "",
+            "MainManifestID": "1358130637000565162",
+            "eng_usManifestID": "9046385668221693085"
+        },
         {
             "Name": "FC26 - Title Update 2",
             "SemVer": "1.0.128.4697",
