@@ -1,0 +1,42 @@
+{
+    "depot_id": "2669322",
+    "header_changes": {
+        "manifest_id": {
+            "old": "2004911726471594164",
+            "new": "2149623526913816106"
+        },
+        "creation_date": {
+            "old": "05/16/2025 12:11:47",
+            "new": "06/06/2025 16:15:17"
+        },
+        "total_files": {
+            "old": 31,
+            "new": 31
+        },
+        "total_chunks": {
+            "old": 3728,
+            "new": 3728
+        },
+        "total_bytes": {
+            "old": 4062970030,
+            "new": 4062970030
+        },
+        "total_compressed_bytes": {
+            "old": 3553456160,
+            "new": 3553456160
+        }
+    },
+    "added": [],
+    "modified": [
+        {
+            "name": "__Installer/LOC/Origin.OFR.50.0005391.dat",
+            "changes": {
+                "sha": {
+                    "old": "ef244edab51caeb0b3ba7b005aa3e0ced2ab73f1",
+                    "new": "7abd43197ec23e0d858098f76788584443faccab"
+                }
+            }
+        }
+    ],
+    "deleted": []
+}

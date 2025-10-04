@@ -1,0 +1,59 @@
+{
+    "depot_id": "2669322",
+    "header_changes": {
+        "manifest_id": {
+            "old": "8093377747385667550",
+            "new": "4316415037341982898"
+        },
+        "creation_date": {
+            "old": "02/27/2025 18:37:54",
+            "new": "03/13/2025 14:34:36"
+        },
+        "total_files": {
+            "old": 31,
+            "new": 31
+        },
+        "total_chunks": {
+            "old": 3728,
+            "new": 3728
+        },
+        "total_bytes": {
+            "old": 4062972457,
+            "new": 4062970029
+        },
+        "total_compressed_bytes": {
+            "old": 3553456928,
+            "new": 3553456144
+        }
+    },
+    "added": [],
+    "modified": [
+        {
+            "name": "Support/User Agreement/en_US.html",
+            "changes": {
+                "size": {
+                    "old": 57764,
+                    "new": 55334
+                },
+                "sha": {
+                    "old": "cb2d8906702c782925d8415ded113f4a382b5162",
+                    "new": "55ae0e2e5c0fdc7c2616f17f0ff1bfe52ca093d4"
+                }
+            }
+        },
+        {
+            "name": "__Installer/LOC/Origin.OFR.50.0005391.dat",
+            "changes": {
+                "size": {
+                    "old": 205,
+                    "new": 207
+                },
+                "sha": {
+                    "old": "623cf9f8cb578fd9a41c831fa8db12cf685892c0",
+                    "new": "5dcffb70ce99857478d1fb4592ae271b89962400"
+                }
+            }
+        }
+    ],
+    "deleted": []
+}

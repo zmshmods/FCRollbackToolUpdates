@@ -1,0 +1,55 @@
+{
+    "depot_id": "2669322",
+    "header_changes": {
+        "manifest_id": {
+            "old": "7507771834188246941",
+            "new": "1531203532580848174"
+        },
+        "creation_date": {
+            "old": "06/20/2025 17:39:32",
+            "new": "07/08/2025 15:44:55"
+        },
+        "total_files": {
+            "old": 31,
+            "new": 31
+        },
+        "total_chunks": {
+            "old": 3728,
+            "new": 3728
+        },
+        "total_bytes": {
+            "old": 4062970030,
+            "new": 4062969729
+        },
+        "total_compressed_bytes": {
+            "old": 3553456144,
+            "new": 3553457248
+        }
+    },
+    "added": [],
+    "modified": [
+        {
+            "name": "Support/Privacy and Cookie Policy/en_US.html",
+            "changes": {
+                "size": {
+                    "old": 61208,
+                    "new": 60907
+                },
+                "sha": {
+                    "old": "01a67d27a09b6049ab6909aa12d8ce851178f4b6",
+                    "new": "c733178a5f52343bc99a9a9c3f8a0c76021ebe6e"
+                }
+            }
+        },
+        {
+            "name": "__Installer/LOC/Origin.OFR.50.0005391.dat",
+            "changes": {
+                "sha": {
+                    "old": "4887fd15a3777d21ed3be007f694a4b5d20164fb",
+                    "new": "210f0fdf819e3f7b106a4c8db724f285234523fa"
+                }
+            }
+        }
+    ],
+    "deleted": []
+}
