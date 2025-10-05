@@ -1,0 +1,4 @@
+- Added an "Add" button in the Select Game window.
+- Added a "Files Changelog" button in the Title Updates tab to track changes that occurred to the game files.
+- Added a Context Menu in all tabs for copying metadata.
+- Improved detecting game paths.
