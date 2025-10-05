@@ -2,6 +2,14 @@
   "ToolUpdate": {
     "ToolVersion": "1.2.2 Beta",
     "BulidVersion": "5.27.09.2025",
-    "DownloadLink": "https://www.patreon.com/posts/118475020"
+    "DownloadLink": "https://www.patreon.com/posts/118475020",
+    "VersionHistory": [
+      "1.2.3 Beta",
+      "1.2.2 Beta",
+      "1.2.1 Beta",
+      "1.2.0 Beta",
+      "1.1 Beta",
+      "1.0 Beta"
+    ]
   }
 }
