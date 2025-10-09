@@ -1,1 +1,785 @@
-{"id":"68dee48255872f438bbed5aa","address":null,"badges":{"attachments":1,"fogbugz":"","checkItems":0,"checkItemsChecked":0,"checkItemsEarliestDue":null,"comments":0,"description":true,"due":null,"dueComplete":false,"lastUpdatedByAi":false,"start":null,"externalSource":null,"attachmentsByType":{"trello":{"board":0,"card":0}},"location":false,"votes":0,"maliciousAttachments":0,"viewingMemberVoted":false,"subscribed":false},"checkItemStates":[],"closed":false,"coordinates":null,"creationMethod":null,"creationMethodError":null,"creationMethodLoadingStartedAt":null,"dueComplete":false,"dateClosed":null,"dateLastActivity":"2025-10-02T21:23:43.380Z","dateCompleted":null,"dateViewedByCreator":null,"desc":"EA SPORTS FC 26 version 1.0.3 will soon be available for the PlayStation, Xbox, and PC versions of FC 26. Nintendo Switch 1 and 2 versions will release afterwards. Here’s what’s new in FC 26 v1.0.3:\n\n**Gameplay**\n\nMade the following updates:\n\n- Improved kick off defensive positioning:\n  - The defending team will now position themselves more compactly for a short period of time after a kick off.\n  - Updated positions of defending players prior to kick off for all formations.\n  - EASFC Tracker: [https://trello.com/c/5Bw1rlJ5](https://trello.com/c/5Bw1rlJ5 \"smartCard-inline\")\n- Reduced the accuracy of Acrobatic shots taken right after a Rainbow Flick.\n- Addressed instances of players taking a Trivela Shot at the keeper when it could have been more beneficial to perform a lace shot.\n\n**Ultimate Team**\n\nAddressed the following issues:\n\n- Incorrect Bios could have appeared on Gold Player Items.\n- The Season 1 Premium Pass previously required Ultimate Edition players to restart the game to claim it.\n  - EASFC Tracker card: [trello.com/c/7w1ZjXnI](https://trello.com/c/7w1ZjXnI \"‌\")\n\n**Career Mode**\n\nAddressed the following issue:\n\n- After signing a new contract, players could have acted unhappy leading to a notification about a lack of contract offer and eventually leading to a transfer request.\n\n**General, Audio, and Visual**\n\nAddressed the following issues:\n\n- [PC Only] Addressed some instances of controllers not responding in gameplay while we continue to investigate your reports on this issue and plan future improvements.\n- [PC Only] Resolution and Display settings could have sometimes reset after closing the game.\n- [PC Only] Optimized cloth physics to reduce impact on performance.\n- [PC Only] Improved performance during corner kicks.\n- [Showcase Only] Addressed instances of launching the game through an invite not placing the recipient in the match lobby.\n- Addressed various stability issues that could have occurred.\n\nWant to give us direct feedback on EA SPORTS FC 26? Visit [https://go.ea.com/fc26pfp](https://go.ea.com/fc26pfp \"‌\") and let us know what you think, it only takes a few minutes.\n\nThanks to those who’ve provided and continue to provide feedback. We'll provide you with more information and updates if and when they become available. Be sure to follow \\@‌EASFCDIRECT on X as well as WhatsApp, and check out the EA SPORTS FC Tracker for the latest news and updates.\n\n- The EA SPORTS FC Team","descData":{"emoji":{}},"due":null,"dueReminder":null,"email":null,"externalSource":null,"faviconUrl":null,"idBoard":"5f73f7c1b4c1280a7068df5f","idChecklists":[],"idLabels":["5f73f7c1b4c1280a7068dfeb","68c87f6aff1cbcd00f0343d7"],"idList":"5f73f7c1b4c1280a7068df61","idMemberCreator":"5d5b1beea30eaf1b648e6ee7","idMembers":[],"idMembersVoted":[],"idOrganization":"6137a564cb8f6432c89f8977","idShort":587,"idAttachmentCover":"68dee9459bfd8f42ffd761af","labels":[{"id":"5f73f7c1b4c1280a7068dfeb","idBoard":"5f73f7c1b4c1280a7068df5f","idOrganization":"6137a564cb8f6432c89f8977","name":"Title Update","nodeId":"ari:cloud:trello::label/workspace/6137a564cb8f6432c89f8977/5f73f7c1b4c1280a7068dfeb","color":"green","uses":187},{"id":"68c87f6aff1cbcd00f0343d7","idBoard":"5f73f7c1b4c1280a7068df5f","idOrganization":"6137a564cb8f6432c89f8977","name":"EA SPORTS FC 26","nodeId":"ari:cloud:trello::label/workspace/6137a564cb8f6432c89f8977/68c87f6aff1cbcd00f0343d7","color":"lime","uses":40}],"limits":{"attachments":{"perCard":{"status":"ok","disableAt":1000,"warnAt":800}},"checklists":{"perCard":{"status":"ok","disableAt":500,"warnAt":400}},"stickers":{"perCard":{"status":"ok","disableAt":70,"warnAt":56}}},"locationName":null,"manualCoverAttachment":true,"name":"EA SPORTS FC 26 Version 1.0.3","nodeId":"ari:cloud:trello::card/workspace/6137a564cb8f6432c89f8977/68dee48255872f438bbed5aa","originalDesc":"","originalName":"","pinned":false,"pos":1031.98828125,"recurrenceRule":null,"shortLink":"hpeNIKew","shortUrl":"https://trello.com/c/hpeNIKew","singleInstrumentationId":null,"sourceEmail":null,"staticMapUrl":null,"start":null,"subscribed":null,"url":"https://trello.com/c/hpeNIKew/587-ea-sports-fc-26-version-103","urlSource":null,"urlSourceText":null,"cover":{"idAttachment":"68dee9459bfd8f42ffd761af","color":null,"idUploadedBackground":null,"size":"normal","brightness":"dark","scaled":[{"id":"68dee9469bfd8f42ffd761b4","_id":"68dee9469bfd8f42ffd761b4","scaled":false,"url":"https://trello.com/1/cards/68dee48255872f438bbed5aa/attachments/68dee9459bfd8f42ffd761af/previews/68dee9469bfd8f42ffd761b4/download/FC_26_v1.0.3.webp","bytes":396,"height":50,"width":70},{"id":"68dee9469bfd8f42ffd761b6","_id":"68dee9469bfd8f42ffd761b6","scaled":true,"url":"https://trello.com/1/cards/68dee48255872f438bbed5aa/attachments/68dee9459bfd8f42ffd761af/previews/68dee9469bfd8f42ffd761b6/download/FC_26_v1.0.3.webp","bytes":800,"height":46,"width":150},{"id":"68dee9469bfd8f42ffd761b5","_id":"68dee9469bfd8f42ffd761b5","scaled":false,"url":"https://trello.com/1/cards/68dee48255872f438bbed5aa/attachments/68dee9459bfd8f42ffd761af/previews/68dee9469bfd8f42ffd761b5/download/FC_26_v1.0.3.webp","bytes":1494,"height":150,"width":250},{"id":"68dee9469bfd8f42ffd761b7","_id":"68dee9469bfd8f42ffd761b7","scaled":true,"url":"https://trello.com/1/cards/68dee48255872f438bbed5aa/attachments/68dee9459bfd8f42ffd761af/previews/68dee9469bfd8f42ffd761b7/download/FC_26_v1.0.3.webp","bytes":1816,"height":91,"width":299},{"id":"68dee9469bfd8f42ffd761b8","_id":"68dee9469bfd8f42ffd761b8","scaled":true,"url":"https://trello.com/1/cards/68dee48255872f438bbed5aa/attachments/68dee9459bfd8f42ffd761af/previews/68dee9469bfd8f42ffd761b8/download/FC_26_v1.0.3.webp","bytes":4062,"height":183,"width":600},{"id":"68dee9469bfd8f42ffd761b9","_id":"68dee9469bfd8f42ffd761b9","scaled":true,"url":"https://trello.com/1/cards/68dee48255872f438bbed5aa/attachments/68dee9459bfd8f42ffd761af/previews/68dee9469bfd8f42ffd761b9/download/FC_26_v1.0.3.webp","bytes":8548,"height":329,"width":1080}],"idPlugin":null},"isTemplate":false,"cardRole":null,"mirrorSourceId":null,"mirrorSourceNodeId":null,"checklists":[],"customFieldItems":[],"members":[],"pluginData":[],"actions":[{"id":"68deed5f0d2148cf857f8862","idMemberCreator":"5d5b1beea30eaf1b648e6ee7","data":{"old":{"desc":"EA SPORTS FC 26 version 1.0.3 will soon be available for the PlayStation, Xbox, and PC versions of FC 26. Nintendo Switch 1 and 2 versions will release afterwards. Here’s what’s new in FC 26 v1.0.3:\n\n**Gameplay**\n\nMade the following updates:\n\n- Improved kick off defensive positioning:\n  - The defending team will now position themselves more compactly for a short period of time after a kick off.\n  - Updated positions of defending players prior to kick off for all formations.\n  - EASFC Tracker: [trello.com/c/7w1ZjXnI](https://trello.com/c/7w1ZjXnI \"‌\")\n- Reduced the accuracy of Acrobatic shots taken right after a Rainbow Flick.\n- Addressed instances of players taking a Trivela Shot at the keeper when it could have been more beneficial to perform a lace shot.\n\n**Ultimate Team**\n\nAddressed the following issues:\n\n- Incorrect Bios could have appeared on Gold Player Items.\n- The Season 1 Premium Pass previously required Ultimate Edition players to restart the game to claim it.\n  - EASFC Tracker card: [trello.com/c/7w1ZjXnI](https://trello.com/c/7w1ZjXnI \"‌\")\n\n**Career Mode**\n\nAddressed the following issue:\n\n- After signing a new contract, players could have acted unhappy leading to a notification about a lack of contract offer and eventually leading to a transfer request.\n\n**General, Audio, and Visual**\n\nAddressed the following issues:\n\n- [PC Only] Addressed some instances of controllers not responding in gameplay while we continue to investigate your reports on this issue and plan future improvements.\n- [PC Only] Resolution and Display settings could have sometimes reset after closing the game.\n- [PC Only] Optimized cloth physics to reduce impact on performance.\n- [PC Only] Improved performance during corner kicks.\n- [Showcase Only] Addressed instances of launching the game through an invite not placing the recipient in the match lobby.\n- Addressed various stability issues that could have occurred.\n\nWant to give us direct feedback on EA SPORTS FC 26? Visit [https://go.ea.com/fc26pfp](https://go.ea.com/fc26pfp \"‌\") and let us know what you think, it only takes a few minutes.\n\nThanks to those who’ve provided and continue to provide feedback. We'll provide you with more information and updates if and when they become available. Be sure to follow \\@‌EASFCDIRECT on X as well as WhatsApp, and check out the EA SPORTS FC Tracker for the latest news and updates.\n\n- The EA SPORTS FC Team"},"card":{"desc":"EA SPORTS FC 26 version 1.0.3 will soon be available for the PlayStation, Xbox, and PC versions of FC 26. Nintendo Switch 1 and 2 versions will release afterwards. Here’s what’s new in FC 26 v1.0.3:\n\n**Gameplay**\n\nMade the following updates:\n\n- Improved kick off defensive positioning:\n  - The defending team will now position themselves more compactly for a short period of time after a kick off.\n  - Updated positions of defending players prior to kick off for all formations.\n  - EASFC Tracker: [https://trello.com/c/5Bw1rlJ5](https://trello.com/c/5Bw1rlJ5 \"smartCard-inline\")\n- Reduced the accuracy of Acrobatic shots taken right after a Rainbow Flick.\n- Addressed instances of players taking a Trivela Shot at the keeper when it could have been more beneficial to perform a lace shot.\n\n**Ultimate Team**\n\nAddressed the following issues:\n\n- Incorrect Bios could have appeared on Gold Player Items.\n- The Season 1 Premium Pass previously required Ultimate Edition players to restart the game to claim it.\n  - EASFC Tracker card: [trello.com/c/7w1ZjXnI](https://trello.com/c/7w1ZjXnI \"‌\")\n\n**Career Mode**\n\nAddressed the following issue:\n\n- After signing a new contract, players could have acted unhappy leading to a notification about a lack of contract offer and eventually leading to a transfer request.\n\n**General, Audio, and Visual**\n\nAddressed the following issues:\n\n- [PC Only] Addressed some instances of controllers not responding in gameplay while we continue to investigate your reports on this issue and plan future improvements.\n- [PC Only] Resolution and Display settings could have sometimes reset after closing the game.\n- [PC Only] Optimized cloth physics to reduce impact on performance.\n- [PC Only] Improved performance during corner kicks.\n- [Showcase Only] Addressed instances of launching the game through an invite not placing the recipient in the match lobby.\n- Addressed various stability issues that could have occurred.\n\nWant to give us direct feedback on EA SPORTS FC 26? Visit [https://go.ea.com/fc26pfp](https://go.ea.com/fc26pfp \"‌\") and let us know what you think, it only takes a few minutes.\n\nThanks to those who’ve provided and continue to provide feedback. We'll provide you with more information and updates if and when they become available. Be sure to follow \\@‌EASFCDIRECT on X as well as WhatsApp, and check out the EA SPORTS FC Tracker for the latest news and updates.\n\n- The EA SPORTS FC Team","id":"68dee48255872f438bbed5aa","name":"EA SPORTS FC 26 Version 1.0.3","idShort":587,"shortLink":"hpeNIKew"},"board":{"id":"5f73f7c1b4c1280a7068df5f","name":"EA SPORTS FC Tracker","shortLink":"keigLn6R"},"list":{"id":"5f73f7c1b4c1280a7068df61","name":"Latest News"}},"appCreator":null,"type":"updateCard","date":"2025-10-02T21:23:43.393Z","limits":null,"memberCreator":{"id":"5d5b1beea30eaf1b648e6ee7","activityBlocked":false,"avatarHash":"c79b63541ce7c4b31424378ef9278fdc","avatarUrl":"https://trello-members.s3.amazonaws.com/5d5b1beea30eaf1b648e6ee7/c79b63541ce7c4b31424378ef9278fdc","fullName":"Goran","idMemberReferrer":null,"initials":"G","nonPublic":{},"nonPublicAvailable":true,"username":"goran_drpoplove"}},{"id":"68deeba93a64f10b8d6aba9f","idMemberCreator":"5d5b1beea30eaf1b648e6ee7","data":{"old":{"closed":true},"card":{"closed":false,"id":"68dee48255872f438bbed5aa","name":"EA SPORTS FC 26 Version 1.0.3","idShort":587,"shortLink":"hpeNIKew"},"board":{"id":"5f73f7c1b4c1280a7068df5f","name":"EA SPORTS FC Tracker","shortLink":"keigLn6R"},"list":{"id":"5f73f7c1b4c1280a7068df61","name":"Latest News"}},"appCreator":null,"type":"updateCard","date":"2025-10-02T21:16:25.394Z","limits":null,"memberCreator":{"id":"5d5b1beea30eaf1b648e6ee7","activityBlocked":false,"avatarHash":"c79b63541ce7c4b31424378ef9278fdc","avatarUrl":"https://trello-members.s3.amazonaws.com/5d5b1beea30eaf1b648e6ee7/c79b63541ce7c4b31424378ef9278fdc","fullName":"Goran","idMemberReferrer":null,"initials":"G","nonPublic":{},"nonPublicAvailable":true,"username":"goran_drpoplove"}},{"id":"68deeb792e2bfe934b848ead","idMemberCreator":"5d5b1beea30eaf1b648e6ee7","data":{"old":{"closed":false},"card":{"closed":true,"dateClosed":"2025-10-02T21:15:37.090Z","id":"68dee48255872f438bbed5aa","name":"EA SPORTS FC 26 Version 1.0.3","idShort":587,"shortLink":"hpeNIKew"},"board":{"id":"5f73f7c1b4c1280a7068df5f","name":"EA SPORTS FC Tracker","shortLink":"keigLn6R"},"list":{"id":"5f73f7c1b4c1280a7068df61","name":"Latest News"}},"appCreator":null,"type":"updateCard","date":"2025-10-02T21:15:37.109Z","limits":null,"memberCreator":{"id":"5d5b1beea30eaf1b648e6ee7","activityBlocked":false,"avatarHash":"c79b63541ce7c4b31424378ef9278fdc","avatarUrl":"https://trello-members.s3.amazonaws.com/5d5b1beea30eaf1b648e6ee7/c79b63541ce7c4b31424378ef9278fdc","fullName":"Goran","idMemberReferrer":null,"initials":"G","nonPublic":{},"nonPublicAvailable":true,"username":"goran_drpoplove"}},{"id":"68dee95949a2daac9715a37f","idMemberCreator":"5d5b1beea30eaf1b648e6ee7","data":{"old":{"pos":140737488388096},"card":{"pos":1031.98828125,"id":"68dee48255872f438bbed5aa","name":"EA SPORTS FC 26 Version 1.0.3","idShort":587,"shortLink":"hpeNIKew"},"board":{"id":"5f73f7c1b4c1280a7068df5f","name":"EA SPORTS FC Tracker","shortLink":"keigLn6R"},"list":{"id":"5f73f7c1b4c1280a7068df61","name":"Latest News"}},"appCreator":null,"type":"updateCard","date":"2025-10-02T21:06:33.044Z","limits":null,"memberCreator":{"id":"5d5b1beea30eaf1b648e6ee7","activityBlocked":false,"avatarHash":"c79b63541ce7c4b31424378ef9278fdc","avatarUrl":"https://trello-members.s3.amazonaws.com/5d5b1beea30eaf1b648e6ee7/c79b63541ce7c4b31424378ef9278fdc","fullName":"Goran","idMemberReferrer":null,"initials":"G","nonPublic":{},"nonPublicAvailable":true,"username":"goran_drpoplove"}},{"id":"68dee95849a2daac97159eaf","idMemberCreator":"5d5b1beea30eaf1b648e6ee7","data":{"old":{"idList":"68c88553c892ead36278db52"},"card":{"idList":"5f73f7c1b4c1280a7068df61","id":"68dee48255872f438bbed5aa","name":"EA SPORTS FC 26 Version 1.0.3","idShort":587,"shortLink":"hpeNIKew"},"board":{"id":"5f73f7c1b4c1280a7068df5f","name":"EA SPORTS FC Tracker","shortLink":"keigLn6R"},"listBefore":{"id":"68c88553c892ead36278db52","name":"EA SPORTS FC 25 Game Updates Archive"},"listAfter":{"id":"5f73f7c1b4c1280a7068df61","name":"Latest News"}},"appCreator":null,"type":"updateCard","date":"2025-10-02T21:06:32.346Z","limits":null,"memberCreator":{"id":"5d5b1beea30eaf1b648e6ee7","activityBlocked":false,"avatarHash":"c79b63541ce7c4b31424378ef9278fdc","avatarUrl":"https://trello-members.s3.amazonaws.com/5d5b1beea30eaf1b648e6ee7/c79b63541ce7c4b31424378ef9278fdc","fullName":"Goran","idMemberReferrer":null,"initials":"G","nonPublic":{},"nonPublicAvailable":true,"username":"goran_drpoplove"}},{"id":"68dee9469bfd8f42ffd761c4","idMemberCreator":"5d5b1beea30eaf1b648e6ee7","data":{"attachment":{"id":"68dee9459bfd8f42ffd761af","name":"FC 26 v1.0.3.png","url":"https://trello.com/1/cards/68dee48255872f438bbed5aa/attachments/68dee9459bfd8f42ffd761af/download/FC_26_v1.0.3.png","previewUrl":"https://trello.com/1/cards/68dee48255872f438bbed5aa/attachments/68dee9459bfd8f42ffd761af/previews/preview/download/FC_26_v1.0.3.webp","previewUrl2x":"https://trello.com/1/cards/68dee48255872f438bbed5aa/attachments/68dee9459bfd8f42ffd761af/previews/preview2x/download/FC_26_v1.0.3.webp"},"card":{"id":"68dee48255872f438bbed5aa","name":"EA SPORTS FC 26 Version 1.0.3","idShort":587,"shortLink":"hpeNIKew"},"list":{"id":"68c88553c892ead36278db52","name":"EA SPORTS FC 25 Game Updates Archive"},"board":{"id":"5f73f7c1b4c1280a7068df5f","name":"EA SPORTS FC Tracker","shortLink":"keigLn6R"}},"appCreator":null,"type":"addAttachmentToCard","date":"2025-10-02T21:06:14.079Z","limits":null,"memberCreator":{"id":"5d5b1beea30eaf1b648e6ee7","activityBlocked":false,"avatarHash":"c79b63541ce7c4b31424378ef9278fdc","avatarUrl":"https://trello-members.s3.amazonaws.com/5d5b1beea30eaf1b648e6ee7/c79b63541ce7c4b31424378ef9278fdc","fullName":"Goran","idMemberReferrer":null,"initials":"G","nonPublic":{},"nonPublicAvailable":true,"username":"goran_drpoplove"}},{"id":"68dee8e079fe2c37e46f4f67","idMemberCreator":"5d5b1beea30eaf1b648e6ee7","data":{"old":{"name":"-"},"card":{"name":"EA SPORTS FC 26 Version 1.0.3","id":"68dee48255872f438bbed5aa","idShort":587,"shortLink":"hpeNIKew"},"board":{"id":"5f73f7c1b4c1280a7068df5f","name":"EA SPORTS FC Tracker","shortLink":"keigLn6R"},"list":{"id":"68c88553c892ead36278db52","name":"EA SPORTS FC 25 Game Updates Archive"}},"appCreator":null,"type":"updateCard","date":"2025-10-02T21:04:32.483Z","limits":null,"memberCreator":{"id":"5d5b1beea30eaf1b648e6ee7","activityBlocked":false,"avatarHash":"c79b63541ce7c4b31424378ef9278fdc","avatarUrl":"https://trello-members.s3.amazonaws.com/5d5b1beea30eaf1b648e6ee7/c79b63541ce7c4b31424378ef9278fdc","fullName":"Goran","idMemberReferrer":null,"initials":"G","nonPublic":{},"nonPublicAvailable":true,"username":"goran_drpoplove"}},{"id":"68dee8a9d99d5ef94a4b77bf","idMemberCreator":"5d5b1beea30eaf1b648e6ee7","data":{"old":{"desc":"EA SPORTS FC 26 version 1.0.3 will soon be available and includes the updates below.\n\n**Gameplay**\n\nMade the following updates:\n\n- Improved kick off defensive positioning:\n  - The defending team will now position themselves more compactly for a short period of time after a kick off.\n  - Updated positions of defending players prior to kick off for all formations.\n  - EASFC Tracker: [trello.com/c/7w1ZjXnI](https://trello.com/c/7w1ZjXnI \"‌\")\n- Reduced the accuracy of Acrobatic shots taken right after a Rainbow Flick.\n- Addressed instances of players taking a Trivela Shot at the keeper when it could have been more beneficial to perform a lace shot.\n\n**Ultimate Team**\n\nAddressed the following issues:\n\n- Incorrect Bios could have appeared on Gold Player Items.\n- The Season 1 Premium Pass previously required Ultimate Edition players to restart the game to claim it.\n  - EASFC Tracker card: [trello.com/c/7w1ZjXnI](https://trello.com/c/7w1ZjXnI \"‌\")\n\n**Career Mode**\n\nAddressed the following issue:\n\n- After signing a new contract, players could have acted unhappy leading to a notification about a lack of contract offer and eventually leading to a transfer request.\n\n**General, Audio, and Visual**\n\nAddressed the following issues:\n\n- [PC Only] Addressed some instances of controllers not responding in gameplay while we continue to investigate your reports on this issue and plan future improvements.\n- [PC Only] Resolution and Display settings could have sometimes reset after closing the game.\n- [PC Only] Optimized cloth physics to reduce impact on performance.\n- [PC Only] Improved performance during corner kicks.\n- [Showcase Only] Addressed instances of launching the game through an invite not placing the recipient in the match lobby.\n- Addressed various stability issues that could have occurred.\n\nWant to give us direct feedback on EA SPORTS FC 26? Visit [https://go.ea.com/fc26pfp](https://go.ea.com/fc26pfp \"‌\") and let us know what you think, it only takes a few minutes.\n\nThanks to those who’ve provided and continue to provide feedback. We'll provide you with more information and updates if and when they become available. Be sure to follow \\@‌EASFCDIRECT on X as well as WhatsApp, and check out the EA SPORTS FC Tracker for the latest news and updates.\n\n- The EA SPORTS FC Team"},"card":{"desc":"EA SPORTS FC 26 version 1.0.3 will soon be available for the PlayStation, Xbox, and PC versions of FC 26. Nintendo Switch 1 and 2 versions will release afterwards. Here’s what’s new in FC 26 v1.0.3:\n\n**Gameplay**\n\nMade the following updates:\n\n- Improved kick off defensive positioning:\n  - The defending team will now position themselves more compactly for a short period of time after a kick off.\n  - Updated positions of defending players prior to kick off for all formations.\n  - EASFC Tracker: [trello.com/c/7w1ZjXnI](https://trello.com/c/7w1ZjXnI \"‌\")\n- Reduced the accuracy of Acrobatic shots taken right after a Rainbow Flick.\n- Addressed instances of players taking a Trivela Shot at the keeper when it could have been more beneficial to perform a lace shot.\n\n**Ultimate Team**\n\nAddressed the following issues:\n\n- Incorrect Bios could have appeared on Gold Player Items.\n- The Season 1 Premium Pass previously required Ultimate Edition players to restart the game to claim it.\n  - EASFC Tracker card: [trello.com/c/7w1ZjXnI](https://trello.com/c/7w1ZjXnI \"‌\")\n\n**Career Mode**\n\nAddressed the following issue:\n\n- After signing a new contract, players could have acted unhappy leading to a notification about a lack of contract offer and eventually leading to a transfer request.\n\n**General, Audio, and Visual**\n\nAddressed the following issues:\n\n- [PC Only] Addressed some instances of controllers not responding in gameplay while we continue to investigate your reports on this issue and plan future improvements.\n- [PC Only] Resolution and Display settings could have sometimes reset after closing the game.\n- [PC Only] Optimized cloth physics to reduce impact on performance.\n- [PC Only] Improved performance during corner kicks.\n- [Showcase Only] Addressed instances of launching the game through an invite not placing the recipient in the match lobby.\n- Addressed various stability issues that could have occurred.\n\nWant to give us direct feedback on EA SPORTS FC 26? Visit [https://go.ea.com/fc26pfp](https://go.ea.com/fc26pfp \"‌\") and let us know what you think, it only takes a few minutes.\n\nThanks to those who’ve provided and continue to provide feedback. We'll provide you with more information and updates if and when they become available. Be sure to follow \\@‌EASFCDIRECT on X as well as WhatsApp, and check out the EA SPORTS FC Tracker for the latest news and updates.\n\n- The EA SPORTS FC Team","id":"68dee48255872f438bbed5aa","name":"-","idShort":587,"shortLink":"hpeNIKew"},"board":{"id":"5f73f7c1b4c1280a7068df5f","name":"EA SPORTS FC Tracker","shortLink":"keigLn6R"},"list":{"id":"68c88553c892ead36278db52","name":"EA SPORTS FC 25 Game Updates Archive"}},"appCreator":null,"type":"updateCard","date":"2025-10-02T21:03:37.596Z","limits":null,"memberCreator":{"id":"5d5b1beea30eaf1b648e6ee7","activityBlocked":false,"avatarHash":"c79b63541ce7c4b31424378ef9278fdc","avatarUrl":"https://trello-members.s3.amazonaws.com/5d5b1beea30eaf1b648e6ee7/c79b63541ce7c4b31424378ef9278fdc","fullName":"Goran","idMemberReferrer":null,"initials":"G","nonPublic":{},"nonPublicAvailable":true,"username":"goran_drpoplove"}},{"id":"68dee77c0af4b5b263529c81","idMemberCreator":"5d5b1beea30eaf1b648e6ee7","data":{"card":{"idLabels":["5f73f7c1b4c1280a7068dfeb","68c87f6aff1cbcd00f0343d7"],"id":"68dee48255872f438bbed5aa","name":"-","idShort":587,"shortLink":"hpeNIKew"},"old":{"idLabels":["5f73f7c1b4c1280a7068dfeb","68c87f6aff1cbcd00f0343d7"]},"board":{"id":"5f73f7c1b4c1280a7068df5f","name":"EA SPORTS FC Tracker","shortLink":"keigLn6R"},"list":{"id":"68c88553c892ead36278db52","name":"EA SPORTS FC 25 Game Updates Archive"}},"appCreator":null,"type":"updateCard","date":"2025-10-02T20:58:36.870Z","limits":null,"memberCreator":{"id":"5d5b1beea30eaf1b648e6ee7","activityBlocked":false,"avatarHash":"c79b63541ce7c4b31424378ef9278fdc","avatarUrl":"https://trello-members.s3.amazonaws.com/5d5b1beea30eaf1b648e6ee7/c79b63541ce7c4b31424378ef9278fdc","fullName":"Goran","idMemberReferrer":null,"initials":"G","nonPublic":{},"nonPublicAvailable":true,"username":"goran_drpoplove"}},{"id":"68dee776c8c0615b30a6fa9b","idMemberCreator":"5d5b1beea30eaf1b648e6ee7","data":{"card":{"idLabels":["5f73f7c1b4c1280a7068dfeb"],"id":"68dee48255872f438bbed5aa","name":"-","idShort":587,"shortLink":"hpeNIKew"},"old":{"idLabels":["5f73f7c1b4c1280a7068dfeb"]},"board":{"id":"5f73f7c1b4c1280a7068df5f","name":"EA SPORTS FC Tracker","shortLink":"keigLn6R"},"list":{"id":"68c88553c892ead36278db52","name":"EA SPORTS FC 25 Game Updates Archive"}},"appCreator":null,"type":"updateCard","date":"2025-10-02T20:58:30.125Z","limits":null,"memberCreator":{"id":"5d5b1beea30eaf1b648e6ee7","activityBlocked":false,"avatarHash":"c79b63541ce7c4b31424378ef9278fdc","avatarUrl":"https://trello-members.s3.amazonaws.com/5d5b1beea30eaf1b648e6ee7/c79b63541ce7c4b31424378ef9278fdc","fullName":"Goran","idMemberReferrer":null,"initials":"G","nonPublic":{},"nonPublicAvailable":true,"username":"goran_drpoplove"}},{"id":"68dee53ca09a434874a028cd","idMemberCreator":"5d5b1beea30eaf1b648e6ee7","data":{"old":{"desc":"EA SPORTS FC 26 version 1.0.3 will soon be available and includes the updates below.\n\n**Gameplay**\n\nMade the following updates:\n\n- Improved kick off defensive positioning:\n- The defending team will now position themselves more compactly for a short period of time after a kick off.\n- Updated positions of defending players prior to kick off for all formations.\n- EASFC Tracker: [trello.com/c/7w1ZjXnI](https://trello.com/c/7w1ZjXnI \"‌\")\n- Reduced the accuracy of Acrobatic shots taken right after a Rainbow Flick.\n- Addressed instances of players taking a Trivela Shot at the keeper when it could have been more beneficial to perform a lace shot.\n\n**Ultimate Team**\n\nAddressed the following issues:\n\n- Incorrect Bios could have appeared on Gold Player Items.\n- The Season 1 Premium Pass previously required Ultimate Edition players to restart the game to claim it.\n- EASFC Tracker card: [trello.com/c/7w1ZjXnI](https://trello.com/c/7w1ZjXnI \"‌\")\n\n**Career Mode**\n\nAddressed the following issue:\n\n- After signing a new contract, players could have acted unhappy leading to a notification about a lack of contract offer and eventually leading to a transfer request.\n\n**General, Audio, and Visual**\n\nAddressed the following issues:\n\n- [PC Only] Addressed some instances of controllers not responding in gameplay while we continue to investigate your reports on this issue and plan future improvements.\n- [PC Only] Resolution and Display settings could have sometimes reset after closing the game.\n- [PC Only] Optimized cloth physics to reduce impact on performance.\n- [PC Only] Improved performance during corner kicks.\n- [Showcase Only] Addressed instances of launching the game through an invite not placing the recipient in the match lobby.\n- Addressed various stability issues that could have occurred.\n\nWant to give us direct feedback on EA SPORTS FC 26? Visit [https://go.ea.com/fc26pfp](https://go.ea.com/fc26pfp \"‌\") and let us know what you think, it only takes a few minutes.\n\nThanks to those who’ve provided and continue to provide feedback. We'll provide you with more information and updates if and when they become available. Be sure to follow \\@‌EASFCDIRECT on X as well as WhatsApp, and check out the EA SPORTS FC Tracker for the latest news and updates.\n\n- The EA SPORTS FC Team"},"card":{"desc":"EA SPORTS FC 26 version 1.0.3 will soon be available and includes the updates below.\n\n**Gameplay**\n\nMade the following updates:\n\n- Improved kick off defensive positioning:\n  - The defending team will now position themselves more compactly for a short period of time after a kick off.\n  - Updated positions of defending players prior to kick off for all formations.\n  - EASFC Tracker: [trello.com/c/7w1ZjXnI](https://trello.com/c/7w1ZjXnI \"‌\")\n- Reduced the accuracy of Acrobatic shots taken right after a Rainbow Flick.\n- Addressed instances of players taking a Trivela Shot at the keeper when it could have been more beneficial to perform a lace shot.\n\n**Ultimate Team**\n\nAddressed the following issues:\n\n- Incorrect Bios could have appeared on Gold Player Items.\n- The Season 1 Premium Pass previously required Ultimate Edition players to restart the game to claim it.\n  - EASFC Tracker card: [trello.com/c/7w1ZjXnI](https://trello.com/c/7w1ZjXnI \"‌\")\n\n**Career Mode**\n\nAddressed the following issue:\n\n- After signing a new contract, players could have acted unhappy leading to a notification about a lack of contract offer and eventually leading to a transfer request.\n\n**General, Audio, and Visual**\n\nAddressed the following issues:\n\n- [PC Only] Addressed some instances of controllers not responding in gameplay while we continue to investigate your reports on this issue and plan future improvements.\n- [PC Only] Resolution and Display settings could have sometimes reset after closing the game.\n- [PC Only] Optimized cloth physics to reduce impact on performance.\n- [PC Only] Improved performance during corner kicks.\n- [Showcase Only] Addressed instances of launching the game through an invite not placing the recipient in the match lobby.\n- Addressed various stability issues that could have occurred.\n\nWant to give us direct feedback on EA SPORTS FC 26? Visit [https://go.ea.com/fc26pfp](https://go.ea.com/fc26pfp \"‌\") and let us know what you think, it only takes a few minutes.\n\nThanks to those who’ve provided and continue to provide feedback. We'll provide you with more information and updates if and when they become available. Be sure to follow \\@‌EASFCDIRECT on X as well as WhatsApp, and check out the EA SPORTS FC Tracker for the latest news and updates.\n\n- The EA SPORTS FC Team","id":"68dee48255872f438bbed5aa","name":"-","idShort":587,"shortLink":"hpeNIKew"},"board":{"id":"5f73f7c1b4c1280a7068df5f","name":"EA SPORTS FC Tracker","shortLink":"keigLn6R"},"list":{"id":"68c88553c892ead36278db52","name":"EA SPORTS FC 25 Game Updates Archive"}},"appCreator":null,"type":"updateCard","date":"2025-10-02T20:49:00.878Z","limits":null,"memberCreator":{"id":"5d5b1beea30eaf1b648e6ee7","activityBlocked":false,"avatarHash":"c79b63541ce7c4b31424378ef9278fdc","avatarUrl":"https://trello-members.s3.amazonaws.com/5d5b1beea30eaf1b648e6ee7/c79b63541ce7c4b31424378ef9278fdc","fullName":"Goran","idMemberReferrer":null,"initials":"G","nonPublic":{},"nonPublicAvailable":true,"username":"goran_drpoplove"}},{"id":"68dee512d589f2ad7b9f2e57","idMemberCreator":"5d5b1beea30eaf1b648e6ee7","data":{"old":{"desc":"EA SPORTS FC 26 version 1.0.3 will soon be available and includes the updates below.\n\n**Gameplay**\n\nMade the following updates:\n\n- Improved kick off defensive positioning:\n\n- The defending team will now position themselves more compactly for a short period of time after a kick off.\n\n- Updated positions of defending players prior to kick off for all formations.\n\n- EASFC Tracker: [trello.com/c/7w1ZjXnI](https://trello.com/c/7w1ZjXnI \"‌\") \n\n- Reduced the accuracy of Acrobatic shots taken right after a Rainbow Flick.\n\n- Addressed instances of players taking a Trivela Shot at the keeper when it could have been more beneficial to perform a lace shot.\n\n**Ultimate Team** \n\nAddressed the following issues: \n\n- Incorrect Bios could have appeared on Gold Player Items.\n\n- The Season 1 Premium Pass previously required Ultimate Edition players to restart the game to claim it.\n\n- EASFC Tracker card: [trello.com/c/7w1ZjXnI](https://trello.com/c/7w1ZjXnI \"‌\") \n\n### **Career Mode**\n\nAddressed the following issue: \n\n- After signing a new contract, players could have acted unhappy leading to a notification about a lack of contract offer and eventually leading to a transfer request.\n\n### **General, Audio, and Visual**\n\nAddressed the following issues: \n\n- [PC Only] Addressed some instances of controllers not responding in gameplay while we continue to investigate your reports on this issue and plan future improvements.\n\n- [PC Only] Resolution and Display settings could have sometimes reset after closing the game.\n\n- [PC Only] Optimized cloth physics to reduce impact on performance.\n\n- [PC Only] Improved performance during corner kicks.\n\n- [Showcase Only] Addressed instances of launching the game through an invite not placing the recipient in the match lobby.\n\n- Addressed various stability issues that could have occurred.\n\nWant to give us direct feedback on EA SPORTS FC 26? Visit [https://go.ea.com/fc26pfp](https://go.ea.com/fc26pfp \"‌\") and let us know what you think, it only takes a few minutes.\n\nThanks to those who’ve provided and continue to provide feedback. We'll provide you with more information and updates if and when they become available. Be sure to follow \\@‌EASFCDIRECT on X as well as WhatsApp, and check out the EA SPORTS FC Tracker for the latest news and updates.\n\n- The EA SPORTS FC Team"},"card":{"desc":"EA SPORTS FC 26 version 1.0.3 will soon be available and includes the updates below.\n\n**Gameplay**\n\nMade the following updates:\n\n- Improved kick off defensive positioning:\n- The defending team will now position themselves more compactly for a short period of time after a kick off.\n- Updated positions of defending players prior to kick off for all formations.\n- EASFC Tracker: [trello.com/c/7w1ZjXnI](https://trello.com/c/7w1ZjXnI \"‌\")\n- Reduced the accuracy of Acrobatic shots taken right after a Rainbow Flick.\n- Addressed instances of players taking a Trivela Shot at the keeper when it could have been more beneficial to perform a lace shot.\n\n**Ultimate Team**\n\nAddressed the following issues:\n\n- Incorrect Bios could have appeared on Gold Player Items.\n- The Season 1 Premium Pass previously required Ultimate Edition players to restart the game to claim it.\n- EASFC Tracker card: [trello.com/c/7w1ZjXnI](https://trello.com/c/7w1ZjXnI \"‌\")\n\n**Career Mode**\n\nAddressed the following issue:\n\n- After signing a new contract, players could have acted unhappy leading to a notification about a lack of contract offer and eventually leading to a transfer request.\n\n**General, Audio, and Visual**\n\nAddressed the following issues:\n\n- [PC Only] Addressed some instances of controllers not responding in gameplay while we continue to investigate your reports on this issue and plan future improvements.\n- [PC Only] Resolution and Display settings could have sometimes reset after closing the game.\n- [PC Only] Optimized cloth physics to reduce impact on performance.\n- [PC Only] Improved performance during corner kicks.\n- [Showcase Only] Addressed instances of launching the game through an invite not placing the recipient in the match lobby.\n- Addressed various stability issues that could have occurred.\n\nWant to give us direct feedback on EA SPORTS FC 26? Visit [https://go.ea.com/fc26pfp](https://go.ea.com/fc26pfp \"‌\") and let us know what you think, it only takes a few minutes.\n\nThanks to those who’ve provided and continue to provide feedback. We'll provide you with more information and updates if and when they become available. Be sure to follow \\@‌EASFCDIRECT on X as well as WhatsApp, and check out the EA SPORTS FC Tracker for the latest news and updates.\n\n- The EA SPORTS FC Team","id":"68dee48255872f438bbed5aa","name":"-","idShort":587,"shortLink":"hpeNIKew"},"board":{"id":"5f73f7c1b4c1280a7068df5f","name":"EA SPORTS FC Tracker","shortLink":"keigLn6R"},"list":{"id":"68c88553c892ead36278db52","name":"EA SPORTS FC 25 Game Updates Archive"}},"appCreator":null,"type":"updateCard","date":"2025-10-02T20:48:18.877Z","limits":null,"memberCreator":{"id":"5d5b1beea30eaf1b648e6ee7","activityBlocked":false,"avatarHash":"c79b63541ce7c4b31424378ef9278fdc","avatarUrl":"https://trello-members.s3.amazonaws.com/5d5b1beea30eaf1b648e6ee7/c79b63541ce7c4b31424378ef9278fdc","fullName":"Goran","idMemberReferrer":null,"initials":"G","nonPublic":{},"nonPublicAvailable":true,"username":"goran_drpoplove"}},{"id":"68dee4df39730b697e0743f6","idMemberCreator":"5d5b1beea30eaf1b648e6ee7","data":{"old":{"desc":""},"card":{"desc":"EA SPORTS FC 26 version 1.0.3 will soon be available and includes the updates below.\n\n**Gameplay**\n\nMade the following updates:\n\n- Improved kick off defensive positioning:\n\n- The defending team will now position themselves more compactly for a short period of time after a kick off.\n\n- Updated positions of defending players prior to kick off for all formations.\n\n- EASFC Tracker: [trello.com/c/7w1ZjXnI](https://trello.com/c/7w1ZjXnI \"‌\") \n\n- Reduced the accuracy of Acrobatic shots taken right after a Rainbow Flick.\n\n- Addressed instances of players taking a Trivela Shot at the keeper when it could have been more beneficial to perform a lace shot.\n\n**Ultimate Team** \n\nAddressed the following issues: \n\n- Incorrect Bios could have appeared on Gold Player Items.\n\n- The Season 1 Premium Pass previously required Ultimate Edition players to restart the game to claim it.\n\n- EASFC Tracker card: [trello.com/c/7w1ZjXnI](https://trello.com/c/7w1ZjXnI \"‌\") \n\n### **Career Mode**\n\nAddressed the following issue: \n\n- After signing a new contract, players could have acted unhappy leading to a notification about a lack of contract offer and eventually leading to a transfer request.\n\n### **General, Audio, and Visual**\n\nAddressed the following issues: \n\n- [PC Only] Addressed some instances of controllers not responding in gameplay while we continue to investigate your reports on this issue and plan future improvements.\n\n- [PC Only] Resolution and Display settings could have sometimes reset after closing the game.\n\n- [PC Only] Optimized cloth physics to reduce impact on performance.\n\n- [PC Only] Improved performance during corner kicks.\n\n- [Showcase Only] Addressed instances of launching the game through an invite not placing the recipient in the match lobby.\n\n- Addressed various stability issues that could have occurred.\n\nWant to give us direct feedback on EA SPORTS FC 26? Visit [https://go.ea.com/fc26pfp](https://go.ea.com/fc26pfp \"‌\") and let us know what you think, it only takes a few minutes.\n\nThanks to those who’ve provided and continue to provide feedback. We'll provide you with more information and updates if and when they become available. Be sure to follow \\@‌EASFCDIRECT on X as well as WhatsApp, and check out the EA SPORTS FC Tracker for the latest news and updates.\n\n- The EA SPORTS FC Team","id":"68dee48255872f438bbed5aa","name":"-","idShort":587,"shortLink":"hpeNIKew"},"board":{"id":"5f73f7c1b4c1280a7068df5f","name":"EA SPORTS FC Tracker","shortLink":"keigLn6R"},"list":{"id":"68c88553c892ead36278db52","name":"EA SPORTS FC 25 Game Updates Archive"}},"appCreator":null,"type":"updateCard","date":"2025-10-02T20:47:27.540Z","limits":null,"memberCreator":{"id":"5d5b1beea30eaf1b648e6ee7","activityBlocked":false,"avatarHash":"c79b63541ce7c4b31424378ef9278fdc","avatarUrl":"https://trello-members.s3.amazonaws.com/5d5b1beea30eaf1b648e6ee7/c79b63541ce7c4b31424378ef9278fdc","fullName":"Goran","idMemberReferrer":null,"initials":"G","nonPublic":{},"nonPublicAvailable":true,"username":"goran_drpoplove"}},{"id":"68dee48255872f438bbed5eb","idMemberCreator":"5d5b1beea30eaf1b648e6ee7","data":{"card":{"id":"68dee48255872f438bbed5aa","name":"-","idShort":587,"shortLink":"hpeNIKew"},"list":{"id":"68c88553c892ead36278db52","name":"EA SPORTS FC 25 Game Updates Archive"},"board":{"id":"5f73f7c1b4c1280a7068df5f","name":"EA SPORTS FC Tracker","shortLink":"keigLn6R"}},"appCreator":null,"type":"createCard","date":"2025-10-02T20:45:54.492Z","limits":null,"memberCreator":{"id":"5d5b1beea30eaf1b648e6ee7","activityBlocked":false,"avatarHash":"c79b63541ce7c4b31424378ef9278fdc","avatarUrl":"https://trello-members.s3.amazonaws.com/5d5b1beea30eaf1b648e6ee7/c79b63541ce7c4b31424378ef9278fdc","fullName":"Goran","idMemberReferrer":null,"initials":"G","nonPublic":{},"nonPublicAvailable":true,"username":"goran_drpoplove"}}]}
+{
+  "id": "68dee48255872f438bbed5aa",
+  "address": null,
+  "badges": {
+    "attachments": 1,
+    "fogbugz": "",
+    "checkItems": 0,
+    "checkItemsChecked": 0,
+    "checkItemsEarliestDue": null,
+    "comments": 0,
+    "description": true,
+    "due": null,
+    "dueComplete": false,
+    "lastUpdatedByAi": false,
+    "start": null,
+    "externalSource": null,
+    "attachmentsByType": {
+      "trello": {
+        "board": 0,
+        "card": 0
+      }
+    },
+    "location": false,
+    "votes": 0,
+    "maliciousAttachments": 0,
+    "viewingMemberVoted": false,
+    "subscribed": false
+  },
+  "checkItemStates": [],
+  "closed": false,
+  "coordinates": null,
+  "creationMethod": null,
+  "creationMethodError": null,
+  "creationMethodLoadingStartedAt": null,
+  "dueComplete": false,
+  "dateClosed": null,
+  "dateLastActivity": "2025-10-02T21:23:43.380Z",
+  "dateCompleted": null,
+  "dateViewedByCreator": null,
+  "desc": "EA SPORTS FC 26 version 1.0.3 will soon be available for the PlayStation, Xbox, and PC versions of FC 26. Nintendo Switch 1 and 2 versions will release afterwards. Here’s what’s new in FC 26 v1.0.3:\n\n**Gameplay**\n\nMade the following updates:\n\n- Improved kick off defensive positioning:\n  - The defending team will now position themselves more compactly for a short period of time after a kick off.\n  - Updated positions of defending players prior to kick off for all formations.\n  - EASFC Tracker: [https://trello.com/c/5Bw1rlJ5](https://trello.com/c/5Bw1rlJ5 \"smartCard-inline\")\n- Reduced the accuracy of Acrobatic shots taken right after a Rainbow Flick.\n- Addressed instances of players taking a Trivela Shot at the keeper when it could have been more beneficial to perform a lace shot.\n\n**Ultimate Team**\n\nAddressed the following issues:\n\n- Incorrect Bios could have appeared on Gold Player Items.\n- The Season 1 Premium Pass previously required Ultimate Edition players to restart the game to claim it.\n  - EASFC Tracker card: [trello.com/c/7w1ZjXnI](https://trello.com/c/7w1ZjXnI \"‌\")\n\n**Career Mode**\n\nAddressed the following issue:\n\n- After signing a new contract, players could have acted unhappy leading to a notification about a lack of contract offer and eventually leading to a transfer request.\n\n**General, Audio, and Visual**\n\nAddressed the following issues:\n\n- [PC Only] Addressed some instances of controllers not responding in gameplay while we continue to investigate your reports on this issue and plan future improvements.\n- [PC Only] Resolution and Display settings could have sometimes reset after closing the game.\n- [PC Only] Optimized cloth physics to reduce impact on performance.\n- [PC Only] Improved performance during corner kicks.\n- [Showcase Only] Addressed instances of launching the game through an invite not placing the recipient in the match lobby.\n- Addressed various stability issues that could have occurred.\n\nWant to give us direct feedback on EA SPORTS FC 26? Visit [https://go.ea.com/fc26pfp](https://go.ea.com/fc26pfp \"‌\") and let us know what you think, it only takes a few minutes.\n\nThanks to those who’ve provided and continue to provide feedback. We'll provide you with more information and updates if and when they become available. Be sure to follow \\@‌EASFCDIRECT on X as well as WhatsApp, and check out the EA SPORTS FC Tracker for the latest news and updates.\n\n- The EA SPORTS FC Team",
+  "descData": {
+    "emoji": {}
+  },
+  "due": null,
+  "dueReminder": null,
+  "email": null,
+  "externalSource": null,
+  "faviconUrl": null,
+  "idBoard": "5f73f7c1b4c1280a7068df5f",
+  "idChecklists": [],
+  "idLabels": [
+    "5f73f7c1b4c1280a7068dfeb",
+    "68c87f6aff1cbcd00f0343d7"
+  ],
+  "idList": "5f73f7c1b4c1280a7068df61",
+  "idMemberCreator": "5d5b1beea30eaf1b648e6ee7",
+  "idMembers": [],
+  "idMembersVoted": [],
+  "idOrganization": "6137a564cb8f6432c89f8977",
+  "idShort": 587,
+  "idAttachmentCover": "68dee9459bfd8f42ffd761af",
+  "labels": [
+    {
+      "id": "5f73f7c1b4c1280a7068dfeb",
+      "idBoard": "5f73f7c1b4c1280a7068df5f",
+      "idOrganization": "6137a564cb8f6432c89f8977",
+      "name": "Title Update",
+      "nodeId": "ari:cloud:trello::label/workspace/6137a564cb8f6432c89f8977/5f73f7c1b4c1280a7068dfeb",
+      "color": "green",
+      "uses": 187
+    },
+    {
+      "id": "68c87f6aff1cbcd00f0343d7",
+      "idBoard": "5f73f7c1b4c1280a7068df5f",
+      "idOrganization": "6137a564cb8f6432c89f8977",
+      "name": "EA SPORTS FC 26",
+      "nodeId": "ari:cloud:trello::label/workspace/6137a564cb8f6432c89f8977/68c87f6aff1cbcd00f0343d7",
+      "color": "lime",
+      "uses": 40
+    }
+  ],
+  "limits": {
+    "attachments": {
+      "perCard": {
+        "status": "ok",
+        "disableAt": 1000,
+        "warnAt": 800
+      }
+    },
+    "checklists": {
+      "perCard": {
+        "status": "ok",
+        "disableAt": 500,
+        "warnAt": 400
+      }
+    },
+    "stickers": {
+      "perCard": {
+        "status": "ok",
+        "disableAt": 70,
+        "warnAt": 56
+      }
+    }
+  },
+  "locationName": null,
+  "manualCoverAttachment": true,
+  "name": "EA SPORTS FC 26 Version 1.0.3",
+  "nodeId": "ari:cloud:trello::card/workspace/6137a564cb8f6432c89f8977/68dee48255872f438bbed5aa",
+  "originalDesc": "",
+  "originalName": "",
+  "pinned": false,
+  "pos": 1031.98828125,
+  "recurrenceRule": null,
+  "shortLink": "hpeNIKew",
+  "shortUrl": "https://trello.com/c/hpeNIKew",
+  "singleInstrumentationId": null,
+  "sourceEmail": null,
+  "staticMapUrl": null,
+  "start": null,
+  "subscribed": null,
+  "url": "https://trello.com/c/hpeNIKew/587-ea-sports-fc-26-version-103",
+  "urlSource": null,
+  "urlSourceText": null,
+  "cover": {
+    "idAttachment": "68dee9459bfd8f42ffd761af",
+    "color": null,
+    "idUploadedBackground": null,
+    "size": "normal",
+    "brightness": "dark",
+    "scaled": [
+      {
+        "id": "68dee9469bfd8f42ffd761b4",
+        "_id": "68dee9469bfd8f42ffd761b4",
+        "scaled": false,
+        "url": "https://trello.com/1/cards/68dee48255872f438bbed5aa/attachments/68dee9459bfd8f42ffd761af/previews/68dee9469bfd8f42ffd761b4/download/FC_26_v1.0.3.webp",
+        "bytes": 396,
+        "height": 50,
+        "width": 70
+      },
+      {
+        "id": "68dee9469bfd8f42ffd761b6",
+        "_id": "68dee9469bfd8f42ffd761b6",
+        "scaled": true,
+        "url": "https://trello.com/1/cards/68dee48255872f438bbed5aa/attachments/68dee9459bfd8f42ffd761af/previews/68dee9469bfd8f42ffd761b6/download/FC_26_v1.0.3.webp",
+        "bytes": 800,
+        "height": 46,
+        "width": 150
+      },
+      {
+        "id": "68dee9469bfd8f42ffd761b5",
+        "_id": "68dee9469bfd8f42ffd761b5",
+        "scaled": false,
+        "url": "https://trello.com/1/cards/68dee48255872f438bbed5aa/attachments/68dee9459bfd8f42ffd761af/previews/68dee9469bfd8f42ffd761b5/download/FC_26_v1.0.3.webp",
+        "bytes": 1494,
+        "height": 150,
+        "width": 250
+      },
+      {
+        "id": "68dee9469bfd8f42ffd761b7",
+        "_id": "68dee9469bfd8f42ffd761b7",
+        "scaled": true,
+        "url": "https://trello.com/1/cards/68dee48255872f438bbed5aa/attachments/68dee9459bfd8f42ffd761af/previews/68dee9469bfd8f42ffd761b7/download/FC_26_v1.0.3.webp",
+        "bytes": 1816,
+        "height": 91,
+        "width": 299
+      },
+      {
+        "id": "68dee9469bfd8f42ffd761b8",
+        "_id": "68dee9469bfd8f42ffd761b8",
+        "scaled": true,
+        "url": "https://trello.com/1/cards/68dee48255872f438bbed5aa/attachments/68dee9459bfd8f42ffd761af/previews/68dee9469bfd8f42ffd761b8/download/FC_26_v1.0.3.webp",
+        "bytes": 4062,
+        "height": 183,
+        "width": 600
+      },
+      {
+        "id": "68dee9469bfd8f42ffd761b9",
+        "_id": "68dee9469bfd8f42ffd761b9",
+        "scaled": true,
+        "url": "https://trello.com/1/cards/68dee48255872f438bbed5aa/attachments/68dee9459bfd8f42ffd761af/previews/68dee9469bfd8f42ffd761b9/download/FC_26_v1.0.3.webp",
+        "bytes": 8548,
+        "height": 329,
+        "width": 1080
+      }
+    ],
+    "idPlugin": null
+  },
+  "isTemplate": false,
+  "cardRole": null,
+  "mirrorSourceId": null,
+  "mirrorSourceNodeId": null,
+  "checklists": [],
+  "customFieldItems": [],
+  "members": [],
+  "pluginData": [],
+  "actions": [
+    {
+      "id": "68deed5f0d2148cf857f8862",
+      "idMemberCreator": "5d5b1beea30eaf1b648e6ee7",
+      "data": {
+        "old": {
+          "desc": "EA SPORTS FC 26 version 1.0.3 will soon be available for the PlayStation, Xbox, and PC versions of FC 26. Nintendo Switch 1 and 2 versions will release afterwards. Here’s what’s new in FC 26 v1.0.3:\n\n**Gameplay**\n\nMade the following updates:\n\n- Improved kick off defensive positioning:\n  - The defending team will now position themselves more compactly for a short period of time after a kick off.\n  - Updated positions of defending players prior to kick off for all formations.\n  - EASFC Tracker: [trello.com/c/7w1ZjXnI](https://trello.com/c/7w1ZjXnI \"‌\")\n- Reduced the accuracy of Acrobatic shots taken right after a Rainbow Flick.\n- Addressed instances of players taking a Trivela Shot at the keeper when it could have been more beneficial to perform a lace shot.\n\n**Ultimate Team**\n\nAddressed the following issues:\n\n- Incorrect Bios could have appeared on Gold Player Items.\n- The Season 1 Premium Pass previously required Ultimate Edition players to restart the game to claim it.\n  - EASFC Tracker card: [trello.com/c/7w1ZjXnI](https://trello.com/c/7w1ZjXnI \"‌\")\n\n**Career Mode**\n\nAddressed the following issue:\n\n- After signing a new contract, players could have acted unhappy leading to a notification about a lack of contract offer and eventually leading to a transfer request.\n\n**General, Audio, and Visual**\n\nAddressed the following issues:\n\n- [PC Only] Addressed some instances of controllers not responding in gameplay while we continue to investigate your reports on this issue and plan future improvements.\n- [PC Only] Resolution and Display settings could have sometimes reset after closing the game.\n- [PC Only] Optimized cloth physics to reduce impact on performance.\n- [PC Only] Improved performance during corner kicks.\n- [Showcase Only] Addressed instances of launching the game through an invite not placing the recipient in the match lobby.\n- Addressed various stability issues that could have occurred.\n\nWant to give us direct feedback on EA SPORTS FC 26? Visit [https://go.ea.com/fc26pfp](https://go.ea.com/fc26pfp \"‌\") and let us know what you think, it only takes a few minutes.\n\nThanks to those who’ve provided and continue to provide feedback. We'll provide you with more information and updates if and when they become available. Be sure to follow \\@‌EASFCDIRECT on X as well as WhatsApp, and check out the EA SPORTS FC Tracker for the latest news and updates.\n\n- The EA SPORTS FC Team"
+        },
+        "card": {
+          "desc": "EA SPORTS FC 26 version 1.0.3 will soon be available for the PlayStation, Xbox, and PC versions of FC 26. Nintendo Switch 1 and 2 versions will release afterwards. Here’s what’s new in FC 26 v1.0.3:\n\n**Gameplay**\n\nMade the following updates:\n\n- Improved kick off defensive positioning:\n  - The defending team will now position themselves more compactly for a short period of time after a kick off.\n  - Updated positions of defending players prior to kick off for all formations.\n  - EASFC Tracker: [https://trello.com/c/5Bw1rlJ5](https://trello.com/c/5Bw1rlJ5 \"smartCard-inline\")\n- Reduced the accuracy of Acrobatic shots taken right after a Rainbow Flick.\n- Addressed instances of players taking a Trivela Shot at the keeper when it could have been more beneficial to perform a lace shot.\n\n**Ultimate Team**\n\nAddressed the following issues:\n\n- Incorrect Bios could have appeared on Gold Player Items.\n- The Season 1 Premium Pass previously required Ultimate Edition players to restart the game to claim it.\n  - EASFC Tracker card: [trello.com/c/7w1ZjXnI](https://trello.com/c/7w1ZjXnI \"‌\")\n\n**Career Mode**\n\nAddressed the following issue:\n\n- After signing a new contract, players could have acted unhappy leading to a notification about a lack of contract offer and eventually leading to a transfer request.\n\n**General, Audio, and Visual**\n\nAddressed the following issues:\n\n- [PC Only] Addressed some instances of controllers not responding in gameplay while we continue to investigate your reports on this issue and plan future improvements.\n- [PC Only] Resolution and Display settings could have sometimes reset after closing the game.\n- [PC Only] Optimized cloth physics to reduce impact on performance.\n- [PC Only] Improved performance during corner kicks.\n- [Showcase Only] Addressed instances of launching the game through an invite not placing the recipient in the match lobby.\n- Addressed various stability issues that could have occurred.\n\nWant to give us direct feedback on EA SPORTS FC 26? Visit [https://go.ea.com/fc26pfp](https://go.ea.com/fc26pfp \"‌\") and let us know what you think, it only takes a few minutes.\n\nThanks to those who’ve provided and continue to provide feedback. We'll provide you with more information and updates if and when they become available. Be sure to follow \\@‌EASFCDIRECT on X as well as WhatsApp, and check out the EA SPORTS FC Tracker for the latest news and updates.\n\n- The EA SPORTS FC Team",
+          "id": "68dee48255872f438bbed5aa",
+          "name": "EA SPORTS FC 26 Version 1.0.3",
+          "idShort": 587,
+          "shortLink": "hpeNIKew"
+        },
+        "board": {
+          "id": "5f73f7c1b4c1280a7068df5f",
+          "name": "EA SPORTS FC Tracker",
+          "shortLink": "keigLn6R"
+        },
+        "list": {
+          "id": "5f73f7c1b4c1280a7068df61",
+          "name": "Latest News"
+        }
+      },
+      "appCreator": null,
+      "type": "updateCard",
+      "date": "2025-10-02T21:23:43.393Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5d5b1beea30eaf1b648e6ee7",
+        "activityBlocked": false,
+        "avatarHash": "c79b63541ce7c4b31424378ef9278fdc",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5d5b1beea30eaf1b648e6ee7/c79b63541ce7c4b31424378ef9278fdc",
+        "fullName": "Goran",
+        "idMemberReferrer": null,
+        "initials": "G",
+        "nonPublic": {},
+        "nonPublicAvailable": true,
+        "username": "goran_drpoplove"
+      }
+    },
+    {
+      "id": "68deeba93a64f10b8d6aba9f",
+      "idMemberCreator": "5d5b1beea30eaf1b648e6ee7",
+      "data": {
+        "old": {
+          "closed": true
+        },
+        "card": {
+          "closed": false,
+          "id": "68dee48255872f438bbed5aa",
+          "name": "EA SPORTS FC 26 Version 1.0.3",
+          "idShort": 587,
+          "shortLink": "hpeNIKew"
+        },
+        "board": {
+          "id": "5f73f7c1b4c1280a7068df5f",
+          "name": "EA SPORTS FC Tracker",
+          "shortLink": "keigLn6R"
+        },
+        "list": {
+          "id": "5f73f7c1b4c1280a7068df61",
+          "name": "Latest News"
+        }
+      },
+      "appCreator": null,
+      "type": "updateCard",
+      "date": "2025-10-02T21:16:25.394Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5d5b1beea30eaf1b648e6ee7",
+        "activityBlocked": false,
+        "avatarHash": "c79b63541ce7c4b31424378ef9278fdc",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5d5b1beea30eaf1b648e6ee7/c79b63541ce7c4b31424378ef9278fdc",
+        "fullName": "Goran",
+        "idMemberReferrer": null,
+        "initials": "G",
+        "nonPublic": {},
+        "nonPublicAvailable": true,
+        "username": "goran_drpoplove"
+      }
+    },
+    {
+      "id": "68deeb792e2bfe934b848ead",
+      "idMemberCreator": "5d5b1beea30eaf1b648e6ee7",
+      "data": {
+        "old": {
+          "closed": false
+        },
+        "card": {
+          "closed": true,
+          "dateClosed": "2025-10-02T21:15:37.090Z",
+          "id": "68dee48255872f438bbed5aa",
+          "name": "EA SPORTS FC 26 Version 1.0.3",
+          "idShort": 587,
+          "shortLink": "hpeNIKew"
+        },
+        "board": {
+          "id": "5f73f7c1b4c1280a7068df5f",
+          "name": "EA SPORTS FC Tracker",
+          "shortLink": "keigLn6R"
+        },
+        "list": {
+          "id": "5f73f7c1b4c1280a7068df61",
+          "name": "Latest News"
+        }
+      },
+      "appCreator": null,
+      "type": "updateCard",
+      "date": "2025-10-02T21:15:37.109Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5d5b1beea30eaf1b648e6ee7",
+        "activityBlocked": false,
+        "avatarHash": "c79b63541ce7c4b31424378ef9278fdc",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5d5b1beea30eaf1b648e6ee7/c79b63541ce7c4b31424378ef9278fdc",
+        "fullName": "Goran",
+        "idMemberReferrer": null,
+        "initials": "G",
+        "nonPublic": {},
+        "nonPublicAvailable": true,
+        "username": "goran_drpoplove"
+      }
+    },
+    {
+      "id": "68dee95949a2daac9715a37f",
+      "idMemberCreator": "5d5b1beea30eaf1b648e6ee7",
+      "data": {
+        "old": {
+          "pos": 140737488388096
+        },
+        "card": {
+          "pos": 1031.98828125,
+          "id": "68dee48255872f438bbed5aa",
+          "name": "EA SPORTS FC 26 Version 1.0.3",
+          "idShort": 587,
+          "shortLink": "hpeNIKew"
+        },
+        "board": {
+          "id": "5f73f7c1b4c1280a7068df5f",
+          "name": "EA SPORTS FC Tracker",
+          "shortLink": "keigLn6R"
+        },
+        "list": {
+          "id": "5f73f7c1b4c1280a7068df61",
+          "name": "Latest News"
+        }
+      },
+      "appCreator": null,
+      "type": "updateCard",
+      "date": "2025-10-02T21:06:33.044Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5d5b1beea30eaf1b648e6ee7",
+        "activityBlocked": false,
+        "avatarHash": "c79b63541ce7c4b31424378ef9278fdc",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5d5b1beea30eaf1b648e6ee7/c79b63541ce7c4b31424378ef9278fdc",
+        "fullName": "Goran",
+        "idMemberReferrer": null,
+        "initials": "G",
+        "nonPublic": {},
+        "nonPublicAvailable": true,
+        "username": "goran_drpoplove"
+      }
+    },
+    {
+      "id": "68dee95849a2daac97159eaf",
+      "idMemberCreator": "5d5b1beea30eaf1b648e6ee7",
+      "data": {
+        "old": {
+          "idList": "68c88553c892ead36278db52"
+        },
+        "card": {
+          "idList": "5f73f7c1b4c1280a7068df61",
+          "id": "68dee48255872f438bbed5aa",
+          "name": "EA SPORTS FC 26 Version 1.0.3",
+          "idShort": 587,
+          "shortLink": "hpeNIKew"
+        },
+        "board": {
+          "id": "5f73f7c1b4c1280a7068df5f",
+          "name": "EA SPORTS FC Tracker",
+          "shortLink": "keigLn6R"
+        },
+        "listBefore": {
+          "id": "68c88553c892ead36278db52",
+          "name": "EA SPORTS FC 25 Game Updates Archive"
+        },
+        "listAfter": {
+          "id": "5f73f7c1b4c1280a7068df61",
+          "name": "Latest News"
+        }
+      },
+      "appCreator": null,
+      "type": "updateCard",
+      "date": "2025-10-02T21:06:32.346Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5d5b1beea30eaf1b648e6ee7",
+        "activityBlocked": false,
+        "avatarHash": "c79b63541ce7c4b31424378ef9278fdc",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5d5b1beea30eaf1b648e6ee7/c79b63541ce7c4b31424378ef9278fdc",
+        "fullName": "Goran",
+        "idMemberReferrer": null,
+        "initials": "G",
+        "nonPublic": {},
+        "nonPublicAvailable": true,
+        "username": "goran_drpoplove"
+      }
+    },
+    {
+      "id": "68dee9469bfd8f42ffd761c4",
+      "idMemberCreator": "5d5b1beea30eaf1b648e6ee7",
+      "data": {
+        "attachment": {
+          "id": "68dee9459bfd8f42ffd761af",
+          "name": "FC 26 v1.0.3.png",
+          "url": "https://trello.com/1/cards/68dee48255872f438bbed5aa/attachments/68dee9459bfd8f42ffd761af/download/FC_26_v1.0.3.png",
+          "previewUrl": "https://trello.com/1/cards/68dee48255872f438bbed5aa/attachments/68dee9459bfd8f42ffd761af/previews/preview/download/FC_26_v1.0.3.webp",
+          "previewUrl2x": "https://trello.com/1/cards/68dee48255872f438bbed5aa/attachments/68dee9459bfd8f42ffd761af/previews/preview2x/download/FC_26_v1.0.3.webp"
+        },
+        "card": {
+          "id": "68dee48255872f438bbed5aa",
+          "name": "EA SPORTS FC 26 Version 1.0.3",
+          "idShort": 587,
+          "shortLink": "hpeNIKew"
+        },
+        "list": {
+          "id": "68c88553c892ead36278db52",
+          "name": "EA SPORTS FC 25 Game Updates Archive"
+        },
+        "board": {
+          "id": "5f73f7c1b4c1280a7068df5f",
+          "name": "EA SPORTS FC Tracker",
+          "shortLink": "keigLn6R"
+        }
+      },
+      "appCreator": null,
+      "type": "addAttachmentToCard",
+      "date": "2025-10-02T21:06:14.079Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5d5b1beea30eaf1b648e6ee7",
+        "activityBlocked": false,
+        "avatarHash": "c79b63541ce7c4b31424378ef9278fdc",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5d5b1beea30eaf1b648e6ee7/c79b63541ce7c4b31424378ef9278fdc",
+        "fullName": "Goran",
+        "idMemberReferrer": null,
+        "initials": "G",
+        "nonPublic": {},
+        "nonPublicAvailable": true,
+        "username": "goran_drpoplove"
+      }
+    },
+    {
+      "id": "68dee8e079fe2c37e46f4f67",
+      "idMemberCreator": "5d5b1beea30eaf1b648e6ee7",
+      "data": {
+        "old": {
+          "name": "-"
+        },
+        "card": {
+          "name": "EA SPORTS FC 26 Version 1.0.3",
+          "id": "68dee48255872f438bbed5aa",
+          "idShort": 587,
+          "shortLink": "hpeNIKew"
+        },
+        "board": {
+          "id": "5f73f7c1b4c1280a7068df5f",
+          "name": "EA SPORTS FC Tracker",
+          "shortLink": "keigLn6R"
+        },
+        "list": {
+          "id": "68c88553c892ead36278db52",
+          "name": "EA SPORTS FC 25 Game Updates Archive"
+        }
+      },
+      "appCreator": null,
+      "type": "updateCard",
+      "date": "2025-10-02T21:04:32.483Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5d5b1beea30eaf1b648e6ee7",
+        "activityBlocked": false,
+        "avatarHash": "c79b63541ce7c4b31424378ef9278fdc",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5d5b1beea30eaf1b648e6ee7/c79b63541ce7c4b31424378ef9278fdc",
+        "fullName": "Goran",
+        "idMemberReferrer": null,
+        "initials": "G",
+        "nonPublic": {},
+        "nonPublicAvailable": true,
+        "username": "goran_drpoplove"
+      }
+    },
+    {
+      "id": "68dee8a9d99d5ef94a4b77bf",
+      "idMemberCreator": "5d5b1beea30eaf1b648e6ee7",
+      "data": {
+        "old": {
+          "desc": "EA SPORTS FC 26 version 1.0.3 will soon be available and includes the updates below.\n\n**Gameplay**\n\nMade the following updates:\n\n- Improved kick off defensive positioning:\n  - The defending team will now position themselves more compactly for a short period of time after a kick off.\n  - Updated positions of defending players prior to kick off for all formations.\n  - EASFC Tracker: [trello.com/c/7w1ZjXnI](https://trello.com/c/7w1ZjXnI \"‌\")\n- Reduced the accuracy of Acrobatic shots taken right after a Rainbow Flick.\n- Addressed instances of players taking a Trivela Shot at the keeper when it could have been more beneficial to perform a lace shot.\n\n**Ultimate Team**\n\nAddressed the following issues:\n\n- Incorrect Bios could have appeared on Gold Player Items.\n- The Season 1 Premium Pass previously required Ultimate Edition players to restart the game to claim it.\n  - EASFC Tracker card: [trello.com/c/7w1ZjXnI](https://trello.com/c/7w1ZjXnI \"‌\")\n\n**Career Mode**\n\nAddressed the following issue:\n\n- After signing a new contract, players could have acted unhappy leading to a notification about a lack of contract offer and eventually leading to a transfer request.\n\n**General, Audio, and Visual**\n\nAddressed the following issues:\n\n- [PC Only] Addressed some instances of controllers not responding in gameplay while we continue to investigate your reports on this issue and plan future improvements.\n- [PC Only] Resolution and Display settings could have sometimes reset after closing the game.\n- [PC Only] Optimized cloth physics to reduce impact on performance.\n- [PC Only] Improved performance during corner kicks.\n- [Showcase Only] Addressed instances of launching the game through an invite not placing the recipient in the match lobby.\n- Addressed various stability issues that could have occurred.\n\nWant to give us direct feedback on EA SPORTS FC 26? Visit [https://go.ea.com/fc26pfp](https://go.ea.com/fc26pfp \"‌\") and let us know what you think, it only takes a few minutes.\n\nThanks to those who’ve provided and continue to provide feedback. We'll provide you with more information and updates if and when they become available. Be sure to follow \\@‌EASFCDIRECT on X as well as WhatsApp, and check out the EA SPORTS FC Tracker for the latest news and updates.\n\n- The EA SPORTS FC Team"
+        },
+        "card": {
+          "desc": "EA SPORTS FC 26 version 1.0.3 will soon be available for the PlayStation, Xbox, and PC versions of FC 26. Nintendo Switch 1 and 2 versions will release afterwards. Here’s what’s new in FC 26 v1.0.3:\n\n**Gameplay**\n\nMade the following updates:\n\n- Improved kick off defensive positioning:\n  - The defending team will now position themselves more compactly for a short period of time after a kick off.\n  - Updated positions of defending players prior to kick off for all formations.\n  - EASFC Tracker: [trello.com/c/7w1ZjXnI](https://trello.com/c/7w1ZjXnI \"‌\")\n- Reduced the accuracy of Acrobatic shots taken right after a Rainbow Flick.\n- Addressed instances of players taking a Trivela Shot at the keeper when it could have been more beneficial to perform a lace shot.\n\n**Ultimate Team**\n\nAddressed the following issues:\n\n- Incorrect Bios could have appeared on Gold Player Items.\n- The Season 1 Premium Pass previously required Ultimate Edition players to restart the game to claim it.\n  - EASFC Tracker card: [trello.com/c/7w1ZjXnI](https://trello.com/c/7w1ZjXnI \"‌\")\n\n**Career Mode**\n\nAddressed the following issue:\n\n- After signing a new contract, players could have acted unhappy leading to a notification about a lack of contract offer and eventually leading to a transfer request.\n\n**General, Audio, and Visual**\n\nAddressed the following issues:\n\n- [PC Only] Addressed some instances of controllers not responding in gameplay while we continue to investigate your reports on this issue and plan future improvements.\n- [PC Only] Resolution and Display settings could have sometimes reset after closing the game.\n- [PC Only] Optimized cloth physics to reduce impact on performance.\n- [PC Only] Improved performance during corner kicks.\n- [Showcase Only] Addressed instances of launching the game through an invite not placing the recipient in the match lobby.\n- Addressed various stability issues that could have occurred.\n\nWant to give us direct feedback on EA SPORTS FC 26? Visit [https://go.ea.com/fc26pfp](https://go.ea.com/fc26pfp \"‌\") and let us know what you think, it only takes a few minutes.\n\nThanks to those who’ve provided and continue to provide feedback. We'll provide you with more information and updates if and when they become available. Be sure to follow \\@‌EASFCDIRECT on X as well as WhatsApp, and check out the EA SPORTS FC Tracker for the latest news and updates.\n\n- The EA SPORTS FC Team",
+          "id": "68dee48255872f438bbed5aa",
+          "name": "-",
+          "idShort": 587,
+          "shortLink": "hpeNIKew"
+        },
+        "board": {
+          "id": "5f73f7c1b4c1280a7068df5f",
+          "name": "EA SPORTS FC Tracker",
+          "shortLink": "keigLn6R"
+        },
+        "list": {
+          "id": "68c88553c892ead36278db52",
+          "name": "EA SPORTS FC 25 Game Updates Archive"
+        }
+      },
+      "appCreator": null,
+      "type": "updateCard",
+      "date": "2025-10-02T21:03:37.596Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5d5b1beea30eaf1b648e6ee7",
+        "activityBlocked": false,
+        "avatarHash": "c79b63541ce7c4b31424378ef9278fdc",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5d5b1beea30eaf1b648e6ee7/c79b63541ce7c4b31424378ef9278fdc",
+        "fullName": "Goran",
+        "idMemberReferrer": null,
+        "initials": "G",
+        "nonPublic": {},
+        "nonPublicAvailable": true,
+        "username": "goran_drpoplove"
+      }
+    },
+    {
+      "id": "68dee77c0af4b5b263529c81",
+      "idMemberCreator": "5d5b1beea30eaf1b648e6ee7",
+      "data": {
+        "card": {
+          "idLabels": [
+            "5f73f7c1b4c1280a7068dfeb",
+            "68c87f6aff1cbcd00f0343d7"
+          ],
+          "id": "68dee48255872f438bbed5aa",
+          "name": "-",
+          "idShort": 587,
+          "shortLink": "hpeNIKew"
+        },
+        "old": {
+          "idLabels": [
+            "5f73f7c1b4c1280a7068dfeb",
+            "68c87f6aff1cbcd00f0343d7"
+          ]
+        },
+        "board": {
+          "id": "5f73f7c1b4c1280a7068df5f",
+          "name": "EA SPORTS FC Tracker",
+          "shortLink": "keigLn6R"
+        },
+        "list": {
+          "id": "68c88553c892ead36278db52",
+          "name": "EA SPORTS FC 25 Game Updates Archive"
+        }
+      },
+      "appCreator": null,
+      "type": "updateCard",
+      "date": "2025-10-02T20:58:36.870Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5d5b1beea30eaf1b648e6ee7",
+        "activityBlocked": false,
+        "avatarHash": "c79b63541ce7c4b31424378ef9278fdc",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5d5b1beea30eaf1b648e6ee7/c79b63541ce7c4b31424378ef9278fdc",
+        "fullName": "Goran",
+        "idMemberReferrer": null,
+        "initials": "G",
+        "nonPublic": {},
+        "nonPublicAvailable": true,
+        "username": "goran_drpoplove"
+      }
+    },
+    {
+      "id": "68dee776c8c0615b30a6fa9b",
+      "idMemberCreator": "5d5b1beea30eaf1b648e6ee7",
+      "data": {
+        "card": {
+          "idLabels": [
+            "5f73f7c1b4c1280a7068dfeb"
+          ],
+          "id": "68dee48255872f438bbed5aa",
+          "name": "-",
+          "idShort": 587,
+          "shortLink": "hpeNIKew"
+        },
+        "old": {
+          "idLabels": [
+            "5f73f7c1b4c1280a7068dfeb"
+          ]
+        },
+        "board": {
+          "id": "5f73f7c1b4c1280a7068df5f",
+          "name": "EA SPORTS FC Tracker",
+          "shortLink": "keigLn6R"
+        },
+        "list": {
+          "id": "68c88553c892ead36278db52",
+          "name": "EA SPORTS FC 25 Game Updates Archive"
+        }
+      },
+      "appCreator": null,
+      "type": "updateCard",
+      "date": "2025-10-02T20:58:30.125Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5d5b1beea30eaf1b648e6ee7",
+        "activityBlocked": false,
+        "avatarHash": "c79b63541ce7c4b31424378ef9278fdc",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5d5b1beea30eaf1b648e6ee7/c79b63541ce7c4b31424378ef9278fdc",
+        "fullName": "Goran",
+        "idMemberReferrer": null,
+        "initials": "G",
+        "nonPublic": {},
+        "nonPublicAvailable": true,
+        "username": "goran_drpoplove"
+      }
+    },
+    {
+      "id": "68dee53ca09a434874a028cd",
+      "idMemberCreator": "5d5b1beea30eaf1b648e6ee7",
+      "data": {
+        "old": {
+          "desc": "EA SPORTS FC 26 version 1.0.3 will soon be available and includes the updates below.\n\n**Gameplay**\n\nMade the following updates:\n\n- Improved kick off defensive positioning:\n- The defending team will now position themselves more compactly for a short period of time after a kick off.\n- Updated positions of defending players prior to kick off for all formations.\n- EASFC Tracker: [trello.com/c/7w1ZjXnI](https://trello.com/c/7w1ZjXnI \"‌\")\n- Reduced the accuracy of Acrobatic shots taken right after a Rainbow Flick.\n- Addressed instances of players taking a Trivela Shot at the keeper when it could have been more beneficial to perform a lace shot.\n\n**Ultimate Team**\n\nAddressed the following issues:\n\n- Incorrect Bios could have appeared on Gold Player Items.\n- The Season 1 Premium Pass previously required Ultimate Edition players to restart the game to claim it.\n- EASFC Tracker card: [trello.com/c/7w1ZjXnI](https://trello.com/c/7w1ZjXnI \"‌\")\n\n**Career Mode**\n\nAddressed the following issue:\n\n- After signing a new contract, players could have acted unhappy leading to a notification about a lack of contract offer and eventually leading to a transfer request.\n\n**General, Audio, and Visual**\n\nAddressed the following issues:\n\n- [PC Only] Addressed some instances of controllers not responding in gameplay while we continue to investigate your reports on this issue and plan future improvements.\n- [PC Only] Resolution and Display settings could have sometimes reset after closing the game.\n- [PC Only] Optimized cloth physics to reduce impact on performance.\n- [PC Only] Improved performance during corner kicks.\n- [Showcase Only] Addressed instances of launching the game through an invite not placing the recipient in the match lobby.\n- Addressed various stability issues that could have occurred.\n\nWant to give us direct feedback on EA SPORTS FC 26? Visit [https://go.ea.com/fc26pfp](https://go.ea.com/fc26pfp \"‌\") and let us know what you think, it only takes a few minutes.\n\nThanks to those who’ve provided and continue to provide feedback. We'll provide you with more information and updates if and when they become available. Be sure to follow \\@‌EASFCDIRECT on X as well as WhatsApp, and check out the EA SPORTS FC Tracker for the latest news and updates.\n\n- The EA SPORTS FC Team"
+        },
+        "card": {
+          "desc": "EA SPORTS FC 26 version 1.0.3 will soon be available and includes the updates below.\n\n**Gameplay**\n\nMade the following updates:\n\n- Improved kick off defensive positioning:\n  - The defending team will now position themselves more compactly for a short period of time after a kick off.\n  - Updated positions of defending players prior to kick off for all formations.\n  - EASFC Tracker: [trello.com/c/7w1ZjXnI](https://trello.com/c/7w1ZjXnI \"‌\")\n- Reduced the accuracy of Acrobatic shots taken right after a Rainbow Flick.\n- Addressed instances of players taking a Trivela Shot at the keeper when it could have been more beneficial to perform a lace shot.\n\n**Ultimate Team**\n\nAddressed the following issues:\n\n- Incorrect Bios could have appeared on Gold Player Items.\n- The Season 1 Premium Pass previously required Ultimate Edition players to restart the game to claim it.\n  - EASFC Tracker card: [trello.com/c/7w1ZjXnI](https://trello.com/c/7w1ZjXnI \"‌\")\n\n**Career Mode**\n\nAddressed the following issue:\n\n- After signing a new contract, players could have acted unhappy leading to a notification about a lack of contract offer and eventually leading to a transfer request.\n\n**General, Audio, and Visual**\n\nAddressed the following issues:\n\n- [PC Only] Addressed some instances of controllers not responding in gameplay while we continue to investigate your reports on this issue and plan future improvements.\n- [PC Only] Resolution and Display settings could have sometimes reset after closing the game.\n- [PC Only] Optimized cloth physics to reduce impact on performance.\n- [PC Only] Improved performance during corner kicks.\n- [Showcase Only] Addressed instances of launching the game through an invite not placing the recipient in the match lobby.\n- Addressed various stability issues that could have occurred.\n\nWant to give us direct feedback on EA SPORTS FC 26? Visit [https://go.ea.com/fc26pfp](https://go.ea.com/fc26pfp \"‌\") and let us know what you think, it only takes a few minutes.\n\nThanks to those who’ve provided and continue to provide feedback. We'll provide you with more information and updates if and when they become available. Be sure to follow \\@‌EASFCDIRECT on X as well as WhatsApp, and check out the EA SPORTS FC Tracker for the latest news and updates.\n\n- The EA SPORTS FC Team",
+          "id": "68dee48255872f438bbed5aa",
+          "name": "-",
+          "idShort": 587,
+          "shortLink": "hpeNIKew"
+        },
+        "board": {
+          "id": "5f73f7c1b4c1280a7068df5f",
+          "name": "EA SPORTS FC Tracker",
+          "shortLink": "keigLn6R"
+        },
+        "list": {
+          "id": "68c88553c892ead36278db52",
+          "name": "EA SPORTS FC 25 Game Updates Archive"
+        }
+      },
+      "appCreator": null,
+      "type": "updateCard",
+      "date": "2025-10-02T20:49:00.878Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5d5b1beea30eaf1b648e6ee7",
+        "activityBlocked": false,
+        "avatarHash": "c79b63541ce7c4b31424378ef9278fdc",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5d5b1beea30eaf1b648e6ee7/c79b63541ce7c4b31424378ef9278fdc",
+        "fullName": "Goran",
+        "idMemberReferrer": null,
+        "initials": "G",
+        "nonPublic": {},
+        "nonPublicAvailable": true,
+        "username": "goran_drpoplove"
+      }
+    },
+    {
+      "id": "68dee512d589f2ad7b9f2e57",
+      "idMemberCreator": "5d5b1beea30eaf1b648e6ee7",
+      "data": {
+        "old": {
+          "desc": "EA SPORTS FC 26 version 1.0.3 will soon be available and includes the updates below.\n\n**Gameplay**\n\nMade the following updates:\n\n- Improved kick off defensive positioning:\n\n- The defending team will now position themselves more compactly for a short period of time after a kick off.\n\n- Updated positions of defending players prior to kick off for all formations.\n\n- EASFC Tracker: [trello.com/c/7w1ZjXnI](https://trello.com/c/7w1ZjXnI \"‌\") \n\n- Reduced the accuracy of Acrobatic shots taken right after a Rainbow Flick.\n\n- Addressed instances of players taking a Trivela Shot at the keeper when it could have been more beneficial to perform a lace shot.\n\n**Ultimate Team** \n\nAddressed the following issues: \n\n- Incorrect Bios could have appeared on Gold Player Items.\n\n- The Season 1 Premium Pass previously required Ultimate Edition players to restart the game to claim it.\n\n- EASFC Tracker card: [trello.com/c/7w1ZjXnI](https://trello.com/c/7w1ZjXnI \"‌\") \n\n### **Career Mode**\n\nAddressed the following issue: \n\n- After signing a new contract, players could have acted unhappy leading to a notification about a lack of contract offer and eventually leading to a transfer request.\n\n### **General, Audio, and Visual**\n\nAddressed the following issues: \n\n- [PC Only] Addressed some instances of controllers not responding in gameplay while we continue to investigate your reports on this issue and plan future improvements.\n\n- [PC Only] Resolution and Display settings could have sometimes reset after closing the game.\n\n- [PC Only] Optimized cloth physics to reduce impact on performance.\n\n- [PC Only] Improved performance during corner kicks.\n\n- [Showcase Only] Addressed instances of launching the game through an invite not placing the recipient in the match lobby.\n\n- Addressed various stability issues that could have occurred.\n\nWant to give us direct feedback on EA SPORTS FC 26? Visit [https://go.ea.com/fc26pfp](https://go.ea.com/fc26pfp \"‌\") and let us know what you think, it only takes a few minutes.\n\nThanks to those who’ve provided and continue to provide feedback. We'll provide you with more information and updates if and when they become available. Be sure to follow \\@‌EASFCDIRECT on X as well as WhatsApp, and check out the EA SPORTS FC Tracker for the latest news and updates.\n\n- The EA SPORTS FC Team"
+        },
+        "card": {
+          "desc": "EA SPORTS FC 26 version 1.0.3 will soon be available and includes the updates below.\n\n**Gameplay**\n\nMade the following updates:\n\n- Improved kick off defensive positioning:\n- The defending team will now position themselves more compactly for a short period of time after a kick off.\n- Updated positions of defending players prior to kick off for all formations.\n- EASFC Tracker: [trello.com/c/7w1ZjXnI](https://trello.com/c/7w1ZjXnI \"‌\")\n- Reduced the accuracy of Acrobatic shots taken right after a Rainbow Flick.\n- Addressed instances of players taking a Trivela Shot at the keeper when it could have been more beneficial to perform a lace shot.\n\n**Ultimate Team**\n\nAddressed the following issues:\n\n- Incorrect Bios could have appeared on Gold Player Items.\n- The Season 1 Premium Pass previously required Ultimate Edition players to restart the game to claim it.\n- EASFC Tracker card: [trello.com/c/7w1ZjXnI](https://trello.com/c/7w1ZjXnI \"‌\")\n\n**Career Mode**\n\nAddressed the following issue:\n\n- After signing a new contract, players could have acted unhappy leading to a notification about a lack of contract offer and eventually leading to a transfer request.\n\n**General, Audio, and Visual**\n\nAddressed the following issues:\n\n- [PC Only] Addressed some instances of controllers not responding in gameplay while we continue to investigate your reports on this issue and plan future improvements.\n- [PC Only] Resolution and Display settings could have sometimes reset after closing the game.\n- [PC Only] Optimized cloth physics to reduce impact on performance.\n- [PC Only] Improved performance during corner kicks.\n- [Showcase Only] Addressed instances of launching the game through an invite not placing the recipient in the match lobby.\n- Addressed various stability issues that could have occurred.\n\nWant to give us direct feedback on EA SPORTS FC 26? Visit [https://go.ea.com/fc26pfp](https://go.ea.com/fc26pfp \"‌\") and let us know what you think, it only takes a few minutes.\n\nThanks to those who’ve provided and continue to provide feedback. We'll provide you with more information and updates if and when they become available. Be sure to follow \\@‌EASFCDIRECT on X as well as WhatsApp, and check out the EA SPORTS FC Tracker for the latest news and updates.\n\n- The EA SPORTS FC Team",
+          "id": "68dee48255872f438bbed5aa",
+          "name": "-",
+          "idShort": 587,
+          "shortLink": "hpeNIKew"
+        },
+        "board": {
+          "id": "5f73f7c1b4c1280a7068df5f",
+          "name": "EA SPORTS FC Tracker",
+          "shortLink": "keigLn6R"
+        },
+        "list": {
+          "id": "68c88553c892ead36278db52",
+          "name": "EA SPORTS FC 25 Game Updates Archive"
+        }
+      },
+      "appCreator": null,
+      "type": "updateCard",
+      "date": "2025-10-02T20:48:18.877Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5d5b1beea30eaf1b648e6ee7",
+        "activityBlocked": false,
+        "avatarHash": "c79b63541ce7c4b31424378ef9278fdc",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5d5b1beea30eaf1b648e6ee7/c79b63541ce7c4b31424378ef9278fdc",
+        "fullName": "Goran",
+        "idMemberReferrer": null,
+        "initials": "G",
+        "nonPublic": {},
+        "nonPublicAvailable": true,
+        "username": "goran_drpoplove"
+      }
+    },
+    {
+      "id": "68dee4df39730b697e0743f6",
+      "idMemberCreator": "5d5b1beea30eaf1b648e6ee7",
+      "data": {
+        "old": {
+          "desc": ""
+        },
+        "card": {
+          "desc": "EA SPORTS FC 26 version 1.0.3 will soon be available and includes the updates below.\n\n**Gameplay**\n\nMade the following updates:\n\n- Improved kick off defensive positioning:\n\n- The defending team will now position themselves more compactly for a short period of time after a kick off.\n\n- Updated positions of defending players prior to kick off for all formations.\n\n- EASFC Tracker: [trello.com/c/7w1ZjXnI](https://trello.com/c/7w1ZjXnI \"‌\") \n\n- Reduced the accuracy of Acrobatic shots taken right after a Rainbow Flick.\n\n- Addressed instances of players taking a Trivela Shot at the keeper when it could have been more beneficial to perform a lace shot.\n\n**Ultimate Team** \n\nAddressed the following issues: \n\n- Incorrect Bios could have appeared on Gold Player Items.\n\n- The Season 1 Premium Pass previously required Ultimate Edition players to restart the game to claim it.\n\n- EASFC Tracker card: [trello.com/c/7w1ZjXnI](https://trello.com/c/7w1ZjXnI \"‌\") \n\n### **Career Mode**\n\nAddressed the following issue: \n\n- After signing a new contract, players could have acted unhappy leading to a notification about a lack of contract offer and eventually leading to a transfer request.\n\n### **General, Audio, and Visual**\n\nAddressed the following issues: \n\n- [PC Only] Addressed some instances of controllers not responding in gameplay while we continue to investigate your reports on this issue and plan future improvements.\n\n- [PC Only] Resolution and Display settings could have sometimes reset after closing the game.\n\n- [PC Only] Optimized cloth physics to reduce impact on performance.\n\n- [PC Only] Improved performance during corner kicks.\n\n- [Showcase Only] Addressed instances of launching the game through an invite not placing the recipient in the match lobby.\n\n- Addressed various stability issues that could have occurred.\n\nWant to give us direct feedback on EA SPORTS FC 26? Visit [https://go.ea.com/fc26pfp](https://go.ea.com/fc26pfp \"‌\") and let us know what you think, it only takes a few minutes.\n\nThanks to those who’ve provided and continue to provide feedback. We'll provide you with more information and updates if and when they become available. Be sure to follow \\@‌EASFCDIRECT on X as well as WhatsApp, and check out the EA SPORTS FC Tracker for the latest news and updates.\n\n- The EA SPORTS FC Team",
+          "id": "68dee48255872f438bbed5aa",
+          "name": "-",
+          "idShort": 587,
+          "shortLink": "hpeNIKew"
+        },
+        "board": {
+          "id": "5f73f7c1b4c1280a7068df5f",
+          "name": "EA SPORTS FC Tracker",
+          "shortLink": "keigLn6R"
+        },
+        "list": {
+          "id": "68c88553c892ead36278db52",
+          "name": "EA SPORTS FC 25 Game Updates Archive"
+        }
+      },
+      "appCreator": null,
+      "type": "updateCard",
+      "date": "2025-10-02T20:47:27.540Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5d5b1beea30eaf1b648e6ee7",
+        "activityBlocked": false,
+        "avatarHash": "c79b63541ce7c4b31424378ef9278fdc",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5d5b1beea30eaf1b648e6ee7/c79b63541ce7c4b31424378ef9278fdc",
+        "fullName": "Goran",
+        "idMemberReferrer": null,
+        "initials": "G",
+        "nonPublic": {},
+        "nonPublicAvailable": true,
+        "username": "goran_drpoplove"
+      }
+    },
+    {
+      "id": "68dee48255872f438bbed5eb",
+      "idMemberCreator": "5d5b1beea30eaf1b648e6ee7",
+      "data": {
+        "card": {
+          "id": "68dee48255872f438bbed5aa",
+          "name": "-",
+          "idShort": 587,
+          "shortLink": "hpeNIKew"
+        },
+        "list": {
+          "id": "68c88553c892ead36278db52",
+          "name": "EA SPORTS FC 25 Game Updates Archive"
+        },
+        "board": {
+          "id": "5f73f7c1b4c1280a7068df5f",
+          "name": "EA SPORTS FC Tracker",
+          "shortLink": "keigLn6R"
+        }
+      },
+      "appCreator": null,
+      "type": "createCard",
+      "date": "2025-10-02T20:45:54.492Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5d5b1beea30eaf1b648e6ee7",
+        "activityBlocked": false,
+        "avatarHash": "c79b63541ce7c4b31424378ef9278fdc",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5d5b1beea30eaf1b648e6ee7/c79b63541ce7c4b31424378ef9278fdc",
+        "fullName": "Goran",
+        "idMemberReferrer": null,
+        "initials": "G",
+        "nonPublic": {},
+        "nonPublicAvailable": true,
+        "username": "goran_drpoplove"
+      }
+    }
+  ]
+}
