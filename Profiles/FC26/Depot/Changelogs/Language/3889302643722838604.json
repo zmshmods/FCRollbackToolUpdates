@@ -1,0 +1,64 @@
+{
+    "depot_id": "3405692",
+    "header_changes": {
+        "manifest_id": {
+            "old": "7107544515357387092",
+            "new": "3889302643722838604"
+        },
+        "creation_date": {
+            "old": "10/06/2025 16:26:57",
+            "new": "10/10/2025 15:37:17"
+        },
+        "total_files": {
+            "old": 30,
+            "new": 30
+        },
+        "total_chunks": {
+            "old": 3777,
+            "new": 3779
+        },
+        "total_bytes": {
+            "old": 3954040861,
+            "new": 4014411805
+        },
+        "total_compressed_bytes": {
+            "old": 3586669616,
+            "new": 3588203136
+        }
+    },
+    "added": [],
+    "modified": [
+        {
+            "name": "__Installer/LOC/Origin.OFR.50.0005763.dat",
+            "changes": {
+                "sha": {
+                    "old": "b059d866741768d03f0544ff3799ffe04136c20e",
+                    "new": "6bb5bf92b35307105c65aa89280653f558c529c5"
+                }
+            }
+        },
+        {
+            "name": "Patch/Win32/superbundlelayout/commentaryfull_eng_us/cas_01.cas",
+            "changes": {
+                "size": {
+                    "old": 11124736,
+                    "new": 71495680
+                },
+                "sha": {
+                    "old": "df7a48c24cfe806e8413b4ebc8748529c71c27e6",
+                    "new": "bd5f977eb5dd31f6941e63420f3508c758af1f35"
+                }
+            }
+        },
+        {
+            "name": "Patch/Win32/commentaryfull_eng_us.toc",
+            "changes": {
+                "sha": {
+                    "old": "fcd86fb517f97239e739fef674b71c9b6de60114",
+                    "new": "333dd277e3849c76055a8000a6286490821671e8"
+                }
+            }
+        }
+    ],
+    "deleted": []
+}
