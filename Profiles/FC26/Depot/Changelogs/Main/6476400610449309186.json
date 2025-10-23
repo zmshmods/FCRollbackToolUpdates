@@ -1,0 +1,582 @@
+{
+    "depot_id": "3405691",
+    "header_changes": {
+        "manifest_id": {
+            "old": "3584584424901994549",
+            "new": "6476400610449309186"
+        },
+        "creation_date": {
+            "old": "10/06/2025 16:26:39",
+            "new": "10/10/2025 15:37:01"
+        },
+        "total_files": {
+            "old": 347,
+            "new": 364
+        },
+        "total_chunks": {
+            "old": 50540,
+            "new": 51736
+        },
+        "total_bytes": {
+            "old": 53113362942,
+            "new": 54378923044
+        },
+        "total_compressed_bytes": {
+            "old": 51529370208,
+            "new": 52746442384
+        }
+    },
+    "added": [
+        {
+            "name": "Patch/Win32/superbundlelayout/installpackage_06/cas_03.cas",
+            "size": 111476736,
+            "sha": "2366c49cbe2b13cb7628a3bcd80977cd39d6f991",
+            "flags": 0
+        },
+        {
+            "name": "Patch/Win32/storysba.toc",
+            "size": 8382,
+            "sha": "ada049e525df1f577682a89f9da4ed6d36039654",
+            "flags": 0
+        },
+        {
+            "name": "Patch/Win32/superbundlelayout/installpackage_06/cas_02.cas",
+            "size": 268435456,
+            "sha": "3c7f87526bd7191b387e04f1b53eaafc44b83acc",
+            "flags": 0
+        },
+        {
+            "name": "Patch/Win32/fbmorph_appearance_level.toc",
+            "size": 168942,
+            "sha": "571ad2c52e4f7115e162864d8d0ee87d3141431e",
+            "flags": 0
+        },
+        {
+            "name": "Patch/Win32/content/cinematic/scenes/career/f24_cm_dm_award_poty/f24_cm_dm_award_poty.toc",
+            "size": 17050,
+            "sha": "2b90e48613580914a6aa7c7209a1c94b01721f05",
+            "flags": 0
+        },
+        {
+            "name": "Patch/Win32/superbundlelayout/installpackage_05/cas_02.cas",
+            "size": 45617152,
+            "sha": "dcca24286c4751487dd0c29d9c77e49688dccf90",
+            "flags": 0
+        },
+        {
+            "name": "Patch/Win32/superbundlelayout/installpackage_03/cas_02.cas",
+            "size": 105734144,
+            "sha": "904b132711513ac6d5074b44cb3a9c5106ea89ce",
+            "flags": 0
+        },
+        {
+            "name": "Patch/Win32/ui.toc",
+            "size": 50319,
+            "sha": "b7363bfabce2c2e5e5db68c0635877d4c32a85cd",
+            "flags": 0
+        },
+        {
+            "name": "Patch/Win32/storycharsb.toc",
+            "size": 27718,
+            "sha": "ff0c8bbd34628eb6f805e36ea7221a3089ba9aaf",
+            "flags": 0
+        },
+        {
+            "name": "Patch/Win32/superbundlelayout/installpackage_08/cas_01.cas",
+            "size": 12226560,
+            "sha": "a3db7bdd4f5e6f4b075cbcf53d8214025ddf40e7",
+            "flags": 0
+        },
+        {
+            "name": "Patch/Win32/presentationsb.toc",
+            "size": 15820,
+            "sha": "74fd030e282f1f4bdf9fa764d26e81833dda633c",
+            "flags": 0
+        }
+    ],
+    "modified": [
+        {
+            "name": "Patch/Win32/superbundlelayout/installpackage_07/cas_01.cas",
+            "changes": {
+                "size": {
+                    "old": 1212416,
+                    "new": 2973696
+                },
+                "sha": {
+                    "old": "a6199c5a5ba5c30bb5722052e8aca454d52ec6e7",
+                    "new": "e99a4f8d14aca42c2a00f66829ec3db7d1f0ffbd"
+                }
+            }
+        },
+        {
+            "name": "Runtime_Win64_retail.BuildSettings",
+            "changes": {
+                "sha": {
+                    "old": "9a5b4166aec3c36a1fcd6f3ec8e22214f9c47da2",
+                    "new": "fe757b13742915e43db3c223482f07dc1501d0e8"
+                }
+            }
+        },
+        {
+            "name": "Engine.MovieVLC.LibVLC.dll",
+            "changes": {
+                "sha": {
+                    "old": "a2773ad363ec17675013e88e493a76000e7ef2a1",
+                    "new": "68b058fe712a88cd3c6345a4af5d0fdf7451bc0a"
+                }
+            }
+        },
+        {
+            "name": "dstoragecore.dll",
+            "changes": {
+                "sha": {
+                    "old": "daf9ac1611a7d6a863f9212332b49329290826f1",
+                    "new": "9b011b3faf0f7984fbf5aaf257255b671425f424"
+                }
+            }
+        },
+        {
+            "name": "Engine.Render.Core2.PlatformVulkan.dll",
+            "changes": {
+                "sha": {
+                    "old": "e4f209239d6da79a0c633bab975ec9eaf3e3b8dc",
+                    "new": "135d146211d9652a71cf1787ad481c3a5c6ff563"
+                }
+            }
+        },
+        {
+            "name": "Patch/Win32/superbundlelayout/installpackage_03/cas_01.cas",
+            "changes": {
+                "size": {
+                    "old": 12357632,
+                    "new": 267776000
+                },
+                "sha": {
+                    "old": "723a99c55958629b51947b03bf847dcdcf341d53",
+                    "new": "c38cccd534a2246993c625471a9c69c25c775c10"
+                }
+            }
+        },
+        {
+            "name": "__Installer/Touchup.dat",
+            "changes": {
+                "sha": {
+                    "old": "470b8fb4d42916a588a5fba9547ce9f972fb3137",
+                    "new": "3ae9d87b3e3d5d14d663d50d2a96337bfb751d75"
+                }
+            }
+        },
+        {
+            "name": "x64/D3D12Core.dll",
+            "changes": {
+                "sha": {
+                    "old": "c60fe8d3bee566692daa8e7c4371ce67de0fabc5",
+                    "new": "e5a42d07fadf7bfa3845a69b896e44bc4ba94372"
+                }
+            }
+        },
+        {
+            "name": "oo2core_9_win64.dll",
+            "changes": {
+                "sha": {
+                    "old": "89eaea36a0a8b7f8d5fa95a7b819475b2cbfc650",
+                    "new": "f45aec690482f201ef90d53650e03b966b9f0149"
+                }
+            }
+        },
+        {
+            "name": "dstorage.dll",
+            "changes": {
+                "sha": {
+                    "old": "eef42090aea93d3878e1d68693f153cfe2f08be0",
+                    "new": "afc89fa7107e92294b3cca182d6eca127f6f3a79"
+                }
+            }
+        },
+        {
+            "name": "Patch/Win32/contentsb.toc",
+            "changes": {
+                "size": {
+                    "old": 106209,
+                    "new": 745182
+                },
+                "sha": {
+                    "old": "3bbbc859a4fda9c4072cfc4931f2e806399a5c21",
+                    "new": "c41953afa6e344b1f67b5ec59c898de4dce05a8e"
+                }
+            }
+        },
+        {
+            "name": "Patch/Win32/careermodestorysba.toc",
+            "changes": {
+                "size": {
+                    "old": 3278,
+                    "new": 191821
+                },
+                "sha": {
+                    "old": "d54e11d2223b5526ed1e79636f5a9e099c7aceaa",
+                    "new": "86783aa33eda5d602363c71c55e5869e631e227d"
+                }
+            }
+        },
+        {
+            "name": "Patch/Win32/presprematchsba.toc",
+            "changes": {
+                "size": {
+                    "old": 645453,
+                    "new": 1059149
+                },
+                "sha": {
+                    "old": "66c0406f48b9dc714532cd5a0043a436d6082e9f",
+                    "new": "681f5a9988c852428ffb636e8e24af45f5f76363"
+                }
+            }
+        },
+        {
+            "name": "dxil.dll",
+            "changes": {
+                "sha": {
+                    "old": "3e29070cc1d53f6a29400b36e5e684154dc21f64",
+                    "new": "48c0a47b420a70680be9a3a45956fed8ec553cdd"
+                }
+            }
+        },
+        {
+            "name": "Patch/initfs_Win32",
+            "changes": {
+                "size": {
+                    "old": 204431,
+                    "new": 308815
+                },
+                "sha": {
+                    "old": "225774025fe00c56737ce3dd5c5ff428c1126187",
+                    "new": "4846169d50f86d0b18907e0896932af6e5472d3e"
+                }
+            }
+        },
+        {
+            "name": "installscript.vdf",
+            "changes": {
+                "size": {
+                    "old": 12050,
+                    "new": 12116
+                },
+                "sha": {
+                    "old": "1365923179aafed7587acda5bcc536a207cffe83",
+                    "new": "64a7cd68232deac23b9e9a9106151ff25e6e136d"
+                }
+            }
+        },
+        {
+            "name": "Patch/Win32/futsb.toc",
+            "changes": {
+                "size": {
+                    "old": 32901,
+                    "new": 43854
+                },
+                "sha": {
+                    "old": "2e68246f81fa7873b7309fc253300b5d2e50f8f4",
+                    "new": "c1242b5f1a416ada9cce44056539d3aaec9ba685"
+                }
+            }
+        },
+        {
+            "name": "Patch/Win32/globals.toc",
+            "changes": {
+                "size": {
+                    "old": 143871,
+                    "new": 315364
+                },
+                "sha": {
+                    "old": "d8ea78fdca132c57e0335bb7106ba8bef1f1016d",
+                    "new": "01399026945e9af55131c32720c0323d2187a6d5"
+                }
+            }
+        },
+        {
+            "name": "Patch/Win32/worldssb.toc",
+            "changes": {
+                "size": {
+                    "old": 2069389,
+                    "new": 2199218
+                },
+                "sha": {
+                    "old": "007390e473717fd41d7e2e71fbf58e5039ae2466",
+                    "new": "32b126f45b894cb7ef7a81a15aadb6069473208a"
+                }
+            }
+        },
+        {
+            "name": "Engine.Render.Core2.PlatformPcDx12.dll",
+            "changes": {
+                "sha": {
+                    "old": "e622ffb322f6f8844d877b3f1d5b58160d995186",
+                    "new": "aa7513b3a956ffa0b103cacdac43f4df7b2d1749"
+                }
+            }
+        },
+        {
+            "name": "amd_ags_x64.dll",
+            "changes": {
+                "sha": {
+                    "old": "fd9e5b71751f70214873d37c31e68d8ae902c634",
+                    "new": "3d51f969f7104e243873e88a4c529c1f41d961fc"
+                }
+            }
+        },
+        {
+            "name": "sysdll_Win64_retail.dll",
+            "changes": {
+                "sha": {
+                    "old": "ec0dd314aef1224406e29216b3e550c86cf907f5",
+                    "new": "93062b7badfc16db2fae743199668526c1b0509b"
+                }
+            }
+        },
+        {
+            "name": "Patch/Win32/superbundlelayout/installpackage_06/cas_01.cas",
+            "changes": {
+                "size": {
+                    "old": 21676032,
+                    "new": 268279808
+                },
+                "sha": {
+                    "old": "246c6c3c3b210a354569032b9ee9b437e4d79730",
+                    "new": "82da877342786d2ae53ce6e5b5dfeaaac35fb85e"
+                }
+            }
+        },
+        {
+            "name": "Patch/Win32/superbundlelayout/installpackage_05/cas_01.cas",
+            "changes": {
+                "size": {
+                    "old": 211374080,
+                    "new": 258002944
+                },
+                "sha": {
+                    "old": "d565f13496e07d0154981f723ce20504900df7e4",
+                    "new": "22c9c33ce947aadb589a3ceff2193d5619650f75"
+                }
+            }
+        },
+        {
+            "name": "Patch/Win32/superbundlelayout/installpackage_00/cas_01.cas",
+            "changes": {
+                "size": {
+                    "old": 266190848,
+                    "new": 262688768
+                },
+                "sha": {
+                    "old": "1a2daaf556c82c2ef42c24ee6b06fa50131b5710",
+                    "new": "d8a1f83963169696e6d81d30de6e14fb2f63e9df"
+                }
+            }
+        },
+        {
+            "name": "Patch/Win32/contentlaunchsb.toc",
+            "changes": {
+                "size": {
+                    "old": 381419,
+                    "new": 551586
+                },
+                "sha": {
+                    "old": "a29b35f43624065d886be59c25c9c7afa773839d",
+                    "new": "3c69ce5e98e7179b30a78866cbe18037794cb4f7"
+                }
+            }
+        },
+        {
+            "name": "__Installer/Cleanup.dat",
+            "changes": {
+                "sha": {
+                    "old": "cd1197786d1ebf67aa115830830ed90472a5c382",
+                    "new": "4102f96ba05443321c8f10bd0e20b9ea83bb2a89"
+                }
+            }
+        },
+        {
+            "name": "Patch/Win32/superbundlelayout/installpackage_02/cas_01.cas",
+            "changes": {
+                "size": {
+                    "old": 25710592,
+                    "new": 36483072
+                },
+                "sha": {
+                    "old": "74f76ddd5dd4098bbc7f1e7a945e51a9f59a44b7",
+                    "new": "4d56f21aab55e0b1c07b1f4cc1ec482510c17250"
+                }
+            }
+        },
+        {
+            "name": "Patch/Win32/careersba.toc",
+            "changes": {
+                "size": {
+                    "old": 125084,
+                    "new": 291213
+                },
+                "sha": {
+                    "old": "099b1e07108f13934030b2fe711d2734f1743244",
+                    "new": "986d87194ac1075d4e06c2e73a2ce4da5aa8d884"
+                }
+            }
+        },
+        {
+            "name": "dbdata.dll",
+            "changes": {
+                "sha": {
+                    "old": "1b20cb716b2980ea1bdbbf1488f9f39726ac7d8a",
+                    "new": "5108ff2cab667f2e3c7e9b5ca71ef2bf7bdde07a"
+                }
+            }
+        },
+        {
+            "name": "dxcompiler.dll",
+            "changes": {
+                "sha": {
+                    "old": "d4ac8911895c9ea9d885e9e871bc6e9075278f5b",
+                    "new": "a9809062974b610d2717b5b51f9fd77ba1217b9a"
+                }
+            }
+        },
+        {
+            "name": "FC26_Trial.exe",
+            "changes": {
+                "size": {
+                    "old": 460805976,
+                    "new": 478312792
+                },
+                "sha": {
+                    "old": "e3b06952a477a2d699f7295835fdedb34103eae5",
+                    "new": "8d0f336dd31e2859507f65f1b9753d9442392460"
+                }
+            }
+        },
+        {
+            "name": "FC26.exe",
+            "changes": {
+                "size": {
+                    "old": 450879832,
+                    "new": 453586264
+                },
+                "sha": {
+                    "old": "3eb43a7992a53a924dd8ce8e7d3b4c59f6889988",
+                    "new": "2ee4dfda33c1f929fc324d312b921e60e116b468"
+                }
+            }
+        },
+        {
+            "name": "Patch/Win32/globalsfull.toc",
+            "changes": {
+                "size": {
+                    "old": 41540,
+                    "new": 176220
+                },
+                "sha": {
+                    "old": "20cde73c6f4c8b672f67aff513cfb34984e67553",
+                    "new": "f86bc96b29934c50799fadea9291b08b677d34c1"
+                }
+            }
+        },
+        {
+            "name": "__Installer/installerdata.xml",
+            "changes": {
+                "size": {
+                    "old": 154107,
+                    "new": 154944
+                },
+                "sha": {
+                    "old": "760d913d719a1a2446db2464626cfc15a53f8e09",
+                    "new": "2ddab7b992319d78353b2a871e57ac991a84cca3"
+                }
+            }
+        },
+        {
+            "name": "oo2ext_9_win64.dll",
+            "changes": {
+                "sha": {
+                    "old": "3debaf44bb232e0ed0c2b54cdbec9e295addb081",
+                    "new": "f1f5d6f0a1617ea06848909c85f6122f2d77d448"
+                }
+            }
+        },
+        {
+            "name": "Support/mnfst.txt",
+            "changes": {
+                "size": {
+                    "old": 31410,
+                    "new": 31972
+                },
+                "sha": {
+                    "old": "1a783bf29962e19130becf9db1733529820e54f3",
+                    "new": "e693846e2e6ce4789d9c9eb64d7964127f220912"
+                }
+            }
+        },
+        {
+            "name": "Patch/Win32/choreosb.toc",
+            "changes": {
+                "size": {
+                    "old": 76418,
+                    "new": 76426
+                },
+                "sha": {
+                    "old": "ee782310e79e3d6e509057264c37083fb685d798",
+                    "new": "316382f06632586fa80d2b53030528a8d9981daa"
+                }
+            }
+        },
+        {
+            "name": "Patch/Win32/superbundlelayout/installpackage_00/cas_02.cas",
+            "changes": {
+                "size": {
+                    "old": 74260480,
+                    "new": 205295616
+                },
+                "sha": {
+                    "old": "9236cf29fcefdf3a0636e1301c79b2369a4114fe",
+                    "new": "de7f21a07ba2bc825e0d837199497457e8e76bb3"
+                }
+            }
+        },
+        {
+            "name": "Patch/Win32/fc/fcgame/fcgame.toc",
+            "changes": {
+                "size": {
+                    "old": 1233386,
+                    "new": 1233521
+                },
+                "sha": {
+                    "old": "069467b8f29f8e602f3948e508e3466fa5a7bc11",
+                    "new": "701174c637255d37f0f73d8b2b4837f9d9b4556a"
+                }
+            }
+        },
+        {
+            "name": "FC26_Showcase.exe",
+            "changes": {
+                "size": {
+                    "old": 442866008,
+                    "new": 453586264
+                },
+                "sha": {
+                    "old": "038607c1b5e755f77251c3a1b6f8aef33de7fc8a",
+                    "new": "666359b0d89d8163605d567057681bb354ee7a7b"
+                }
+            }
+        },
+        {
+            "name": "Patch/layout.toc",
+            "changes": {
+                "size": {
+                    "old": 84292,
+                    "new": 84332
+                },
+                "sha": {
+                    "old": "05494e37166e2123a46741c8fedfe4962e9c8fa7",
+                    "new": "3a5a6780c6d793f4c16c24975f2f84e184d4f371"
+                }
+            }
+        }
+    ],
+    "deleted": []
+}
