@@ -1,0 +1,722 @@
+{
+  "id": "68f919e305c5f26d2ec18aa6",
+  "address": null,
+  "badges": {
+    "attachments": 1,
+    "fogbugz": "",
+    "checkItems": 0,
+    "checkItemsChecked": 0,
+    "checkItemsEarliestDue": null,
+    "comments": 1,
+    "description": true,
+    "due": null,
+    "dueComplete": false,
+    "lastUpdatedByAi": false,
+    "start": null,
+    "externalSource": null,
+    "attachmentsByType": {
+      "trello": {
+        "board": 0,
+        "card": 0
+      }
+    },
+    "location": false,
+    "votes": 0,
+    "maliciousAttachments": 0,
+    "viewingMemberVoted": false,
+    "subscribed": false
+  },
+  "checkItemStates": [],
+  "closed": false,
+  "coordinates": null,
+  "creationMethod": null,
+  "creationMethodError": null,
+  "creationMethodLoadingStartedAt": null,
+  "dueComplete": false,
+  "dateClosed": null,
+  "dateLastActivity": "2025-10-22T18:00:47.689Z",
+  "dateCompleted": null,
+  "dateViewedByCreator": null,
+  "desc": "FC 26 v1.1.0 is dropping soon, here are the changes and issues addressed based on your feedback.\n\n## **Gameplay**\n\n**Defending**\n\n- [Competitive Gameplay] Increased aggressiveness of man marking that only applies to the defensive side’s AI players around kick-off.\n- Slightly increased Sprint Jockey speed for user controlled players.\n- Moderately increased Jockey and Sprint Jockey responsiveness for user controlled players.\n- When taking the ball from the attacker without tackling, the attacker could have sometimes incorrectly won the ball back.\n- Blocking a pass could have sometimes resulted in the passer unintentionally getting the ball back.\n- Improved animation selection for Standing Tackles.\n- Increased amount of players that stay back to defend when taking corners.\n- Sometimes, a requested tackle could result in two tackle attempts.\n- Addressed instances of tackles from behind incorrectly winning the ball.\n- Addressed cases of tackle animations ending too early.\n\n**Passing**\n\n- Ground and Lofted Through Passes are now more respectful of your aim input and are less assisted.\n- Ground Through Passes were sometimes not being hit to the intended receiver.\n- Ground Through Passes were not leading enough at times.\n- Lobbed Through Passes could have been affected by weather conditions even if there weren’t any in Authentic gameplay.\n- First time Through Pass requests could have sometimes resulted in the player trapping the ball instead of passing it.\n- Requested low crosses could have sometimes resulted in regular crosses being performed.\n- In some cases, a requested clearance took too long to be performed.\n- Improved responsiveness of first time passes when the ball is coming towards the passer at medium height.\n- When requesting a pass near the touchline, players could have incorrectly taken the ball out of play.\n- Sometimes, a requested headed pass would not occur.\n- Lowered headed lobbed through pass and cross accuracy.\n- Improved instances of Animation Start Pass Receiver Lock Setting not functioning as intended.\n- Addressed instances of passing animations playing out incorrectly.\n- Pass requests were sometimes ignored by the CPU AI during goal kicks.\n- Addressed cases of attacking passing headers applying too much power and speed to the ball.\n\n**Movement And Positioning**\n\n- Moderately reduced speed of Controlled Sprint Dribble.\n- When attempting a Controlled Sprint Dribble, sometimes the player could have lost track of the ball.\n- Directed runs can now be triggered during Controlled Sprint Dribble.\n- Improved AI teammate attacking run logic when assessing potential offside runs.\n- Improved AI teammate attacking run logic to avoid clashing with teammates.\n- During corners, players on the post could have been incorrectly positioned inside their own goal.\n- Attackers could have sometimes ended their runs unexpectedly.\n- Addressed cases of AI teammates standing behind defenders instead of looking for open space.\n- Addressed cases of AI players unintentionally stumbling after colliding with each other.\n- In some cases, a player could have incorrectly slowed down when attempting to avoid a slide tackle.\n\n**Goalkeeping**\n\n- Improved goalkeeper logic during corner kicks to address situations where players could too easily score from short corners that resulted in far post crosses.\n- Improved goalkeeper reactions to near post shots.\n- Improved cases of goalkeepers incorrectly deflecting shots back to attackers.\n- Improved goalkeeper punches to be stronger and have more consistent ball trajectories.\n- Addressed instances of goalkeepers incorrectly deflecting shots into their own net.\n- Goalkeepers would sometimes not react to shots while being manually moved.\n- On occasion, goalkeepers could have automatically and ineffectively rushed out of the box in situations that did not need it.\n- Addressed instances of goalkeeper arms clipping through their body.\n\n**Dribbling And Skill Moves**\n\n- Players are now better at maintaining their movement speed when trapping the ball.\n- Improved ball trapping consistency.\n- Improved cases of air ball traps resulting in the ball going too far away from the player.\n- Removed fancy ball traps for players without Trickster PlayStyles.\n- Requested Skill Moves were sometimes not performed.\n- In some cases, a Ball Roll could have occurred instead of the requested Croquetta Skill Move.\n- When attempting a first time fake shot, sometimes the player could lose track of the ball.\n- The exit direction of a first time fake shot did not always correctly follow user input.\n- An unintentional Player Switch could have occurred in cases where a Skill Move raised the ball.\n- Requesting a Flick Up could have sometimes resulted in two flicks.\n\n**Other Gameplay Updates And Issues Addressed**\n\n- Increased frequency of attacking and shooting by the CPU AI team in the Be A Goalkeeper experience.\n- In Player Career on Professional difficulty and above, the CPU AI will focus more on buildup and team play.\n- Increased strength of Stamina-related effects in Authentic gameplay.\n- Increased frequency of fouls committed by the CPU AI.\n- Improved referee logic when making standing tackle and sliding tackle foul calls.\n- Sometimes the referee could have incorrectly called for a penalty kick despite the fouled attacker scoring a goal inside the box.\n- Sometimes, the Player Switch to the ball receiver would not occur when using the Air Balls and Manual Player Switch settings.\n- In some cases, players could have become stuck in a Shielding state.\n- Players could have sometimes unnaturally jumped up too high when going for headers.\n- Players could have sometimes been pushed too far when engaging in physical contact.\n- Shielding players were able to sustain maximum shielding ability for longer than intended.\n- Sometimes, a shot could have incorrectly occurred when requesting a tackle.\n- Push back animations could have occurred at incorrect times.\n- After a headed pass, the player switch to the ball receiver did not always occur.\n- Addressed cases of an interception resulting in the ball winning player losing track of the ball.\n- In loose ball situations, sometimes players could not perform a requested shot.\n- Improved cases of late shot modifier inputs not registering.\n- Tactical suggestions were incorrectly appearing at the same time in every match.\n\n## **Ultimate Team**\n\nAdded the following features:\n\n- Added functionality to sort SBCs by Newest and by Expiry Date.\n  - This change will be activated through a Server Release shortly after the Title Update.\n- Added the ability to preview Evolution challenge requirements and player eligibility criteria before owning the corresponding EVO.\n  - This change will be activated through a Server Release shortly after the Title Update.\n- Added the ability to favourite and track Objectives and Objective Groups.\n  - The favourited Objectives, along with Evolutions and Rivals Bounties will appear in the Pause Menu for easier in-match tracking, as well its own tab in the UT menu.\n  - Gameplay notifications for completed Objectives can be controlled through Game Settings.\n  - This change will be activated through a Server Release shortly after the Title Update.\n\nAddressed the following issues:\n\n- In certain situations, a substituted player’s model would not load after being subbed on.\n- The End of Match screen would not show the additional Rivals Points earned from a win streak, this was a visual only issue.\n- In certain rare situations, EA connect could have unintentionally opened during gameplay.\n- The first owner UI indicator could have incorrectly shown on all Player Items in the pre-match intro.\n- When modifying Squad Tactics, Squad Assignments did not save when entering a match.\n- Objectives in a group could have been sorted in reverse order.\n- In certain situations, when bidding on an Item on the Transfer Market, the Bid Price could not have been changed from 99 UT Coins.\n- When using the Squad Builder some formations could have shown incorrect Player Roles for some positions.\n- When Champions qualification was achieved, the corresponding pop up message appeared after every match.\n- The yellow card UI overlay incorrectly displayed player portraits instead of Player Items.\n- The Home dropdown menu could have become inaccessible.\n- Players who have been substituted on could show as out of position for their role in the corresponding overlay.\n- Improved the color contrast and readability of upgrade indicators for Evolution Previews.\n- Elite Division Tier 1 Rewards were incorrectly displayed when viewing the current Rivals Weekly Reward in the Division Rivals Hub.\n- [Nintendo Switch Only] On rare occasions, characters from the half time cinematic could have remained on the pitch.\n- In certain situations, an error could have occurred when searching for Serie B Items in your Club or on the Transfer Market.\n- The Objectives tab was not showing up in Ultimate Team quick navigation at certain times.\n- [PS5 Only] Addressed controller audio quality issues when scoring a goal.\n- The For You UI did not always display and function correctly.\n- Formations could`ve been incorrectly displayed in the pre-match intro of a Squad Battles match.\n- After claiming multiple rewards in the FC Hub, redeeming and exiting to the previous screen could have resulted in the screen not loading correctly.\n- Formations with more than 3 rows of players did not always display correctly during match intros.\n- After previewing Division 9 Rivals rewards, Rivals progression could disappear from the UI, this was a visual issue only.\n- When canceling on the apply formation screen, the name of the formation would no longer be visible.\n- Some Attribute numbers that were modified by Chemistry boosts were misaligned in the Player Bio UI.\n- After opening a Pack, the discard value of the first Item did not always display.\n- If a player left a Co-Op lobby in Live Events before a match was started, an error was received instead of returning to the lobby.\n- The Transfer Market tile did not update the Transfer Target winning count correctly.\n- Some Objective Group Reward previews were missing for Milestones Objectives.\n- Addressed instances of overlapping text and UI elements in Evolutions menus.\n\n### Rest of notes continued in comment section due to Trello character limit.",
+  "descData": {
+    "emoji": {}
+  },
+  "due": null,
+  "dueReminder": null,
+  "email": null,
+  "externalSource": null,
+  "faviconUrl": null,
+  "idBoard": "5f73f7c1b4c1280a7068df5f",
+  "idChecklists": [],
+  "idLabels": [
+    "5f73f7c1b4c1280a7068dfeb",
+    "68c87f6aff1cbcd00f0343d7"
+  ],
+  "idList": "5f73f7c1b4c1280a7068df61",
+  "idMemberCreator": "5d5b1beea30eaf1b648e6ee7",
+  "idMembers": [],
+  "idMembersVoted": [],
+  "idOrganization": "6137a564cb8f6432c89f8977",
+  "idShort": 593,
+  "idAttachmentCover": "68f91bb5aa640af020c31b69",
+  "labels": [
+    {
+      "id": "5f73f7c1b4c1280a7068dfeb",
+      "idBoard": "5f73f7c1b4c1280a7068df5f",
+      "idOrganization": "6137a564cb8f6432c89f8977",
+      "name": "Title Update",
+      "nodeId": "ari:cloud:trello::label/workspace/6137a564cb8f6432c89f8977/5f73f7c1b4c1280a7068dfeb",
+      "color": "green",
+      "uses": 189
+    },
+    {
+      "id": "68c87f6aff1cbcd00f0343d7",
+      "idBoard": "5f73f7c1b4c1280a7068df5f",
+      "idOrganization": "6137a564cb8f6432c89f8977",
+      "name": "EA SPORTS FC 26",
+      "nodeId": "ari:cloud:trello::label/workspace/6137a564cb8f6432c89f8977/68c87f6aff1cbcd00f0343d7",
+      "color": "lime",
+      "uses": 46
+    }
+  ],
+  "limits": {
+    "attachments": {
+      "perCard": {
+        "status": "ok",
+        "disableAt": 1000,
+        "warnAt": 800
+      }
+    },
+    "checklists": {
+      "perCard": {
+        "status": "ok",
+        "disableAt": 500,
+        "warnAt": 400
+      }
+    },
+    "stickers": {
+      "perCard": {
+        "status": "ok",
+        "disableAt": 70,
+        "warnAt": 56
+      }
+    }
+  },
+  "locationName": null,
+  "manualCoverAttachment": true,
+  "name": "EA SPORTS FC 26 v1.1.0",
+  "nodeId": "ari:cloud:trello::card/workspace/6137a564cb8f6432c89f8977/68f919e305c5f26d2ec18aa6",
+  "originalDesc": "",
+  "originalName": "",
+  "pinned": false,
+  "pos": 1024.98486328125,
+  "recurrenceRule": null,
+  "shortLink": "IglJMNh2",
+  "shortUrl": "https://trello.com/c/IglJMNh2",
+  "singleInstrumentationId": null,
+  "sourceEmail": null,
+  "staticMapUrl": null,
+  "start": null,
+  "subscribed": null,
+  "url": "https://trello.com/c/IglJMNh2/593-ea-sports-fc-26-v110",
+  "urlSource": null,
+  "urlSourceText": null,
+  "cover": {
+    "idAttachment": "68f91bb5aa640af020c31b69",
+    "color": null,
+    "idUploadedBackground": null,
+    "size": "normal",
+    "brightness": "dark",
+    "scaled": [
+      {
+        "id": "68f91bb6aa640af020c31b73",
+        "_id": "68f91bb6aa640af020c31b73",
+        "scaled": false,
+        "url": "https://trello.com/1/cards/68f919e305c5f26d2ec18aa6/attachments/68f91bb5aa640af020c31b69/previews/68f91bb6aa640af020c31b73/download/FC_26_v1.1.0.webp",
+        "bytes": 378,
+        "height": 50,
+        "width": 70
+      },
+      {
+        "id": "68f91bb6aa640af020c31b75",
+        "_id": "68f91bb6aa640af020c31b75",
+        "scaled": true,
+        "url": "https://trello.com/1/cards/68f919e305c5f26d2ec18aa6/attachments/68f91bb5aa640af020c31b69/previews/68f91bb6aa640af020c31b75/download/FC_26_v1.1.0.webp",
+        "bytes": 738,
+        "height": 46,
+        "width": 150
+      },
+      {
+        "id": "68f91bb6aa640af020c31b74",
+        "_id": "68f91bb6aa640af020c31b74",
+        "scaled": false,
+        "url": "https://trello.com/1/cards/68f919e305c5f26d2ec18aa6/attachments/68f91bb5aa640af020c31b69/previews/68f91bb6aa640af020c31b74/download/FC_26_v1.1.0.webp",
+        "bytes": 1430,
+        "height": 150,
+        "width": 250
+      },
+      {
+        "id": "68f91bb6aa640af020c31b76",
+        "_id": "68f91bb6aa640af020c31b76",
+        "scaled": true,
+        "url": "https://trello.com/1/cards/68f919e305c5f26d2ec18aa6/attachments/68f91bb5aa640af020c31b69/previews/68f91bb6aa640af020c31b76/download/FC_26_v1.1.0.webp",
+        "bytes": 1654,
+        "height": 91,
+        "width": 299
+      },
+      {
+        "id": "68f91bb6aa640af020c31b77",
+        "_id": "68f91bb6aa640af020c31b77",
+        "scaled": true,
+        "url": "https://trello.com/1/cards/68f919e305c5f26d2ec18aa6/attachments/68f91bb5aa640af020c31b69/previews/68f91bb6aa640af020c31b77/download/FC_26_v1.1.0.webp",
+        "bytes": 3592,
+        "height": 183,
+        "width": 600
+      },
+      {
+        "id": "68f91bb6aa640af020c31b78",
+        "_id": "68f91bb6aa640af020c31b78",
+        "scaled": true,
+        "url": "https://trello.com/1/cards/68f919e305c5f26d2ec18aa6/attachments/68f91bb5aa640af020c31b69/previews/68f91bb6aa640af020c31b78/download/FC_26_v1.1.0.webp",
+        "bytes": 7232,
+        "height": 329,
+        "width": 1080
+      }
+    ],
+    "idPlugin": null
+  },
+  "isTemplate": false,
+  "cardRole": null,
+  "mirrorSourceId": null,
+  "mirrorSourceNodeId": null,
+  "checklists": [],
+  "customFieldItems": [],
+  "members": [],
+  "pluginData": [],
+  "actions": [
+    {
+      "id": "68f91bcf047e0c517de99602",
+      "idMemberCreator": "5d5b1beea30eaf1b648e6ee7",
+      "data": {
+        "old": {
+          "pos": 17411.986328125
+        },
+        "card": {
+          "pos": 1024.98486328125,
+          "id": "68f919e305c5f26d2ec18aa6",
+          "name": "EA SPORTS FC 26 v1.1.0",
+          "idShort": 593,
+          "shortLink": "IglJMNh2"
+        },
+        "board": {
+          "id": "5f73f7c1b4c1280a7068df5f",
+          "name": "EA SPORTS FC Tracker",
+          "shortLink": "keigLn6R"
+        },
+        "list": {
+          "id": "5f73f7c1b4c1280a7068df61",
+          "name": "Latest News"
+        }
+      },
+      "appCreator": null,
+      "type": "updateCard",
+      "date": "2025-10-22T18:00:47.701Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5d5b1beea30eaf1b648e6ee7",
+        "activityBlocked": false,
+        "avatarHash": "172047a1d5f531baddc287c2dcfb1c1d",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5d5b1beea30eaf1b648e6ee7/172047a1d5f531baddc287c2dcfb1c1d",
+        "fullName": "Goran",
+        "idMemberReferrer": null,
+        "initials": "G",
+        "nonPublic": {},
+        "nonPublicAvailable": true,
+        "username": "goran_drpoplove"
+      }
+    },
+    {
+      "id": "68f91bcca5e72259f72bb68c",
+      "idMemberCreator": "5d5b1beea30eaf1b648e6ee7",
+      "data": {
+        "old": {
+          "name": "EA SPORTS FC 26 version 1.1.0"
+        },
+        "card": {
+          "name": "EA SPORTS FC 26 v1.1.0",
+          "id": "68f919e305c5f26d2ec18aa6",
+          "idShort": 593,
+          "shortLink": "IglJMNh2"
+        },
+        "board": {
+          "id": "5f73f7c1b4c1280a7068df5f",
+          "name": "EA SPORTS FC Tracker",
+          "shortLink": "keigLn6R"
+        },
+        "list": {
+          "id": "5f73f7c1b4c1280a7068df61",
+          "name": "Latest News"
+        }
+      },
+      "appCreator": null,
+      "type": "updateCard",
+      "date": "2025-10-22T18:00:44.171Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5d5b1beea30eaf1b648e6ee7",
+        "activityBlocked": false,
+        "avatarHash": "172047a1d5f531baddc287c2dcfb1c1d",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5d5b1beea30eaf1b648e6ee7/172047a1d5f531baddc287c2dcfb1c1d",
+        "fullName": "Goran",
+        "idMemberReferrer": null,
+        "initials": "G",
+        "nonPublic": {},
+        "nonPublicAvailable": true,
+        "username": "goran_drpoplove"
+      }
+    },
+    {
+      "id": "68f91bb6aa640af020c31b83",
+      "idMemberCreator": "5d5b1beea30eaf1b648e6ee7",
+      "data": {
+        "attachment": {
+          "id": "68f91bb5aa640af020c31b69",
+          "name": "FC 26 v1.1.0.png",
+          "url": "https://trello.com/1/cards/68f919e305c5f26d2ec18aa6/attachments/68f91bb5aa640af020c31b69/download/FC_26_v1.1.0.png",
+          "previewUrl": "https://trello.com/1/cards/68f919e305c5f26d2ec18aa6/attachments/68f91bb5aa640af020c31b69/previews/preview/download/FC_26_v1.1.0.webp",
+          "previewUrl2x": "https://trello.com/1/cards/68f919e305c5f26d2ec18aa6/attachments/68f91bb5aa640af020c31b69/previews/preview2x/download/FC_26_v1.1.0.webp"
+        },
+        "card": {
+          "id": "68f919e305c5f26d2ec18aa6",
+          "name": "EA SPORTS FC 26 version 1.1.0",
+          "idShort": 593,
+          "shortLink": "IglJMNh2"
+        },
+        "list": {
+          "id": "5f73f7c1b4c1280a7068df61",
+          "name": "Latest News"
+        },
+        "board": {
+          "id": "5f73f7c1b4c1280a7068df5f",
+          "name": "EA SPORTS FC Tracker",
+          "shortLink": "keigLn6R"
+        }
+      },
+      "appCreator": null,
+      "type": "addAttachmentToCard",
+      "date": "2025-10-22T18:00:22.250Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5d5b1beea30eaf1b648e6ee7",
+        "activityBlocked": false,
+        "avatarHash": "172047a1d5f531baddc287c2dcfb1c1d",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5d5b1beea30eaf1b648e6ee7/172047a1d5f531baddc287c2dcfb1c1d",
+        "fullName": "Goran",
+        "idMemberReferrer": null,
+        "initials": "G",
+        "nonPublic": {},
+        "nonPublicAvailable": true,
+        "username": "goran_drpoplove"
+      }
+    },
+    {
+      "id": "68f91ba7c66a5988cf1e42b6",
+      "idMemberCreator": "5d5b1beea30eaf1b648e6ee7",
+      "data": {
+        "card": {
+          "idLabels": [
+            "5f73f7c1b4c1280a7068dfeb",
+            "68c87f6aff1cbcd00f0343d7"
+          ],
+          "id": "68f919e305c5f26d2ec18aa6",
+          "name": "EA SPORTS FC 26 version 1.1.0",
+          "idShort": 593,
+          "shortLink": "IglJMNh2"
+        },
+        "old": {
+          "idLabels": [
+            "5f73f7c1b4c1280a7068dfeb",
+            "68c87f6aff1cbcd00f0343d7"
+          ]
+        },
+        "board": {
+          "id": "5f73f7c1b4c1280a7068df5f",
+          "name": "EA SPORTS FC Tracker",
+          "shortLink": "keigLn6R"
+        },
+        "list": {
+          "id": "5f73f7c1b4c1280a7068df61",
+          "name": "Latest News"
+        }
+      },
+      "appCreator": null,
+      "type": "updateCard",
+      "date": "2025-10-22T18:00:07.679Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5d5b1beea30eaf1b648e6ee7",
+        "activityBlocked": false,
+        "avatarHash": "172047a1d5f531baddc287c2dcfb1c1d",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5d5b1beea30eaf1b648e6ee7/172047a1d5f531baddc287c2dcfb1c1d",
+        "fullName": "Goran",
+        "idMemberReferrer": null,
+        "initials": "G",
+        "nonPublic": {},
+        "nonPublicAvailable": true,
+        "username": "goran_drpoplove"
+      }
+    },
+    {
+      "id": "68f91ba5cf45099177014038",
+      "idMemberCreator": "5d5b1beea30eaf1b648e6ee7",
+      "data": {
+        "card": {
+          "idLabels": [
+            "5f73f7c1b4c1280a7068dfeb"
+          ],
+          "id": "68f919e305c5f26d2ec18aa6",
+          "name": "EA SPORTS FC 26 version 1.1.0",
+          "idShort": 593,
+          "shortLink": "IglJMNh2"
+        },
+        "old": {
+          "idLabels": [
+            "5f73f7c1b4c1280a7068dfeb"
+          ]
+        },
+        "board": {
+          "id": "5f73f7c1b4c1280a7068df5f",
+          "name": "EA SPORTS FC Tracker",
+          "shortLink": "keigLn6R"
+        },
+        "list": {
+          "id": "5f73f7c1b4c1280a7068df61",
+          "name": "Latest News"
+        }
+      },
+      "appCreator": null,
+      "type": "updateCard",
+      "date": "2025-10-22T18:00:05.774Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5d5b1beea30eaf1b648e6ee7",
+        "activityBlocked": false,
+        "avatarHash": "172047a1d5f531baddc287c2dcfb1c1d",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5d5b1beea30eaf1b648e6ee7/172047a1d5f531baddc287c2dcfb1c1d",
+        "fullName": "Goran",
+        "idMemberReferrer": null,
+        "initials": "G",
+        "nonPublic": {},
+        "nonPublicAvailable": true,
+        "username": "goran_drpoplove"
+      }
+    },
+    {
+      "id": "68f91ba4018c1814ac5cf6e0",
+      "idMemberCreator": "5d5b1beea30eaf1b648e6ee7",
+      "data": {
+        "card": {
+          "idLabels": [
+            "5f73f7c1b4c1280a7068dfeb",
+            "66b64c66fe2b82a1a0bd8245"
+          ],
+          "id": "68f919e305c5f26d2ec18aa6",
+          "name": "EA SPORTS FC 26 version 1.1.0",
+          "idShort": 593,
+          "shortLink": "IglJMNh2"
+        },
+        "old": {
+          "idLabels": [
+            "5f73f7c1b4c1280a7068dfeb",
+            "66b64c66fe2b82a1a0bd8245"
+          ]
+        },
+        "board": {
+          "id": "5f73f7c1b4c1280a7068df5f",
+          "name": "EA SPORTS FC Tracker",
+          "shortLink": "keigLn6R"
+        },
+        "list": {
+          "id": "5f73f7c1b4c1280a7068df61",
+          "name": "Latest News"
+        }
+      },
+      "appCreator": null,
+      "type": "updateCard",
+      "date": "2025-10-22T18:00:04.355Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5d5b1beea30eaf1b648e6ee7",
+        "activityBlocked": false,
+        "avatarHash": "172047a1d5f531baddc287c2dcfb1c1d",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5d5b1beea30eaf1b648e6ee7/172047a1d5f531baddc287c2dcfb1c1d",
+        "fullName": "Goran",
+        "idMemberReferrer": null,
+        "initials": "G",
+        "nonPublic": {},
+        "nonPublicAvailable": true,
+        "username": "goran_drpoplove"
+      }
+    },
+    {
+      "id": "68f91ba150d80da91ea758ba",
+      "idMemberCreator": "5d5b1beea30eaf1b648e6ee7",
+      "data": {
+        "card": {
+          "idLabels": [
+            "5f73f7c1b4c1280a7068dfeb"
+          ],
+          "id": "68f919e305c5f26d2ec18aa6",
+          "name": "EA SPORTS FC 26 version 1.1.0",
+          "idShort": 593,
+          "shortLink": "IglJMNh2"
+        },
+        "old": {
+          "idLabels": [
+            "5f73f7c1b4c1280a7068dfeb"
+          ]
+        },
+        "board": {
+          "id": "5f73f7c1b4c1280a7068df5f",
+          "name": "EA SPORTS FC Tracker",
+          "shortLink": "keigLn6R"
+        },
+        "list": {
+          "id": "5f73f7c1b4c1280a7068df61",
+          "name": "Latest News"
+        }
+      },
+      "appCreator": null,
+      "type": "updateCard",
+      "date": "2025-10-22T18:00:01.030Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5d5b1beea30eaf1b648e6ee7",
+        "activityBlocked": false,
+        "avatarHash": "172047a1d5f531baddc287c2dcfb1c1d",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5d5b1beea30eaf1b648e6ee7/172047a1d5f531baddc287c2dcfb1c1d",
+        "fullName": "Goran",
+        "idMemberReferrer": null,
+        "initials": "G",
+        "nonPublic": {},
+        "nonPublicAvailable": true,
+        "username": "goran_drpoplove"
+      }
+    },
+    {
+      "id": "68f91b9153d323911e44b523",
+      "idMemberCreator": "5d5b1beea30eaf1b648e6ee7",
+      "data": {
+        "old": {
+          "desc": "FC 26 v1.1.0 is dropping soon, here are the changes and issues addressed based on your feedback.\n\n## **Gameplay**\n\n**Defending**\n\n- [Competitive Gameplay] Increased aggressiveness of man marking that only applies to the defensive side’s AI players around kick-off.\n- Slightly increased Sprint Jockey speed for user controlled players.\n- Moderately increased Jockey and Sprint Jockey responsiveness for user controlled players.\n- When taking the ball from the attacker without tackling, the attacker could have sometimes incorrectly won the ball back.\n- Blocking a pass could have sometimes resulted in the passer unintentionally getting the ball back.\n- Improved animation selection for Standing Tackles.\n- Increased amount of players that stay back to defend when taking corners.\n- Sometimes, a requested tackle could result in two tackle attempts.\n- Addressed instances of tackles from behind incorrectly winning the ball.\n- Addressed cases of tackle animations ending too early.\n\n**Passing**\n\n- Ground and Lofted Through Passes are now more respectful of your aim input and are less assisted.\n- Ground Through Passes were sometimes not being hit to the intended receiver.\n- Ground Through Passes were not leading enough at times.\n- Lobbed Through Passes could have been affected by weather conditions even if there weren’t any in Authentic gameplay.\n- First time Through Pass requests could have sometimes resulted in the player trapping the ball instead of passing it.\n- Requested low crosses could have sometimes resulted in regular crosses being performed.\n- In some cases, a requested clearance took too long to be performed.\n- Improved responsiveness of first time passes when the ball is coming towards the passer at medium height.\n- When requesting a pass near the touchline, players could have incorrectly taken the ball out of play.\n- Sometimes, a requested headed pass would not occur.\n- Lowered headed lobbed through pass and cross accuracy.\n- Improved instances of Animation Start Pass Receiver Lock Setting not functioning as intended.\n- Addressed instances of passing animations playing out incorrectly.\n- Pass requests were sometimes ignored by the CPU AI during goal kicks.\n- Addressed cases of attacking passing headers applying too much power and speed to the ball.\n\n**Movement And Positioning**\n\n- Moderately reduced speed of Controlled Sprint Dribble.\n- When attempting a Controlled Sprint Dribble, sometimes the player could have lost track of the ball.\n- Directed runs can now be triggered during Controlled Sprint Dribble.\n- Improved AI teammate attacking run logic when assessing potential offside runs.\n- Improved AI teammate attacking run logic to avoid clashing with teammates.\n- During corners, players on the post could have been incorrectly positioned inside their own goal.\n- Attackers could have sometimes ended their runs unexpectedly.\n- Addressed cases of AI teammates standing behind defenders instead of looking for open space.\n- Addressed cases of AI players unintentionally stumbling after colliding with each other.\n- In some cases, a player could have incorrectly slowed down when attempting to avoid a slide tackle.\n\n**Goalkeeping**\n\n- Improved goalkeeper logic during corner kicks to address situations where players could too easily score from short corners that resulted in far post crosses.\n- Improved goalkeeper reactions to near post shots.\n- Improved cases of goalkeepers incorrectly deflecting shots back to attackers.\n- Improved goalkeeper punches to be stronger and have more consistent ball trajectories.\n- Addressed instances of goalkeepers incorrectly deflecting shots into their own net.\n- Goalkeepers would sometimes not react to shots while being manually moved.\n- On occasion, goalkeepers could have automatically and ineffectively rushed out of the box in situations that did not need it.\n- Addressed instances of goalkeeper arms clipping through their body.\n\n**Dribbling And Skill Moves**\n\n- Players are now better at maintaining their movement speed when trapping the ball.\n- Improved ball trapping consistency.\n- Improved cases of air ball traps resulting in the ball going too far away from the player.\n- Removed fancy ball traps for players without Trickster PlayStyles.\n- Requested Skill Moves were sometimes not performed.\n- In some cases, a Ball Roll could have occurred instead of the requested Croquetta Skill Move.\n- When attempting a first time fake shot, sometimes the player could lose track of the ball.\n- The exit direction of a first time fake shot did not always correctly follow user input.\n- An unintentional Player Switch could have occurred in cases where a Skill Move raised the ball.\n- Requesting a Flick Up could have sometimes resulted in two flicks.\n\n**Other Gameplay Updates And Issues Addressed**\n\n- Increased frequency of attacking and shooting by the CPU AI team in the Be A Goalkeeper experience.\n- In Player Career on Professional difficulty and above, the CPU AI will focus more on buildup and team play.\n- Increased strength of Stamina-related effects in Authentic gameplay.\n- Increased frequency of fouls committed by the CPU AI.\n- Improved referee logic when making standing tackle and sliding tackle foul calls.\n- Sometimes the referee could have incorrectly called for a penalty kick despite the fouled attacker scoring a goal inside the box.\n- Sometimes, the Player Switch to the ball receiver would not occur when using the Air Balls and Manual Player Switch settings.\n- In some cases, players could have become stuck in a Shielding state.\n- Players could have sometimes unnaturally jumped up too high when going for headers.\n- Players could have sometimes been pushed too far when engaging in physical contact.\n- Shielding players were able to sustain maximum shielding ability for longer than intended.\n- Sometimes, a shot could have incorrectly occurred when requesting a tackle.\n- Push back animations could have occurred at incorrect times.\n- After a headed pass, the player switch to the ball receiver did not always occur.\n- Addressed cases of an interception resulting in the ball winning player losing track of the ball.\n- In loose ball situations, sometimes players could not perform a requested shot.\n- Improved cases of late shot modifier inputs not registering.\n- Tactical suggestions were incorrectly appearing at the same time in every match.\n\n## **Ultimate Team**\n\nAdded the following features:\n\n- Added functionality to sort SBCs by Newest and by Expiry Date.\n  - This change will be activated through a Server Release shortly after the Title Update.\n- Added the ability to preview Evolution challenge requirements and player eligibility criteria before owning the corresponding EVO.\n  - This change will be activated through a Server Release shortly after the Title Update.\n- Added the ability to favourite and track Objectives and Objective Groups.\n  - The favourited Objectives, along with Evolutions and Rivals Bounties will appear in the Pause Menu for easier in-match tracking, as well its own tab in the UT menu.\n  - Gameplay notifications for completed Objectives can be controlled through Game Settings.\n  - This change will be activated through a Server Release shortly after the Title Update.\n\nAddressed the following issues:\n\n- In certain situations, a substituted player’s model would not load after being subbed on.\n- The End of Match screen would not show the additional Rivals Points earned from a win streak, this was a visual only issue.\n- In certain rare situations, EA connect could have unintentionally opened during gameplay.\n- The first owner UI indicator could have incorrectly shown on all Player Items in the pre-match intro.\n- When modifying Squad Tactics, Squad Assignments did not save when entering a match.\n- Objectives in a group could have been sorted in reverse order.\n- In certain situations, when bidding on an Item on the Transfer Market, the Bid Price could not have been changed from 99 UT Coins.\n- When using the Squad Builder some formations could have shown incorrect Player Roles for some positions.\n- When Champions qualification was achieved, the corresponding pop up message appeared after every match.\n- The yellow card UI overlay incorrectly displayed player portraits instead of Player Items.\n- The Home dropdown menu could have become inaccessible.\n- Players who have been substituted on could show as out of position for their role in the corresponding overlay.\n- Improved the color contrast and readability of upgrade indicators for Evolution Previews.\n- Elite Division Tier 1 Rewards were incorrectly displayed when viewing the current Rivals Weekly Reward in the Division Rivals Hub.\n- [Nintendo Switch Only] On rare occasions, characters from the half time cinematic could have remained on the pitch.\n- In certain situations, an error could have occurred when searching for Serie B Items in your Club or on the Transfer Market.\n- The Objectives tab was not showing up in Ultimate Team quick navigation at certain times.\n- [PS5 Only] Addressed controller audio quality issues when scoring a goal.\n- The For You UI did not always display and function correctly.\n- Formations could`ve been incorrectly displayed in the pre-match intro of a Squad Battles match.\n- After claiming multiple rewards in the FC Hub, redeeming and exiting to the previous screen could have resulted in the screen not loading correctly.\n- Formations with more than 3 rows of players did not always display correctly during match intros.\n- After previewing Division 9 Rivals rewards, Rivals progression could disappear from the UI, this was a visual issue only.\n- When canceling on the apply formation screen, the name of the formation would no longer be visible.\n- Some Attribute numbers that were modified by Chemistry boosts were misaligned in the Player Bio UI.\n- After opening a Pack, the discard value of the first Item did not always display.\n- If a player left a Co-Op lobby in Live Events before a match was started, an error was received instead of returning to the lobby.\n- The Transfer Market tile did not update the Transfer Target winning count correctly.\n- Some Objective Group Reward previews were missing for Milestones Objectives.\n- Addressed instances of overlapping text and UI elements in Evolutions menus.\n\n### Rest of notes continued in comment below due to Trello character limit."
+        },
+        "card": {
+          "desc": "FC 26 v1.1.0 is dropping soon, here are the changes and issues addressed based on your feedback.\n\n## **Gameplay**\n\n**Defending**\n\n- [Competitive Gameplay] Increased aggressiveness of man marking that only applies to the defensive side’s AI players around kick-off.\n- Slightly increased Sprint Jockey speed for user controlled players.\n- Moderately increased Jockey and Sprint Jockey responsiveness for user controlled players.\n- When taking the ball from the attacker without tackling, the attacker could have sometimes incorrectly won the ball back.\n- Blocking a pass could have sometimes resulted in the passer unintentionally getting the ball back.\n- Improved animation selection for Standing Tackles.\n- Increased amount of players that stay back to defend when taking corners.\n- Sometimes, a requested tackle could result in two tackle attempts.\n- Addressed instances of tackles from behind incorrectly winning the ball.\n- Addressed cases of tackle animations ending too early.\n\n**Passing**\n\n- Ground and Lofted Through Passes are now more respectful of your aim input and are less assisted.\n- Ground Through Passes were sometimes not being hit to the intended receiver.\n- Ground Through Passes were not leading enough at times.\n- Lobbed Through Passes could have been affected by weather conditions even if there weren’t any in Authentic gameplay.\n- First time Through Pass requests could have sometimes resulted in the player trapping the ball instead of passing it.\n- Requested low crosses could have sometimes resulted in regular crosses being performed.\n- In some cases, a requested clearance took too long to be performed.\n- Improved responsiveness of first time passes when the ball is coming towards the passer at medium height.\n- When requesting a pass near the touchline, players could have incorrectly taken the ball out of play.\n- Sometimes, a requested headed pass would not occur.\n- Lowered headed lobbed through pass and cross accuracy.\n- Improved instances of Animation Start Pass Receiver Lock Setting not functioning as intended.\n- Addressed instances of passing animations playing out incorrectly.\n- Pass requests were sometimes ignored by the CPU AI during goal kicks.\n- Addressed cases of attacking passing headers applying too much power and speed to the ball.\n\n**Movement And Positioning**\n\n- Moderately reduced speed of Controlled Sprint Dribble.\n- When attempting a Controlled Sprint Dribble, sometimes the player could have lost track of the ball.\n- Directed runs can now be triggered during Controlled Sprint Dribble.\n- Improved AI teammate attacking run logic when assessing potential offside runs.\n- Improved AI teammate attacking run logic to avoid clashing with teammates.\n- During corners, players on the post could have been incorrectly positioned inside their own goal.\n- Attackers could have sometimes ended their runs unexpectedly.\n- Addressed cases of AI teammates standing behind defenders instead of looking for open space.\n- Addressed cases of AI players unintentionally stumbling after colliding with each other.\n- In some cases, a player could have incorrectly slowed down when attempting to avoid a slide tackle.\n\n**Goalkeeping**\n\n- Improved goalkeeper logic during corner kicks to address situations where players could too easily score from short corners that resulted in far post crosses.\n- Improved goalkeeper reactions to near post shots.\n- Improved cases of goalkeepers incorrectly deflecting shots back to attackers.\n- Improved goalkeeper punches to be stronger and have more consistent ball trajectories.\n- Addressed instances of goalkeepers incorrectly deflecting shots into their own net.\n- Goalkeepers would sometimes not react to shots while being manually moved.\n- On occasion, goalkeepers could have automatically and ineffectively rushed out of the box in situations that did not need it.\n- Addressed instances of goalkeeper arms clipping through their body.\n\n**Dribbling And Skill Moves**\n\n- Players are now better at maintaining their movement speed when trapping the ball.\n- Improved ball trapping consistency.\n- Improved cases of air ball traps resulting in the ball going too far away from the player.\n- Removed fancy ball traps for players without Trickster PlayStyles.\n- Requested Skill Moves were sometimes not performed.\n- In some cases, a Ball Roll could have occurred instead of the requested Croquetta Skill Move.\n- When attempting a first time fake shot, sometimes the player could lose track of the ball.\n- The exit direction of a first time fake shot did not always correctly follow user input.\n- An unintentional Player Switch could have occurred in cases where a Skill Move raised the ball.\n- Requesting a Flick Up could have sometimes resulted in two flicks.\n\n**Other Gameplay Updates And Issues Addressed**\n\n- Increased frequency of attacking and shooting by the CPU AI team in the Be A Goalkeeper experience.\n- In Player Career on Professional difficulty and above, the CPU AI will focus more on buildup and team play.\n- Increased strength of Stamina-related effects in Authentic gameplay.\n- Increased frequency of fouls committed by the CPU AI.\n- Improved referee logic when making standing tackle and sliding tackle foul calls.\n- Sometimes the referee could have incorrectly called for a penalty kick despite the fouled attacker scoring a goal inside the box.\n- Sometimes, the Player Switch to the ball receiver would not occur when using the Air Balls and Manual Player Switch settings.\n- In some cases, players could have become stuck in a Shielding state.\n- Players could have sometimes unnaturally jumped up too high when going for headers.\n- Players could have sometimes been pushed too far when engaging in physical contact.\n- Shielding players were able to sustain maximum shielding ability for longer than intended.\n- Sometimes, a shot could have incorrectly occurred when requesting a tackle.\n- Push back animations could have occurred at incorrect times.\n- After a headed pass, the player switch to the ball receiver did not always occur.\n- Addressed cases of an interception resulting in the ball winning player losing track of the ball.\n- In loose ball situations, sometimes players could not perform a requested shot.\n- Improved cases of late shot modifier inputs not registering.\n- Tactical suggestions were incorrectly appearing at the same time in every match.\n\n## **Ultimate Team**\n\nAdded the following features:\n\n- Added functionality to sort SBCs by Newest and by Expiry Date.\n  - This change will be activated through a Server Release shortly after the Title Update.\n- Added the ability to preview Evolution challenge requirements and player eligibility criteria before owning the corresponding EVO.\n  - This change will be activated through a Server Release shortly after the Title Update.\n- Added the ability to favourite and track Objectives and Objective Groups.\n  - The favourited Objectives, along with Evolutions and Rivals Bounties will appear in the Pause Menu for easier in-match tracking, as well its own tab in the UT menu.\n  - Gameplay notifications for completed Objectives can be controlled through Game Settings.\n  - This change will be activated through a Server Release shortly after the Title Update.\n\nAddressed the following issues:\n\n- In certain situations, a substituted player’s model would not load after being subbed on.\n- The End of Match screen would not show the additional Rivals Points earned from a win streak, this was a visual only issue.\n- In certain rare situations, EA connect could have unintentionally opened during gameplay.\n- The first owner UI indicator could have incorrectly shown on all Player Items in the pre-match intro.\n- When modifying Squad Tactics, Squad Assignments did not save when entering a match.\n- Objectives in a group could have been sorted in reverse order.\n- In certain situations, when bidding on an Item on the Transfer Market, the Bid Price could not have been changed from 99 UT Coins.\n- When using the Squad Builder some formations could have shown incorrect Player Roles for some positions.\n- When Champions qualification was achieved, the corresponding pop up message appeared after every match.\n- The yellow card UI overlay incorrectly displayed player portraits instead of Player Items.\n- The Home dropdown menu could have become inaccessible.\n- Players who have been substituted on could show as out of position for their role in the corresponding overlay.\n- Improved the color contrast and readability of upgrade indicators for Evolution Previews.\n- Elite Division Tier 1 Rewards were incorrectly displayed when viewing the current Rivals Weekly Reward in the Division Rivals Hub.\n- [Nintendo Switch Only] On rare occasions, characters from the half time cinematic could have remained on the pitch.\n- In certain situations, an error could have occurred when searching for Serie B Items in your Club or on the Transfer Market.\n- The Objectives tab was not showing up in Ultimate Team quick navigation at certain times.\n- [PS5 Only] Addressed controller audio quality issues when scoring a goal.\n- The For You UI did not always display and function correctly.\n- Formations could`ve been incorrectly displayed in the pre-match intro of a Squad Battles match.\n- After claiming multiple rewards in the FC Hub, redeeming and exiting to the previous screen could have resulted in the screen not loading correctly.\n- Formations with more than 3 rows of players did not always display correctly during match intros.\n- After previewing Division 9 Rivals rewards, Rivals progression could disappear from the UI, this was a visual issue only.\n- When canceling on the apply formation screen, the name of the formation would no longer be visible.\n- Some Attribute numbers that were modified by Chemistry boosts were misaligned in the Player Bio UI.\n- After opening a Pack, the discard value of the first Item did not always display.\n- If a player left a Co-Op lobby in Live Events before a match was started, an error was received instead of returning to the lobby.\n- The Transfer Market tile did not update the Transfer Target winning count correctly.\n- Some Objective Group Reward previews were missing for Milestones Objectives.\n- Addressed instances of overlapping text and UI elements in Evolutions menus.\n\n### Rest of notes continued in comment section due to Trello character limit.",
+          "id": "68f919e305c5f26d2ec18aa6",
+          "name": "EA SPORTS FC 26 version 1.1.0",
+          "idShort": 593,
+          "shortLink": "IglJMNh2"
+        },
+        "board": {
+          "id": "5f73f7c1b4c1280a7068df5f",
+          "name": "EA SPORTS FC Tracker",
+          "shortLink": "keigLn6R"
+        },
+        "list": {
+          "id": "5f73f7c1b4c1280a7068df61",
+          "name": "Latest News"
+        }
+      },
+      "appCreator": null,
+      "type": "updateCard",
+      "date": "2025-10-22T17:59:45.439Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5d5b1beea30eaf1b648e6ee7",
+        "activityBlocked": false,
+        "avatarHash": "172047a1d5f531baddc287c2dcfb1c1d",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5d5b1beea30eaf1b648e6ee7/172047a1d5f531baddc287c2dcfb1c1d",
+        "fullName": "Goran",
+        "idMemberReferrer": null,
+        "initials": "G",
+        "nonPublic": {},
+        "nonPublicAvailable": true,
+        "username": "goran_drpoplove"
+      }
+    },
+    {
+      "id": "68f91b7ec713adca66dc1886",
+      "idMemberCreator": "5d5b1beea30eaf1b648e6ee7",
+      "data": {
+        "old": {
+          "desc": "FC 26 v1.1.0 is dropping soon, here are the changes and issues addressed based on your feedback.\n\n**Gameplay**\n\n**Defending**\n\n- [Competitive Gameplay] Increased aggressiveness of man marking that only applies to the defensive side’s AI players around kick-off.\n- Slightly increased Sprint Jockey speed for user controlled players.\n- Moderately increased Jockey and Sprint Jockey responsiveness for user controlled players.\n- When taking the ball from the attacker without tackling, the attacker could have sometimes incorrectly won the ball back.\n- Blocking a pass could have sometimes resulted in the passer unintentionally getting the ball back.\n- Improved animation selection for Standing Tackles.\n- Increased amount of players that stay back to defend when taking corners.\n- Sometimes, a requested tackle could result in two tackle attempts.\n- Addressed instances of tackles from behind incorrectly winning the ball.\n- Addressed cases of tackle animations ending too early.\n\n**Passing**\n\n- Ground and Lofted Through Passes are now more respectful of your aim input and are less assisted.\n- Ground Through Passes were sometimes not being hit to the intended receiver.\n- Ground Through Passes were not leading enough at times.\n- Lobbed Through Passes could have been affected by weather conditions even if there weren’t any in Authentic gameplay.\n- First time Through Pass requests could have sometimes resulted in the player trapping the ball instead of passing it.\n- Requested low crosses could have sometimes resulted in regular crosses being performed.\n- In some cases, a requested clearance took too long to be performed.\n- Improved responsiveness of first time passes when the ball is coming towards the passer at medium height.\n- When requesting a pass near the touchline, players could have incorrectly taken the ball out of play.\n- Sometimes, a requested headed pass would not occur.\n- Lowered headed lobbed through pass and cross accuracy.\n- Improved instances of Animation Start Pass Receiver Lock Setting not functioning as intended.\n- Addressed instances of passing animations playing out incorrectly.\n- Pass requests were sometimes ignored by the CPU AI during goal kicks.\n- Addressed cases of attacking passing headers applying too much power and speed to the ball.\n\n**Movement And Positioning**\n\n- Moderately reduced speed of Controlled Sprint Dribble.\n- When attempting a Controlled Sprint Dribble, sometimes the player could have lost track of the ball.\n- Directed runs can now be triggered during Controlled Sprint Dribble.\n- Improved AI teammate attacking run logic when assessing potential offside runs.\n- Improved AI teammate attacking run logic to avoid clashing with teammates.\n- During corners, players on the post could have been incorrectly positioned inside their own goal.\n- Attackers could have sometimes ended their runs unexpectedly.\n- Addressed cases of AI teammates standing behind defenders instead of looking for open space.\n- Addressed cases of AI players unintentionally stumbling after colliding with each other.\n- In some cases, a player could have incorrectly slowed down when attempting to avoid a slide tackle.\n\n**Goalkeeping**\n\n- Improved goalkeeper logic during corner kicks to address situations where players could too easily score from short corners that resulted in far post crosses.\n- Improved goalkeeper reactions to near post shots.\n- Improved cases of goalkeepers incorrectly deflecting shots back to attackers.\n- Improved goalkeeper punches to be stronger and have more consistent ball trajectories.\n- Addressed instances of goalkeepers incorrectly deflecting shots into their own net.\n- Goalkeepers would sometimes not react to shots while being manually moved.\n- On occasion, goalkeepers could have automatically and ineffectively rushed out of the box in situations that did not need it.\n- Addressed instances of goalkeeper arms clipping through their body.\n\n**Dribbling And Skill Moves**\n\n- Players are now better at maintaining their movement speed when trapping the ball.\n- Improved ball trapping consistency.\n- Improved cases of air ball traps resulting in the ball going too far away from the player. \n- Removed fancy ball traps for players without Trickster PlayStyles.\n- Requested Skill Moves were sometimes not performed.\n- In some cases, a Ball Roll could have occurred instead of the requested Croquetta Skill Move.\n- When attempting a first time fake shot, sometimes the player could lose track of the ball.\n- The exit direction of a first time fake shot did not always correctly follow user input.\n- An unintentional Player Switch could have occurred in cases where a Skill Move raised the ball.\n- Requesting a Flick Up could have sometimes resulted in two flicks.\n\n**Other Gameplay Updates And Issues Addressed**\n\n- Increased frequency of attacking and shooting by the CPU AI team in the Be A Goalkeeper experience.\n- In Player Career on Professional difficulty and above, the CPU AI will focus more on buildup and team play.\n- Increased strength of Stamina-related effects in Authentic gameplay.\n- Increased frequency of fouls committed by the CPU AI.\n- Improved referee logic when making standing tackle and sliding tackle foul calls.\n- Sometimes the referee could have incorrectly called for a penalty kick despite the fouled attacker scoring a goal inside the box.\n- Sometimes, the Player Switch to the ball receiver would not occur when using the Air Balls and Manual Player Switch settings.\n- In some cases, players could have become stuck in a Shielding state.\n- Players could have sometimes unnaturally jumped up too high when going for headers.\n- Players could have sometimes been pushed too far when engaging in physical contact.\n- Shielding players were able to sustain maximum shielding ability for longer than intended.\n- Sometimes, a shot could have incorrectly occurred when requesting a tackle.\n- Push back animations could have occurred at incorrect times. \n- After a headed pass, the player switch to the ball receiver did not always occur.\n- Addressed cases of an interception resulting in the ball winning player losing track of the ball.\n- In loose ball situations, sometimes players could not perform a requested shot.\n- Improved cases of late shot modifier inputs not registering.\n- Tactical suggestions were incorrectly appearing at the same time in every match.\n\n**Ultimate Team** \n\nAdded the following features:\n\n- Added functionality to sort SBCs by Newest and by Expiry Date.\n  - This change will be activated through a Server Release shortly after the Title Update.\n- Added the ability to preview Evolution challenge requirements and player eligibility criteria before owning the corresponding EVO.\n  - This change will be activated through a Server Release shortly after the Title Update.\n- Added the ability to favourite and track Objectives and Objective Groups.\n  - The favourited Objectives, along with Evolutions and Rivals Bounties will appear in the Pause Menu for easier in-match tracking, as well its own tab in the UT menu.\n  - Gameplay notifications for completed Objectives can be controlled through Game Settings.\n  - This change will be activated through a Server Release shortly after the Title Update.\n\nAddressed the following issues:\n\n- In certain situations, a substituted player’s model would not load after being subbed on.\n- The End of Match screen would not show the additional Rivals Points earned from a win streak, this was a visual only issue.\n- In certain rare situations, EA connect could have unintentionally opened during gameplay. \n- The first owner UI indicator could have incorrectly shown on all Player Items in the pre-match intro. \n- When modifying Squad Tactics, Squad Assignments did not save when entering a match.\n- Objectives in a group could have been sorted in reverse order.\n- In certain situations, when bidding on an Item on the Transfer Market, the Bid Price could not have been changed from 99 UT Coins.\n- When using the Squad Builder some formations could have shown incorrect Player Roles for some positions.\n- When Champions qualification was achieved, the corresponding pop up message appeared after every match.\n- The yellow card UI overlay incorrectly displayed player portraits instead of Player Items. \n- The Home dropdown menu could have become inaccessible. \n- Players who have been substituted on could show as out of position for their role in the corresponding overlay.\n- Improved the color contrast and readability of upgrade indicators for Evolution Previews.\n- Elite Division Tier 1 Rewards were incorrectly displayed when viewing the current Rivals Weekly Reward in the Division Rivals Hub.\n- [Nintendo Switch Only] On rare occasions, characters from the half time cinematic could have remained on the pitch. \n- In certain situations, an error could have occurred when searching for Serie B Items in your Club or on the Transfer Market.\n- The Objectives tab was not showing up in Ultimate Team quick navigation at certain times.\n- [PS5 Only] Addressed controller audio quality issues when scoring a goal.\n- The For You UI did not always display and function correctly. \n- Formations could`ve been incorrectly displayed in the pre-match intro of a Squad Battles match.\n- After claiming multiple rewards in the FC Hub, redeeming and exiting to the previous screen could have resulted in the screen not loading correctly. \n- Formations with more than 3 rows of players did not always display correctly during match intros.\n- After previewing Division 9 Rivals rewards, Rivals progression could disappear from the UI, this was a visual issue only.\n- When canceling on the apply formation screen, the name of the formation would no longer be visible.\n- Some Attribute numbers that were modified by Chemistry boosts were misaligned in the Player Bio UI.\n- After opening a Pack, the discard value of the first Item did not always display.\n- If a player left a Co-Op lobby in Live Events before a match was started, an error was received instead of returning to the lobby.  \n- The Transfer Market tile did not update the Transfer Target winning count correctly.\n- Some Objective Group Reward previews were missing for Milestones Objectives. \n- Addressed instances of overlapping text and UI elements in Evolutions menus.\n\n### Rest of notes continued in comment below due to Trello character limit."
+        },
+        "card": {
+          "desc": "FC 26 v1.1.0 is dropping soon, here are the changes and issues addressed based on your feedback.\n\n## **Gameplay**\n\n**Defending**\n\n- [Competitive Gameplay] Increased aggressiveness of man marking that only applies to the defensive side’s AI players around kick-off.\n- Slightly increased Sprint Jockey speed for user controlled players.\n- Moderately increased Jockey and Sprint Jockey responsiveness for user controlled players.\n- When taking the ball from the attacker without tackling, the attacker could have sometimes incorrectly won the ball back.\n- Blocking a pass could have sometimes resulted in the passer unintentionally getting the ball back.\n- Improved animation selection for Standing Tackles.\n- Increased amount of players that stay back to defend when taking corners.\n- Sometimes, a requested tackle could result in two tackle attempts.\n- Addressed instances of tackles from behind incorrectly winning the ball.\n- Addressed cases of tackle animations ending too early.\n\n**Passing**\n\n- Ground and Lofted Through Passes are now more respectful of your aim input and are less assisted.\n- Ground Through Passes were sometimes not being hit to the intended receiver.\n- Ground Through Passes were not leading enough at times.\n- Lobbed Through Passes could have been affected by weather conditions even if there weren’t any in Authentic gameplay.\n- First time Through Pass requests could have sometimes resulted in the player trapping the ball instead of passing it.\n- Requested low crosses could have sometimes resulted in regular crosses being performed.\n- In some cases, a requested clearance took too long to be performed.\n- Improved responsiveness of first time passes when the ball is coming towards the passer at medium height.\n- When requesting a pass near the touchline, players could have incorrectly taken the ball out of play.\n- Sometimes, a requested headed pass would not occur.\n- Lowered headed lobbed through pass and cross accuracy.\n- Improved instances of Animation Start Pass Receiver Lock Setting not functioning as intended.\n- Addressed instances of passing animations playing out incorrectly.\n- Pass requests were sometimes ignored by the CPU AI during goal kicks.\n- Addressed cases of attacking passing headers applying too much power and speed to the ball.\n\n**Movement And Positioning**\n\n- Moderately reduced speed of Controlled Sprint Dribble.\n- When attempting a Controlled Sprint Dribble, sometimes the player could have lost track of the ball.\n- Directed runs can now be triggered during Controlled Sprint Dribble.\n- Improved AI teammate attacking run logic when assessing potential offside runs.\n- Improved AI teammate attacking run logic to avoid clashing with teammates.\n- During corners, players on the post could have been incorrectly positioned inside their own goal.\n- Attackers could have sometimes ended their runs unexpectedly.\n- Addressed cases of AI teammates standing behind defenders instead of looking for open space.\n- Addressed cases of AI players unintentionally stumbling after colliding with each other.\n- In some cases, a player could have incorrectly slowed down when attempting to avoid a slide tackle.\n\n**Goalkeeping**\n\n- Improved goalkeeper logic during corner kicks to address situations where players could too easily score from short corners that resulted in far post crosses.\n- Improved goalkeeper reactions to near post shots.\n- Improved cases of goalkeepers incorrectly deflecting shots back to attackers.\n- Improved goalkeeper punches to be stronger and have more consistent ball trajectories.\n- Addressed instances of goalkeepers incorrectly deflecting shots into their own net.\n- Goalkeepers would sometimes not react to shots while being manually moved.\n- On occasion, goalkeepers could have automatically and ineffectively rushed out of the box in situations that did not need it.\n- Addressed instances of goalkeeper arms clipping through their body.\n\n**Dribbling And Skill Moves**\n\n- Players are now better at maintaining their movement speed when trapping the ball.\n- Improved ball trapping consistency.\n- Improved cases of air ball traps resulting in the ball going too far away from the player.\n- Removed fancy ball traps for players without Trickster PlayStyles.\n- Requested Skill Moves were sometimes not performed.\n- In some cases, a Ball Roll could have occurred instead of the requested Croquetta Skill Move.\n- When attempting a first time fake shot, sometimes the player could lose track of the ball.\n- The exit direction of a first time fake shot did not always correctly follow user input.\n- An unintentional Player Switch could have occurred in cases where a Skill Move raised the ball.\n- Requesting a Flick Up could have sometimes resulted in two flicks.\n\n**Other Gameplay Updates And Issues Addressed**\n\n- Increased frequency of attacking and shooting by the CPU AI team in the Be A Goalkeeper experience.\n- In Player Career on Professional difficulty and above, the CPU AI will focus more on buildup and team play.\n- Increased strength of Stamina-related effects in Authentic gameplay.\n- Increased frequency of fouls committed by the CPU AI.\n- Improved referee logic when making standing tackle and sliding tackle foul calls.\n- Sometimes the referee could have incorrectly called for a penalty kick despite the fouled attacker scoring a goal inside the box.\n- Sometimes, the Player Switch to the ball receiver would not occur when using the Air Balls and Manual Player Switch settings.\n- In some cases, players could have become stuck in a Shielding state.\n- Players could have sometimes unnaturally jumped up too high when going for headers.\n- Players could have sometimes been pushed too far when engaging in physical contact.\n- Shielding players were able to sustain maximum shielding ability for longer than intended.\n- Sometimes, a shot could have incorrectly occurred when requesting a tackle.\n- Push back animations could have occurred at incorrect times.\n- After a headed pass, the player switch to the ball receiver did not always occur.\n- Addressed cases of an interception resulting in the ball winning player losing track of the ball.\n- In loose ball situations, sometimes players could not perform a requested shot.\n- Improved cases of late shot modifier inputs not registering.\n- Tactical suggestions were incorrectly appearing at the same time in every match.\n\n## **Ultimate Team**\n\nAdded the following features:\n\n- Added functionality to sort SBCs by Newest and by Expiry Date.\n  - This change will be activated through a Server Release shortly after the Title Update.\n- Added the ability to preview Evolution challenge requirements and player eligibility criteria before owning the corresponding EVO.\n  - This change will be activated through a Server Release shortly after the Title Update.\n- Added the ability to favourite and track Objectives and Objective Groups.\n  - The favourited Objectives, along with Evolutions and Rivals Bounties will appear in the Pause Menu for easier in-match tracking, as well its own tab in the UT menu.\n  - Gameplay notifications for completed Objectives can be controlled through Game Settings.\n  - This change will be activated through a Server Release shortly after the Title Update.\n\nAddressed the following issues:\n\n- In certain situations, a substituted player’s model would not load after being subbed on.\n- The End of Match screen would not show the additional Rivals Points earned from a win streak, this was a visual only issue.\n- In certain rare situations, EA connect could have unintentionally opened during gameplay.\n- The first owner UI indicator could have incorrectly shown on all Player Items in the pre-match intro.\n- When modifying Squad Tactics, Squad Assignments did not save when entering a match.\n- Objectives in a group could have been sorted in reverse order.\n- In certain situations, when bidding on an Item on the Transfer Market, the Bid Price could not have been changed from 99 UT Coins.\n- When using the Squad Builder some formations could have shown incorrect Player Roles for some positions.\n- When Champions qualification was achieved, the corresponding pop up message appeared after every match.\n- The yellow card UI overlay incorrectly displayed player portraits instead of Player Items.\n- The Home dropdown menu could have become inaccessible.\n- Players who have been substituted on could show as out of position for their role in the corresponding overlay.\n- Improved the color contrast and readability of upgrade indicators for Evolution Previews.\n- Elite Division Tier 1 Rewards were incorrectly displayed when viewing the current Rivals Weekly Reward in the Division Rivals Hub.\n- [Nintendo Switch Only] On rare occasions, characters from the half time cinematic could have remained on the pitch.\n- In certain situations, an error could have occurred when searching for Serie B Items in your Club or on the Transfer Market.\n- The Objectives tab was not showing up in Ultimate Team quick navigation at certain times.\n- [PS5 Only] Addressed controller audio quality issues when scoring a goal.\n- The For You UI did not always display and function correctly.\n- Formations could`ve been incorrectly displayed in the pre-match intro of a Squad Battles match.\n- After claiming multiple rewards in the FC Hub, redeeming and exiting to the previous screen could have resulted in the screen not loading correctly.\n- Formations with more than 3 rows of players did not always display correctly during match intros.\n- After previewing Division 9 Rivals rewards, Rivals progression could disappear from the UI, this was a visual issue only.\n- When canceling on the apply formation screen, the name of the formation would no longer be visible.\n- Some Attribute numbers that were modified by Chemistry boosts were misaligned in the Player Bio UI.\n- After opening a Pack, the discard value of the first Item did not always display.\n- If a player left a Co-Op lobby in Live Events before a match was started, an error was received instead of returning to the lobby.\n- The Transfer Market tile did not update the Transfer Target winning count correctly.\n- Some Objective Group Reward previews were missing for Milestones Objectives.\n- Addressed instances of overlapping text and UI elements in Evolutions menus.\n\n### Rest of notes continued in comment below due to Trello character limit.",
+          "id": "68f919e305c5f26d2ec18aa6",
+          "name": "EA SPORTS FC 26 version 1.1.0",
+          "idShort": 593,
+          "shortLink": "IglJMNh2"
+        },
+        "board": {
+          "id": "5f73f7c1b4c1280a7068df5f",
+          "name": "EA SPORTS FC Tracker",
+          "shortLink": "keigLn6R"
+        },
+        "list": {
+          "id": "5f73f7c1b4c1280a7068df61",
+          "name": "Latest News"
+        }
+      },
+      "appCreator": null,
+      "type": "updateCard",
+      "date": "2025-10-22T17:59:26.807Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5d5b1beea30eaf1b648e6ee7",
+        "activityBlocked": false,
+        "avatarHash": "172047a1d5f531baddc287c2dcfb1c1d",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5d5b1beea30eaf1b648e6ee7/172047a1d5f531baddc287c2dcfb1c1d",
+        "fullName": "Goran",
+        "idMemberReferrer": null,
+        "initials": "G",
+        "nonPublic": {},
+        "nonPublicAvailable": true,
+        "username": "goran_drpoplove"
+      }
+    },
+    {
+      "id": "68f91b5f7ded522b1de41e9b",
+      "idMemberCreator": "5d5b1beea30eaf1b648e6ee7",
+      "data": {
+        "idCard": "68f919e305c5f26d2ec18aa6",
+        "text": "### **Career Mode**\n\nMade the following change:\n\n- Reduced the amount of emails received in Manager Career about checking the Manager Market for new job offers.\n\nAddressed the following issues: \n\n- Improved AI manager job security calculations in the Manager Market.\n- Addressed an issue where Caretaker Managers in Manager Career were generated with a star rating lower than intended, causing misalignment with their club. \n- In Live Starting Point and Manager Live, some competitions did not feature the intended teams.\n- Managers joining mid-season could have sometimes been incorrectly listed as failing objectives that otherwise would apply from the start of the season.\n- An end of season email could have incorrectly criticised the manager’s performance based on the previous manager.\n- Addressing a number of issues that resulted in managers switching to teams that weren't an intended fit for them.\n- Job alert emails were sometimes being sent too early in a season.\n- In Manager Career, an incorrect number of Roles could have been shown for scouted players. \n- Addressed instances of social media posts not displaying as intended.\n- Addressed visual issues that could happen in pre-match interviews and when customizing players.\n- In some cases, tattoos applied during Player Career avatar customisation may not have been saved and could have disappeared. \n- When rejecting a managerial offer, an incorrect email could have appeared stating that the club was the one doing the rejection.\n- Addressed an issue where the Unexpected Homesick Player Event could have occurred repeatedly, causing the user to receive multiple notifications.\n- Addressed a stability issue that may have occurred when attempting to sign out, send, or accept an invite while within the Player Career Avatar customization.\n- After creating a Manager in Manager Live, the manager’s info could not have been be edited.\n- Addressed an issue where the end-of-season email in Manager Career did not correctly reflect the actual results achieved after transferring to another team late in the season.\n- An incorrect trophy could have been shown in the Social Media post after winning a competition. \n- Addressed an issue where previous season player statistics did not display the correct data when using a Deep Simulation in a Manager Career Live Starting Point.\n- A lighting issue could have occurred when restarting a Moments challenge mid-game.\n\n### **Clubs**\n\nMade the following change:\n\n- User controlled players will now take penalties before AI players in Drop-In matches that go to penalties.\n\nAddressed the following issues: \n\n- Archetype XP boosts would only display the base XP earned in the end of match summary until viewed in the detailed breakdown.\n- Non-captain players in Clubs were unable to access Team Management from the pause menu.\n- When previewing a Card Background that’s part of a bundle, the Card Background did not always display correctly.\n- After completing an Objective, the notification UI indicator could have incorrectly appeared  in all Objective Groups.\n- Some Live Event match draws would go to penalties instead of Golden Goal rules.\n- Sometimes, Pro skin colour could have unintentionally changed when waiting in a lobby. \n- Improved some UI transitions.\n- Some preview options were not displaying when previewing an individual Item in a bundle. \n- Addressed instances of incorrect camera focus during goal celebrations. \n- Addressed an issue where scrolling through My Pro hairstyle options was not possible.\n- [Nintendo Switch Only] Additional controllers could have become unresponsive in some Clubs menus.\n- [Nintendo Switch Only] When customising My Pro, the head options did not always function as intended.\n- Some players were unable to see the yellow card indicator during a match.\n- When attempting to go to the Centre Back position from Goalkeeper in role select, the UI would incorrectly skip directly to Midfielder.\n- Some Clubs Objectives tabs were not displayed in FC Hub. \n- Addressed instances of Dynamic tifos not appearing in matches. \n- Addressed an issue that caused the Clubs Mode Multiplier UI to be missing from the Post-Match screen. \n- Addressed instances where Instant AXP Consumables displayed incorrect text.\n- After using an Unlock Archetype Consumable, the Archetype name would disappear when cycling to other Archetypes.\n- When attempting to use an Unlock Archetype Consumable, a specific UI flow could have resulted in the UI displaying incorrectly and becoming unresponsive.\n\n‌\n\n**General, Audio, and Visual**\n\nMade the following changes:\n\n- [PC Only] Updated Aspect Ratio setting to display common aspect ratios.\n- Updated some 2d portrait, placeholder kits, boots, gloves audio and commentary,  credits, ad boards, button callouts, placeholder images, star heads, hair, stadiums, badges, mascots,  props, tifos, cinematics, text, achievements, and overlays.\n\nAddressed the following issues: \n\n- On some occasions, trophies and pyrotechnics could have appeared in the center of the pitch.\n- [PC Only] Graphics settings could have reset when exiting Game Settings.\n- [PC Only] Some textures could have appeared incorrectly on some Intel GPUs.\n- [PC Only] Addressed instances of vibrations and haptics being too low.\n- [PC Only] Improved shader caching to address some cases of performance drops when matches start.\n- Addressed various stability issues that could have occurred.\n- Sometimes, in Co-Op Seasons, the Quit option did not function as intended.\n- Improved instances of incorrect stadium lighting.\n- [Switch 2 Only] In Kick Off, when using the GameShare option, both players were returned to the main menu if both wanted to restart a match with different teams.\n- [Switch 2] Game mode information was not correctly displayed when viewing a friend's profile. \n- Addressed cases where the Goalscorer Overlay appeared blank and the player portrait was missing in Online Friendlies, Online Seasons, and Co-Op Seasons.\n- Addressed instances of incorrect lighting on a team selection screen in Kick-off.\n- Addressed instances of incorrect gameplay and cinematic camera angles and animations. \n- The visual pitch effects from performing a sliding tackle were not applied to the pitch in Kick Off matches. \n- The default ball was being used in snowy conditions in place of a high visibility ball.\n- In Kick Off, when starting a Best Of series with another Best Of series event already started, the progress from the original event could have incorrectly displayed.\n- [Switch Only] When in Instant Replay, the screen could have become dark when viewing from certain camera angles.\n- Addressed instances of incorrect tifos appearing in Kick Off. \n- Addressed an issue where remaining idle on the Online Friendlies invite screen for an extended period could cause a disconnection. \n- AI behavior CPU Slider changes did not always save.\n- [PS4/Xbox One] Addressed some performance issues when navigating menus.\n- Addressed an issue in Online Seasons, where the second player could remain in a Co-Op Lobby after the host exited. \n- The Trainer was not showing in the pause menu of a match when playing offline.\n- In Kick Off, the High Contrast Mode was not working as intended when changes were made from the pause menu. \n- In certain situations when skipping the cinematic after scoring a late game goal, the cinematic would continue to play.\n- Addressed instances of placeholder text and incorrect UI elements.\n- Addressed the number of Tournament goals and shots not tracking correctly in the UI.\n- The opponent’s squad is not fully visible during the pre-match scene if they are using the 4-1-2-1-2 formation.\n- Addressed an issue where the default Game Settings did not function as intended.\n- Improved cases of Skill Games not displaying or functioning correctly.\n\nWant to provide us direct feedback about EA SPORTS FC 26? [https://go.ea.com/fc26pfp](https://go.ea.com/fc26pfp \"‌\") and let us know what you think, it only takes a few minutes.\n\nThanks to those who’ve provided and continue to provide feedback. Throughout the course of the EA SPORTS FC 26 season, we'll provide you with more information and updates if and when they become available. Be sure to follow \\@‌EASFCDIRECT on X as well as WhatsApp, and check out the EA SPORTS FC Tracker for the latest news and updates.\n\n‌\n\n- The EA SPORTS FC Team",
+        "textData": {
+          "emoji": {}
+        },
+        "card": {
+          "id": "68f919e305c5f26d2ec18aa6",
+          "name": "EA SPORTS FC 26 version 1.1.0",
+          "idShort": 593,
+          "shortLink": "IglJMNh2"
+        },
+        "board": {
+          "id": "5f73f7c1b4c1280a7068df5f",
+          "name": "EA SPORTS FC Tracker",
+          "shortLink": "keigLn6R"
+        },
+        "list": {
+          "id": "5f73f7c1b4c1280a7068df61",
+          "name": "Latest News"
+        }
+      },
+      "appCreator": null,
+      "type": "commentCard",
+      "date": "2025-10-22T17:58:55.469Z",
+      "limits": {
+        "reactions": {
+          "perAction": {
+            "status": "ok",
+            "disableAt": 900,
+            "warnAt": 720
+          },
+          "uniquePerAction": {
+            "status": "ok",
+            "disableAt": 17,
+            "warnAt": 14
+          }
+        }
+      },
+      "memberCreator": {
+        "id": "5d5b1beea30eaf1b648e6ee7",
+        "activityBlocked": false,
+        "avatarHash": "172047a1d5f531baddc287c2dcfb1c1d",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5d5b1beea30eaf1b648e6ee7/172047a1d5f531baddc287c2dcfb1c1d",
+        "fullName": "Goran",
+        "idMemberReferrer": null,
+        "initials": "G",
+        "nonPublic": {},
+        "nonPublicAvailable": true,
+        "username": "goran_drpoplove"
+      }
+    },
+    {
+      "id": "68f91b5da8d06fa7b7bacfc1",
+      "idMemberCreator": "5d5b1beea30eaf1b648e6ee7",
+      "data": {
+        "old": {
+          "desc": ""
+        },
+        "card": {
+          "desc": "FC 26 v1.1.0 is dropping soon, here are the changes and issues addressed based on your feedback.\n\n**Gameplay**\n\n**Defending**\n\n- [Competitive Gameplay] Increased aggressiveness of man marking that only applies to the defensive side’s AI players around kick-off.\n- Slightly increased Sprint Jockey speed for user controlled players.\n- Moderately increased Jockey and Sprint Jockey responsiveness for user controlled players.\n- When taking the ball from the attacker without tackling, the attacker could have sometimes incorrectly won the ball back.\n- Blocking a pass could have sometimes resulted in the passer unintentionally getting the ball back.\n- Improved animation selection for Standing Tackles.\n- Increased amount of players that stay back to defend when taking corners.\n- Sometimes, a requested tackle could result in two tackle attempts.\n- Addressed instances of tackles from behind incorrectly winning the ball.\n- Addressed cases of tackle animations ending too early.\n\n**Passing**\n\n- Ground and Lofted Through Passes are now more respectful of your aim input and are less assisted.\n- Ground Through Passes were sometimes not being hit to the intended receiver.\n- Ground Through Passes were not leading enough at times.\n- Lobbed Through Passes could have been affected by weather conditions even if there weren’t any in Authentic gameplay.\n- First time Through Pass requests could have sometimes resulted in the player trapping the ball instead of passing it.\n- Requested low crosses could have sometimes resulted in regular crosses being performed.\n- In some cases, a requested clearance took too long to be performed.\n- Improved responsiveness of first time passes when the ball is coming towards the passer at medium height.\n- When requesting a pass near the touchline, players could have incorrectly taken the ball out of play.\n- Sometimes, a requested headed pass would not occur.\n- Lowered headed lobbed through pass and cross accuracy.\n- Improved instances of Animation Start Pass Receiver Lock Setting not functioning as intended.\n- Addressed instances of passing animations playing out incorrectly.\n- Pass requests were sometimes ignored by the CPU AI during goal kicks.\n- Addressed cases of attacking passing headers applying too much power and speed to the ball.\n\n**Movement And Positioning**\n\n- Moderately reduced speed of Controlled Sprint Dribble.\n- When attempting a Controlled Sprint Dribble, sometimes the player could have lost track of the ball.\n- Directed runs can now be triggered during Controlled Sprint Dribble.\n- Improved AI teammate attacking run logic when assessing potential offside runs.\n- Improved AI teammate attacking run logic to avoid clashing with teammates.\n- During corners, players on the post could have been incorrectly positioned inside their own goal.\n- Attackers could have sometimes ended their runs unexpectedly.\n- Addressed cases of AI teammates standing behind defenders instead of looking for open space.\n- Addressed cases of AI players unintentionally stumbling after colliding with each other.\n- In some cases, a player could have incorrectly slowed down when attempting to avoid a slide tackle.\n\n**Goalkeeping**\n\n- Improved goalkeeper logic during corner kicks to address situations where players could too easily score from short corners that resulted in far post crosses.\n- Improved goalkeeper reactions to near post shots.\n- Improved cases of goalkeepers incorrectly deflecting shots back to attackers.\n- Improved goalkeeper punches to be stronger and have more consistent ball trajectories.\n- Addressed instances of goalkeepers incorrectly deflecting shots into their own net.\n- Goalkeepers would sometimes not react to shots while being manually moved.\n- On occasion, goalkeepers could have automatically and ineffectively rushed out of the box in situations that did not need it.\n- Addressed instances of goalkeeper arms clipping through their body.\n\n**Dribbling And Skill Moves**\n\n- Players are now better at maintaining their movement speed when trapping the ball.\n- Improved ball trapping consistency.\n- Improved cases of air ball traps resulting in the ball going too far away from the player. \n- Removed fancy ball traps for players without Trickster PlayStyles.\n- Requested Skill Moves were sometimes not performed.\n- In some cases, a Ball Roll could have occurred instead of the requested Croquetta Skill Move.\n- When attempting a first time fake shot, sometimes the player could lose track of the ball.\n- The exit direction of a first time fake shot did not always correctly follow user input.\n- An unintentional Player Switch could have occurred in cases where a Skill Move raised the ball.\n- Requesting a Flick Up could have sometimes resulted in two flicks.\n\n**Other Gameplay Updates And Issues Addressed**\n\n- Increased frequency of attacking and shooting by the CPU AI team in the Be A Goalkeeper experience.\n- In Player Career on Professional difficulty and above, the CPU AI will focus more on buildup and team play.\n- Increased strength of Stamina-related effects in Authentic gameplay.\n- Increased frequency of fouls committed by the CPU AI.\n- Improved referee logic when making standing tackle and sliding tackle foul calls.\n- Sometimes the referee could have incorrectly called for a penalty kick despite the fouled attacker scoring a goal inside the box.\n- Sometimes, the Player Switch to the ball receiver would not occur when using the Air Balls and Manual Player Switch settings.\n- In some cases, players could have become stuck in a Shielding state.\n- Players could have sometimes unnaturally jumped up too high when going for headers.\n- Players could have sometimes been pushed too far when engaging in physical contact.\n- Shielding players were able to sustain maximum shielding ability for longer than intended.\n- Sometimes, a shot could have incorrectly occurred when requesting a tackle.\n- Push back animations could have occurred at incorrect times. \n- After a headed pass, the player switch to the ball receiver did not always occur.\n- Addressed cases of an interception resulting in the ball winning player losing track of the ball.\n- In loose ball situations, sometimes players could not perform a requested shot.\n- Improved cases of late shot modifier inputs not registering.\n- Tactical suggestions were incorrectly appearing at the same time in every match.\n\n**Ultimate Team** \n\nAdded the following features:\n\n- Added functionality to sort SBCs by Newest and by Expiry Date.\n  - This change will be activated through a Server Release shortly after the Title Update.\n- Added the ability to preview Evolution challenge requirements and player eligibility criteria before owning the corresponding EVO.\n  - This change will be activated through a Server Release shortly after the Title Update.\n- Added the ability to favourite and track Objectives and Objective Groups.\n  - The favourited Objectives, along with Evolutions and Rivals Bounties will appear in the Pause Menu for easier in-match tracking, as well its own tab in the UT menu.\n  - Gameplay notifications for completed Objectives can be controlled through Game Settings.\n  - This change will be activated through a Server Release shortly after the Title Update.\n\nAddressed the following issues:\n\n- In certain situations, a substituted player’s model would not load after being subbed on.\n- The End of Match screen would not show the additional Rivals Points earned from a win streak, this was a visual only issue.\n- In certain rare situations, EA connect could have unintentionally opened during gameplay. \n- The first owner UI indicator could have incorrectly shown on all Player Items in the pre-match intro. \n- When modifying Squad Tactics, Squad Assignments did not save when entering a match.\n- Objectives in a group could have been sorted in reverse order.\n- In certain situations, when bidding on an Item on the Transfer Market, the Bid Price could not have been changed from 99 UT Coins.\n- When using the Squad Builder some formations could have shown incorrect Player Roles for some positions.\n- When Champions qualification was achieved, the corresponding pop up message appeared after every match.\n- The yellow card UI overlay incorrectly displayed player portraits instead of Player Items. \n- The Home dropdown menu could have become inaccessible. \n- Players who have been substituted on could show as out of position for their role in the corresponding overlay.\n- Improved the color contrast and readability of upgrade indicators for Evolution Previews.\n- Elite Division Tier 1 Rewards were incorrectly displayed when viewing the current Rivals Weekly Reward in the Division Rivals Hub.\n- [Nintendo Switch Only] On rare occasions, characters from the half time cinematic could have remained on the pitch. \n- In certain situations, an error could have occurred when searching for Serie B Items in your Club or on the Transfer Market.\n- The Objectives tab was not showing up in Ultimate Team quick navigation at certain times.\n- [PS5 Only] Addressed controller audio quality issues when scoring a goal.\n- The For You UI did not always display and function correctly. \n- Formations could`ve been incorrectly displayed in the pre-match intro of a Squad Battles match.\n- After claiming multiple rewards in the FC Hub, redeeming and exiting to the previous screen could have resulted in the screen not loading correctly. \n- Formations with more than 3 rows of players did not always display correctly during match intros.\n- After previewing Division 9 Rivals rewards, Rivals progression could disappear from the UI, this was a visual issue only.\n- When canceling on the apply formation screen, the name of the formation would no longer be visible.\n- Some Attribute numbers that were modified by Chemistry boosts were misaligned in the Player Bio UI.\n- After opening a Pack, the discard value of the first Item did not always display.\n- If a player left a Co-Op lobby in Live Events before a match was started, an error was received instead of returning to the lobby.  \n- The Transfer Market tile did not update the Transfer Target winning count correctly.\n- Some Objective Group Reward previews were missing for Milestones Objectives. \n- Addressed instances of overlapping text and UI elements in Evolutions menus.\n\n### Rest of notes continued in comment below due to Trello character limit.",
+          "id": "68f919e305c5f26d2ec18aa6",
+          "name": "EA SPORTS FC 26 version 1.1.0",
+          "idShort": 593,
+          "shortLink": "IglJMNh2"
+        },
+        "board": {
+          "id": "5f73f7c1b4c1280a7068df5f",
+          "name": "EA SPORTS FC Tracker",
+          "shortLink": "keigLn6R"
+        },
+        "list": {
+          "id": "5f73f7c1b4c1280a7068df61",
+          "name": "Latest News"
+        }
+      },
+      "appCreator": null,
+      "type": "updateCard",
+      "date": "2025-10-22T17:58:53.975Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5d5b1beea30eaf1b648e6ee7",
+        "activityBlocked": false,
+        "avatarHash": "172047a1d5f531baddc287c2dcfb1c1d",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5d5b1beea30eaf1b648e6ee7/172047a1d5f531baddc287c2dcfb1c1d",
+        "fullName": "Goran",
+        "idMemberReferrer": null,
+        "initials": "G",
+        "nonPublic": {},
+        "nonPublicAvailable": true,
+        "username": "goran_drpoplove"
+      }
+    },
+    {
+      "id": "68f919e305c5f26d2ec18ae7",
+      "idMemberCreator": "5d5b1beea30eaf1b648e6ee7",
+      "data": {
+        "card": {
+          "id": "68f919e305c5f26d2ec18aa6",
+          "name": "EA SPORTS FC 26 version 1.1.0",
+          "idShort": 593,
+          "shortLink": "IglJMNh2"
+        },
+        "list": {
+          "id": "5f73f7c1b4c1280a7068df61",
+          "name": "Latest News"
+        },
+        "board": {
+          "id": "5f73f7c1b4c1280a7068df5f",
+          "name": "EA SPORTS FC Tracker",
+          "shortLink": "keigLn6R"
+        }
+      },
+      "appCreator": null,
+      "type": "createCard",
+      "date": "2025-10-22T17:52:35.219Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5d5b1beea30eaf1b648e6ee7",
+        "activityBlocked": false,
+        "avatarHash": "172047a1d5f531baddc287c2dcfb1c1d",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5d5b1beea30eaf1b648e6ee7/172047a1d5f531baddc287c2dcfb1c1d",
+        "fullName": "Goran",
+        "idMemberReferrer": null,
+        "initials": "G",
+        "nonPublic": {},
+        "nonPublicAvailable": true,
+        "username": "goran_drpoplove"
+      }
+    }
+  ]
+}
