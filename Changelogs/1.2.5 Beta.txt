@@ -1,0 +1,1 @@
+- Hotfix for FC24 title updates installation.

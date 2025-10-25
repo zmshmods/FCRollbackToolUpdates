@@ -1,9 +1,10 @@
 {
   "ToolUpdate": {
-    "ToolVersion": "1.2.4 Beta",
-    "BulidVersion": "8.24.10.2025",
+    "ToolVersion": "1.2.5 Beta",
+    "BuildVersion": "9.25.10.2025",
     "DownloadLink": "https://www.patreon.com/posts/118475020",
     "VersionHistory": [
+      "1.2.5 Beta",
       "1.2.4 Beta",
       "1.2.3 Beta",
       "1.2.2 Beta",
