@@ -1,0 +1,477 @@
+{
+  "id": "68ffac58daeeb4a700df9212",
+  "address": null,
+  "badges": {
+    "attachments": 0,
+    "fogbugz": "",
+    "checkItems": 0,
+    "checkItemsChecked": 0,
+    "checkItemsEarliestDue": null,
+    "comments": 0,
+    "description": true,
+    "due": null,
+    "dueComplete": false,
+    "lastUpdatedByAi": false,
+    "start": null,
+    "externalSource": null,
+    "attachmentsByType": {
+      "trello": {
+        "board": 0,
+        "card": 0
+      }
+    },
+    "location": false,
+    "votes": 0,
+    "maliciousAttachments": 0,
+    "viewingMemberVoted": false,
+    "subscribed": false
+  },
+  "checkItemStates": [],
+  "closed": false,
+  "coordinates": null,
+  "creationMethod": null,
+  "creationMethodError": null,
+  "creationMethodLoadingStartedAt": null,
+  "dueComplete": false,
+  "dateClosed": null,
+  "dateLastActivity": "2025-10-27T17:34:58.191Z",
+  "dateCompleted": null,
+  "dateViewedByCreator": null,
+  "desc": "FC 26 v1.1.2 will soon be available on PC, addressing a PC specific disconnect that can occur in online matches.\n\nThanks to those who’ve provided and continue to provide feedback. Throughout the course of the EA SPORTS FC 26 season, we'll provide you with more information and updates if and when they become available.\n\nBe sure to follow \\@‌EASFCDIRECT on X as well as WhatsApp, and check out the EA SPORTS FC Tracker for the latest news and updates.\n\n- The EA SPORTS FC Team",
+  "descData": {
+    "emoji": {}
+  },
+  "due": null,
+  "dueReminder": null,
+  "email": null,
+  "externalSource": null,
+  "faviconUrl": null,
+  "idBoard": "5f73f7c1b4c1280a7068df5f",
+  "idChecklists": [],
+  "idLabels": [
+    "68c87f6aff1cbcd00f0343d7",
+    "5f73f7c1b4c1280a7068dfeb"
+  ],
+  "idList": "5f73f7c1b4c1280a7068df61",
+  "idMemberCreator": "5d5b1beea30eaf1b648e6ee7",
+  "idMembers": [],
+  "idMembersVoted": [],
+  "idOrganization": "6137a564cb8f6432c89f8977",
+  "idShort": 596,
+  "idAttachmentCover": null,
+  "labels": [
+    {
+      "id": "68c87f6aff1cbcd00f0343d7",
+      "idBoard": "5f73f7c1b4c1280a7068df5f",
+      "idOrganization": "6137a564cb8f6432c89f8977",
+      "name": "EA SPORTS FC 26",
+      "nodeId": "ari:cloud:trello::label/workspace/6137a564cb8f6432c89f8977/68c87f6aff1cbcd00f0343d7",
+      "color": "lime",
+      "uses": 48
+    },
+    {
+      "id": "5f73f7c1b4c1280a7068dfeb",
+      "idBoard": "5f73f7c1b4c1280a7068df5f",
+      "idOrganization": "6137a564cb8f6432c89f8977",
+      "name": "Title Update",
+      "nodeId": "ari:cloud:trello::label/workspace/6137a564cb8f6432c89f8977/5f73f7c1b4c1280a7068dfeb",
+      "color": "green",
+      "uses": 191
+    }
+  ],
+  "limits": {
+    "attachments": {
+      "perCard": {
+        "status": "ok",
+        "disableAt": 1000,
+        "warnAt": 800
+      }
+    },
+    "checklists": {
+      "perCard": {
+        "status": "ok",
+        "disableAt": 500,
+        "warnAt": 400
+      }
+    },
+    "stickers": {
+      "perCard": {
+        "status": "ok",
+        "disableAt": 70,
+        "warnAt": 56
+      }
+    }
+  },
+  "locationName": null,
+  "manualCoverAttachment": false,
+  "name": "EA SPORTS FC 26 Version 1.1.2",
+  "nodeId": "ari:cloud:trello::card/workspace/6137a564cb8f6432c89f8977/68ffac58daeeb4a700df9212",
+  "originalDesc": "",
+  "originalName": "",
+  "pinned": false,
+  "pos": 1024.1094360351562,
+  "recurrenceRule": null,
+  "shortLink": "HZZAHOO9",
+  "shortUrl": "https://trello.com/c/HZZAHOO9",
+  "singleInstrumentationId": null,
+  "sourceEmail": null,
+  "staticMapUrl": null,
+  "start": null,
+  "subscribed": null,
+  "url": "https://trello.com/c/HZZAHOO9/596-ea-sports-fc-26-version-112",
+  "urlSource": null,
+  "urlSourceText": null,
+  "cover": {
+    "idAttachment": null,
+    "color": null,
+    "idUploadedBackground": null,
+    "size": "normal",
+    "brightness": "dark",
+    "yPosition": 0.5,
+    "idPlugin": null
+  },
+  "isTemplate": false,
+  "cardRole": null,
+  "mirrorSourceId": null,
+  "mirrorSourceNodeId": null,
+  "checklists": [],
+  "customFieldItems": [],
+  "members": [],
+  "pluginData": [],
+  "actions": [
+    {
+      "id": "68ffad426698f94bd6e7755a",
+      "idMemberCreator": "5d5b1beea30eaf1b648e6ee7",
+      "data": {
+        "old": {
+          "desc": "FC 26 v1.1.1 will soon be available on PC, addressing a PC specific disconnect that can occur in online matches.\n\nThanks to those who’ve provided and continue to provide feedback. Throughout the course of the EA SPORTS FC 26 season, we'll provide you with more information and updates if and when they become available.\n\nBe sure to follow \\@‌EASFCDIRECT on X as well as WhatsApp, and check out the EA SPORTS FC Tracker for the latest news and updates.\n\n\n- The EA SPORTS FC Team"
+        },
+        "card": {
+          "desc": "FC 26 v1.1.2 will soon be available on PC, addressing a PC specific disconnect that can occur in online matches.\n\nThanks to those who’ve provided and continue to provide feedback. Throughout the course of the EA SPORTS FC 26 season, we'll provide you with more information and updates if and when they become available.\n\nBe sure to follow \\@‌EASFCDIRECT on X as well as WhatsApp, and check out the EA SPORTS FC Tracker for the latest news and updates.\n\n- The EA SPORTS FC Team",
+          "id": "68ffac58daeeb4a700df9212",
+          "name": "EA SPORTS FC 26 Version 1.1.2",
+          "idShort": 596,
+          "shortLink": "HZZAHOO9"
+        },
+        "board": {
+          "id": "5f73f7c1b4c1280a7068df5f",
+          "name": "EA SPORTS FC Tracker",
+          "shortLink": "keigLn6R"
+        },
+        "list": {
+          "id": "5f73f7c1b4c1280a7068df61",
+          "name": "Latest News"
+        }
+      },
+      "appCreator": null,
+      "type": "updateCard",
+      "date": "2025-10-27T17:34:58.203Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5d5b1beea30eaf1b648e6ee7",
+        "activityBlocked": false,
+        "avatarHash": "172047a1d5f531baddc287c2dcfb1c1d",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5d5b1beea30eaf1b648e6ee7/172047a1d5f531baddc287c2dcfb1c1d",
+        "fullName": "Goran",
+        "idMemberReferrer": null,
+        "initials": "G",
+        "nonPublic": {},
+        "nonPublicAvailable": true,
+        "username": "goran_drpoplove"
+      }
+    },
+    {
+      "id": "68fface1b6ea18cded04da1d",
+      "idMemberCreator": "5d5b1beea30eaf1b648e6ee7",
+      "data": {
+        "old": {
+          "pos": 1024.7347412109375
+        },
+        "card": {
+          "pos": 1024.1094360351562,
+          "id": "68ffac58daeeb4a700df9212",
+          "name": "EA SPORTS FC 26 Version 1.1.2",
+          "idShort": 596,
+          "shortLink": "HZZAHOO9"
+        },
+        "board": {
+          "id": "5f73f7c1b4c1280a7068df5f",
+          "name": "EA SPORTS FC Tracker",
+          "shortLink": "keigLn6R"
+        },
+        "list": {
+          "id": "5f73f7c1b4c1280a7068df61",
+          "name": "Latest News"
+        }
+      },
+      "appCreator": null,
+      "type": "updateCard",
+      "date": "2025-10-27T17:33:21.407Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5d5b1beea30eaf1b648e6ee7",
+        "activityBlocked": false,
+        "avatarHash": "172047a1d5f531baddc287c2dcfb1c1d",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5d5b1beea30eaf1b648e6ee7/172047a1d5f531baddc287c2dcfb1c1d",
+        "fullName": "Goran",
+        "idMemberReferrer": null,
+        "initials": "G",
+        "nonPublic": {},
+        "nonPublicAvailable": true,
+        "username": "goran_drpoplove"
+      }
+    },
+    {
+      "id": "68ffacc6028352b0bb10c92c",
+      "idMemberCreator": "5d5b1beea30eaf1b648e6ee7",
+      "data": {
+        "old": {
+          "pos": 17411.986328125
+        },
+        "card": {
+          "pos": 1024.7347412109375,
+          "id": "68ffac58daeeb4a700df9212",
+          "name": "EA SPORTS FC 26 Version 1.1.2",
+          "idShort": 596,
+          "shortLink": "HZZAHOO9"
+        },
+        "board": {
+          "id": "5f73f7c1b4c1280a7068df5f",
+          "name": "EA SPORTS FC Tracker",
+          "shortLink": "keigLn6R"
+        },
+        "list": {
+          "id": "5f73f7c1b4c1280a7068df61",
+          "name": "Latest News"
+        }
+      },
+      "appCreator": null,
+      "type": "updateCard",
+      "date": "2025-10-27T17:32:54.653Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5d5b1beea30eaf1b648e6ee7",
+        "activityBlocked": false,
+        "avatarHash": "172047a1d5f531baddc287c2dcfb1c1d",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5d5b1beea30eaf1b648e6ee7/172047a1d5f531baddc287c2dcfb1c1d",
+        "fullName": "Goran",
+        "idMemberReferrer": null,
+        "initials": "G",
+        "nonPublic": {},
+        "nonPublicAvailable": true,
+        "username": "goran_drpoplove"
+      }
+    },
+    {
+      "id": "68ffacbfed11b98c807e17b7",
+      "idMemberCreator": "5d5b1beea30eaf1b648e6ee7",
+      "data": {
+        "card": {
+          "idLabels": [
+            "68c87f6aff1cbcd00f0343d7",
+            "5f73f7c1b4c1280a7068dfeb"
+          ],
+          "id": "68ffac58daeeb4a700df9212",
+          "name": "EA SPORTS FC 26 Version 1.1.2",
+          "idShort": 596,
+          "shortLink": "HZZAHOO9"
+        },
+        "old": {
+          "idLabels": [
+            "68c87f6aff1cbcd00f0343d7",
+            "5f73f7c1b4c1280a7068dfeb"
+          ]
+        },
+        "board": {
+          "id": "5f73f7c1b4c1280a7068df5f",
+          "name": "EA SPORTS FC Tracker",
+          "shortLink": "keigLn6R"
+        },
+        "list": {
+          "id": "5f73f7c1b4c1280a7068df61",
+          "name": "Latest News"
+        }
+      },
+      "appCreator": null,
+      "type": "updateCard",
+      "date": "2025-10-27T17:32:47.097Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5d5b1beea30eaf1b648e6ee7",
+        "activityBlocked": false,
+        "avatarHash": "172047a1d5f531baddc287c2dcfb1c1d",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5d5b1beea30eaf1b648e6ee7/172047a1d5f531baddc287c2dcfb1c1d",
+        "fullName": "Goran",
+        "idMemberReferrer": null,
+        "initials": "G",
+        "nonPublic": {},
+        "nonPublicAvailable": true,
+        "username": "goran_drpoplove"
+      }
+    },
+    {
+      "id": "68ffacb7711efc740c96d624",
+      "idMemberCreator": "5d5b1beea30eaf1b648e6ee7",
+      "data": {
+        "card": {
+          "idLabels": [
+            "68c87f6aff1cbcd00f0343d7"
+          ],
+          "id": "68ffac58daeeb4a700df9212",
+          "name": "EA SPORTS FC 26 Version 1.1.2",
+          "idShort": 596,
+          "shortLink": "HZZAHOO9"
+        },
+        "old": {
+          "idLabels": [
+            "68c87f6aff1cbcd00f0343d7"
+          ]
+        },
+        "board": {
+          "id": "5f73f7c1b4c1280a7068df5f",
+          "name": "EA SPORTS FC Tracker",
+          "shortLink": "keigLn6R"
+        },
+        "list": {
+          "id": "5f73f7c1b4c1280a7068df61",
+          "name": "Latest News"
+        }
+      },
+      "appCreator": null,
+      "type": "updateCard",
+      "date": "2025-10-27T17:32:39.536Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5d5b1beea30eaf1b648e6ee7",
+        "activityBlocked": false,
+        "avatarHash": "172047a1d5f531baddc287c2dcfb1c1d",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5d5b1beea30eaf1b648e6ee7/172047a1d5f531baddc287c2dcfb1c1d",
+        "fullName": "Goran",
+        "idMemberReferrer": null,
+        "initials": "G",
+        "nonPublic": {},
+        "nonPublicAvailable": true,
+        "username": "goran_drpoplove"
+      }
+    },
+    {
+      "id": "68ffacb3a18ab35b8f06f927",
+      "idMemberCreator": "5d5b1beea30eaf1b648e6ee7",
+      "data": {
+        "old": {
+          "desc": "FC 26 v1.1.1 will soon be available on PC, addressing a PC specific disconnect that can occur in online matches.\n\nThanks to those who’ve provided and continue to provide feedback. Throughout the course of the EA SPORTS FC 26 season, we'll provide you with more information and updates if and when they become available.\n\nBe sure to follow \\@‌EASFCDIRECT on X as well as WhatsApp, and check out the EA SPORTS FC Tracker for the latest news and updates.\n\n- The EA SPORTS FC Team"
+        },
+        "card": {
+          "desc": "FC 26 v1.1.1 will soon be available on PC, addressing a PC specific disconnect that can occur in online matches.\n\nThanks to those who’ve provided and continue to provide feedback. Throughout the course of the EA SPORTS FC 26 season, we'll provide you with more information and updates if and when they become available.\n\nBe sure to follow \\@‌EASFCDIRECT on X as well as WhatsApp, and check out the EA SPORTS FC Tracker for the latest news and updates.\n\n\n- The EA SPORTS FC Team",
+          "id": "68ffac58daeeb4a700df9212",
+          "name": "EA SPORTS FC 26 Version 1.1.2",
+          "idShort": 596,
+          "shortLink": "HZZAHOO9"
+        },
+        "board": {
+          "id": "5f73f7c1b4c1280a7068df5f",
+          "name": "EA SPORTS FC Tracker",
+          "shortLink": "keigLn6R"
+        },
+        "list": {
+          "id": "5f73f7c1b4c1280a7068df61",
+          "name": "Latest News"
+        }
+      },
+      "appCreator": null,
+      "type": "updateCard",
+      "date": "2025-10-27T17:32:35.212Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5d5b1beea30eaf1b648e6ee7",
+        "activityBlocked": false,
+        "avatarHash": "172047a1d5f531baddc287c2dcfb1c1d",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5d5b1beea30eaf1b648e6ee7/172047a1d5f531baddc287c2dcfb1c1d",
+        "fullName": "Goran",
+        "idMemberReferrer": null,
+        "initials": "G",
+        "nonPublic": {},
+        "nonPublicAvailable": true,
+        "username": "goran_drpoplove"
+      }
+    },
+    {
+      "id": "68ffaca2922b985c86c2efec",
+      "idMemberCreator": "5d5b1beea30eaf1b648e6ee7",
+      "data": {
+        "old": {
+          "desc": ""
+        },
+        "card": {
+          "desc": "FC 26 v1.1.1 will soon be available on PC, addressing a PC specific disconnect that can occur in online matches.\n\nThanks to those who’ve provided and continue to provide feedback. Throughout the course of the EA SPORTS FC 26 season, we'll provide you with more information and updates if and when they become available.\n\nBe sure to follow \\@‌EASFCDIRECT on X as well as WhatsApp, and check out the EA SPORTS FC Tracker for the latest news and updates.\n\n- The EA SPORTS FC Team",
+          "id": "68ffac58daeeb4a700df9212",
+          "name": "EA SPORTS FC 26 Version 1.1.2",
+          "idShort": 596,
+          "shortLink": "HZZAHOO9"
+        },
+        "board": {
+          "id": "5f73f7c1b4c1280a7068df5f",
+          "name": "EA SPORTS FC Tracker",
+          "shortLink": "keigLn6R"
+        },
+        "list": {
+          "id": "5f73f7c1b4c1280a7068df61",
+          "name": "Latest News"
+        }
+      },
+      "appCreator": null,
+      "type": "updateCard",
+      "date": "2025-10-27T17:32:18.466Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5d5b1beea30eaf1b648e6ee7",
+        "activityBlocked": false,
+        "avatarHash": "172047a1d5f531baddc287c2dcfb1c1d",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5d5b1beea30eaf1b648e6ee7/172047a1d5f531baddc287c2dcfb1c1d",
+        "fullName": "Goran",
+        "idMemberReferrer": null,
+        "initials": "G",
+        "nonPublic": {},
+        "nonPublicAvailable": true,
+        "username": "goran_drpoplove"
+      }
+    },
+    {
+      "id": "68ffac58daeeb4a700df924a",
+      "idMemberCreator": "5d5b1beea30eaf1b648e6ee7",
+      "data": {
+        "card": {
+          "id": "68ffac58daeeb4a700df9212",
+          "name": "EA SPORTS FC 26 Version 1.1.2",
+          "idShort": 596,
+          "shortLink": "HZZAHOO9"
+        },
+        "list": {
+          "id": "5f73f7c1b4c1280a7068df61",
+          "name": "Latest News"
+        },
+        "board": {
+          "id": "5f73f7c1b4c1280a7068df5f",
+          "name": "EA SPORTS FC Tracker",
+          "shortLink": "keigLn6R"
+        }
+      },
+      "appCreator": null,
+      "type": "createCard",
+      "date": "2025-10-27T17:31:04.187Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5d5b1beea30eaf1b648e6ee7",
+        "activityBlocked": false,
+        "avatarHash": "172047a1d5f531baddc287c2dcfb1c1d",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5d5b1beea30eaf1b648e6ee7/172047a1d5f531baddc287c2dcfb1c1d",
+        "fullName": "Goran",
+        "idMemberReferrer": null,
+        "initials": "G",
+        "nonPublic": {},
+        "nonPublicAvailable": true,
+        "username": "goran_drpoplove"
+      }
+    }
+  ]
+}
