@@ -1,0 +1,464 @@
+{
+  "id": "69029924631db8afa47d3d90",
+  "address": null,
+  "badges": {
+    "attachments": 1,
+    "fogbugz": "",
+    "checkItems": 0,
+    "checkItemsChecked": 0,
+    "checkItemsEarliestDue": null,
+    "comments": 0,
+    "description": true,
+    "due": null,
+    "dueComplete": false,
+    "lastUpdatedByAi": false,
+    "start": null,
+    "externalSource": null,
+    "attachmentsByType": {
+      "trello": {
+        "board": 0,
+        "card": 0
+      }
+    },
+    "location": false,
+    "votes": 0,
+    "maliciousAttachments": 0,
+    "viewingMemberVoted": false,
+    "subscribed": false
+  },
+  "checkItemStates": [],
+  "closed": false,
+  "coordinates": null,
+  "creationMethod": null,
+  "creationMethodError": null,
+  "creationMethodLoadingStartedAt": null,
+  "dueComplete": false,
+  "dateClosed": null,
+  "dateLastActivity": "2025-10-29T22:48:10.532Z",
+  "dateCompleted": null,
+  "dateViewedByCreator": null,
+  "desc": "The latest Live Tuning Update is now available. We've been following your feedback closely, and we have restored Controlled Sprint Dribbling to nearly the same speed as before FC 26 v1.1.0.\n\nWe appreciate you taking your time to share your thoughts and we will continue listening.\n\nIn order to ensure this Live Tuning Update has been applied, please shut down and relaunch EA SPORTS FC 26 when you see this message.\n\nLive Tuning enables us to roll out some changes without requiring a full Title Update. This enables us to make tuning changes faster and with more frequency while working on the balance of the game.\n\n- The EA SPORTS FC 26 Team",
+  "descData": {
+    "emoji": {}
+  },
+  "due": null,
+  "dueReminder": null,
+  "email": null,
+  "externalSource": null,
+  "faviconUrl": null,
+  "idBoard": "5f73f7c1b4c1280a7068df5f",
+  "idChecklists": [],
+  "idLabels": [
+    "6706e6ea99d99beabb01b646",
+    "68c87f6aff1cbcd00f0343d7"
+  ],
+  "idList": "5f73f7c1b4c1280a7068df61",
+  "idMemberCreator": "5c490271b0de67896445a8d7",
+  "idMembers": [],
+  "idMembersVoted": [],
+  "idOrganization": "6137a564cb8f6432c89f8977",
+  "idShort": 597,
+  "idAttachmentCover": "69029970e0ab51c692cc2811",
+  "labels": [
+    {
+      "id": "6706e6ea99d99beabb01b646",
+      "idBoard": "5f73f7c1b4c1280a7068df5f",
+      "idOrganization": "6137a564cb8f6432c89f8977",
+      "name": "Live Tuning Update",
+      "nodeId": "ari:cloud:trello::label/workspace/6137a564cb8f6432c89f8977/6706e6ea99d99beabb01b646",
+      "color": "pink_dark",
+      "uses": 4
+    },
+    {
+      "id": "68c87f6aff1cbcd00f0343d7",
+      "idBoard": "5f73f7c1b4c1280a7068df5f",
+      "idOrganization": "6137a564cb8f6432c89f8977",
+      "name": "EA SPORTS FC 26",
+      "nodeId": "ari:cloud:trello::label/workspace/6137a564cb8f6432c89f8977/68c87f6aff1cbcd00f0343d7",
+      "color": "lime",
+      "uses": 49
+    }
+  ],
+  "limits": {
+    "attachments": {
+      "perCard": {
+        "status": "ok",
+        "disableAt": 1000,
+        "warnAt": 800
+      }
+    },
+    "checklists": {
+      "perCard": {
+        "status": "ok",
+        "disableAt": 500,
+        "warnAt": 400
+      }
+    },
+    "stickers": {
+      "perCard": {
+        "status": "ok",
+        "disableAt": 70,
+        "warnAt": 56
+      }
+    }
+  },
+  "locationName": null,
+  "manualCoverAttachment": true,
+  "name": "Live Tuning Update #2",
+  "nodeId": "ari:cloud:trello::card/workspace/6137a564cb8f6432c89f8977/69029924631db8afa47d3d90",
+  "originalDesc": "",
+  "originalName": "",
+  "pinned": false,
+  "pos": 17407.984375,
+  "recurrenceRule": null,
+  "shortLink": "7mMyNrXN",
+  "shortUrl": "https://trello.com/c/7mMyNrXN",
+  "singleInstrumentationId": null,
+  "sourceEmail": null,
+  "staticMapUrl": null,
+  "start": null,
+  "subscribed": null,
+  "url": "https://trello.com/c/7mMyNrXN/597-live-tuning-update-2",
+  "urlSource": null,
+  "urlSourceText": null,
+  "cover": {
+    "idAttachment": "69029970e0ab51c692cc2811",
+    "color": null,
+    "idUploadedBackground": null,
+    "size": "normal",
+    "brightness": "dark",
+    "yPosition": 0.5,
+    "scaled": [
+      {
+        "id": "69029971e0ab51c692cc28c3",
+        "_id": "69029971e0ab51c692cc28c3",
+        "scaled": false,
+        "url": "https://trello.com/1/cards/69029924631db8afa47d3d90/attachments/69029970e0ab51c692cc2811/previews/69029971e0ab51c692cc28c3/download/EA_SPORTS_FC_25_Live_Tuning_Update_2.webp",
+        "bytes": 662,
+        "height": 50,
+        "width": 70
+      },
+      {
+        "id": "69029971e0ab51c692cc28c5",
+        "_id": "69029971e0ab51c692cc28c5",
+        "scaled": true,
+        "url": "https://trello.com/1/cards/69029924631db8afa47d3d90/attachments/69029970e0ab51c692cc2811/previews/69029971e0ab51c692cc28c5/download/EA_SPORTS_FC_25_Live_Tuning_Update_2.webp",
+        "bytes": 1822,
+        "height": 26,
+        "width": 150
+      },
+      {
+        "id": "69029971e0ab51c692cc28c4",
+        "_id": "69029971e0ab51c692cc28c4",
+        "scaled": false,
+        "url": "https://trello.com/1/cards/69029924631db8afa47d3d90/attachments/69029970e0ab51c692cc2811/previews/69029971e0ab51c692cc28c4/download/EA_SPORTS_FC_25_Live_Tuning_Update_2.webp",
+        "bytes": 3710,
+        "height": 150,
+        "width": 250
+      },
+      {
+        "id": "69029971e0ab51c692cc28c6",
+        "_id": "69029971e0ab51c692cc28c6",
+        "scaled": true,
+        "url": "https://trello.com/1/cards/69029924631db8afa47d3d90/attachments/69029970e0ab51c692cc2811/previews/69029971e0ab51c692cc28c6/download/EA_SPORTS_FC_25_Live_Tuning_Update_2.webp",
+        "bytes": 4600,
+        "height": 51,
+        "width": 298
+      },
+      {
+        "id": "69029971e0ab51c692cc28c7",
+        "_id": "69029971e0ab51c692cc28c7",
+        "scaled": true,
+        "url": "https://trello.com/1/cards/69029924631db8afa47d3d90/attachments/69029970e0ab51c692cc2811/previews/69029971e0ab51c692cc28c7/download/EA_SPORTS_FC_25_Live_Tuning_Update_2.webp",
+        "bytes": 13214,
+        "height": 103,
+        "width": 600
+      },
+      {
+        "id": "69029971e0ab51c692cc28c8",
+        "_id": "69029971e0ab51c692cc28c8",
+        "scaled": true,
+        "url": "https://trello.com/1/cards/69029924631db8afa47d3d90/attachments/69029970e0ab51c692cc2811/previews/69029971e0ab51c692cc28c8/download/EA_SPORTS_FC_25_Live_Tuning_Update_2.webp",
+        "bytes": 40430,
+        "height": 206,
+        "width": 1200
+      },
+      {
+        "id": "69029971e0ab51c692cc28c9",
+        "_id": "69029971e0ab51c692cc28c9",
+        "scaled": true,
+        "url": "https://trello.com/1/cards/69029924631db8afa47d3d90/attachments/69029970e0ab51c692cc2811/previews/69029971e0ab51c692cc28c9/download/EA_SPORTS_FC_25_Live_Tuning_Update_2.webp",
+        "bytes": 83546,
+        "height": 329,
+        "width": 1920
+      }
+    ],
+    "edgeColor": "#28311a",
+    "idPlugin": null
+  },
+  "isTemplate": false,
+  "cardRole": null,
+  "mirrorSourceId": null,
+  "mirrorSourceNodeId": null,
+  "checklists": [],
+  "customFieldItems": [],
+  "members": [],
+  "pluginData": [],
+  "actions": [
+    {
+      "id": "690299aa91073a9b1ca2454e",
+      "idMemberCreator": "5d5b1beea30eaf1b648e6ee7",
+      "data": {
+        "old": {
+          "pos": 17411.986328125
+        },
+        "card": {
+          "pos": 17407.984375,
+          "id": "69029924631db8afa47d3d90",
+          "name": "Live Tuning Update #2",
+          "idShort": 597,
+          "shortLink": "7mMyNrXN"
+        },
+        "board": {
+          "id": "5f73f7c1b4c1280a7068df5f",
+          "name": "EA SPORTS FC Tracker",
+          "shortLink": "keigLn6R"
+        },
+        "list": {
+          "id": "5f73f7c1b4c1280a7068df61",
+          "name": "Latest News"
+        }
+      },
+      "appCreator": null,
+      "type": "updateCard",
+      "date": "2025-10-29T22:48:10.572Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5d5b1beea30eaf1b648e6ee7",
+        "activityBlocked": false,
+        "avatarHash": "172047a1d5f531baddc287c2dcfb1c1d",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5d5b1beea30eaf1b648e6ee7/172047a1d5f531baddc287c2dcfb1c1d",
+        "fullName": "Goran",
+        "idMemberReferrer": null,
+        "initials": "G",
+        "nonPublic": {},
+        "nonPublicAvailable": true,
+        "username": "goran_drpoplove"
+      }
+    },
+    {
+      "id": "69029971e0ab51c692cc293c",
+      "idMemberCreator": "5c490271b0de67896445a8d7",
+      "data": {
+        "attachment": {
+          "id": "69029970e0ab51c692cc2811",
+          "name": "EA_SPORTS_FC_25_Live_Tuning_Update_2.png",
+          "url": "https://trello.com/1/cards/69029924631db8afa47d3d90/attachments/69029970e0ab51c692cc2811/download/EA_SPORTS_FC_25_Live_Tuning_Update_2.png",
+          "previewUrl": "https://trello.com/1/cards/69029924631db8afa47d3d90/attachments/69029970e0ab51c692cc2811/previews/preview/download/EA_SPORTS_FC_25_Live_Tuning_Update_2.webp",
+          "previewUrl2x": "https://trello.com/1/cards/69029924631db8afa47d3d90/attachments/69029970e0ab51c692cc2811/previews/preview2x/download/EA_SPORTS_FC_25_Live_Tuning_Update_2.webp"
+        },
+        "card": {
+          "id": "69029924631db8afa47d3d90",
+          "name": "Live Tuning Update #2",
+          "idShort": 597,
+          "shortLink": "7mMyNrXN"
+        },
+        "list": {
+          "id": "5f73f7c1b4c1280a7068df61",
+          "name": "Latest News"
+        },
+        "board": {
+          "id": "5f73f7c1b4c1280a7068df5f",
+          "name": "EA SPORTS FC Tracker",
+          "shortLink": "keigLn6R"
+        }
+      },
+      "appCreator": null,
+      "type": "addAttachmentToCard",
+      "date": "2025-10-29T22:47:13.580Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5c490271b0de67896445a8d7",
+        "activityBlocked": false,
+        "avatarHash": "e4f90a600bde4a2be8c2ef9bd8581d9e",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5c490271b0de67896445a8d7/e4f90a600bde4a2be8c2ef9bd8581d9e",
+        "fullName": "TikiTaka",
+        "idMemberReferrer": null,
+        "initials": "T",
+        "nonPublic": {},
+        "nonPublicAvailable": true,
+        "username": "brandontakahara"
+      }
+    },
+    {
+      "id": "690299512da2182f8833022c",
+      "idMemberCreator": "5c490271b0de67896445a8d7",
+      "data": {
+        "old": {
+          "desc": ""
+        },
+        "card": {
+          "desc": "The latest Live Tuning Update is now available. We've been following your feedback closely, and we have restored Controlled Sprint Dribbling to nearly the same speed as before FC 26 v1.1.0.\n\nWe appreciate you taking your time to share your thoughts and we will continue listening.\n\nIn order to ensure this Live Tuning Update has been applied, please shut down and relaunch EA SPORTS FC 26 when you see this message.\n\nLive Tuning enables us to roll out some changes without requiring a full Title Update. This enables us to make tuning changes faster and with more frequency while working on the balance of the game.\n\n- The EA SPORTS FC 26 Team",
+          "id": "69029924631db8afa47d3d90",
+          "name": "Live Tuning Update #2",
+          "idShort": 597,
+          "shortLink": "7mMyNrXN"
+        },
+        "board": {
+          "id": "5f73f7c1b4c1280a7068df5f",
+          "name": "EA SPORTS FC Tracker",
+          "shortLink": "keigLn6R"
+        },
+        "list": {
+          "id": "5f73f7c1b4c1280a7068df61",
+          "name": "Latest News"
+        }
+      },
+      "appCreator": null,
+      "type": "updateCard",
+      "date": "2025-10-29T22:46:41.800Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5c490271b0de67896445a8d7",
+        "activityBlocked": false,
+        "avatarHash": "e4f90a600bde4a2be8c2ef9bd8581d9e",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5c490271b0de67896445a8d7/e4f90a600bde4a2be8c2ef9bd8581d9e",
+        "fullName": "TikiTaka",
+        "idMemberReferrer": null,
+        "initials": "T",
+        "nonPublic": {},
+        "nonPublicAvailable": true,
+        "username": "brandontakahara"
+      }
+    },
+    {
+      "id": "6902994e439b955f6a2f354e",
+      "idMemberCreator": "5c490271b0de67896445a8d7",
+      "data": {
+        "card": {
+          "idLabels": [
+            "6706e6ea99d99beabb01b646",
+            "68c87f6aff1cbcd00f0343d7"
+          ],
+          "id": "69029924631db8afa47d3d90",
+          "name": "Live Tuning Update #2",
+          "idShort": 597,
+          "shortLink": "7mMyNrXN"
+        },
+        "old": {
+          "idLabels": [
+            "6706e6ea99d99beabb01b646",
+            "68c87f6aff1cbcd00f0343d7"
+          ]
+        },
+        "board": {
+          "id": "5f73f7c1b4c1280a7068df5f",
+          "name": "EA SPORTS FC Tracker",
+          "shortLink": "keigLn6R"
+        },
+        "list": {
+          "id": "5f73f7c1b4c1280a7068df61",
+          "name": "Latest News"
+        }
+      },
+      "appCreator": null,
+      "type": "updateCard",
+      "date": "2025-10-29T22:46:38.059Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5c490271b0de67896445a8d7",
+        "activityBlocked": false,
+        "avatarHash": "e4f90a600bde4a2be8c2ef9bd8581d9e",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5c490271b0de67896445a8d7/e4f90a600bde4a2be8c2ef9bd8581d9e",
+        "fullName": "TikiTaka",
+        "idMemberReferrer": null,
+        "initials": "T",
+        "nonPublic": {},
+        "nonPublicAvailable": true,
+        "username": "brandontakahara"
+      }
+    },
+    {
+      "id": "6902994d3dbac5fb1dbd626e",
+      "idMemberCreator": "5c490271b0de67896445a8d7",
+      "data": {
+        "card": {
+          "idLabels": [
+            "6706e6ea99d99beabb01b646"
+          ],
+          "id": "69029924631db8afa47d3d90",
+          "name": "Live Tuning Update #2",
+          "idShort": 597,
+          "shortLink": "7mMyNrXN"
+        },
+        "old": {
+          "idLabels": [
+            "6706e6ea99d99beabb01b646"
+          ]
+        },
+        "board": {
+          "id": "5f73f7c1b4c1280a7068df5f",
+          "name": "EA SPORTS FC Tracker",
+          "shortLink": "keigLn6R"
+        },
+        "list": {
+          "id": "5f73f7c1b4c1280a7068df61",
+          "name": "Latest News"
+        }
+      },
+      "appCreator": null,
+      "type": "updateCard",
+      "date": "2025-10-29T22:46:37.514Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5c490271b0de67896445a8d7",
+        "activityBlocked": false,
+        "avatarHash": "e4f90a600bde4a2be8c2ef9bd8581d9e",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5c490271b0de67896445a8d7/e4f90a600bde4a2be8c2ef9bd8581d9e",
+        "fullName": "TikiTaka",
+        "idMemberReferrer": null,
+        "initials": "T",
+        "nonPublic": {},
+        "nonPublicAvailable": true,
+        "username": "brandontakahara"
+      }
+    },
+    {
+      "id": "69029924631db8afa47d3dc9",
+      "idMemberCreator": "5c490271b0de67896445a8d7",
+      "data": {
+        "card": {
+          "id": "69029924631db8afa47d3d90",
+          "name": "Live Tuning Update #2",
+          "idShort": 597,
+          "shortLink": "7mMyNrXN"
+        },
+        "list": {
+          "id": "5f73f7c1b4c1280a7068df61",
+          "name": "Latest News"
+        },
+        "board": {
+          "id": "5f73f7c1b4c1280a7068df5f",
+          "name": "EA SPORTS FC Tracker",
+          "shortLink": "keigLn6R"
+        }
+      },
+      "appCreator": null,
+      "type": "createCard",
+      "date": "2025-10-29T22:45:56.167Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5c490271b0de67896445a8d7",
+        "activityBlocked": false,
+        "avatarHash": "e4f90a600bde4a2be8c2ef9bd8581d9e",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5c490271b0de67896445a8d7/e4f90a600bde4a2be8c2ef9bd8581d9e",
+        "fullName": "TikiTaka",
+        "idMemberReferrer": null,
+        "initials": "T",
+        "nonPublic": {},
+        "nonPublicAvailable": true,
+        "username": "brandontakahara"
+      }
+    }
+  ]
+}
