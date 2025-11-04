@@ -1,0 +1,40 @@
+Content Manifest for Depot 3405692 
+
+Manifest ID / date     : 5864491824703761382 / 10/29/2025 17:57:07 
+Total number of files  : 30 
+Total number of chunks : 3779 
+Total bytes on disk    : 4014411803 
+Total bytes compressed : 3588203136 
+
+
+          Size Chunks File SHA                                 Flags Name
+             0      0 0000000000000000000000000000000000000000    40 Data
+             0      0 0000000000000000000000000000000000000000    40 Data\Win32
+        372230      1 2cf378af3224d01c6582ebee73fdf5825a5d09a0     0 Data\Win32\commentaryfull_eng_us.toc
+        279889      1 e04c08927177485a40386f75868a43a46685d618     0 Data\Win32\commentarylaunch_eng_us.toc
+             0      0 0000000000000000000000000000000000000000    40 Data\Win32\superbundlelayout
+             0      0 0000000000000000000000000000000000000000    40 Data\Win32\superbundlelayout\commentaryfull_eng_us
+    1073512448   1025 fc31495f334ae2e8d9fecc7b512e6ba4539ee47d     0 Data\Win32\superbundlelayout\commentaryfull_eng_us\cas_01.cas
+    1073557504   1024 bf0f3bb73bddc073f934532cd0bfa7a7acec1818     0 Data\Win32\superbundlelayout\commentaryfull_eng_us\cas_02.cas
+     826253312    788 6aaccd991a7eacf102c9e439d38ece011b21ebce     0 Data\Win32\superbundlelayout\commentaryfull_eng_us\cas_03.cas
+             0      0 0000000000000000000000000000000000000000    40 Data\Win32\superbundlelayout\commentarylaunch_eng_us
+     965967872    922 e4f8e5655631214c14dc8b32fb8c2f19dcf5d25f     0 Data\Win32\superbundlelayout\commentarylaunch_eng_us\cas_01.cas
+             0      0 0000000000000000000000000000000000000000    40 Patch
+             0      0 0000000000000000000000000000000000000000    40 Patch\Win32
+        113524      1 333dd277e3849c76055a8000a6286490821671e8     0 Patch\Win32\commentaryfull_eng_us.toc
+         27616      1 6190f3f8941923da9e588cf2bd0c608f6ad450c0     0 Patch\Win32\commentarylaunch_eng_us.toc
+             0      0 0000000000000000000000000000000000000000    40 Patch\Win32\superbundlelayout
+             0      0 0000000000000000000000000000000000000000    40 Patch\Win32\superbundlelayout\commentaryfull_eng_us
+      71495680     70 bd5f977eb5dd31f6941e63420f3508c758af1f35     0 Patch\Win32\superbundlelayout\commentaryfull_eng_us\cas_01.cas
+             0      0 0000000000000000000000000000000000000000    40 Patch\Win32\superbundlelayout\commentarylaunch_eng_us
+       2650112      3 24ba04a611e1af9e6d043c173a87302afb469442     0 Patch\Win32\superbundlelayout\commentarylaunch_eng_us\cas_01.cas
+             0      0 0000000000000000000000000000000000000000    40 Support
+             0      0 0000000000000000000000000000000000000000    40 Support\EA Help
+         65163      1 3f3fd937325a3eaef06eff28ed0b3f92513a02c1     0 Support\EA Help\Technical Support.en_US.rtf
+             0      0 0000000000000000000000000000000000000000    40 Support\Privacy and Cookie Policy
+         60907      1 c733178a5f52343bc99a9a9c3f8a0c76021ebe6e     0 Support\Privacy and Cookie Policy\en_US.html
+             0      0 0000000000000000000000000000000000000000    40 Support\User Agreement
+         55341      1 d097e562fa3777c8166eae806383470a8ed56a7a     0 Support\User Agreement\en_US.html
+             0      0 0000000000000000000000000000000000000000    40 __Installer
+             0      0 0000000000000000000000000000000000000000    40 __Installer\LOC
+           205      1 151ff5a4ec406b4e852adeea812667fe53099773     0 __Installer\LOC\Origin.OFR.50.0005763.dat
