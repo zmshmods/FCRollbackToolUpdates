@@ -1,0 +1,354 @@
+{
+  "id": "6912207026eb9e61f04e57e5",
+  "address": null,
+  "badges": {
+    "attachments": 0,
+    "fogbugz": "",
+    "checkItems": 0,
+    "checkItemsChecked": 0,
+    "checkItemsEarliestDue": null,
+    "comments": 0,
+    "description": true,
+    "due": null,
+    "dueComplete": false,
+    "lastUpdatedByAi": false,
+    "start": null,
+    "externalSource": null,
+    "attachmentsByType": {
+      "trello": {
+        "board": 0,
+        "card": 0
+      }
+    },
+    "location": false,
+    "votes": 0,
+    "maliciousAttachments": 0,
+    "viewingMemberVoted": false,
+    "subscribed": false
+  },
+  "checkItemStates": [],
+  "closed": false,
+  "coordinates": null,
+  "creationMethod": null,
+  "creationMethodError": null,
+  "creationMethodLoadingStartedAt": null,
+  "dueComplete": false,
+  "dateClosed": null,
+  "dateLastActivity": "2025-11-10T17:28:49.081Z",
+  "dateCompleted": null,
+  "dateViewedByCreator": null,
+  "desc": "EA SPORTS FC 26 version 1.2.0 will soon be available and includes the updates below.\n\n‌\n\n### **Gameplay**\n\n‌\n\nAttacking\n\n‌\n\n- Further reduced the accuracy of Acrobatic shots taken right after a flick.\n\n- Slightly increased frequency of AI teammate attacking runs into the box.\n\n- Strikers were sometimes not supporting counter attacks after making a pass.\n\n- Wingers could have sometimes dropped back during attacks instead of running into open space.\n\n‌\n\nDefending\n\n‌\n\n- Slightly reduced how tightly AI defenders will mark pass receivers on the edge of their box.\n\n- Improved defensive man marking during short corners.\n\n- Improved through passing and crossing to better respect your aim input.\n\n‌\n\nGoalkeeping\n\n‌\n\n- Goalkeepers were sometimes punching on crosses when it would’ve been more beneficial to catch the ball.\n\n- Improved goalkeeper logic when determining if they should dive at the ball when a dribbler is nearby.\n\n- Improved instances of the goalkeeper overcommitting to one side when attempting to save a first time far post shot.\n\n- Remapping controls will no longer affect Be A Goalkeeper default inputs.\n\n- Known Issue: remapped controls may incorrectly display on the Be A Goalkeeper UI, this is a visual issue only.\n\n- CPU AI goalkeepers could’ve sometimes taken unnecessary touches instead of passing the ball.\n\n‌\n\nOther\n\n‌\n\n- Addressed cases of the Player Indicator not displaying correctly.\n\n- Improved Player Switching input accuracy in some cases.\n\n- Addressed instances of the ball incorrectly bouncing off the player’s leg when requesting a shot.\n\n- Sometimes a requested shot could’ve resulted in the player performing a sliding shot when it wasn’t necessary.\n\n- When calling a teammate short, the called player could’ve become unresponsive during set pieces.\n\n- Improved referee logic when calling fouls for physical contact from behind.\n\n- Addressed instances of Directed Runs not following the requested input correctly.\n\n- In some cases, a requested pass to the keeper could’ve resulted in an unintended header if the ball was slightly in the air.\n\n- [Competitive Gameplay Only] Removed cases of a player becoming unresponsive during an animation where they looked like they were out of breath.\n\n- In rare cases, a deflected ball could have passed through the goalkeeper’s chest.\n\n- The Teammate Contain Indicator could’ve incorrectly displayed on user-controlled players in Clubs matches. This was a visual issue only.\n\n- Addressed cases of Player Switching not working as intended during airball situations.\n\n- Addressed instances of user-controlled players not moving towards the ball following a deflection.\n\n- In rare situations the ball carrier would not perform a requested shot.\n\n- Addressed rare cases of pass receivers moving in an unintended direction before the pass is made.\n\n- Shield requests could have sometimes resulted in shielding taking place too far from the opponent.\n\n- Addressed instances of animations playing out incorrectly.\n\n### **Ultimate Team** \n\n‌\n\nMade the following updates:\n\n‌\n\n- Added ability to View Available Evolutions for a selected Player Item. \n\n- After selecting the Actions menu on a Player Item you're interested in upgrading, you can view a filtered Evolution menu showing the specific Evolutions your Player Item is eligible for.\n\n- This change will be activated through a Server Release shortly after the Title Update. \n\n‌\n\nAddressed the following issues: \n\n‌\n\n- Using Claim All on a favourited Objective Group could have caused the group to be removed from favourites.\n\n- Updated pack opening walkout logic to reduce instances of lower rated Player Items walking out when higher rated ones were available.\n\n- A visual issue could have occurred when entering Rivals, showing rewards for a previously earned bounty.\n\n- Addressed instances of overlapping text and UI elements in Evolutions and Objectives menus.\n\n- The Squad Battles leaderboard incorrectly displayed the top 200 UI indicator for all ranks.\n\n- In Rush matches, the Connection Monitoring Ping UI indicator could have incorrectly shown 0ms.\n\n- In certain situations, the FC Hub could have overlapped with the UT menus.\n\n- In offline Ultimate Draft, the home kit for CPU teams were using placeholder kits.\n\n- After a Moment had been completed, button callouts could have become unresponsive until the Advance option appeared.\n\n- It was not possible to see what was being highlighted when trying to sort in the Player Performance post-match screen.\n\n- On some occasions, trophies could have appeared on the corner flag in Gauntlet matches.\n\n- Added time was not always showing on the scoreboard in Ultimate Draft matches.\n\n- Transfer Market search filters displayed as text only instead of including the corresponding UI indicator.\n\n- In Squad Battles, unplayed matches displayed -1 score when selecting a team to play against.\n\n- Evolution progress UI indicators did not always display correctly in Rush lobbies, this was a visual issue only.\n\n- The SP UI indicator did not always show the correct number, this was a visual issue only.\n\n- In some specific cases, Attribute increases in Evolution Previews were not highlighted by the UI.\n\n- The Objectives menu tile did not always display the button callout for toggling between tiles.\n\n- The PlayStyle+ Player Item UI indicator could have been cut off on the first Transfer Market Search Result.\n\n- Addressed cases of the UI not displaying correctly when browsing through Evolution Objectives.\n\n### **Clubs**\n\n‌\n\nMade the following updates:\n\n‌\n\n- Revised the Rush introduction to show the Goalkeeper Archetype when controlled by a player.\n\n- Added an option in the Visual Settings Menu to reduce the number of player indicators displayed in Clubs to Local Player & Teammates Only, or to Local Player Only.\n\n‌\n\nAddressed the following issues: \n\n‌\n\n- Sometimes, AI goalkeepers would not attempt to dive on penalty shots in Clubs matches.\n\n- When entering a drop in match, the position assigned did not always suit the Archetype of your Pro.\n\n- In certain situations an error could have occurred when attempting to join the lobby for a League Match.\n\n- Addressed a visual only issue where incorrect Attribute increases could have appeared on the Pro when entering the Clubs store.\n\n- Matchmaking options were not showing when in Club Settings. \n\n- In certain situations a Rush match did not start after the match found message appeared. \n\n- Addressed instances of the Clubs Coin UI displaying incorrect numbers following a specific flow, this was a visual issue only.\n\n- The Player Debut scoreboard element could have incorrectly displayed when a player wasn’t debuting.\n\n- The scroll bar on the Objectives screen did not always display as intended. \n\n- Addressed instances of Pro customization not saving in certain scenarios.\n\n- When unlocking an Archetype, the Pro could have been shown with an incorrect kit.\n\n- Addressed an issue that could have allowed Clubs matches to be started with all Facilities enabled.\n\n### **Career Mode**\n\n‌\n\nMade the following updates:\n\n‌\n\n- When viewing Injuries in Team Management, you can now see a banner appearing on the right, showing the duration, reason and  also severity of the injury.\n\n- Added ability to save default kit during match day kit selection.\n\n- When Deeper Simulation is on during the creation of a new save but no leagues are selected, the corresponding pop up will provide the option to start without Deep Sim.\n\n‌\n\nAddressed the following issues: \n\n‌\n\n- Contract requests for players on a one year contract could have triggered earlier than intended.\n\n- If a Manager ignored a player’s request for a contract renewal, the player could have instantly requested a transfer.\n\n- In some cases, a youth player could not be signed if the budget was initially emptied and then grown once more.\n\n- Board expectations could have displayed for multiple competitions despite the club only being able to compete in one of them at a time.\n\n- Clean sheet stats would incorrectly show for outfield players when viewing Player Stats.\n\n- An incorrect error message could have appeared when loading a Career Mode save file.\n\n- If searching for a player from another team, an incorrect club could have been listed on the search results\n\n- Created player facial features could have been unintentionally exaggerated.\n\n- Some button callouts were not easily visible when HDR was on.\n\n- Players with low appearance counts could have appeared in top average rating lists.\n\n- Points Deductions in Live Start Points could have incorrectly doubled.\n\n- The Player widget could have sometimes disappeared in Player Career.\n\n- The number of players on international duty did not always display correctly.\n\n- Addressed a case of a specific flow resulting in the transactions screen becoming non functional.\n\n- Addressed instances of social media stories showing incorrect information.\n\n### **General, Audio, and Visual**\n\n‌\n\nMade the following updates:\n\n‌\n\n- Updated the Season Pass Bundle and Multi Reward UI:\n\n- Bundle reward previews now display all included items as small images on the right side when hovered over.\n\n- Multi reward previews now show a list of small item images on the right side when hovered over.\n\n- [PC Only] Updated the Render Scale setting to display the Resolution in Width x Height format.\n\n- Added SP requirement UI indicator on Season Pass reward previews.\n\n- Updated some text, star heads, hair, 2D Portraits, tattoos, kits, crests, stadiums, tifos, banners, flags, scarves, props, trophies, ad boards, overlays, skill games, cinematics, cameras, commentary, audio, credits, and placeholder images. \n\n‌\n\nAddressed the following issues: \n\n‌\n\n- [PC Only] Addressed a pair of PC specific stability issues that could have occurred.\n\n- Addressed instances of incorrect/placeholder text, button callouts, and incorrect UI elements.\n\n- When entering the FC Hub, the Season Track was showing the first level by default instead of displaying the last earned level.\n\n- After editing a national team’s roster it was not possible to change players for the edited team.\n\n- Addressed instances of incorrect gameplay and cinematic camera angles and animations.\n\n- End of match player ratings did not always display correctly. \n\n- A Playtime message could have incorrectly displayed when entering crossplay settings.\n\n- [Switch 2 Only] In certain situations, a Joy-Con tutorial could remain on screen.\n\n- The EA connect menu could have unintentionally restricted Team Management access in Online Friendlies.\n\n- Addressed various stability issues that could have occurred.\n\n- The mid-match Visual settings screen did not always provide all available options.\n\n‌\n\nWant to provide us direct feedback about EA SPORTS FC 26? [https://go.ea.com/fc26pfp](https://go.ea.com/fc26pfp \"‌\") and let us know what you think, it only takes a few minutes.\n\n‌\n\nThank you for your continued feedback. Throughout the course of the EA SPORTS FC 26 season, we'll provide you with more information and updates if and when they become available. Be sure to follow \\@‌EASFCDIRECT on X as well as WhatsApp, and check out the EA SPORTS FC Tracker for the latest news and updates.\n\n‌\n\n- The EA SPORTS FC Team",
+  "descData": {
+    "emoji": {}
+  },
+  "due": null,
+  "dueReminder": null,
+  "email": null,
+  "externalSource": null,
+  "faviconUrl": null,
+  "idBoard": "5f73f7c1b4c1280a7068df5f",
+  "idChecklists": [],
+  "idLabels": [
+    "5f73f7c1b4c1280a7068dfeb",
+    "68c87f6aff1cbcd00f0343d7"
+  ],
+  "idList": "5f73f7c1b4c1280a7068df61",
+  "idMemberCreator": "5c48831d226ccb5009c3b830",
+  "idMembers": [],
+  "idMembersVoted": [],
+  "idOrganization": "6137a564cb8f6432c89f8977",
+  "idShort": 600,
+  "idAttachmentCover": null,
+  "labels": [
+    {
+      "id": "5f73f7c1b4c1280a7068dfeb",
+      "idBoard": "5f73f7c1b4c1280a7068df5f",
+      "idOrganization": "6137a564cb8f6432c89f8977",
+      "name": "Title Update",
+      "nodeId": "ari:cloud:trello::label/workspace/6137a564cb8f6432c89f8977/5f73f7c1b4c1280a7068dfeb",
+      "color": "green",
+      "uses": 193
+    },
+    {
+      "id": "68c87f6aff1cbcd00f0343d7",
+      "idBoard": "5f73f7c1b4c1280a7068df5f",
+      "idOrganization": "6137a564cb8f6432c89f8977",
+      "name": "EA SPORTS FC 26",
+      "nodeId": "ari:cloud:trello::label/workspace/6137a564cb8f6432c89f8977/68c87f6aff1cbcd00f0343d7",
+      "color": "lime",
+      "uses": 52
+    }
+  ],
+  "limits": {
+    "attachments": {
+      "perCard": {
+        "status": "ok",
+        "disableAt": 1000,
+        "warnAt": 800
+      }
+    },
+    "checklists": {
+      "perCard": {
+        "status": "ok",
+        "disableAt": 500,
+        "warnAt": 400
+      }
+    },
+    "stickers": {
+      "perCard": {
+        "status": "ok",
+        "disableAt": 70,
+        "warnAt": 56
+      }
+    }
+  },
+  "locationName": null,
+  "manualCoverAttachment": false,
+  "name": "EA SPORTS FC 26 Version 1.2.0",
+  "nodeId": "ari:cloud:trello::card/workspace/6137a564cb8f6432c89f8977/6912207026eb9e61f04e57e5",
+  "originalDesc": "",
+  "originalName": "",
+  "pinned": false,
+  "pos": 5119.984375,
+  "recurrenceRule": null,
+  "shortLink": "R2QglAf7",
+  "shortUrl": "https://trello.com/c/R2QglAf7",
+  "singleInstrumentationId": null,
+  "sourceEmail": null,
+  "staticMapUrl": null,
+  "start": null,
+  "subscribed": null,
+  "url": "https://trello.com/c/R2QglAf7/600-ea-sports-fc-26-version-120",
+  "urlSource": null,
+  "urlSourceText": null,
+  "cover": {
+    "idAttachment": null,
+    "color": null,
+    "idUploadedBackground": null,
+    "size": "normal",
+    "brightness": "dark",
+    "yPosition": 0.5,
+    "idPlugin": null
+  },
+  "isTemplate": false,
+  "cardRole": null,
+  "mirrorSourceId": null,
+  "mirrorSourceNodeId": null,
+  "checklists": [],
+  "customFieldItems": [],
+  "members": [],
+  "pluginData": [],
+  "actions": [
+    {
+      "id": "691220d1d3929337c1bbccf2",
+      "idMemberCreator": "5c48831d226ccb5009c3b830",
+      "data": {
+        "old": {
+          "pos": 132095.984375
+        },
+        "card": {
+          "pos": 5119.984375,
+          "id": "6912207026eb9e61f04e57e5",
+          "name": "EA SPORTS FC 26 Version 1.2.0",
+          "idShort": 600,
+          "shortLink": "R2QglAf7"
+        },
+        "board": {
+          "id": "5f73f7c1b4c1280a7068df5f",
+          "name": "EA SPORTS FC Tracker",
+          "shortLink": "keigLn6R"
+        },
+        "list": {
+          "id": "5f73f7c1b4c1280a7068df61",
+          "name": "Latest News"
+        }
+      },
+      "appCreator": null,
+      "type": "updateCard",
+      "date": "2025-11-10T17:28:49.094Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5c48831d226ccb5009c3b830",
+        "activityBlocked": false,
+        "avatarHash": "1d330fc1a1cd9941f02d74f55ba90a61",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5c48831d226ccb5009c3b830/1d330fc1a1cd9941f02d74f55ba90a61",
+        "fullName": "Paul Murphy",
+        "idMemberReferrer": null,
+        "initials": "PM",
+        "nonPublic": {},
+        "nonPublicAvailable": true,
+        "username": "pmurphy_liveops"
+      }
+    },
+    {
+      "id": "691220c5421f1ea3c1ab086c",
+      "idMemberCreator": "5c48831d226ccb5009c3b830",
+      "data": {
+        "card": {
+          "idLabels": [
+            "5f73f7c1b4c1280a7068dfeb",
+            "68c87f6aff1cbcd00f0343d7"
+          ],
+          "id": "6912207026eb9e61f04e57e5",
+          "name": "EA SPORTS FC 26 Version 1.2.0",
+          "idShort": 600,
+          "shortLink": "R2QglAf7"
+        },
+        "old": {
+          "idLabels": [
+            "5f73f7c1b4c1280a7068dfeb",
+            "68c87f6aff1cbcd00f0343d7"
+          ]
+        },
+        "board": {
+          "id": "5f73f7c1b4c1280a7068df5f",
+          "name": "EA SPORTS FC Tracker",
+          "shortLink": "keigLn6R"
+        },
+        "list": {
+          "id": "5f73f7c1b4c1280a7068df61",
+          "name": "Latest News"
+        }
+      },
+      "appCreator": null,
+      "type": "updateCard",
+      "date": "2025-11-10T17:28:37.867Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5c48831d226ccb5009c3b830",
+        "activityBlocked": false,
+        "avatarHash": "1d330fc1a1cd9941f02d74f55ba90a61",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5c48831d226ccb5009c3b830/1d330fc1a1cd9941f02d74f55ba90a61",
+        "fullName": "Paul Murphy",
+        "idMemberReferrer": null,
+        "initials": "PM",
+        "nonPublic": {},
+        "nonPublicAvailable": true,
+        "username": "pmurphy_liveops"
+      }
+    },
+    {
+      "id": "691220baae1249f454047c0e",
+      "idMemberCreator": "5c48831d226ccb5009c3b830",
+      "data": {
+        "card": {
+          "idLabels": [
+            "5f73f7c1b4c1280a7068dfeb"
+          ],
+          "id": "6912207026eb9e61f04e57e5",
+          "name": "EA SPORTS FC 26 Version 1.2.0",
+          "idShort": 600,
+          "shortLink": "R2QglAf7"
+        },
+        "old": {
+          "idLabels": [
+            "5f73f7c1b4c1280a7068dfeb"
+          ]
+        },
+        "board": {
+          "id": "5f73f7c1b4c1280a7068df5f",
+          "name": "EA SPORTS FC Tracker",
+          "shortLink": "keigLn6R"
+        },
+        "list": {
+          "id": "5f73f7c1b4c1280a7068df61",
+          "name": "Latest News"
+        }
+      },
+      "appCreator": null,
+      "type": "updateCard",
+      "date": "2025-11-10T17:28:26.686Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5c48831d226ccb5009c3b830",
+        "activityBlocked": false,
+        "avatarHash": "1d330fc1a1cd9941f02d74f55ba90a61",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5c48831d226ccb5009c3b830/1d330fc1a1cd9941f02d74f55ba90a61",
+        "fullName": "Paul Murphy",
+        "idMemberReferrer": null,
+        "initials": "PM",
+        "nonPublic": {},
+        "nonPublicAvailable": true,
+        "username": "pmurphy_liveops"
+      }
+    },
+    {
+      "id": "691220b5e32ed149aed2b9f6",
+      "idMemberCreator": "5c48831d226ccb5009c3b830",
+      "data": {
+        "old": {
+          "desc": ""
+        },
+        "card": {
+          "desc": "EA SPORTS FC 26 version 1.2.0 will soon be available and includes the updates below.\n\n‌\n\n### **Gameplay**\n\n‌\n\nAttacking\n\n‌\n\n- Further reduced the accuracy of Acrobatic shots taken right after a flick.\n\n- Slightly increased frequency of AI teammate attacking runs into the box.\n\n- Strikers were sometimes not supporting counter attacks after making a pass.\n\n- Wingers could have sometimes dropped back during attacks instead of running into open space.\n\n‌\n\nDefending\n\n‌\n\n- Slightly reduced how tightly AI defenders will mark pass receivers on the edge of their box.\n\n- Improved defensive man marking during short corners.\n\n- Improved through passing and crossing to better respect your aim input.\n\n‌\n\nGoalkeeping\n\n‌\n\n- Goalkeepers were sometimes punching on crosses when it would’ve been more beneficial to catch the ball.\n\n- Improved goalkeeper logic when determining if they should dive at the ball when a dribbler is nearby.\n\n- Improved instances of the goalkeeper overcommitting to one side when attempting to save a first time far post shot.\n\n- Remapping controls will no longer affect Be A Goalkeeper default inputs.\n\n- Known Issue: remapped controls may incorrectly display on the Be A Goalkeeper UI, this is a visual issue only.\n\n- CPU AI goalkeepers could’ve sometimes taken unnecessary touches instead of passing the ball.\n\n‌\n\nOther\n\n‌\n\n- Addressed cases of the Player Indicator not displaying correctly.\n\n- Improved Player Switching input accuracy in some cases.\n\n- Addressed instances of the ball incorrectly bouncing off the player’s leg when requesting a shot.\n\n- Sometimes a requested shot could’ve resulted in the player performing a sliding shot when it wasn’t necessary.\n\n- When calling a teammate short, the called player could’ve become unresponsive during set pieces.\n\n- Improved referee logic when calling fouls for physical contact from behind.\n\n- Addressed instances of Directed Runs not following the requested input correctly.\n\n- In some cases, a requested pass to the keeper could’ve resulted in an unintended header if the ball was slightly in the air.\n\n- [Competitive Gameplay Only] Removed cases of a player becoming unresponsive during an animation where they looked like they were out of breath.\n\n- In rare cases, a deflected ball could have passed through the goalkeeper’s chest.\n\n- The Teammate Contain Indicator could’ve incorrectly displayed on user-controlled players in Clubs matches. This was a visual issue only.\n\n- Addressed cases of Player Switching not working as intended during airball situations.\n\n- Addressed instances of user-controlled players not moving towards the ball following a deflection.\n\n- In rare situations the ball carrier would not perform a requested shot.\n\n- Addressed rare cases of pass receivers moving in an unintended direction before the pass is made.\n\n- Shield requests could have sometimes resulted in shielding taking place too far from the opponent.\n\n- Addressed instances of animations playing out incorrectly.\n\n### **Ultimate Team** \n\n‌\n\nMade the following updates:\n\n‌\n\n- Added ability to View Available Evolutions for a selected Player Item. \n\n- After selecting the Actions menu on a Player Item you're interested in upgrading, you can view a filtered Evolution menu showing the specific Evolutions your Player Item is eligible for.\n\n- This change will be activated through a Server Release shortly after the Title Update. \n\n‌\n\nAddressed the following issues: \n\n‌\n\n- Using Claim All on a favourited Objective Group could have caused the group to be removed from favourites.\n\n- Updated pack opening walkout logic to reduce instances of lower rated Player Items walking out when higher rated ones were available.\n\n- A visual issue could have occurred when entering Rivals, showing rewards for a previously earned bounty.\n\n- Addressed instances of overlapping text and UI elements in Evolutions and Objectives menus.\n\n- The Squad Battles leaderboard incorrectly displayed the top 200 UI indicator for all ranks.\n\n- In Rush matches, the Connection Monitoring Ping UI indicator could have incorrectly shown 0ms.\n\n- In certain situations, the FC Hub could have overlapped with the UT menus.\n\n- In offline Ultimate Draft, the home kit for CPU teams were using placeholder kits.\n\n- After a Moment had been completed, button callouts could have become unresponsive until the Advance option appeared.\n\n- It was not possible to see what was being highlighted when trying to sort in the Player Performance post-match screen.\n\n- On some occasions, trophies could have appeared on the corner flag in Gauntlet matches.\n\n- Added time was not always showing on the scoreboard in Ultimate Draft matches.\n\n- Transfer Market search filters displayed as text only instead of including the corresponding UI indicator.\n\n- In Squad Battles, unplayed matches displayed -1 score when selecting a team to play against.\n\n- Evolution progress UI indicators did not always display correctly in Rush lobbies, this was a visual issue only.\n\n- The SP UI indicator did not always show the correct number, this was a visual issue only.\n\n- In some specific cases, Attribute increases in Evolution Previews were not highlighted by the UI.\n\n- The Objectives menu tile did not always display the button callout for toggling between tiles.\n\n- The PlayStyle+ Player Item UI indicator could have been cut off on the first Transfer Market Search Result.\n\n- Addressed cases of the UI not displaying correctly when browsing through Evolution Objectives.\n\n### **Clubs**\n\n‌\n\nMade the following updates:\n\n‌\n\n- Revised the Rush introduction to show the Goalkeeper Archetype when controlled by a player.\n\n- Added an option in the Visual Settings Menu to reduce the number of player indicators displayed in Clubs to Local Player & Teammates Only, or to Local Player Only.\n\n‌\n\nAddressed the following issues: \n\n‌\n\n- Sometimes, AI goalkeepers would not attempt to dive on penalty shots in Clubs matches.\n\n- When entering a drop in match, the position assigned did not always suit the Archetype of your Pro.\n\n- In certain situations an error could have occurred when attempting to join the lobby for a League Match.\n\n- Addressed a visual only issue where incorrect Attribute increases could have appeared on the Pro when entering the Clubs store.\n\n- Matchmaking options were not showing when in Club Settings. \n\n- In certain situations a Rush match did not start after the match found message appeared. \n\n- Addressed instances of the Clubs Coin UI displaying incorrect numbers following a specific flow, this was a visual issue only.\n\n- The Player Debut scoreboard element could have incorrectly displayed when a player wasn’t debuting.\n\n- The scroll bar on the Objectives screen did not always display as intended. \n\n- Addressed instances of Pro customization not saving in certain scenarios.\n\n- When unlocking an Archetype, the Pro could have been shown with an incorrect kit.\n\n- Addressed an issue that could have allowed Clubs matches to be started with all Facilities enabled.\n\n### **Career Mode**\n\n‌\n\nMade the following updates:\n\n‌\n\n- When viewing Injuries in Team Management, you can now see a banner appearing on the right, showing the duration, reason and  also severity of the injury.\n\n- Added ability to save default kit during match day kit selection.\n\n- When Deeper Simulation is on during the creation of a new save but no leagues are selected, the corresponding pop up will provide the option to start without Deep Sim.\n\n‌\n\nAddressed the following issues: \n\n‌\n\n- Contract requests for players on a one year contract could have triggered earlier than intended.\n\n- If a Manager ignored a player’s request for a contract renewal, the player could have instantly requested a transfer.\n\n- In some cases, a youth player could not be signed if the budget was initially emptied and then grown once more.\n\n- Board expectations could have displayed for multiple competitions despite the club only being able to compete in one of them at a time.\n\n- Clean sheet stats would incorrectly show for outfield players when viewing Player Stats.\n\n- An incorrect error message could have appeared when loading a Career Mode save file.\n\n- If searching for a player from another team, an incorrect club could have been listed on the search results\n\n- Created player facial features could have been unintentionally exaggerated.\n\n- Some button callouts were not easily visible when HDR was on.\n\n- Players with low appearance counts could have appeared in top average rating lists.\n\n- Points Deductions in Live Start Points could have incorrectly doubled.\n\n- The Player widget could have sometimes disappeared in Player Career.\n\n- The number of players on international duty did not always display correctly.\n\n- Addressed a case of a specific flow resulting in the transactions screen becoming non functional.\n\n- Addressed instances of social media stories showing incorrect information.\n\n### **General, Audio, and Visual**\n\n‌\n\nMade the following updates:\n\n‌\n\n- Updated the Season Pass Bundle and Multi Reward UI:\n\n- Bundle reward previews now display all included items as small images on the right side when hovered over.\n\n- Multi reward previews now show a list of small item images on the right side when hovered over.\n\n- [PC Only] Updated the Render Scale setting to display the Resolution in Width x Height format.\n\n- Added SP requirement UI indicator on Season Pass reward previews.\n\n- Updated some text, star heads, hair, 2D Portraits, tattoos, kits, crests, stadiums, tifos, banners, flags, scarves, props, trophies, ad boards, overlays, skill games, cinematics, cameras, commentary, audio, credits, and placeholder images. \n\n‌\n\nAddressed the following issues: \n\n‌\n\n- [PC Only] Addressed a pair of PC specific stability issues that could have occurred.\n\n- Addressed instances of incorrect/placeholder text, button callouts, and incorrect UI elements.\n\n- When entering the FC Hub, the Season Track was showing the first level by default instead of displaying the last earned level.\n\n- After editing a national team’s roster it was not possible to change players for the edited team.\n\n- Addressed instances of incorrect gameplay and cinematic camera angles and animations.\n\n- End of match player ratings did not always display correctly. \n\n- A Playtime message could have incorrectly displayed when entering crossplay settings.\n\n- [Switch 2 Only] In certain situations, a Joy-Con tutorial could remain on screen.\n\n- The EA connect menu could have unintentionally restricted Team Management access in Online Friendlies.\n\n- Addressed various stability issues that could have occurred.\n\n- The mid-match Visual settings screen did not always provide all available options.\n\n‌\n\nWant to provide us direct feedback about EA SPORTS FC 26? [https://go.ea.com/fc26pfp](https://go.ea.com/fc26pfp \"‌\") and let us know what you think, it only takes a few minutes.\n\n‌\n\nThank you for your continued feedback. Throughout the course of the EA SPORTS FC 26 season, we'll provide you with more information and updates if and when they become available. Be sure to follow \\@‌EASFCDIRECT on X as well as WhatsApp, and check out the EA SPORTS FC Tracker for the latest news and updates.\n\n‌\n\n- The EA SPORTS FC Team",
+          "id": "6912207026eb9e61f04e57e5",
+          "name": "EA SPORTS FC 26 Version 1.2.0",
+          "idShort": 600,
+          "shortLink": "R2QglAf7"
+        },
+        "board": {
+          "id": "5f73f7c1b4c1280a7068df5f",
+          "name": "EA SPORTS FC Tracker",
+          "shortLink": "keigLn6R"
+        },
+        "list": {
+          "id": "5f73f7c1b4c1280a7068df61",
+          "name": "Latest News"
+        }
+      },
+      "appCreator": null,
+      "type": "updateCard",
+      "date": "2025-11-10T17:28:21.366Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5c48831d226ccb5009c3b830",
+        "activityBlocked": false,
+        "avatarHash": "1d330fc1a1cd9941f02d74f55ba90a61",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5c48831d226ccb5009c3b830/1d330fc1a1cd9941f02d74f55ba90a61",
+        "fullName": "Paul Murphy",
+        "idMemberReferrer": null,
+        "initials": "PM",
+        "nonPublic": {},
+        "nonPublicAvailable": true,
+        "username": "pmurphy_liveops"
+      }
+    },
+    {
+      "id": "6912207126eb9e61f04e581d",
+      "idMemberCreator": "5c48831d226ccb5009c3b830",
+      "data": {
+        "card": {
+          "id": "6912207026eb9e61f04e57e5",
+          "name": "EA SPORTS FC 26 Version 1.2.0",
+          "idShort": 600,
+          "shortLink": "R2QglAf7"
+        },
+        "list": {
+          "id": "5f73f7c1b4c1280a7068df61",
+          "name": "Latest News"
+        },
+        "board": {
+          "id": "5f73f7c1b4c1280a7068df5f",
+          "name": "EA SPORTS FC Tracker",
+          "shortLink": "keigLn6R"
+        }
+      },
+      "appCreator": null,
+      "type": "createCard",
+      "date": "2025-11-10T17:27:13.008Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5c48831d226ccb5009c3b830",
+        "activityBlocked": false,
+        "avatarHash": "1d330fc1a1cd9941f02d74f55ba90a61",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5c48831d226ccb5009c3b830/1d330fc1a1cd9941f02d74f55ba90a61",
+        "fullName": "Paul Murphy",
+        "idMemberReferrer": null,
+        "initials": "PM",
+        "nonPublic": {},
+        "nonPublicAvailable": true,
+        "username": "pmurphy_liveops"
+      }
+    }
+  ]
+}
