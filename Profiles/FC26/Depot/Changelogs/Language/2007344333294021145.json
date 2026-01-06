@@ -1,0 +1,103 @@
+{
+    "depot_id": "3405692",
+    "header_changes": {
+        "manifest_id": {
+            "old": "9115420280275819816",
+            "new": "2007344333294021145"
+        },
+        "creation_date": {
+            "old": "11/18/2025 17:26:58",
+            "new": "12/17/2025 16:46:23"
+        },
+        "total_files": {
+            "old": 30,
+            "new": 30
+        },
+        "total_chunks": {
+            "old": 3779,
+            "new": 3781
+        },
+        "total_bytes": {
+            "old": 4014411805,
+            "new": 4015505513
+        },
+        "total_compressed_bytes": {
+            "old": 3588203136,
+            "new": 3588790256
+        }
+    },
+    "added": [],
+    "modified": [
+        {
+            "name": "__Installer/LOC/Origin.OFR.50.0005763.dat",
+            "changes": {
+                "sha": {
+                    "old": "dc5f3ed56265800e1499dc7be060a908f4c87faa",
+                    "new": "9f306e333498b5a967ee1dc5acec2753c481ca4a"
+                }
+            }
+        },
+        {
+            "name": "Patch/Win32/commentarylaunch_eng_us.toc",
+            "changes": {
+                "size": {
+                    "old": 27616,
+                    "new": 80860
+                },
+                "sha": {
+                    "old": "6190f3f8941923da9e588cf2bd0c608f6ad450c0",
+                    "new": "34382e997fbf917e9a4d7979c81c497581c5e7f0"
+                }
+            }
+        },
+        {
+            "name": "Patch/Win32/superbundlelayout/commentaryfull_eng_us/cas_01.cas",
+            "changes": {
+                "size": {
+                    "old": 71495680,
+                    "new": 71774208
+                },
+                "sha": {
+                    "old": "bd5f977eb5dd31f6941e63420f3508c758af1f35",
+                    "new": "73c916129d825a157b924cf615c472ac0ddf6501"
+                }
+            }
+        },
+        {
+            "name": "Patch/Win32/superbundlelayout/commentarylaunch_eng_us/cas_01.cas",
+            "changes": {
+                "size": {
+                    "old": 2650112,
+                    "new": 3411968
+                },
+                "sha": {
+                    "old": "24ba04a611e1af9e6d043c173a87302afb469442",
+                    "new": "157357b08902c79cadca0054fe76c111037ef8ae"
+                }
+            }
+        },
+        {
+            "name": "Support/User Agreement/en_US.html",
+            "changes": {
+                "size": {
+                    "old": 55341,
+                    "new": 55421
+                },
+                "sha": {
+                    "old": "d097e562fa3777c8166eae806383470a8ed56a7a",
+                    "new": "4338b3d885d219186b3707855f47c9436c30048a"
+                }
+            }
+        },
+        {
+            "name": "Patch/Win32/commentaryfull_eng_us.toc",
+            "changes": {
+                "sha": {
+                    "old": "333dd277e3849c76055a8000a6286490821671e8",
+                    "new": "0980214fb540b55f09b2d4fadeb9777b70062d02"
+                }
+            }
+        }
+    ],
+    "deleted": []
+}
