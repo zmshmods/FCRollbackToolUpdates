@@ -1,0 +1,358 @@
+{
+  "id": "69a86797cbf7151fa46b6cf3",
+  "address": null,
+  "agent": {
+    "name": null,
+    "conversationId": null
+  },
+  "badges": {
+    "attachments": 0,
+    "fogbugz": "",
+    "checkItems": 0,
+    "checkItemsChecked": 0,
+    "checkItemsEarliestDue": null,
+    "comments": 0,
+    "description": true,
+    "due": null,
+    "dueComplete": false,
+    "lastUpdatedByAi": false,
+    "start": null,
+    "externalSource": null,
+    "attachmentsByType": {
+      "trello": {
+        "board": 0,
+        "card": 0
+      }
+    },
+    "location": false,
+    "votes": 0,
+    "maliciousAttachments": 0,
+    "viewingMemberVoted": false,
+    "subscribed": false
+  },
+  "checkItemStates": [],
+  "closed": false,
+  "coordinates": null,
+  "creationMethod": null,
+  "creationMethodError": null,
+  "creationMethodLoadingStartedAt": null,
+  "dueComplete": false,
+  "dateClosed": null,
+  "dateLastActivity": "2026-03-04T17:39:28.967Z",
+  "dateCompleted": null,
+  "dateViewedByCreator": null,
+  "desc": "EA SPORTS FC 26 version 1.5.0 is dropping soon and includes the updates below.\n\n### **Gameplay**\n\nMade the following updates:\n\nPassing\n\n- Improved accuracy and speed of ground passing, with impact being most noticeable on players with higher passing attributes.\n- Added the ability for players without the Incisive Pass PlayStyle but with high attributes in Short Pass, Long Pass, and Curve to contextually curve through balls.\n- Reduced the accuracy of lofted passes.\n\nPower Shot\n\n- Improved the trajectory of Power Shots to increase the potential of scoring from longer ranges.\n- Increased Power Shot accuracy when taken with the Power Shot PlayStyle and PlayStyle+\n\nChip Shot\n\n- Tuned Chip Shots to be less likely to go wide.\n- Increased accuracy of Chip Shots.\n  \\- Players with the Chip Shot PlayStyle perform Chip Shots with additional accuracy. \n\nTiki Taka PlayStyle\n\n- To avoid overly accurate passing and decrease some of the gap between passing with and without PlayStyles, the accuracy of ground and first-time passes with the Tiki Taka PlayStyle has been reduced.\n- Ground passes performed with Tiki Taka PlayStyle still benefit from the overall improvements in accuracy and speed listed above, ensuring the PlayStyle remains a useful attacking option.\n\nInventive PlayStyle\n\n- The accuracy of lofted ground and through passes using the Inventive PlayStyle and Inventive PlayStyle+ has been slightly increased.\n\nSkill Moves\n\n- The animation speed for Feint and Exit, Heel Chop, and Fake Shot Skill Moves has been increased by 5%.\n\nAttacking\n\n- Addressed instances where an attacking player could remain stationary for a short period.\n\n### **Ultimate Team** \n\nMade the following changes:\n\n- Added functionality to ensure Special Rarity Player Items appear during pack opening ahead of Gold Rarity Player Items.\n\nAddressed the following issues:\n\n- Addressed an issue where searching by ++ role proficiency in SBC storage would not return any results.\n- In some instances, EA Music would open when restarting a Moments Challenge.\n\n- (PC) In some instances, EA Music could’ve opened while searching on the Transfer Market.\n- In some instances, invites sent through EA Connect to Play with a Friend on Ultimate Team would not function.\n\n### **Clubs**\n\nMade the following changes:\n\n- Consumable Level Cap\n\n- Increased the cap from 50 to 60\n\n### **Career Mode**\n\nMade the following changes:\n\n- New Career content will be released over the next few weeks, including new Live Starting Points and ICONs in Player Career. Season 6 kicks off with adding Ronaldinho, Gareth Bale, Fernando Torres, and Aya Miyama to the rotation, with more ICONs to come in future weeks.\n- Introduced Dynamic Development Plans to Career to more closely reflect a player’s role.\n\n- When starting a new save, Training Plans will be automatically pre-selected based on the player’s closest available role.\n\n- To learn more about this change, check out our Pitch Notes by scanning the QR code on the right.\n\n- Added a new visual Pitch Wear setting when starting a new save, and it is off by default.\n\n- Improved player contract extension behaviour when using the Normal setting.\n\n- Players with less than a year on their contract will already be open to negotiation when you join a new club.\n\n- At the start of a new season, around 50% of players with expiring contracts will be open to negotiation.\n\n- If you start a Live Starting Point or switch to a new job mid-season, more players will be open to negotiation as you get closer to the end of the season.\n\nAddressed the following issues:\n\nAfter completing the International Men’s Cup, objective progress was not updating as intended.\n\n### **General, Audio, and Visual**\n\nMade the following changes:\n\n- Updated some text, star heads, hair, 2D Portraits, crests, kits, boots, balls, badges, banners, flags, scarves, sleeves, ad boards, mascots, TIFOs, face accessories, trophies, text, anthems, lighting, overlays, crowds, camera angles and cinematics.    \n\nAddressed the following issues:\n\n- Addressed various stability and EA Music/EA Connect issues that could have occurred.\n\nWant to provide us direct feedback about EA SPORTS FC 26? [https://go.ea.com/fc26pfp](https://go.ea.com/fc26pfp \"‌\") and let us know what you think, it only takes a few minutes.\n\n‌\n\nThanks to those who’ve provided and continue to provide feedback. Throughout the course of the EA SPORTS FC 26 season, we'll provide you with more information and updates if and when they become available. Be sure to follow \\@‌EASFCDIRECT on X as well as WhatsApp, and check out the EA SPORTS FC Tracker for the latest news and updates.\n\n‌\n\n- The EA SPORTS FC Team",
+  "descData": {
+    "emoji": {}
+  },
+  "due": null,
+  "dueReminder": null,
+  "email": null,
+  "externalSource": null,
+  "faviconUrl": null,
+  "idBoard": "5f73f7c1b4c1280a7068df5f",
+  "idChecklists": [],
+  "idLabels": [
+    "5f73f7c1b4c1280a7068dfeb",
+    "68c87f6aff1cbcd00f0343d7"
+  ],
+  "idList": "5f73f7c1b4c1280a7068df61",
+  "idMemberCreator": "5c48831d226ccb5009c3b830",
+  "idMembers": [],
+  "idMembersVoted": [],
+  "idOrganization": "6137a564cb8f6432c89f8977",
+  "idShort": 609,
+  "idAttachmentCover": null,
+  "labels": [
+    {
+      "id": "5f73f7c1b4c1280a7068dfeb",
+      "idBoard": "5f73f7c1b4c1280a7068df5f",
+      "idOrganization": "6137a564cb8f6432c89f8977",
+      "name": "Title Update",
+      "nodeId": "ari:cloud:trello::label/workspace/6137a564cb8f6432c89f8977/5f73f7c1b4c1280a7068dfeb",
+      "color": "green",
+      "uses": 200
+    },
+    {
+      "id": "68c87f6aff1cbcd00f0343d7",
+      "idBoard": "5f73f7c1b4c1280a7068df5f",
+      "idOrganization": "6137a564cb8f6432c89f8977",
+      "name": "EA SPORTS FC 26",
+      "nodeId": "ari:cloud:trello::label/workspace/6137a564cb8f6432c89f8977/68c87f6aff1cbcd00f0343d7",
+      "color": "lime",
+      "uses": 61
+    }
+  ],
+  "limits": {
+    "attachments": {
+      "perCard": {
+        "status": "ok",
+        "disableAt": 1000,
+        "warnAt": 800
+      }
+    },
+    "checklists": {
+      "perCard": {
+        "status": "ok",
+        "disableAt": 500,
+        "warnAt": 400
+      }
+    },
+    "stickers": {
+      "perCard": {
+        "status": "ok",
+        "disableAt": 70,
+        "warnAt": 56
+      }
+    }
+  },
+  "locationName": null,
+  "manualCoverAttachment": false,
+  "name": "EA SPORTS FC 26 version 1.5.0",
+  "nodeId": "ari:cloud:trello::card/workspace/6137a564cb8f6432c89f8977/69a86797cbf7151fa46b6cf3",
+  "originalDesc": "",
+  "originalName": "",
+  "pinned": false,
+  "pos": 256.99607849121094,
+  "recurrenceRule": null,
+  "shortLink": "5QqL30Ea",
+  "shortUrl": "https://trello.com/c/5QqL30Ea",
+  "singleInstrumentationId": null,
+  "sourceEmail": null,
+  "staticMapUrl": null,
+  "start": null,
+  "subscribed": null,
+  "url": "https://trello.com/c/5QqL30Ea/609-ea-sports-fc-26-version-150",
+  "urlSource": null,
+  "urlSourceText": null,
+  "cover": {
+    "idAttachment": null,
+    "color": null,
+    "idUploadedBackground": null,
+    "size": "normal",
+    "brightness": "dark",
+    "yPosition": 0.5,
+    "idPlugin": null
+  },
+  "isTemplate": false,
+  "cardRole": null,
+  "mirrorSourceId": null,
+  "mirrorSourceNodeId": null,
+  "actions": [
+    {
+      "id": "69a86e50ae600c9d98ca267a",
+      "idMemberCreator": "5c48831d226ccb5009c3b830",
+      "data": {
+        "old": {
+          "pos": 16643.996032714844
+        },
+        "card": {
+          "pos": 256.99607849121094,
+          "id": "69a86797cbf7151fa46b6cf3",
+          "name": "EA SPORTS FC 26 version 1.5.0",
+          "idShort": 609,
+          "shortLink": "5QqL30Ea"
+        },
+        "board": {
+          "id": "5f73f7c1b4c1280a7068df5f",
+          "name": "EA SPORTS FC Tracker",
+          "shortLink": "keigLn6R"
+        },
+        "list": {
+          "id": "5f73f7c1b4c1280a7068df61",
+          "name": "Latest News"
+        }
+      },
+      "appCreator": null,
+      "type": "updateCard",
+      "date": "2026-03-04T17:39:28.984Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5c48831d226ccb5009c3b830",
+        "activityBlocked": false,
+        "avatarHash": "1a8784d914737f4cc6ffb9536bd9e224",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5c48831d226ccb5009c3b830/1a8784d914737f4cc6ffb9536bd9e224",
+        "fullName": "Paul Murphy",
+        "idMemberReferrer": null,
+        "initials": "PM",
+        "nonPublic": {},
+        "nonPublicAvailable": true,
+        "username": "pmurphy_liveops"
+      }
+    },
+    {
+      "id": "69a8690a06b88e5adf7b2ea7",
+      "idMemberCreator": "5c48831d226ccb5009c3b830",
+      "data": {
+        "old": {
+          "desc": ""
+        },
+        "card": {
+          "desc": "EA SPORTS FC 26 version 1.5.0 is dropping soon and includes the updates below.\n\n### **Gameplay**\n\nMade the following updates:\n\nPassing\n\n- Improved accuracy and speed of ground passing, with impact being most noticeable on players with higher passing attributes.\n- Added the ability for players without the Incisive Pass PlayStyle but with high attributes in Short Pass, Long Pass, and Curve to contextually curve through balls.\n- Reduced the accuracy of lofted passes.\n\nPower Shot\n\n- Improved the trajectory of Power Shots to increase the potential of scoring from longer ranges.\n- Increased Power Shot accuracy when taken with the Power Shot PlayStyle and PlayStyle+\n\nChip Shot\n\n- Tuned Chip Shots to be less likely to go wide.\n- Increased accuracy of Chip Shots.\n  \\- Players with the Chip Shot PlayStyle perform Chip Shots with additional accuracy. \n\nTiki Taka PlayStyle\n\n- To avoid overly accurate passing and decrease some of the gap between passing with and without PlayStyles, the accuracy of ground and first-time passes with the Tiki Taka PlayStyle has been reduced.\n- Ground passes performed with Tiki Taka PlayStyle still benefit from the overall improvements in accuracy and speed listed above, ensuring the PlayStyle remains a useful attacking option.\n\nInventive PlayStyle\n\n- The accuracy of lofted ground and through passes using the Inventive PlayStyle and Inventive PlayStyle+ has been slightly increased.\n\nSkill Moves\n\n- The animation speed for Feint and Exit, Heel Chop, and Fake Shot Skill Moves has been increased by 5%.\n\nAttacking\n\n- Addressed instances where an attacking player could remain stationary for a short period.\n\n### **Ultimate Team** \n\nMade the following changes:\n\n- Added functionality to ensure Special Rarity Player Items appear during pack opening ahead of Gold Rarity Player Items.\n\nAddressed the following issues:\n\n- Addressed an issue where searching by ++ role proficiency in SBC storage would not return any results.\n- In some instances, EA Music would open when restarting a Moments Challenge.\n\n- (PC) In some instances, EA Music could’ve opened while searching on the Transfer Market.\n- In some instances, invites sent through EA Connect to Play with a Friend on Ultimate Team would not function.\n\n### **Clubs**\n\nMade the following changes:\n\n- Consumable Level Cap\n\n- Increased the cap from 50 to 60\n\n### **Career Mode**\n\nMade the following changes:\n\n- New Career content will be released over the next few weeks, including new Live Starting Points and ICONs in Player Career. Season 6 kicks off with adding Ronaldinho, Gareth Bale, Fernando Torres, and Aya Miyama to the rotation, with more ICONs to come in future weeks.\n- Introduced Dynamic Development Plans to Career to more closely reflect a player’s role.\n\n- When starting a new save, Training Plans will be automatically pre-selected based on the player’s closest available role.\n\n- To learn more about this change, check out our Pitch Notes by scanning the QR code on the right.\n\n- Added a new visual Pitch Wear setting when starting a new save, and it is off by default.\n\n- Improved player contract extension behaviour when using the Normal setting.\n\n- Players with less than a year on their contract will already be open to negotiation when you join a new club.\n\n- At the start of a new season, around 50% of players with expiring contracts will be open to negotiation.\n\n- If you start a Live Starting Point or switch to a new job mid-season, more players will be open to negotiation as you get closer to the end of the season.\n\nAddressed the following issues:\n\nAfter completing the International Men’s Cup, objective progress was not updating as intended.\n\n### **General, Audio, and Visual**\n\nMade the following changes:\n\n- Updated some text, star heads, hair, 2D Portraits, crests, kits, boots, balls, badges, banners, flags, scarves, sleeves, ad boards, mascots, TIFOs, face accessories, trophies, text, anthems, lighting, overlays, crowds, camera angles and cinematics.    \n\nAddressed the following issues:\n\n- Addressed various stability and EA Music/EA Connect issues that could have occurred.\n\nWant to provide us direct feedback about EA SPORTS FC 26? [https://go.ea.com/fc26pfp](https://go.ea.com/fc26pfp \"‌\") and let us know what you think, it only takes a few minutes.\n\n‌\n\nThanks to those who’ve provided and continue to provide feedback. Throughout the course of the EA SPORTS FC 26 season, we'll provide you with more information and updates if and when they become available. Be sure to follow \\@‌EASFCDIRECT on X as well as WhatsApp, and check out the EA SPORTS FC Tracker for the latest news and updates.\n\n‌\n\n- The EA SPORTS FC Team",
+          "id": "69a86797cbf7151fa46b6cf3",
+          "name": "EA SPORTS FC 26 version 1.5.0",
+          "idShort": 609,
+          "shortLink": "5QqL30Ea"
+        },
+        "board": {
+          "id": "5f73f7c1b4c1280a7068df5f",
+          "name": "EA SPORTS FC Tracker",
+          "shortLink": "keigLn6R"
+        },
+        "list": {
+          "id": "5f73f7c1b4c1280a7068df61",
+          "name": "Latest News"
+        }
+      },
+      "appCreator": null,
+      "type": "updateCard",
+      "date": "2026-03-04T17:16:58.602Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5c48831d226ccb5009c3b830",
+        "activityBlocked": false,
+        "avatarHash": "1a8784d914737f4cc6ffb9536bd9e224",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5c48831d226ccb5009c3b830/1a8784d914737f4cc6ffb9536bd9e224",
+        "fullName": "Paul Murphy",
+        "idMemberReferrer": null,
+        "initials": "PM",
+        "nonPublic": {},
+        "nonPublicAvailable": true,
+        "username": "pmurphy_liveops"
+      }
+    },
+    {
+      "id": "69a8690677bb63bcb0ac9e51",
+      "idMemberCreator": "5c48831d226ccb5009c3b830",
+      "data": {
+        "card": {
+          "idLabels": [
+            "5f73f7c1b4c1280a7068dfeb",
+            "68c87f6aff1cbcd00f0343d7"
+          ],
+          "id": "69a86797cbf7151fa46b6cf3",
+          "name": "EA SPORTS FC 26 version 1.5.0",
+          "idShort": 609,
+          "shortLink": "5QqL30Ea"
+        },
+        "old": {
+          "idLabels": [
+            "5f73f7c1b4c1280a7068dfeb",
+            "68c87f6aff1cbcd00f0343d7"
+          ]
+        },
+        "board": {
+          "id": "5f73f7c1b4c1280a7068df5f",
+          "name": "EA SPORTS FC Tracker",
+          "shortLink": "keigLn6R"
+        },
+        "list": {
+          "id": "5f73f7c1b4c1280a7068df61",
+          "name": "Latest News"
+        }
+      },
+      "appCreator": null,
+      "type": "updateCard",
+      "date": "2026-03-04T17:16:54.348Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5c48831d226ccb5009c3b830",
+        "activityBlocked": false,
+        "avatarHash": "1a8784d914737f4cc6ffb9536bd9e224",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5c48831d226ccb5009c3b830/1a8784d914737f4cc6ffb9536bd9e224",
+        "fullName": "Paul Murphy",
+        "idMemberReferrer": null,
+        "initials": "PM",
+        "nonPublic": {},
+        "nonPublicAvailable": true,
+        "username": "pmurphy_liveops"
+      }
+    },
+    {
+      "id": "69a868f854a5eba888d84edf",
+      "idMemberCreator": "5c48831d226ccb5009c3b830",
+      "data": {
+        "card": {
+          "idLabels": [
+            "5f73f7c1b4c1280a7068dfeb"
+          ],
+          "id": "69a86797cbf7151fa46b6cf3",
+          "name": "EA SPORTS FC 26 version 1.5.0",
+          "idShort": 609,
+          "shortLink": "5QqL30Ea"
+        },
+        "old": {
+          "idLabels": [
+            "5f73f7c1b4c1280a7068dfeb"
+          ]
+        },
+        "board": {
+          "id": "5f73f7c1b4c1280a7068df5f",
+          "name": "EA SPORTS FC Tracker",
+          "shortLink": "keigLn6R"
+        },
+        "list": {
+          "id": "5f73f7c1b4c1280a7068df61",
+          "name": "Latest News"
+        }
+      },
+      "appCreator": null,
+      "type": "updateCard",
+      "date": "2026-03-04T17:16:40.336Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5c48831d226ccb5009c3b830",
+        "activityBlocked": false,
+        "avatarHash": "1a8784d914737f4cc6ffb9536bd9e224",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5c48831d226ccb5009c3b830/1a8784d914737f4cc6ffb9536bd9e224",
+        "fullName": "Paul Murphy",
+        "idMemberReferrer": null,
+        "initials": "PM",
+        "nonPublic": {},
+        "nonPublicAvailable": true,
+        "username": "pmurphy_liveops"
+      }
+    },
+    {
+      "id": "69a86797cbf7151fa46b6d2c",
+      "idMemberCreator": "5c48831d226ccb5009c3b830",
+      "data": {
+        "card": {
+          "id": "69a86797cbf7151fa46b6cf3",
+          "name": "EA SPORTS FC 26 version 1.5.0",
+          "idShort": 609,
+          "shortLink": "5QqL30Ea"
+        },
+        "list": {
+          "id": "5f73f7c1b4c1280a7068df61",
+          "name": "Latest News"
+        },
+        "board": {
+          "id": "5f73f7c1b4c1280a7068df5f",
+          "name": "EA SPORTS FC Tracker",
+          "shortLink": "keigLn6R"
+        }
+      },
+      "appCreator": null,
+      "type": "createCard",
+      "date": "2026-03-04T17:10:47.147Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5c48831d226ccb5009c3b830",
+        "activityBlocked": false,
+        "avatarHash": "1a8784d914737f4cc6ffb9536bd9e224",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5c48831d226ccb5009c3b830/1a8784d914737f4cc6ffb9536bd9e224",
+        "fullName": "Paul Murphy",
+        "idMemberReferrer": null,
+        "initials": "PM",
+        "nonPublic": {},
+        "nonPublicAvailable": true,
+        "username": "pmurphy_liveops"
+      }
+    }
+  ],
+  "checklists": [],
+  "customFieldItems": [],
+  "members": [],
+  "pluginData": []
+}
