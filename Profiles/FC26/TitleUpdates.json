@@ -6,6 +6,18 @@
     "eng_usDepotID": "3405692",
     "TitleUpdates": [
         {
+            "Name": "FC26 - version 1.5.1",
+            "SemVer": "",
+            "PatchID": "",
+            "Size": "",
+            "ReleasedDate": "Mar 24, 2026",
+            "DownloadURL": "",
+            "SHA1": "",
+            "PatchNotes": "https://github.com/zmshmods/FCRollbackToolUpdates/raw/main/Profiles/FC26/TitleUpdatesPatchNotes/1.5.1.json",
+            "MainManifestID": "",
+            "eng_usManifestID": ""
+        },
+        {
             "Name": "FC26 - Version 1.5.0",
             "SemVer": "1.0.132.29676",
             "PatchID": "2759647",
