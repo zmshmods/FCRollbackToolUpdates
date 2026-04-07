@@ -1,21 +1,21 @@
 {
-    "ContentVersion": "26.1.5.2",
-    "ContentVersionDate": "Mar 30, 2026",
+    "ContentVersion": "26.1.5.3",
+    "ContentVersionDate": "Apr 7, 2026",
     "AppID": "3405690",
     "MainDepotID": "3405691",
     "eng_usDepotID": "3405692",
     "TitleUpdates": [
         {
             "Name": "FC26 - version 1.5.3",
-            "SemVer": "",
-            "PatchID": "",
-            "Size": "",
+            "SemVer": "1.0.134.1759",
+            "PatchID": "2770288",
+            "Size": "5.95GB",
             "ReleasedDate": "Apr 7, 2026",
-            "DownloadURL": "",
-            "SHA1": "",
+            "DownloadURL": "https://www.mediafire.com/file/2tkithk00zyszdv",
+            "SHA1": "5f40b25d9ec7f42b3adcfb57f258cb73617184cb",
             "PatchNotes": "https://github.com/zmshmods/FCRollbackToolUpdates/raw/main/Profiles/FC26/TitleUpdatesPatchNotes/1.5.3.json",
-            "MainManifestID": "",
-            "eng_usManifestID": ""
+            "MainManifestID": "9002548465423873010",
+            "eng_usManifestID": "2450637668997650124"
         },
         {
             "Name": "FC26 - version 1.5.2",
