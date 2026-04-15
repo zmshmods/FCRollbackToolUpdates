@@ -1,10 +1,46 @@
 {
-    "ContentVersion": "26.1.5.0",
-    "ContentVersionDate": "Mar 5, 2026",
+    "ContentVersion": "26.1.5.3",
+    "ContentVersionDate": "Apr 7, 2026",
     "AppID": "3405690",
     "MainDepotID": "3405691",
     "eng_usDepotID": "3405692",
     "TitleUpdates": [
+        {
+            "Name": "FC26 - version 1.5.3",
+            "SemVer": "1.0.134.1759",
+            "PatchID": "2770288",
+            "Size": "5.95GB",
+            "ReleasedDate": "Apr 7, 2026",
+            "DownloadURL": "https://www.mediafire.com/file/2tkithk00zyszdv",
+            "SHA1": "5f40b25d9ec7f42b3adcfb57f258cb73617184cb",
+            "PatchNotes": "https://github.com/zmshmods/FCRollbackToolUpdates/raw/main/Profiles/FC26/TitleUpdatesPatchNotes/1.5.3.json",
+            "MainManifestID": "9002548465423873010",
+            "eng_usManifestID": "2450637668997650124"
+        },
+        {
+            "Name": "FC26 - version 1.5.2",
+            "SemVer": "1.0.133.58379",
+            "PatchID": "2766048",
+            "Size": "5.80GB",
+            "ReleasedDate": "Mar 30, 2026",
+            "DownloadURL": "https://www.mediafire.com/file/ko0n1c8q6snwfdj",
+            "SHA1": "473073c32dbc94670ef747afe612edcae7436565",
+            "PatchNotes": "https://github.com/zmshmods/FCRollbackToolUpdates/raw/main/Profiles/FC26/TitleUpdatesPatchNotes/1.5.2.json",
+            "MainManifestID": "3950846049273901666",
+            "eng_usManifestID": "8989839715920763746"
+        },
+        {
+            "Name": "FC26 - version 1.5.1",
+            "SemVer": "1.0.133.14157",
+            "PatchID": "2766047",
+            "Size": "5.83GB",
+            "ReleasedDate": "Mar 24, 2026",
+            "DownloadURL": "https://www.mediafire.com/file/ueefr7xg9zhfu1y",
+            "SHA1": "4fa4bc46f634c1dc9982c72cf13cdff7436759c2",
+            "PatchNotes": "https://github.com/zmshmods/FCRollbackToolUpdates/raw/main/Profiles/FC26/TitleUpdatesPatchNotes/1.5.1.json",
+            "MainManifestID": "3747210103993309750",
+            "eng_usManifestID": "8627127793749630982"
+        },
         {
             "Name": "FC26 - Version 1.5.0",
             "SemVer": "1.0.132.29676",
