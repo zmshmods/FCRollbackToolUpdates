@@ -1,0 +1,16 @@
+- Added "Delete from profile" button in all tabs to delete updates from the tool's folder.
+- Added "Auto-Install" option to automatically start the installation after a download finishes (disabled by default).
+- Added administrator privileges.
+- Improved handling of game_id identification errors during installation.
+- Improved handling of encoding issues during the download process.
+- Improved archive extraction speed, replacing UnRAR with 7-Zip (Testing on TU 1.5.3 ~5.85GB reduced time from ~45s to ~10s).
+- Minor UI Update.
+- Updated tool's dependencies.
+- General fixes and improvements.
+
+If you encounter download/speed issues, try:
+- Using Cloudflare WARP 1.1.1.1 or a VPN.
+- If you already use a WRAP/VPN, try turning it off.
+- Changing your DNS settings.
+- Pause and resume the download.
+- Restart your PC.
