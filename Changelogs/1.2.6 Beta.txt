@@ -8,9 +8,4 @@
 - Updated tool's dependencies.
 - General fixes and improvements.
 
-If you encounter download/speed issues, try:
-- Using Cloudflare WARP 1.1.1.1 or a VPN.
-- If you already use a WRAP/VPN, try turning it off.
-- Changing your DNS settings.
-- Pause and resume the download.
-- Restart your PC.
+- *If you encounter download/speed issues, try: Using Cloudflare WARP 1.1.1.1 or a VPN, If you already use a WRAP/VPN, try turning it off, Changing your DNS settings, Pause and resume the download, Restart your PC.
