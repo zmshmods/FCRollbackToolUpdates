@@ -1,0 +1,439 @@
+{
+  "id": "6a1708c42cf4a71a7351dded",
+  "address": null,
+  "agent": {
+    "name": null,
+    "conversationId": null
+  },
+  "badges": {
+    "attachments": 0,
+    "fogbugz": "",
+    "checkItems": 0,
+    "checkItemsChecked": 0,
+    "checkItemsEarliestDue": null,
+    "comments": 0,
+    "description": true,
+    "due": null,
+    "dueComplete": false,
+    "lastUpdatedByAi": false,
+    "start": null,
+    "externalSource": null,
+    "attachmentsByType": {
+      "trello": {
+        "board": 0,
+        "card": 0
+      }
+    },
+    "location": false,
+    "votes": 0,
+    "maliciousAttachments": 0,
+    "viewingMemberVoted": false,
+    "subscribed": false
+  },
+  "checkItemStates": [],
+  "closed": false,
+  "coordinates": null,
+  "creationMethod": null,
+  "creationMethodError": null,
+  "creationMethodLoadingStartedAt": null,
+  "dueComplete": false,
+  "dateClosed": null,
+  "dateLastActivity": "2026-05-27T15:11:06.835Z",
+  "dateCompleted": null,
+  "dateViewedByCreator": null,
+  "desc": "The EA SPORTS FC 26 The World’s Game Update (v1.6.0) is dropping and includes the updates below.\n\nTo see the full The World’s Game notes as well as upcoming in-game events and features, visit[ ](https://x.ea.com/86495 \"‌\")[https://x.ea.com/89262](https://x.ea.com/89262 \"smartCard-inline\").\n\n### **Gameplay**\n\nMade the following changes:\n\nBruiser PlayStyle\n\n- Slightly reduced the boost to shoulder challenges from Bruiser and Bruiser+ PlayStyles.\n\n- Added a slight boost to the receiver of the shoulder challenge if they have Enforcer or Enforcer+.\n\n- The boost matches that of Bruiser or Bruiser+.\n\n- Improved shoulder challenge outcomes so stumble direction and force now better reflect the difference in Strength and PlayStyles between players.\n\n- Note that players with a clear Strength and PlayStyle advantage while defending are able to push the dribbler off the ball like before.\n\n- Players with a clear Strength and PlayStyle advantage while dribbling are now less likely to be pushed off the ball and have a better ability to recover.\n\n- Scaled shoulder challenge outcomes based on the Strength and PlayStyle boost difference between the dribbling player and defending player.\n\n- Improved detection of shoulder challenges from behind, canceling attempts that would hit an opponent in the back.\n\nIntercept PlayStyle\n\n- Added the ability for players without the Intercept PlayStyle but with a 90+ Interceptions attribute rating to have access to the same animations as those with the PlayStyle.\n\nTeam Press\n\n- Reduced pressure on the ball carrier when Team Press is activated in the defensive half.\n- AI defenders will no longer double-team the ball carrier when the user-controlled defender is marking the ball carrier.\n- AI defenders will attempt to contain the ball carrier when the user-controlled defender is further away from the ball defender.\n- Reduced marking tightness of all AI opponents when Team Press is activated in the defensive half.\n- When Team Press is activated in the attacking half, AI defenders will continue to aggressively pressure the ball carrier, including contextually double-teaming when appropriate.\n\n### **Ultimate Team** \n\nThe following updates will be activated in the near future with a server release:\n\n- The ability to remove Evolution Player Item upgrade progress.\n\n- The addition of the Repeatable Evolutions consumable.\n\n- FUT Champions Tokens to be redeemed in the FUT Champions Store.\n\n- Other Tokens which can be earned by participating in future events.\n\n- Festival of Football PlayStyles Lab.\n\n‌\n\nTo learn more about these additions, check out our Pitch Notes by scanning the QR code on the right.\n\n### **Clubs**\n\nThe following updates will be activated in the near future with a server release:\n\n- Increased Archetypes level cap from 90 to 95.\n\n- Increased Archetype PlayStyle slots from 8 to 9, unlocked at level 95.\n\n- Increased Signature PlayStyle slots from 3 to 4.\n\n- Added a Fourth Signature PlayStyle for all Archetypes, upgraded to a PlayStyle+ at level 95.\n\n- Increased the maximum range of various Archetype-specific Attributes.\n\n‌\n\nAddressed the following issues: \n\n- When applying the hairstyle, the skin colour changed to match the hair colour.\n\n### **Career Mode**\n\nThe following updates will be activated in the near future with a server release:\n\n- New End of Season Live Start Points, allowing you to jump into a save just before the International Men’s Tournament begins.\n\n‌\n\nMade the following changes:\n\n- Added Festival of Football themed ICONs and Heroes.\n\n### **Kick Off**\n\nThe following update will be activated in the near future with a server release:\n\n- Added the Penalty Shootouts House Rules event.\n\n###\n**General, Audio, and Visual**\n\nThe following updates will be activated in the near future with a server release:\n\n- Added The World’s Game tournament game mode featuring 41 fully licensed and playable National Teams.\n\n‌\n\nMade the following changes:\n\n- Updated some kits, hair, badges, stadiums, overlays, balls, tattoos, shadows, crests, logos, banners, flags, scarves, crowds and text.  \n\n- Refreshed the main menu to match the spirit of the World’s Game.\n\n- [PC Only] Improved boot time for Steam players.\n\n‌\n\nAddressed the following issues: \n\n- Graphical settings adjustments were made in the Game Settings menu reset to default when entering the Game Settings Menu or switching to a different settings tab.\n\n- In Kick Off, the randomise button now works for Classic XI teams.\n\n\nWant to provide us direct feedback about EA SPORTS FC 26? [https://go.ea.com/fc26pfp](https://go.ea.com/fc26pfp \"‌\") and let us know what you think, it only takes a few minutes.\n\n‌\n\nThanks to those who’ve provided and continue to provide feedback. Throughout the course of the EA SPORTS FC 26 season, we'll provide you with more information and updates if and when they become available. Be sure to follow \\@‌EASFCDIRECT on X as well as WhatsApp, and check out the EA SPORTS FC Tracker for the latest news and updates.\n\n‌\n\n- The EA SPORTS FC Team",
+  "descData": {
+    "emoji": {}
+  },
+  "due": null,
+  "dueReminder": null,
+  "email": null,
+  "externalSource": null,
+  "faviconUrl": null,
+  "idBoard": "5f73f7c1b4c1280a7068df5f",
+  "idChecklists": [],
+  "idLabels": [
+    "5f73f7c1b4c1280a7068dfeb",
+    "68c87f6aff1cbcd00f0343d7"
+  ],
+  "idList": "5f73f7c1b4c1280a7068df61",
+  "idMemberCreator": "5c48831d226ccb5009c3b830",
+  "idMembers": [],
+  "idMembersVoted": [],
+  "idOrganization": "6137a564cb8f6432c89f8977",
+  "idShort": 618,
+  "idAttachmentCover": null,
+  "labels": [
+    {
+      "id": "5f73f7c1b4c1280a7068dfeb",
+      "idBoard": "5f73f7c1b4c1280a7068df5f",
+      "idOrganization": "6137a564cb8f6432c89f8977",
+      "name": "Title Update",
+      "nodeId": "ari:cloud:trello::label/workspace/6137a564cb8f6432c89f8977/5f73f7c1b4c1280a7068dfeb",
+      "color": "green",
+      "uses": 207
+    },
+    {
+      "id": "68c87f6aff1cbcd00f0343d7",
+      "idBoard": "5f73f7c1b4c1280a7068df5f",
+      "idOrganization": "6137a564cb8f6432c89f8977",
+      "name": "EA SPORTS FC 26",
+      "nodeId": "ari:cloud:trello::label/workspace/6137a564cb8f6432c89f8977/68c87f6aff1cbcd00f0343d7",
+      "color": "lime",
+      "uses": 69
+    }
+  ],
+  "limits": {
+    "attachments": {
+      "perCard": {
+        "status": "ok",
+        "disableAt": 1000,
+        "warnAt": 800
+      }
+    },
+    "checklists": {
+      "perCard": {
+        "status": "ok",
+        "disableAt": 500,
+        "warnAt": 400
+      }
+    },
+    "stickers": {
+      "perCard": {
+        "status": "ok",
+        "disableAt": 70,
+        "warnAt": 56
+      }
+    }
+  },
+  "locationName": null,
+  "manifest": null,
+  "manualCoverAttachment": false,
+  "name": "EA SPORTS FC 26 The World’s Game Update (v1.6.0)",
+  "nodeId": "ari:cloud:trello::card/workspace/6137a564cb8f6432c89f8977/6a1708c42cf4a71a7351dded",
+  "originalDesc": "",
+  "originalName": "",
+  "pinned": false,
+  "pos": 1279.99609375,
+  "recurrenceRule": null,
+  "shortLink": "g065NkcA",
+  "shortUrl": "https://trello.com/c/g065NkcA",
+  "singleInstrumentationId": null,
+  "sourceEmail": null,
+  "staticMapUrl": null,
+  "start": null,
+  "subscribed": null,
+  "url": "https://trello.com/c/g065NkcA/618-ea-sports-fc-26-the-worlds-game-update-v160",
+  "urlSource": null,
+  "urlSourceText": null,
+  "cover": {
+    "idAttachment": null,
+    "color": null,
+    "idUploadedBackground": null,
+    "size": "normal",
+    "brightness": "dark",
+    "yPosition": 0.5,
+    "idPlugin": null
+  },
+  "isTemplate": false,
+  "cardRole": null,
+  "mirrorSourceId": null,
+  "mirrorSourceNodeId": null,
+  "actions": [
+    {
+      "id": "6a17098a20b320658f5c0f5f",
+      "idMemberCreator": "5c48831d226ccb5009c3b830",
+      "data": {
+        "old": {
+          "pos": 20735.99609375
+        },
+        "card": {
+          "pos": 1279.99609375,
+          "id": "6a1708c42cf4a71a7351dded",
+          "name": "EA SPORTS FC 26 The World’s Game Update (v1.6.0)",
+          "idShort": 618,
+          "shortLink": "g065NkcA"
+        },
+        "board": {
+          "id": "5f73f7c1b4c1280a7068df5f",
+          "name": "EA SPORTS FC Tracker",
+          "shortLink": "keigLn6R"
+        },
+        "list": {
+          "id": "5f73f7c1b4c1280a7068df61",
+          "name": "Latest News"
+        }
+      },
+      "appCreator": null,
+      "type": "updateCard",
+      "date": "2026-05-27T15:11:06.846Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5c48831d226ccb5009c3b830",
+        "activityBlocked": false,
+        "avatarHash": "35d29435e75db8191e12f41e8cda90c7",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5c48831d226ccb5009c3b830/35d29435e75db8191e12f41e8cda90c7",
+        "fullName": "Paul Murphy",
+        "idMemberReferrer": null,
+        "initials": "PM",
+        "nonPublic": {},
+        "nonPublicAvailable": true,
+        "username": "pmurphy_liveops"
+      }
+    },
+    {
+      "id": "6a17098664181a961bab4728",
+      "idMemberCreator": "5c48831d226ccb5009c3b830",
+      "data": {
+        "old": {
+          "desc": ""
+        },
+        "card": {
+          "desc": "The EA SPORTS FC 26 The World’s Game Update (v1.6.0) is dropping and includes the updates below.\n\nTo see the full The World’s Game notes as well as upcoming in-game events and features, visit[ ](https://x.ea.com/86495 \"‌\")[https://x.ea.com/89262](https://x.ea.com/89262 \"smartCard-inline\").\n\n### **Gameplay**\n\nMade the following changes:\n\nBruiser PlayStyle\n\n- Slightly reduced the boost to shoulder challenges from Bruiser and Bruiser+ PlayStyles.\n\n- Added a slight boost to the receiver of the shoulder challenge if they have Enforcer or Enforcer+.\n\n- The boost matches that of Bruiser or Bruiser+.\n\n- Improved shoulder challenge outcomes so stumble direction and force now better reflect the difference in Strength and PlayStyles between players.\n\n- Note that players with a clear Strength and PlayStyle advantage while defending are able to push the dribbler off the ball like before.\n\n- Players with a clear Strength and PlayStyle advantage while dribbling are now less likely to be pushed off the ball and have a better ability to recover.\n\n- Scaled shoulder challenge outcomes based on the Strength and PlayStyle boost difference between the dribbling player and defending player.\n\n- Improved detection of shoulder challenges from behind, canceling attempts that would hit an opponent in the back.\n\nIntercept PlayStyle\n\n- Added the ability for players without the Intercept PlayStyle but with a 90+ Interceptions attribute rating to have access to the same animations as those with the PlayStyle.\n\nTeam Press\n\n- Reduced pressure on the ball carrier when Team Press is activated in the defensive half.\n- AI defenders will no longer double-team the ball carrier when the user-controlled defender is marking the ball carrier.\n- AI defenders will attempt to contain the ball carrier when the user-controlled defender is further away from the ball defender.\n- Reduced marking tightness of all AI opponents when Team Press is activated in the defensive half.\n- When Team Press is activated in the attacking half, AI defenders will continue to aggressively pressure the ball carrier, including contextually double-teaming when appropriate.\n\n### **Ultimate Team** \n\nThe following updates will be activated in the near future with a server release:\n\n- The ability to remove Evolution Player Item upgrade progress.\n\n- The addition of the Repeatable Evolutions consumable.\n\n- FUT Champions Tokens to be redeemed in the FUT Champions Store.\n\n- Other Tokens which can be earned by participating in future events.\n\n- Festival of Football PlayStyles Lab.\n\n‌\n\nTo learn more about these additions, check out our Pitch Notes by scanning the QR code on the right.\n\n### **Clubs**\n\nThe following updates will be activated in the near future with a server release:\n\n- Increased Archetypes level cap from 90 to 95.\n\n- Increased Archetype PlayStyle slots from 8 to 9, unlocked at level 95.\n\n- Increased Signature PlayStyle slots from 3 to 4.\n\n- Added a Fourth Signature PlayStyle for all Archetypes, upgraded to a PlayStyle+ at level 95.\n\n- Increased the maximum range of various Archetype-specific Attributes.\n\n‌\n\nAddressed the following issues: \n\n- When applying the hairstyle, the skin colour changed to match the hair colour.\n\n### **Career Mode**\n\nThe following updates will be activated in the near future with a server release:\n\n- New End of Season Live Start Points, allowing you to jump into a save just before the International Men’s Tournament begins.\n\n‌\n\nMade the following changes:\n\n- Added Festival of Football themed ICONs and Heroes.\n\n### **Kick Off**\n\nThe following update will be activated in the near future with a server release:\n\n- Added the Penalty Shootouts House Rules event.\n\n###\n**General, Audio, and Visual**\n\nThe following updates will be activated in the near future with a server release:\n\n- Added The World’s Game tournament game mode featuring 41 fully licensed and playable National Teams.\n\n‌\n\nMade the following changes:\n\n- Updated some kits, hair, badges, stadiums, overlays, balls, tattoos, shadows, crests, logos, banners, flags, scarves, crowds and text.  \n\n- Refreshed the main menu to match the spirit of the World’s Game.\n\n- [PC Only] Improved boot time for Steam players.\n\n‌\n\nAddressed the following issues: \n\n- Graphical settings adjustments were made in the Game Settings menu reset to default when entering the Game Settings Menu or switching to a different settings tab.\n\n- In Kick Off, the randomise button now works for Classic XI teams.\n\n\nWant to provide us direct feedback about EA SPORTS FC 26? [https://go.ea.com/fc26pfp](https://go.ea.com/fc26pfp \"‌\") and let us know what you think, it only takes a few minutes.\n\n‌\n\nThanks to those who’ve provided and continue to provide feedback. Throughout the course of the EA SPORTS FC 26 season, we'll provide you with more information and updates if and when they become available. Be sure to follow \\@‌EASFCDIRECT on X as well as WhatsApp, and check out the EA SPORTS FC Tracker for the latest news and updates.\n\n‌\n\n- The EA SPORTS FC Team",
+          "id": "6a1708c42cf4a71a7351dded",
+          "name": "EA SPORTS FC 26 The World’s Game Update (v1.6.0)",
+          "idShort": 618,
+          "shortLink": "g065NkcA"
+        },
+        "board": {
+          "id": "5f73f7c1b4c1280a7068df5f",
+          "name": "EA SPORTS FC Tracker",
+          "shortLink": "keigLn6R"
+        },
+        "list": {
+          "id": "5f73f7c1b4c1280a7068df61",
+          "name": "Latest News"
+        }
+      },
+      "appCreator": null,
+      "type": "updateCard",
+      "date": "2026-05-27T15:11:02.589Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5c48831d226ccb5009c3b830",
+        "activityBlocked": false,
+        "avatarHash": "35d29435e75db8191e12f41e8cda90c7",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5c48831d226ccb5009c3b830/35d29435e75db8191e12f41e8cda90c7",
+        "fullName": "Paul Murphy",
+        "idMemberReferrer": null,
+        "initials": "PM",
+        "nonPublic": {},
+        "nonPublicAvailable": true,
+        "username": "pmurphy_liveops"
+      }
+    },
+    {
+      "id": "6a170983cf1d61be6cf9889e",
+      "idMemberCreator": "5c48831d226ccb5009c3b830",
+      "data": {
+        "card": {
+          "idLabels": [
+            "5f73f7c1b4c1280a7068dfeb",
+            "68c87f6aff1cbcd00f0343d7"
+          ],
+          "id": "6a1708c42cf4a71a7351dded",
+          "name": "EA SPORTS FC 26 The World’s Game Update (v1.6.0)",
+          "idShort": 618,
+          "shortLink": "g065NkcA"
+        },
+        "old": {
+          "idLabels": [
+            "5f73f7c1b4c1280a7068dfeb",
+            "68c87f6aff1cbcd00f0343d7"
+          ]
+        },
+        "board": {
+          "id": "5f73f7c1b4c1280a7068df5f",
+          "name": "EA SPORTS FC Tracker",
+          "shortLink": "keigLn6R"
+        },
+        "list": {
+          "id": "5f73f7c1b4c1280a7068df61",
+          "name": "Latest News"
+        }
+      },
+      "appCreator": null,
+      "type": "updateCard",
+      "date": "2026-05-27T15:10:59.696Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5c48831d226ccb5009c3b830",
+        "activityBlocked": false,
+        "avatarHash": "35d29435e75db8191e12f41e8cda90c7",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5c48831d226ccb5009c3b830/35d29435e75db8191e12f41e8cda90c7",
+        "fullName": "Paul Murphy",
+        "idMemberReferrer": null,
+        "initials": "PM",
+        "nonPublic": {},
+        "nonPublicAvailable": true,
+        "username": "pmurphy_liveops"
+      }
+    },
+    {
+      "id": "6a17098216350d5a56641235",
+      "idMemberCreator": "5c48831d226ccb5009c3b830",
+      "data": {
+        "card": {
+          "idLabels": [
+            "5f73f7c1b4c1280a7068dfeb"
+          ],
+          "id": "6a1708c42cf4a71a7351dded",
+          "name": "EA SPORTS FC 26 The World’s Game Update (v1.6.0)",
+          "idShort": 618,
+          "shortLink": "g065NkcA"
+        },
+        "old": {
+          "idLabels": [
+            "5f73f7c1b4c1280a7068dfeb"
+          ]
+        },
+        "board": {
+          "id": "5f73f7c1b4c1280a7068df5f",
+          "name": "EA SPORTS FC Tracker",
+          "shortLink": "keigLn6R"
+        },
+        "list": {
+          "id": "5f73f7c1b4c1280a7068df61",
+          "name": "Latest News"
+        }
+      },
+      "appCreator": null,
+      "type": "updateCard",
+      "date": "2026-05-27T15:10:58.885Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5c48831d226ccb5009c3b830",
+        "activityBlocked": false,
+        "avatarHash": "35d29435e75db8191e12f41e8cda90c7",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5c48831d226ccb5009c3b830/35d29435e75db8191e12f41e8cda90c7",
+        "fullName": "Paul Murphy",
+        "idMemberReferrer": null,
+        "initials": "PM",
+        "nonPublic": {},
+        "nonPublicAvailable": true,
+        "username": "pmurphy_liveops"
+      }
+    },
+    {
+      "id": "6a170963cbe078dd0371cfc1",
+      "idMemberCreator": "5c48831d226ccb5009c3b830",
+      "data": {
+        "old": {
+          "name": "EA SPORTS FC 26 - The World's Game - version 1.6.0"
+        },
+        "card": {
+          "name": "EA SPORTS FC 26 The World’s Game Update (v1.6.0)",
+          "id": "6a1708c42cf4a71a7351dded",
+          "idShort": 618,
+          "shortLink": "g065NkcA"
+        },
+        "board": {
+          "id": "5f73f7c1b4c1280a7068df5f",
+          "name": "EA SPORTS FC Tracker",
+          "shortLink": "keigLn6R"
+        },
+        "list": {
+          "id": "5f73f7c1b4c1280a7068df61",
+          "name": "Latest News"
+        }
+      },
+      "appCreator": null,
+      "type": "updateCard",
+      "date": "2026-05-27T15:10:27.524Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5c48831d226ccb5009c3b830",
+        "activityBlocked": false,
+        "avatarHash": "35d29435e75db8191e12f41e8cda90c7",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5c48831d226ccb5009c3b830/35d29435e75db8191e12f41e8cda90c7",
+        "fullName": "Paul Murphy",
+        "idMemberReferrer": null,
+        "initials": "PM",
+        "nonPublic": {},
+        "nonPublicAvailable": true,
+        "username": "pmurphy_liveops"
+      }
+    },
+    {
+      "id": "6a1708e106896b0b2655a37a",
+      "idMemberCreator": "5c48831d226ccb5009c3b830",
+      "data": {
+        "old": {
+          "name": "EA SPORTS FC 26 - The World's Game - version 1.5.5"
+        },
+        "card": {
+          "name": "EA SPORTS FC 26 - The World's Game - version 1.6.0",
+          "id": "6a1708c42cf4a71a7351dded",
+          "idShort": 618,
+          "shortLink": "g065NkcA"
+        },
+        "board": {
+          "id": "5f73f7c1b4c1280a7068df5f",
+          "name": "EA SPORTS FC Tracker",
+          "shortLink": "keigLn6R"
+        },
+        "list": {
+          "id": "5f73f7c1b4c1280a7068df61",
+          "name": "Latest News"
+        }
+      },
+      "appCreator": null,
+      "type": "updateCard",
+      "date": "2026-05-27T15:08:17.197Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5c48831d226ccb5009c3b830",
+        "activityBlocked": false,
+        "avatarHash": "35d29435e75db8191e12f41e8cda90c7",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5c48831d226ccb5009c3b830/35d29435e75db8191e12f41e8cda90c7",
+        "fullName": "Paul Murphy",
+        "idMemberReferrer": null,
+        "initials": "PM",
+        "nonPublic": {},
+        "nonPublicAvailable": true,
+        "username": "pmurphy_liveops"
+      }
+    },
+    {
+      "id": "6a1708c42cf4a71a7351de3a",
+      "idMemberCreator": "5c48831d226ccb5009c3b830",
+      "data": {
+        "card": {
+          "id": "6a1708c42cf4a71a7351dded",
+          "name": "EA SPORTS FC 26 - The World's Game - version 1.5.5",
+          "idShort": 618,
+          "shortLink": "g065NkcA"
+        },
+        "list": {
+          "id": "5f73f7c1b4c1280a7068df61",
+          "name": "Latest News"
+        },
+        "board": {
+          "id": "5f73f7c1b4c1280a7068df5f",
+          "name": "EA SPORTS FC Tracker",
+          "shortLink": "keigLn6R"
+        }
+      },
+      "appCreator": null,
+      "type": "createCard",
+      "date": "2026-05-27T15:07:48.488Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5c48831d226ccb5009c3b830",
+        "activityBlocked": false,
+        "avatarHash": "35d29435e75db8191e12f41e8cda90c7",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5c48831d226ccb5009c3b830/35d29435e75db8191e12f41e8cda90c7",
+        "fullName": "Paul Murphy",
+        "idMemberReferrer": null,
+        "initials": "PM",
+        "nonPublic": {},
+        "nonPublicAvailable": true,
+        "username": "pmurphy_liveops"
+      }
+    }
+  ],
+  "checklists": [],
+  "customFieldItems": [],
+  "members": [],
+  "pluginData": []
+}
