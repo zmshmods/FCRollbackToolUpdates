@@ -1,0 +1,81 @@
+{
+    "depot_id": "3405692",
+    "header_changes": {
+        "manifest_id": {
+            "old": "1210142944114678350",
+            "new": "4771143457193955795"
+        },
+        "creation_date": {
+            "old": "05/29/2026 19:46:03",
+            "new": "06/03/2026 18:54:24"
+        },
+        "total_files": {
+            "old": 31,
+            "new": 31
+        },
+        "total_chunks": {
+            "old": 3845,
+            "new": 3863
+        },
+        "total_bytes": {
+            "old": 4264326077,
+            "new": 4281471933
+        },
+        "total_compressed_bytes": {
+            "old": 3638331104,
+            "new": 3654282784
+        }
+    },
+    "added": [],
+    "modified": [
+        {
+            "name": "__Installer/LOC/Origin.OFR.50.0005763.dat",
+            "changes": {
+                "sha": {
+                    "old": "8df81b28dc37e378ddb87872def8e7a83e683c84",
+                    "new": "e4b1228ce8f5d615d061be276fcc65a327ac76e1"
+                }
+            }
+        },
+        {
+            "name": "Patch/Win32/superbundlelayout/commentaryfull_eng_us/cas_01.cas",
+            "changes": {
+                "size": {
+                    "old": 263282688,
+                    "new": 262111232
+                },
+                "sha": {
+                    "old": "84198a73a874ea0ffed64793ca83648e202c43c2",
+                    "new": "e819e7d3897ae774eb80af689bb81a0cd70a0418"
+                }
+            }
+        },
+        {
+            "name": "Patch/Win32/commentaryfull_eng_us.toc",
+            "changes": {
+                "size": {
+                    "old": 121752,
+                    "new": 129944
+                },
+                "sha": {
+                    "old": "3493e4a0b74356b19cd93ffbdd1e06a81f28ec6b",
+                    "new": "205f0ef9b83c49b9007ba5761b0ee593f9812c4e"
+                }
+            }
+        },
+        {
+            "name": "Patch/Win32/superbundlelayout/commentaryfull_eng_us/cas_02.cas",
+            "changes": {
+                "size": {
+                    "old": 49922048,
+                    "new": 68231168
+                },
+                "sha": {
+                    "old": "9307fc6540f8711de8b8f859e48ef59f579d38e2",
+                    "new": "5bd0d39232e11c31cac4f438491082efb2c5a985"
+                }
+            }
+        }
+    ],
+    "deleted": []
+}
