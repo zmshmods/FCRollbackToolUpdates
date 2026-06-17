@@ -1,9 +1,18 @@
 {
-    "SquadsContentVersion": "26.846",
-    "SquadsContentVersionDate": "Jun 16, 2026",
+    "SquadsContentVersion": "26.847",
+    "SquadsContentVersionDate": "Jun 17, 2026",
     "FutSquadsContentVersion": "26.41",
     "FutSquadsContentVersionDate": "Jun 16, 2026",
     "Squads": [
+        {
+            "Name": "Squads20260616000000",
+            "Size": "9.93MB",
+            "ReleasedDate": "2026-06-17T22:23:26Z",
+            "BuildDate": "Jun 16, 2026",
+            "ReleasedOnTU": "1.6.2",
+            "DownloadURL": "https://github.com/FCRollbackTool/FC26Squads/raw/main/result/pc64/Squads/847/Index.json",
+            "dbMajor": "847"
+        },
         {
             "Name": "Squads20260610000000",
             "Size": "9.93MB",
