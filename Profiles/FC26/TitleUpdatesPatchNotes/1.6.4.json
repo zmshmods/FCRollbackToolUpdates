@@ -1,0 +1,488 @@
+{
+  "id": "6a54dbda2b9096022fc4447a",
+  "address": null,
+  "agent": null,
+  "aiMetadata": null,
+  "badges": {
+    "attachments": 0,
+    "fogbugz": "",
+    "checkItems": 0,
+    "checkItemsChecked": 0,
+    "checkItemsEarliestDue": null,
+    "comments": 0,
+    "description": true,
+    "due": null,
+    "dueComplete": false,
+    "lastUpdatedByAi": false,
+    "start": null,
+    "externalSource": null,
+    "attachmentsByType": {
+      "trello": {
+        "board": 0,
+        "card": 0
+      }
+    },
+    "location": false,
+    "votes": 0,
+    "maliciousAttachments": 0,
+    "viewingMemberVoted": false,
+    "subscribed": false
+  },
+  "checkItemStates": [],
+  "closed": false,
+  "coordinates": null,
+  "creationMethod": null,
+  "creationMethodError": null,
+  "creationMethodLoadingStartedAt": null,
+  "dueComplete": false,
+  "dateClosed": null,
+  "dateLastActivity": "2026-07-13T13:10:45.235Z",
+  "dateCompleted": null,
+  "dateViewedByCreator": null,
+  "desc": "EA SPORTS FC 26 version 1.6.4 is dropping soon and includes the updates below.\n\n### **Ultimate Team** \n\nMade the following changes:\n\n- You will now be brought back to the New Releases screen after viewing the Store, SBC or Objectives from New Releases.\n\nAddressed the following issues: \n\n- Using the Swap Duplicated Items function on Stadium Items could have resulted in a disconnect from Ultimate Team.\n- Some overlays were not showing Player Item images.\n\n### **Career Mode**\n\nAddressed the following issues:\n\n- National Anthems were not being played in the International Men’s Tournament.\n\n### **General, Audio, and Visual**\n\nMade the following changes:\n\n- Updated some crests, text, hair, headshots, tattoos and kits.\n\nAddressed the following issues:\n\n- Addressed a stability issue that could have occurred.\n- Some RTX 3050 cards were loading incorrect graphics recommendations by default.\n\nWant to provide us direct feedback about EA SPORTS FC 26? [https://go.ea.com/fc26pfp](https://go.ea.com/fc26pfp \"‌\") and let us know what you think, it only takes a few minutes.\n\nThanks to those who’ve provided and continue to provide feedback. Throughout the course of the EA SPORTS FC 26 season, we'll provide you with more information and updates if and when they become available. Be sure to follow [\\@‌EASFCDIRECT](https://x.com/EASFCDirect \"‌\") on X or [WhatsApp](https://www.whatsapp.com/channel/0029VaypA13GehEPKXQgyM46 \"‌\"), check out the EA SPORTS FC Tracker, and join the [EA SPORTS FC Discord](https://discord.com/invite/easportsfc \"‌\") for the latest news and updates.\n\n‌\n\n- The EA SPORTS FC Team",
+  "descData": {
+    "emoji": {}
+  },
+  "due": null,
+  "dueReminder": null,
+  "email": null,
+  "externalSource": null,
+  "faviconUrl": null,
+  "idBoard": "5f73f7c1b4c1280a7068df5f",
+  "idChecklists": [],
+  "idLabels": [
+    "68c87f6aff1cbcd00f0343d7",
+    "5f73f7c1b4c1280a7068dfeb"
+  ],
+  "idList": "5f73f7c1b4c1280a7068df61",
+  "idMemberCreator": "5c48831d226ccb5009c3b830",
+  "idMembers": [],
+  "idMembersVoted": [],
+  "idOrganization": "6137a564cb8f6432c89f8977",
+  "idShort": 624,
+  "idAttachmentCover": null,
+  "labels": [
+    {
+      "id": "68c87f6aff1cbcd00f0343d7",
+      "idBoard": "5f73f7c1b4c1280a7068df5f",
+      "idOrganization": "6137a564cb8f6432c89f8977",
+      "name": "EA SPORTS FC 26",
+      "nodeId": "ari:cloud:trello::label/workspace/6137a564cb8f6432c89f8977/68c87f6aff1cbcd00f0343d7",
+      "color": "lime",
+      "uses": 74
+    },
+    {
+      "id": "5f73f7c1b4c1280a7068dfeb",
+      "idBoard": "5f73f7c1b4c1280a7068df5f",
+      "idOrganization": "6137a564cb8f6432c89f8977",
+      "name": "Title Update",
+      "nodeId": "ari:cloud:trello::label/workspace/6137a564cb8f6432c89f8977/5f73f7c1b4c1280a7068dfeb",
+      "color": "green",
+      "uses": 211
+    }
+  ],
+  "limits": {
+    "attachments": {
+      "perCard": {
+        "status": "ok",
+        "disableAt": 1000,
+        "warnAt": 800
+      }
+    },
+    "checklists": {
+      "perCard": {
+        "status": "ok",
+        "disableAt": 500,
+        "warnAt": 400
+      }
+    },
+    "stickers": {
+      "perCard": {
+        "status": "ok",
+        "disableAt": 70,
+        "warnAt": 56
+      }
+    }
+  },
+  "locationName": null,
+  "manifest": null,
+  "manualCoverAttachment": false,
+  "name": "EA SPORTS FC 26 version 1.6.4",
+  "nodeId": "ari:cloud:trello::card/workspace/6137a564cb8f6432c89f8977/6a54dbda2b9096022fc4447a",
+  "originalDesc": "",
+  "originalName": "",
+  "pinned": false,
+  "pos": 319.99609375,
+  "recurrenceRule": null,
+  "shortLink": "uieMvWKp",
+  "shortUrl": "https://trello.com/c/uieMvWKp",
+  "singleInstrumentationId": null,
+  "sourceEmail": null,
+  "staticMapUrl": null,
+  "start": null,
+  "subscribed": null,
+  "url": "https://trello.com/c/uieMvWKp/624-ea-sports-fc-26-version-164",
+  "urlSource": null,
+  "urlSourceText": null,
+  "cover": {
+    "idAttachment": null,
+    "color": null,
+    "idUploadedBackground": null,
+    "size": "normal",
+    "brightness": "dark",
+    "yPosition": 0.5,
+    "idPlugin": null
+  },
+  "isTemplate": false,
+  "cardRole": null,
+  "mirrorSourceId": null,
+  "mirrorSourceNodeId": null,
+  "actions": [
+    {
+      "id": "6a54e3d5c6b2efb036bdbbc5",
+      "idMemberCreator": "5c48831d226ccb5009c3b830",
+      "data": {
+        "old": {
+          "desc": "EA SPORTS FC 26 version 1.6.4 is now live and includes the updates below.\n\n### **Ultimate Team** \n\nMade the following changes:\n\n- You will now be brought back to the New Releases screen after viewing the Store, SBC or Objectives from New Releases.\n\nAddressed the following issues: \n\n- Using the Swap Duplicated Items function on Stadium Items could have resulted in a disconnect from Ultimate Team.\n- Some overlays were not showing Player Item images.\n\n### **Career Mode**\n\nAddressed the following issues:\n\n- National Anthems were not being played in the International Men’s Tournament.\n\n### **General, Audio, and Visual**\n\nMade the following changes:\n\n- Updated some crests, text, hair, headshots, tattoos and kits.\n\nAddressed the following issues:\n\n- Addressed a stability issue that could have occurred.\n- Some RTX 3050 cards were loading incorrect graphics recommendations by default.\n\nWant to provide us direct feedback about EA SPORTS FC 26? [https://go.ea.com/fc26pfp](https://go.ea.com/fc26pfp \"‌\") and let us know what you think, it only takes a few minutes.\n\nThanks to those who’ve provided and continue to provide feedback. Throughout the course of the EA SPORTS FC 26 season, we'll provide you with more information and updates if and when they become available. Be sure to follow [\\@‌EASFCDIRECT](https://x.com/EASFCDirect \"‌\") on X or [WhatsApp](https://www.whatsapp.com/channel/0029VaypA13GehEPKXQgyM46 \"‌\"), check out the EA SPORTS FC Tracker, and join the [EA SPORTS FC Discord](https://discord.com/invite/easportsfc \"‌\") for the latest news and updates.\n\n‌\n\n- The EA SPORTS FC Team"
+        },
+        "card": {
+          "desc": "EA SPORTS FC 26 version 1.6.4 is dropping soon and includes the updates below.\n\n### **Ultimate Team** \n\nMade the following changes:\n\n- You will now be brought back to the New Releases screen after viewing the Store, SBC or Objectives from New Releases.\n\nAddressed the following issues: \n\n- Using the Swap Duplicated Items function on Stadium Items could have resulted in a disconnect from Ultimate Team.\n- Some overlays were not showing Player Item images.\n\n### **Career Mode**\n\nAddressed the following issues:\n\n- National Anthems were not being played in the International Men’s Tournament.\n\n### **General, Audio, and Visual**\n\nMade the following changes:\n\n- Updated some crests, text, hair, headshots, tattoos and kits.\n\nAddressed the following issues:\n\n- Addressed a stability issue that could have occurred.\n- Some RTX 3050 cards were loading incorrect graphics recommendations by default.\n\nWant to provide us direct feedback about EA SPORTS FC 26? [https://go.ea.com/fc26pfp](https://go.ea.com/fc26pfp \"‌\") and let us know what you think, it only takes a few minutes.\n\nThanks to those who’ve provided and continue to provide feedback. Throughout the course of the EA SPORTS FC 26 season, we'll provide you with more information and updates if and when they become available. Be sure to follow [\\@‌EASFCDIRECT](https://x.com/EASFCDirect \"‌\") on X or [WhatsApp](https://www.whatsapp.com/channel/0029VaypA13GehEPKXQgyM46 \"‌\"), check out the EA SPORTS FC Tracker, and join the [EA SPORTS FC Discord](https://discord.com/invite/easportsfc \"‌\") for the latest news and updates.\n\n‌\n\n- The EA SPORTS FC Team",
+          "id": "6a54dbda2b9096022fc4447a",
+          "name": "EA SPORTS FC 26 version 1.6.4",
+          "idShort": 624,
+          "shortLink": "uieMvWKp"
+        },
+        "board": {
+          "id": "5f73f7c1b4c1280a7068df5f",
+          "name": "EA SPORTS FC Tracker",
+          "shortLink": "keigLn6R"
+        },
+        "list": {
+          "id": "5f73f7c1b4c1280a7068df61",
+          "name": "Latest News"
+        }
+      },
+      "agenticIdentity": null,
+      "appCreator": null,
+      "type": "updateCard",
+      "date": "2026-07-13T13:10:45.251Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5c48831d226ccb5009c3b830",
+        "activityBlocked": false,
+        "avatarHash": "35d29435e75db8191e12f41e8cda90c7",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5c48831d226ccb5009c3b830/35d29435e75db8191e12f41e8cda90c7",
+        "fullName": "Paul Murphy",
+        "idMemberReferrer": null,
+        "initials": "PM",
+        "nonPublic": {},
+        "nonPublicAvailable": true,
+        "username": "pmurphy_liveops"
+      }
+    },
+    {
+      "id": "6a54e3b61040d317dda03aec",
+      "idMemberCreator": "5c48831d226ccb5009c3b830",
+      "data": {
+        "old": {
+          "desc": "EA SPORTS FC 26 version 1.6.4 is now live and includes the updates below.\n\n**Ultimate Team** \n\n‌\n\nMade the following changes:\n\n- You will now be brought back to the New Releases screen after viewing the Store, SBC or Objectives from New Releases.\n\nAddressed the following issues: \n\n- Using the Swap Duplicated Items function on Stadium Items could have resulted in a disconnect from Ultimate Team.\n\n- Some overlays were not showing Player Item images.\n\n### **Career Mode**\n\n‌\n\nAddressed the following issues:\n\n- National Anthems were not being played in the International Men’s Tournament.\n\n**General, Audio, and Visual**\n\nMade the following changes:\n\n- Updated some crests, text, hair, headshots, tattoos and kits.\n\nAddressed the following issues:\n\n- Addressed a stability issue that could have occurred.\n\n- Some RTX 3050 cards were loading incorrect graphics recommendations by default.\n\nWant to provide us direct feedback about EA SPORTS FC 26? [https://go.ea.com/fc26pfp](https://go.ea.com/fc26pfp \"‌\") and let us know what you think, it only takes a few minutes.\n\nThanks to those who’ve provided and continue to provide feedback. Throughout the course of the EA SPORTS FC 26 season, we'll provide you with more information and updates if and when they become available. Be sure to follow [\\@‌EASFCDIRECT](https://x.com/EASFCDirect \"‌\") on X or [WhatsApp](https://www.whatsapp.com/channel/0029VaypA13GehEPKXQgyM46 \"‌\"), check out the EA SPORTS FC Tracker, and join the [EA SPORTS FC Discord](https://discord.com/invite/easportsfc \"‌\") for the latest news and updates.\n\n‌\n\n- The EA SPORTS FC Team"
+        },
+        "card": {
+          "desc": "EA SPORTS FC 26 version 1.6.4 is now live and includes the updates below.\n\n### **Ultimate Team** \n\nMade the following changes:\n\n- You will now be brought back to the New Releases screen after viewing the Store, SBC or Objectives from New Releases.\n\nAddressed the following issues: \n\n- Using the Swap Duplicated Items function on Stadium Items could have resulted in a disconnect from Ultimate Team.\n- Some overlays were not showing Player Item images.\n\n### **Career Mode**\n\nAddressed the following issues:\n\n- National Anthems were not being played in the International Men’s Tournament.\n\n### **General, Audio, and Visual**\n\nMade the following changes:\n\n- Updated some crests, text, hair, headshots, tattoos and kits.\n\nAddressed the following issues:\n\n- Addressed a stability issue that could have occurred.\n- Some RTX 3050 cards were loading incorrect graphics recommendations by default.\n\nWant to provide us direct feedback about EA SPORTS FC 26? [https://go.ea.com/fc26pfp](https://go.ea.com/fc26pfp \"‌\") and let us know what you think, it only takes a few minutes.\n\nThanks to those who’ve provided and continue to provide feedback. Throughout the course of the EA SPORTS FC 26 season, we'll provide you with more information and updates if and when they become available. Be sure to follow [\\@‌EASFCDIRECT](https://x.com/EASFCDirect \"‌\") on X or [WhatsApp](https://www.whatsapp.com/channel/0029VaypA13GehEPKXQgyM46 \"‌\"), check out the EA SPORTS FC Tracker, and join the [EA SPORTS FC Discord](https://discord.com/invite/easportsfc \"‌\") for the latest news and updates.\n\n‌\n\n- The EA SPORTS FC Team",
+          "id": "6a54dbda2b9096022fc4447a",
+          "name": "EA SPORTS FC 26 version 1.6.4",
+          "idShort": 624,
+          "shortLink": "uieMvWKp"
+        },
+        "board": {
+          "id": "5f73f7c1b4c1280a7068df5f",
+          "name": "EA SPORTS FC Tracker",
+          "shortLink": "keigLn6R"
+        },
+        "list": {
+          "id": "5f73f7c1b4c1280a7068df61",
+          "name": "Latest News"
+        }
+      },
+      "agenticIdentity": null,
+      "appCreator": null,
+      "type": "updateCard",
+      "date": "2026-07-13T13:10:14.492Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5c48831d226ccb5009c3b830",
+        "activityBlocked": false,
+        "avatarHash": "35d29435e75db8191e12f41e8cda90c7",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5c48831d226ccb5009c3b830/35d29435e75db8191e12f41e8cda90c7",
+        "fullName": "Paul Murphy",
+        "idMemberReferrer": null,
+        "initials": "PM",
+        "nonPublic": {},
+        "nonPublicAvailable": true,
+        "username": "pmurphy_liveops"
+      }
+    },
+    {
+      "id": "6a54e38c83a7e2bb87bd4eeb",
+      "idMemberCreator": "5c48831d226ccb5009c3b830",
+      "data": {
+        "old": {
+          "desc": "EA SPORTS FC 26 version 1.6.4 is dropping soon and includes the updates below.\n\n### **Ultimate Team**\n\nMade the following changes:\n\n- You will now be brought back to the New Releases screen after viewing the Store, SBC or Objectives from New Releases.  [FCLIVE-192275](https://jaas.ea.com/browse/FCLIVE-192275 \"‌\")\n\nAddressed the following issues: \n\n- Using the Swap Duplicated Items function on Stadium Items could have resulted in a disconnect from Ultimate Team. [FCLIVE-196413](https://jaas.ea.com/browse/FCLIVE-196413 \"‌\") \n\n- Some overlays were not showing Player Item images. [FCLIVE-197865](https://jaas.ea.com/browse/FCLIVE-197865 \"‌\") \n\n### **Career Mode**\n\nAddressed the following issues:\n\n- National Anthems were not being played in the International Men’s Tournament. [FCLIVE-197681](https://jaas.ea.com/browse/FCLIVE-197681 \"‌\")\n\n### **General, Audio, and Visual**\n\nMade the following changes:\n\n- Updated some crests, text, hair, headshots, tattoos and kits.\n\nAddressed the following issues:\n\n- Addressed a stability issue that could have occurred.\n\n- [PC Only] Some RTX 3050 cards were loading incorrect graphics recommendations by default. [FCLIVE-196606](https://jaas.ea.com/browse/FCLIVE-196606 \"‌\")\n\nWant to provide us direct feedback about EA SPORTS FC 26? [https://go.ea.com/fc26pfp](https://go.ea.com/fc26pfp \"‌\") and let us know what you think, it only takes a few minutes.\n\nThanks to those who’ve provided and continue to provide feedback. Throughout the course of the EA SPORTS FC 26 season, we'll provide you with more information and updates if and when they become available. Be sure to follow [\\@‌EASFCDIRECT](https://x.com/EASFCDirect \"‌\") on X or [WhatsApp](https://www.whatsapp.com/channel/0029VaypA13GehEPKXQgyM46 \"‌\"), check out the EA SPORTS FC Tracker, and join the [EA SPORTS FC Discord](https://discord.com/invite/easportsfc \"‌\") for the latest news and updates.\n\n‌\n\n- The EA SPORTS FC Team"
+        },
+        "card": {
+          "desc": "EA SPORTS FC 26 version 1.6.4 is now live and includes the updates below.\n\n**Ultimate Team** \n\n‌\n\nMade the following changes:\n\n- You will now be brought back to the New Releases screen after viewing the Store, SBC or Objectives from New Releases.\n\nAddressed the following issues: \n\n- Using the Swap Duplicated Items function on Stadium Items could have resulted in a disconnect from Ultimate Team.\n\n- Some overlays were not showing Player Item images.\n\n### **Career Mode**\n\n‌\n\nAddressed the following issues:\n\n- National Anthems were not being played in the International Men’s Tournament.\n\n**General, Audio, and Visual**\n\nMade the following changes:\n\n- Updated some crests, text, hair, headshots, tattoos and kits.\n\nAddressed the following issues:\n\n- Addressed a stability issue that could have occurred.\n\n- Some RTX 3050 cards were loading incorrect graphics recommendations by default.\n\nWant to provide us direct feedback about EA SPORTS FC 26? [https://go.ea.com/fc26pfp](https://go.ea.com/fc26pfp \"‌\") and let us know what you think, it only takes a few minutes.\n\nThanks to those who’ve provided and continue to provide feedback. Throughout the course of the EA SPORTS FC 26 season, we'll provide you with more information and updates if and when they become available. Be sure to follow [\\@‌EASFCDIRECT](https://x.com/EASFCDirect \"‌\") on X or [WhatsApp](https://www.whatsapp.com/channel/0029VaypA13GehEPKXQgyM46 \"‌\"), check out the EA SPORTS FC Tracker, and join the [EA SPORTS FC Discord](https://discord.com/invite/easportsfc \"‌\") for the latest news and updates.\n\n‌\n\n- The EA SPORTS FC Team",
+          "id": "6a54dbda2b9096022fc4447a",
+          "name": "EA SPORTS FC 26 version 1.6.4",
+          "idShort": 624,
+          "shortLink": "uieMvWKp"
+        },
+        "board": {
+          "id": "5f73f7c1b4c1280a7068df5f",
+          "name": "EA SPORTS FC Tracker",
+          "shortLink": "keigLn6R"
+        },
+        "list": {
+          "id": "5f73f7c1b4c1280a7068df61",
+          "name": "Latest News"
+        }
+      },
+      "agenticIdentity": null,
+      "appCreator": null,
+      "type": "updateCard",
+      "date": "2026-07-13T13:09:32.994Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5c48831d226ccb5009c3b830",
+        "activityBlocked": false,
+        "avatarHash": "35d29435e75db8191e12f41e8cda90c7",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5c48831d226ccb5009c3b830/35d29435e75db8191e12f41e8cda90c7",
+        "fullName": "Paul Murphy",
+        "idMemberReferrer": null,
+        "initials": "PM",
+        "nonPublic": {},
+        "nonPublicAvailable": true,
+        "username": "pmurphy_liveops"
+      }
+    },
+    {
+      "id": "6a54dc4ddc66ad7f83de2ab1",
+      "idMemberCreator": "5c48831d226ccb5009c3b830",
+      "data": {
+        "old": {
+          "pos": 17151.99609375
+        },
+        "card": {
+          "pos": 319.99609375,
+          "id": "6a54dbda2b9096022fc4447a",
+          "name": "EA SPORTS FC 26 version 1.6.4",
+          "idShort": 624,
+          "shortLink": "uieMvWKp"
+        },
+        "board": {
+          "id": "5f73f7c1b4c1280a7068df5f",
+          "name": "EA SPORTS FC Tracker",
+          "shortLink": "keigLn6R"
+        },
+        "list": {
+          "id": "5f73f7c1b4c1280a7068df61",
+          "name": "Latest News"
+        }
+      },
+      "agenticIdentity": null,
+      "appCreator": null,
+      "type": "updateCard",
+      "date": "2026-07-13T12:38:37.827Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5c48831d226ccb5009c3b830",
+        "activityBlocked": false,
+        "avatarHash": "35d29435e75db8191e12f41e8cda90c7",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5c48831d226ccb5009c3b830/35d29435e75db8191e12f41e8cda90c7",
+        "fullName": "Paul Murphy",
+        "idMemberReferrer": null,
+        "initials": "PM",
+        "nonPublic": {},
+        "nonPublicAvailable": true,
+        "username": "pmurphy_liveops"
+      }
+    },
+    {
+      "id": "6a54dc4ba0434dc7e8553258",
+      "idMemberCreator": "5c48831d226ccb5009c3b830",
+      "data": {
+        "card": {
+          "idLabels": [
+            "68c87f6aff1cbcd00f0343d7",
+            "5f73f7c1b4c1280a7068dfeb"
+          ],
+          "id": "6a54dbda2b9096022fc4447a",
+          "name": "EA SPORTS FC 26 version 1.6.4",
+          "idShort": 624,
+          "shortLink": "uieMvWKp"
+        },
+        "old": {
+          "idLabels": [
+            "68c87f6aff1cbcd00f0343d7",
+            "5f73f7c1b4c1280a7068dfeb"
+          ]
+        },
+        "board": {
+          "id": "5f73f7c1b4c1280a7068df5f",
+          "name": "EA SPORTS FC Tracker",
+          "shortLink": "keigLn6R"
+        },
+        "list": {
+          "id": "5f73f7c1b4c1280a7068df61",
+          "name": "Latest News"
+        }
+      },
+      "agenticIdentity": null,
+      "appCreator": null,
+      "type": "updateCard",
+      "date": "2026-07-13T12:38:35.333Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5c48831d226ccb5009c3b830",
+        "activityBlocked": false,
+        "avatarHash": "35d29435e75db8191e12f41e8cda90c7",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5c48831d226ccb5009c3b830/35d29435e75db8191e12f41e8cda90c7",
+        "fullName": "Paul Murphy",
+        "idMemberReferrer": null,
+        "initials": "PM",
+        "nonPublic": {},
+        "nonPublicAvailable": true,
+        "username": "pmurphy_liveops"
+      }
+    },
+    {
+      "id": "6a54dc4ab0c309826ef2a45b",
+      "idMemberCreator": "5c48831d226ccb5009c3b830",
+      "data": {
+        "card": {
+          "idLabels": [
+            "68c87f6aff1cbcd00f0343d7"
+          ],
+          "id": "6a54dbda2b9096022fc4447a",
+          "name": "EA SPORTS FC 26 version 1.6.4",
+          "idShort": 624,
+          "shortLink": "uieMvWKp"
+        },
+        "old": {
+          "idLabels": [
+            "68c87f6aff1cbcd00f0343d7"
+          ]
+        },
+        "board": {
+          "id": "5f73f7c1b4c1280a7068df5f",
+          "name": "EA SPORTS FC Tracker",
+          "shortLink": "keigLn6R"
+        },
+        "list": {
+          "id": "5f73f7c1b4c1280a7068df61",
+          "name": "Latest News"
+        }
+      },
+      "agenticIdentity": null,
+      "appCreator": null,
+      "type": "updateCard",
+      "date": "2026-07-13T12:38:34.620Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5c48831d226ccb5009c3b830",
+        "activityBlocked": false,
+        "avatarHash": "35d29435e75db8191e12f41e8cda90c7",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5c48831d226ccb5009c3b830/35d29435e75db8191e12f41e8cda90c7",
+        "fullName": "Paul Murphy",
+        "idMemberReferrer": null,
+        "initials": "PM",
+        "nonPublic": {},
+        "nonPublicAvailable": true,
+        "username": "pmurphy_liveops"
+      }
+    },
+    {
+      "id": "6a54dc47821fd49bf84b6883",
+      "idMemberCreator": "5c48831d226ccb5009c3b830",
+      "data": {
+        "old": {
+          "desc": ""
+        },
+        "card": {
+          "desc": "EA SPORTS FC 26 version 1.6.4 is dropping soon and includes the updates below.\n\n### **Ultimate Team**\n\nMade the following changes:\n\n- You will now be brought back to the New Releases screen after viewing the Store, SBC or Objectives from New Releases.  [FCLIVE-192275](https://jaas.ea.com/browse/FCLIVE-192275 \"‌\")\n\nAddressed the following issues: \n\n- Using the Swap Duplicated Items function on Stadium Items could have resulted in a disconnect from Ultimate Team. [FCLIVE-196413](https://jaas.ea.com/browse/FCLIVE-196413 \"‌\") \n\n- Some overlays were not showing Player Item images. [FCLIVE-197865](https://jaas.ea.com/browse/FCLIVE-197865 \"‌\") \n\n### **Career Mode**\n\nAddressed the following issues:\n\n- National Anthems were not being played in the International Men’s Tournament. [FCLIVE-197681](https://jaas.ea.com/browse/FCLIVE-197681 \"‌\")\n\n### **General, Audio, and Visual**\n\nMade the following changes:\n\n- Updated some crests, text, hair, headshots, tattoos and kits.\n\nAddressed the following issues:\n\n- Addressed a stability issue that could have occurred.\n\n- [PC Only] Some RTX 3050 cards were loading incorrect graphics recommendations by default. [FCLIVE-196606](https://jaas.ea.com/browse/FCLIVE-196606 \"‌\")\n\nWant to provide us direct feedback about EA SPORTS FC 26? [https://go.ea.com/fc26pfp](https://go.ea.com/fc26pfp \"‌\") and let us know what you think, it only takes a few minutes.\n\nThanks to those who’ve provided and continue to provide feedback. Throughout the course of the EA SPORTS FC 26 season, we'll provide you with more information and updates if and when they become available. Be sure to follow [\\@‌EASFCDIRECT](https://x.com/EASFCDirect \"‌\") on X or [WhatsApp](https://www.whatsapp.com/channel/0029VaypA13GehEPKXQgyM46 \"‌\"), check out the EA SPORTS FC Tracker, and join the [EA SPORTS FC Discord](https://discord.com/invite/easportsfc \"‌\") for the latest news and updates.\n\n‌\n\n- The EA SPORTS FC Team",
+          "id": "6a54dbda2b9096022fc4447a",
+          "name": "EA SPORTS FC 26 version 1.6.4",
+          "idShort": 624,
+          "shortLink": "uieMvWKp"
+        },
+        "board": {
+          "id": "5f73f7c1b4c1280a7068df5f",
+          "name": "EA SPORTS FC Tracker",
+          "shortLink": "keigLn6R"
+        },
+        "list": {
+          "id": "5f73f7c1b4c1280a7068df61",
+          "name": "Latest News"
+        }
+      },
+      "agenticIdentity": null,
+      "appCreator": null,
+      "type": "updateCard",
+      "date": "2026-07-13T12:38:31.222Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5c48831d226ccb5009c3b830",
+        "activityBlocked": false,
+        "avatarHash": "35d29435e75db8191e12f41e8cda90c7",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5c48831d226ccb5009c3b830/35d29435e75db8191e12f41e8cda90c7",
+        "fullName": "Paul Murphy",
+        "idMemberReferrer": null,
+        "initials": "PM",
+        "nonPublic": {},
+        "nonPublicAvailable": true,
+        "username": "pmurphy_liveops"
+      }
+    },
+    {
+      "id": "6a54dbda2b9096022fc444ad",
+      "idMemberCreator": "5c48831d226ccb5009c3b830",
+      "data": {
+        "card": {
+          "id": "6a54dbda2b9096022fc4447a",
+          "name": "EA SPORTS FC 26 version 1.6.4",
+          "idShort": 624,
+          "shortLink": "uieMvWKp"
+        },
+        "list": {
+          "id": "5f73f7c1b4c1280a7068df61",
+          "name": "Latest News"
+        },
+        "board": {
+          "id": "5f73f7c1b4c1280a7068df5f",
+          "name": "EA SPORTS FC Tracker",
+          "shortLink": "keigLn6R"
+        }
+      },
+      "agenticIdentity": null,
+      "appCreator": null,
+      "type": "createCard",
+      "date": "2026-07-13T12:36:42.587Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "5c48831d226ccb5009c3b830",
+        "activityBlocked": false,
+        "avatarHash": "35d29435e75db8191e12f41e8cda90c7",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/5c48831d226ccb5009c3b830/35d29435e75db8191e12f41e8cda90c7",
+        "fullName": "Paul Murphy",
+        "idMemberReferrer": null,
+        "initials": "PM",
+        "nonPublic": {},
+        "nonPublicAvailable": true,
+        "username": "pmurphy_liveops"
+      }
+    }
+  ],
+  "checklists": [],
+  "customFieldItems": [],
+  "members": [],
+  "pluginData": []
+}
