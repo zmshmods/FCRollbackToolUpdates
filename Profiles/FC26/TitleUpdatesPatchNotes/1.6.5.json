@@ -1,0 +1,362 @@
+{
+  "id": "6a60149bcf7431a7d533930a",
+  "address": null,
+  "agent": null,
+  "aiMetadata": null,
+  "badges": {
+    "attachments": 0,
+    "fogbugz": "",
+    "checkItems": 0,
+    "checkItemsChecked": 0,
+    "checkItemsEarliestDue": null,
+    "comments": 0,
+    "description": true,
+    "due": null,
+    "dueComplete": false,
+    "lastUpdatedByAi": false,
+    "start": null,
+    "externalSource": null,
+    "attachmentsByType": {
+      "trello": {
+        "board": 0,
+        "card": 0
+      }
+    },
+    "location": false,
+    "votes": 0,
+    "maliciousAttachments": 0,
+    "viewingMemberVoted": false,
+    "subscribed": false
+  },
+  "checkItemStates": [],
+  "closed": false,
+  "coordinates": null,
+  "creationMethod": null,
+  "creationMethodError": null,
+  "creationMethodLoadingStartedAt": null,
+  "dueComplete": false,
+  "dateClosed": null,
+  "dateLastActivity": "2026-07-22T00:56:02.098Z",
+  "dateCompleted": null,
+  "dateViewedByCreator": null,
+  "desc": "EA SPORTS FC 26 version 1.6.5 is dropping soon and includes the updates below.\n\n### **Clubs**\n\nAddressed the following issue:\n\n- Addressed instances where an error would be received when attempting to play an online match.\n\nWant to provide us direct feedback about EA SPORTS FC 26? [https://go.ea.com/fc26pfp](https://go.ea.com/fc26pfp \"‌\") and let us know what you think, it only takes a few minutes.\n\nThanks to those who’ve provided and continue to provide feedback. Throughout the course of the EA SPORTS FC 26 season, we'll provide you with more information and updates if and when they become available. Be sure to follow \\@‌EASFCDIRECT on X or WhatsApp, check out the EA SPORTS FC Tracker, and join the EA SPORTS FC Discord for the latest news and updates.\n\n‌\n\n- The EA SPORTS FC Team",
+  "descData": {
+    "emoji": {}
+  },
+  "due": null,
+  "dueReminder": null,
+  "email": null,
+  "externalSource": null,
+  "faviconUrl": null,
+  "idBoard": "5f73f7c1b4c1280a7068df5f",
+  "idChecklists": [],
+  "idLabels": [
+    "68c87f6aff1cbcd00f0343d7",
+    "5f73f7c1b4c1280a7068dfeb"
+  ],
+  "idList": "5f73f7c1b4c1280a7068df61",
+  "idMemberCreator": "63cae04015755601b433d8fa",
+  "idMembers": [],
+  "idMembersVoted": [],
+  "idOrganization": "6137a564cb8f6432c89f8977",
+  "idShort": 625,
+  "idAttachmentCover": null,
+  "labels": [
+    {
+      "id": "68c87f6aff1cbcd00f0343d7",
+      "idBoard": "5f73f7c1b4c1280a7068df5f",
+      "idOrganization": "6137a564cb8f6432c89f8977",
+      "name": "EA SPORTS FC 26",
+      "nodeId": "ari:cloud:trello::label/workspace/6137a564cb8f6432c89f8977/68c87f6aff1cbcd00f0343d7",
+      "color": "lime",
+      "uses": 75
+    },
+    {
+      "id": "5f73f7c1b4c1280a7068dfeb",
+      "idBoard": "5f73f7c1b4c1280a7068df5f",
+      "idOrganization": "6137a564cb8f6432c89f8977",
+      "name": "Title Update",
+      "nodeId": "ari:cloud:trello::label/workspace/6137a564cb8f6432c89f8977/5f73f7c1b4c1280a7068dfeb",
+      "color": "green",
+      "uses": 212
+    }
+  ],
+  "limits": {
+    "attachments": {
+      "perCard": {
+        "status": "ok",
+        "disableAt": 1000,
+        "warnAt": 800
+      }
+    },
+    "checklists": {
+      "perCard": {
+        "status": "ok",
+        "disableAt": 500,
+        "warnAt": 400
+      }
+    },
+    "stickers": {
+      "perCard": {
+        "status": "ok",
+        "disableAt": 70,
+        "warnAt": 56
+      }
+    }
+  },
+  "locationName": null,
+  "manifest": null,
+  "manualCoverAttachment": false,
+  "name": "EA SPORTS FC 26 version 1.6.5",
+  "nodeId": "ari:cloud:trello::card/workspace/6137a564cb8f6432c89f8977/6a60149bcf7431a7d533930a",
+  "originalDesc": "",
+  "originalName": "",
+  "pinned": false,
+  "pos": 287.99609375,
+  "recurrenceRule": null,
+  "shortLink": "X07Qn5iv",
+  "shortUrl": "https://trello.com/c/X07Qn5iv",
+  "singleInstrumentationId": null,
+  "sourceEmail": null,
+  "staticMapUrl": null,
+  "start": null,
+  "subscribed": null,
+  "url": "https://trello.com/c/X07Qn5iv/625-ea-sports-fc-26-version-165",
+  "urlSource": null,
+  "urlSourceText": null,
+  "cover": {
+    "idAttachment": null,
+    "color": null,
+    "idUploadedBackground": null,
+    "size": "normal",
+    "brightness": "dark",
+    "yPosition": 0.5,
+    "idPlugin": null
+  },
+  "isTemplate": false,
+  "cardRole": null,
+  "mirrorSourceId": null,
+  "mirrorSourceNodeId": null,
+  "actions": [
+    {
+      "id": "6a601522c7d27feae1c05229",
+      "idMemberCreator": "63cae04015755601b433d8fa",
+      "data": {
+        "old": {
+          "pos": 16895.99609375
+        },
+        "card": {
+          "pos": 287.99609375,
+          "id": "6a60149bcf7431a7d533930a",
+          "name": "EA SPORTS FC 26 version 1.6.5",
+          "idShort": 625,
+          "shortLink": "X07Qn5iv"
+        },
+        "board": {
+          "id": "5f73f7c1b4c1280a7068df5f",
+          "name": "EA SPORTS FC Tracker",
+          "shortLink": "keigLn6R"
+        },
+        "list": {
+          "id": "5f73f7c1b4c1280a7068df61",
+          "name": "Latest News"
+        }
+      },
+      "agenticIdentity": null,
+      "appCreator": null,
+      "type": "updateCard",
+      "date": "2026-07-22T00:56:02.112Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "63cae04015755601b433d8fa",
+        "activityBlocked": false,
+        "avatarHash": "9a407447936af8795cf8a415563f07a3",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/63cae04015755601b433d8fa/9a407447936af8795cf8a415563f07a3",
+        "fullName": "Sasha Dubreuil",
+        "idMemberReferrer": null,
+        "initials": "SD",
+        "nonPublic": {},
+        "nonPublicAvailable": true,
+        "username": "sashadubreuil"
+      }
+    },
+    {
+      "id": "6a6015062342698747574e53",
+      "idMemberCreator": "63cae04015755601b433d8fa",
+      "data": {
+        "card": {
+          "idLabels": [
+            "68c87f6aff1cbcd00f0343d7",
+            "5f73f7c1b4c1280a7068dfeb"
+          ],
+          "id": "6a60149bcf7431a7d533930a",
+          "name": "EA SPORTS FC 26 version 1.6.5",
+          "idShort": 625,
+          "shortLink": "X07Qn5iv"
+        },
+        "old": {
+          "idLabels": [
+            "68c87f6aff1cbcd00f0343d7",
+            "5f73f7c1b4c1280a7068dfeb"
+          ]
+        },
+        "board": {
+          "id": "5f73f7c1b4c1280a7068df5f",
+          "name": "EA SPORTS FC Tracker",
+          "shortLink": "keigLn6R"
+        },
+        "list": {
+          "id": "5f73f7c1b4c1280a7068df61",
+          "name": "Latest News"
+        }
+      },
+      "agenticIdentity": null,
+      "appCreator": null,
+      "type": "updateCard",
+      "date": "2026-07-22T00:55:34.189Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "63cae04015755601b433d8fa",
+        "activityBlocked": false,
+        "avatarHash": "9a407447936af8795cf8a415563f07a3",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/63cae04015755601b433d8fa/9a407447936af8795cf8a415563f07a3",
+        "fullName": "Sasha Dubreuil",
+        "idMemberReferrer": null,
+        "initials": "SD",
+        "nonPublic": {},
+        "nonPublicAvailable": true,
+        "username": "sashadubreuil"
+      }
+    },
+    {
+      "id": "6a601505a369e3f9f4e8be03",
+      "idMemberCreator": "63cae04015755601b433d8fa",
+      "data": {
+        "card": {
+          "idLabels": [
+            "68c87f6aff1cbcd00f0343d7"
+          ],
+          "id": "6a60149bcf7431a7d533930a",
+          "name": "EA SPORTS FC 26 version 1.6.5",
+          "idShort": 625,
+          "shortLink": "X07Qn5iv"
+        },
+        "old": {
+          "idLabels": [
+            "68c87f6aff1cbcd00f0343d7"
+          ]
+        },
+        "board": {
+          "id": "5f73f7c1b4c1280a7068df5f",
+          "name": "EA SPORTS FC Tracker",
+          "shortLink": "keigLn6R"
+        },
+        "list": {
+          "id": "5f73f7c1b4c1280a7068df61",
+          "name": "Latest News"
+        }
+      },
+      "agenticIdentity": null,
+      "appCreator": null,
+      "type": "updateCard",
+      "date": "2026-07-22T00:55:33.318Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "63cae04015755601b433d8fa",
+        "activityBlocked": false,
+        "avatarHash": "9a407447936af8795cf8a415563f07a3",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/63cae04015755601b433d8fa/9a407447936af8795cf8a415563f07a3",
+        "fullName": "Sasha Dubreuil",
+        "idMemberReferrer": null,
+        "initials": "SD",
+        "nonPublic": {},
+        "nonPublicAvailable": true,
+        "username": "sashadubreuil"
+      }
+    },
+    {
+      "id": "6a6014fe2a1e673a67b546a3",
+      "idMemberCreator": "63cae04015755601b433d8fa",
+      "data": {
+        "old": {
+          "desc": ""
+        },
+        "card": {
+          "desc": "EA SPORTS FC 26 version 1.6.5 is dropping soon and includes the updates below.\n\n### **Clubs**\n\nAddressed the following issue:\n\n- Addressed instances where an error would be received when attempting to play an online match.\n\nWant to provide us direct feedback about EA SPORTS FC 26? [https://go.ea.com/fc26pfp](https://go.ea.com/fc26pfp \"‌\") and let us know what you think, it only takes a few minutes.\n\nThanks to those who’ve provided and continue to provide feedback. Throughout the course of the EA SPORTS FC 26 season, we'll provide you with more information and updates if and when they become available. Be sure to follow \\@‌EASFCDIRECT on X or WhatsApp, check out the EA SPORTS FC Tracker, and join the EA SPORTS FC Discord for the latest news and updates.\n\n‌\n\n- The EA SPORTS FC Team",
+          "id": "6a60149bcf7431a7d533930a",
+          "name": "EA SPORTS FC 26 version 1.6.5",
+          "idShort": 625,
+          "shortLink": "X07Qn5iv"
+        },
+        "board": {
+          "id": "5f73f7c1b4c1280a7068df5f",
+          "name": "EA SPORTS FC Tracker",
+          "shortLink": "keigLn6R"
+        },
+        "list": {
+          "id": "5f73f7c1b4c1280a7068df61",
+          "name": "Latest News"
+        }
+      },
+      "agenticIdentity": null,
+      "appCreator": null,
+      "type": "updateCard",
+      "date": "2026-07-22T00:55:26.585Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "63cae04015755601b433d8fa",
+        "activityBlocked": false,
+        "avatarHash": "9a407447936af8795cf8a415563f07a3",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/63cae04015755601b433d8fa/9a407447936af8795cf8a415563f07a3",
+        "fullName": "Sasha Dubreuil",
+        "idMemberReferrer": null,
+        "initials": "SD",
+        "nonPublic": {},
+        "nonPublicAvailable": true,
+        "username": "sashadubreuil"
+      }
+    },
+    {
+      "id": "6a60149bcf7431a7d533933d",
+      "idMemberCreator": "63cae04015755601b433d8fa",
+      "data": {
+        "card": {
+          "id": "6a60149bcf7431a7d533930a",
+          "name": "EA SPORTS FC 26 version 1.6.5",
+          "idShort": 625,
+          "shortLink": "X07Qn5iv"
+        },
+        "list": {
+          "id": "5f73f7c1b4c1280a7068df61",
+          "name": "Latest News"
+        },
+        "board": {
+          "id": "5f73f7c1b4c1280a7068df5f",
+          "name": "EA SPORTS FC Tracker",
+          "shortLink": "keigLn6R"
+        }
+      },
+      "agenticIdentity": null,
+      "appCreator": null,
+      "type": "createCard",
+      "date": "2026-07-22T00:53:47.557Z",
+      "limits": null,
+      "memberCreator": {
+        "id": "63cae04015755601b433d8fa",
+        "activityBlocked": false,
+        "avatarHash": "9a407447936af8795cf8a415563f07a3",
+        "avatarUrl": "https://trello-members.s3.amazonaws.com/63cae04015755601b433d8fa/9a407447936af8795cf8a415563f07a3",
+        "fullName": "Sasha Dubreuil",
+        "idMemberReferrer": null,
+        "initials": "SD",
+        "nonPublic": {},
+        "nonPublicAvailable": true,
+        "username": "sashadubreuil"
+      }
+    }
+  ],
+  "checklists": [],
+  "customFieldItems": [],
+  "members": [],
+  "pluginData": []
+}
